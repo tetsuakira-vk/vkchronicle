@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="home-layout">
+    <section class="post-grid">
+      {% for post in paginator.posts %}
+      <article class="post-card">
+        {% if post.image %}
+        <a href="{{ post.url }}" class="card-image-link">
+          <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+        </a>
+        {% endif %}
+        <div class="card-body">
+          <div class="card-labels">
+            {% for label in post.labels limit:2 %}
+            <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+            {% endfor %}
+          </div>
+          <h2 class="card-title">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h2>
+          <p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+          <div class="card-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </section>
+
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+  <nav class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="page-btn">&larr; Newer</a>
+    {% endif %}
+    <span class="page-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="page-btn">Older &rarr;</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</div>

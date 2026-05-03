@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="post-layout">
+    <article class="post">
+      {% if page.image %}
+      <div class="post-hero">
+        <img src="{{ page.image }}" alt="{{ page.title }}" loading="lazy">
+      </div>
+      {% endif %}
+
+      <header class="post-header">
+        <div class="post-labels">
+          {% for label in page.labels %}
+          <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+          {% endfor %}
+        </div>
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="post-meta">
+          <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+          {% if page.author %}&middot; {{ page.author }}{% endif %}
+        </div>
+      </header>
+
+      <div class="post-body">
+        {{ content }}
+      </div>
+
+      <footer class="post-footer">
+        <div class="post-labels-footer">
+          {% for label in page.labels %}
+          <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+          {% endfor %}
+        </div>
+      </footer>
+    </article>
+
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+  </div>
+</div>

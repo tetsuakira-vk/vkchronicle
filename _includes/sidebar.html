@@ -1,0 +1,47 @@
+<div class="sidebar-widget">
+  <h3 class="widget-title">About</h3>
+  <p>VK Chronicle covers Visual Kei music news, reviews, and band profiles for English-speaking fans worldwide.</p>
+</div>
+
+<div class="sidebar-widget">
+  <h3 class="widget-title">Upcoming Releases</h3>
+  <div id="upcoming-releases">
+    {% if site.data.upcoming %}
+      {% for release in site.data.upcoming limit:5 %}
+      <div class="upcoming-item">
+        <strong>{{ release.artist }}</strong><br>
+        <em>{{ release.title }}</em><br>
+        <span class="release-date">{{ release.date }}</span>
+      </div>
+      {% endfor %}
+    {% else %}
+      <p>Loading upcoming releases...</p>
+    {% endif %}
+  </div>
+</div>
+
+<div class="sidebar-widget">
+  <h3 class="widget-title">Browse by Label</h3>
+  <div class="label-cloud">
+    {% assign all_labels = "" | split: "" %}
+    {% for post in site.posts %}
+      {% for label in post.labels %}
+        {% assign all_labels = all_labels | push: label %}
+      {% endfor %}
+    {% endfor %}
+    {% assign unique_labels = all_labels | uniq | sort %}
+    {% for label in unique_labels limit:20 %}
+    <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="sidebar-widget">
+  <h3 class="widget-title">VK Links</h3>
+  <ul class="link-list">
+    <li><a href="https://vk.gy" target="_blank" rel="noopener">VKGY</a></li>
+    <li><a href="https://www.jame-world.com" target="_blank" rel="noopener">JAME World</a></li>
+    <li><a href="https://forum.jrockone.com" target="_blank" rel="noopener">JRock One</a></li>
+    <li><a href="https://www.cdjapan.co.jp" target="_blank" rel="noopener">CD Japan</a></li>
+  </ul>
+</div>

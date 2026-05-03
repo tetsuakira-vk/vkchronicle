@@ -1,0 +1,65 @@
+title: VK Chronicle
+description: English-language Visual Kei news, reviews, and band profiles for Western fans.
+url: "https://vkchronicle.com"
+baseurl: ""
+
+author: VK Chronicle
+email: robertjohnathannelson@gmail.com
+lang: en
+
+# GitHub Pages / Jekyll settings
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Pagination
+paginate: 12
+paginate_path: "/page/:num/"
+
+# Permalink structure — clean URLs
+permalink: /:year/:month/:title/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - "*.sh"
+
+# Collections
+collections:
+  bands:
+    output: true
+    permalink: /bands/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: VK Chronicle
+  - scope:
+      path: ""
+      type: bands
+    values:
+      layout: band
+
+# Social / SEO
+twitter:
+  username: vkchronicle
+logo: /assets/images/logo.png
+
+# Feed
+feed:
+  posts_limit: 20
