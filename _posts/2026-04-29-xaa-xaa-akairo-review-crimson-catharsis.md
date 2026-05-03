@@ -3,6 +3,7 @@ layout: post
 title: "Xaa-Xaa – Akairo Review: Crimson Catharsis in 2018"
 date: 2026-04-29T09:00:19.180Z
 labels: ["Visual Kei", "Reviews", "Album Review", "Xaa-Xaa", "Dark Visual Kei", "Experimental Rock", "2018 Release"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F01%2F04%2FDAKTRCL-169.jpg%3Fv%3D2&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F01%2F04%2FDAKTRCL-169.jpg%3Fv%3D2&w=600&output=jpg"

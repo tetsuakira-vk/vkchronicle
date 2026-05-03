@@ -3,6 +3,7 @@ layout: post
 title: "XY Expands to 14 Members with Yuya Tegoshi; Reimagined \"Crazy Love\" Drops Today"
 date: 2026-03-11T15:50:10.424Z
 labels: ["Visual Kei", "News", "Album Release", "YOSHIKI", "XY", "J-Rock"]
+image: "https://jrockrevolution.com/wp-content/uploads/2025/03/XY-Crazy-Love-XIV-jktSM-1080x1080.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://jrockrevolution.com/wp-content/uploads/2025/03/XY-Crazy-Love-XIV-jktSM-1080x1080.jpg" alt="YOSHIKI’s Crazy Love Reaches New Heights" style="max-width:100%;height:auto;border-radius:4px;" />

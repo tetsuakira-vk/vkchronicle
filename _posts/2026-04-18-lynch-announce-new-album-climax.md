@@ -3,6 +3,7 @@ layout: post
 title: "lynch. Announce New Album 'CLIMAX' & National Tour 2026"
 date: 2026-04-18T20:01:12.038Z
 labels: ["Visual Kei", "News", "Album Release", "Tour Announcement", "lynch.", "Dark Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F04%2F18143302%2Flynch.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F04%2F18143302%2Flynch.jpg&w=800&output=jpg" alt="lynch. 、ニューアルバム『CLIMAX』＆全国ツアー決定。新ビジュアル公開" style="max-width:100%;height:auto;border-radius:4px;" />

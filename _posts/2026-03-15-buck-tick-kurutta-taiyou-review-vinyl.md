@@ -3,6 +3,7 @@ layout: post
 title: "BUCK-TICK – Kurutta Taiyou Review: Vinyl Mastery"
 date: 2026-03-15T10:00:20.062Z
 labels: ["Visual Kei", "Reviews", "Album Review", "BUCK-TICK", "Dark Wave", "Gothic Rock", "Analog Restoration"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F14%2F27%2FVIJL-60401.jpg%3Fv%3D1&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F14%2F27%2FVIJL-60401.jpg%3Fv%3D1&w=600&output=jpg"

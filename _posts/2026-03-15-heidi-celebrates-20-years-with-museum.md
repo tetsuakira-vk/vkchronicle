@@ -3,6 +3,7 @@ layout: post
 title: "heidi. Celebrates 20 Years With \"MUSEUM\" Best-Album"
 date: 2026-03-15T08:00:24.990Z
 labels: ["Visual Kei", "News", "Album Release", "heidi.", "Best-of"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fbd70ff2f576b63c99640b90f99cc65ca.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fbd70ff2f576b63c99640b90f99cc65ca.jpg&w=800&output=jpg" alt="heidi. 20th anniversary best-album "MUSEUM" release" style="max-width:100%;height:auto;border-radius:4px;" />

@@ -3,6 +3,7 @@ layout: post
 title: "Brit-Japanese Punk Collective STRAIGHT BACK FORWARD Scores Dream Year-End Slot at J's Shibuya Mega-Event"
 date: 2026-03-11T15:49:02.517Z
 labels: ["Visual Kei", "News", "Live Shows", "Japanese Punk", "STRAIGHT BACK FORWARD", "J's Underground Scene"]
+image: "https://img.youtube.com/vi/IUDHMI_XC48/hqdefault.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://img.youtube.com/vi/IUDHMI_XC48/hqdefault.jpg" alt="STRAIGHT BACK FORWARD Close 2025 with Biggest Show Yet" style="max-width:100%;height:auto;border-radius:4px;" />

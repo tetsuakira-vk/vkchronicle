@@ -3,6 +3,7 @@ layout: post
 title: "HYDE Announces 'Jekyll and HYDE in Salzburg' Photo Collection"
 date: 2026-03-13T08:00:27.055Z
 labels: ["Visual Kei", "News", "HYDE", "Photo Book", "Austria", "Orchestra Tour"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F614c42f998f8ff65270dab08a9d1c5bb.jpg&amp;w=800&amp;output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F614c42f998f8ff65270dab08a9d1c5bb.jpg&amp;w=800&amp;output=jpg" alt="HYDE Announces 'Jekyll and HYDE in Salzburg' Photo Collection" style="max-width:100%;height:auto;border-radius:4px;">

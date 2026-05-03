@@ -3,6 +3,7 @@ layout: post
 title: "JaME's 2025 Staff Picks Playlist: The Year's Best Tracks Across J-Rock, Metal & Beyond"
 date: 2026-03-11T15:48:49.525Z
 labels: ["Visual Kei", "News", "Playlist", "J-Rock", "Curated Picks", "Streaming"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.jame-world.com%2Fmedia%2Fimage%2F2025-12%2F_16-9_16397.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fwww.jame-world.com%2Fmedia%2Fimage%2F2025-12%2F_16-9_16397.jpg&w=800&output=jpg" alt="JaME's 2025 Staff Picks Playlist: The Year's Best Tracks Across J-Rock, Metal & Beyond" style="max-width:100%;height:auto;border-radius:4px;" />

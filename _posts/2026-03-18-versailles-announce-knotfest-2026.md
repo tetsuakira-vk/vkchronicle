@@ -3,6 +3,7 @@ layout: post
 title: "Versailles Announce KNOTFEST 2026 Mexico & Chile Solo Show"
 date: 2026-03-18T08:00:42.972Z
 labels: ["Visual Kei", "Versailles", "News", "Live Announcement", "Latin America", "Festival"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174363-photo.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174363-photo.jpg&w=800&output=jpg" alt="Versailles announced for KNOTFEST 2026 in Mexico and solo live in Chile!" style="max-width:100%;height:auto;border-radius:4px;" />

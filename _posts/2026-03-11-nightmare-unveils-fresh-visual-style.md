@@ -3,6 +3,7 @@ layout: post
 title: "NIGHTMARE Unveils Fresh Visual Style and Announces 33rd Single \"Reach for\""
 date: 2026-03-11T13:47:46.789Z
 labels: ["News", "Single Release", "NIGHTMARE", "Visual Kei", "2026 Tour"]
+image: "https://vk.gy/images/173605--.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://vk.gy/images/173605--.jpg" alt="NIGHTMARE reveals new look and 33rd single, Reach for" style="max-width:100%;height:auto;border-radius:4px;" />

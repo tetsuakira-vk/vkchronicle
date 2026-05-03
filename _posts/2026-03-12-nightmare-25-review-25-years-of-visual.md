@@ -3,6 +3,7 @@ layout: post
 title: "NIGHTMARE – √25 Review: 25 Years of Visual Kei Royalty"
 date: 2026-03-12T13:49:06.584Z
 labels: ["Reviews", "Album Review", "Anniversary", "Classic VK", "NIGHTMARE", "Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F41%2F89%2F10%2F41891046-8a98-14fe-23f1-2ddc1897e9d3%2FNPKA-00179.jpg%2F600x600bb.jpg&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F41%2F89%2F10%2F41891046-8a98-14fe-23f1-2ddc1897e9d3%2FNPKA-00179.jpg%2F600x600bb.jpg&w=600&output=jpg"

@@ -3,6 +3,7 @@ layout: post
 title: "YOSHIKI's 2026 Classical Concerts Get Extended Lottery Window After Technical Issues"
 date: 2026-03-11T15:48:35.758Z
 labels: ["Visual Kei", "News", "Live Report", "YOSHIKI", "Classical", "Ticket Information", "Japan"]
+image: "https://jrockrevolution.com/wp-content/uploads/2026/02/yoshiki-2026.webp"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://jrockrevolution.com/wp-content/uploads/2026/02/yoshiki-2026.webp" alt="YOSHIKI CLASSICAL 2026 Ticket Pre-Sale Lottery Extended & General Ticket Sale Rescheduled!" style="max-width:100%;height:auto;border-radius:4px;" />

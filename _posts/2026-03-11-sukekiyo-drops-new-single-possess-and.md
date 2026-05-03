@@ -3,6 +3,7 @@ layout: post
 title: "sukekiyo Drops New Single \"possess\" and Announces August 2026 Tour Dates"
 date: 2026-03-11T13:48:22.434Z
 labels: ["News", "Single Release", "Live Dates", "sukekiyo", "Dark Wave"]
+image: "https://vk.gy/images/173451--.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://vk.gy/images/173451--.jpg" alt="sukekiyo releases new track, possess and August tour dates" style="max-width:100%;height:auto;border-radius:4px;" />

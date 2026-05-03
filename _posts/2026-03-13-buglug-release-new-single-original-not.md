@@ -3,6 +3,7 @@ layout: post
 title: "BugLug Release New Single \"Original Not Found\" July 2026"
 date: 2026-03-13T08:00:58.157Z
 labels: ["Visual Kei", "News", "Album Release", "BugLug", "Oshare Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fffe24b51aa3e42f9f0e38c07761dc08c.jpg&amp;w=800&amp;output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fffe24b51aa3e42f9f0e38c07761dc08c.jpg&amp;w=800&amp;output=jpg" alt="BugLug Release New Single &quot;Original Not Found&quot; July 2026" style="max-width:100%;height:auto;border-radius:4px;">

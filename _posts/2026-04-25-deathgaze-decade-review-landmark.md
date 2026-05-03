@@ -3,6 +3,7 @@ layout: post
 title: "DEATHGAZE – DECADE Review: A Landmark Anniversary Statement"
 date: 2026-04-25T09:00:19.318Z
 labels: ["Visual Kei", "Reviews", "Album Review", "DEATHGAZE", "Melodic Metalcore", "Decade Anniversary"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F05%2F32%2FDAKBVCA-5.jpg%3Fv%3D1&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F05%2F32%2FDAKBVCA-5.jpg%3Fv%3D1&w=600&output=jpg"

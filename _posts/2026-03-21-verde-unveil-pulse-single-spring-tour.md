@@ -3,6 +3,7 @@ layout: post
 title: "Verde/ Unveil \"Pulse/\" Single & Spring Tour Lineup"
 date: 2026-03-21T08:01:52.121Z
 labels: ["Visual Kei", "News", "Single Release", "Live Dates", "Verde/"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F20190617%2Fpulse_asha_low-648x1024.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F20190617%2Fpulse_asha_low-648x1024.jpg&w=800&output=jpg" alt="Verde/、ニューシングル「Pulse/」新ビジュアル公開" style="max-width:100%;height:auto;border-radius:4px;" />

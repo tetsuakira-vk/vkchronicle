@@ -3,6 +3,7 @@ layout: post
 title: "X – BLUE BLOOD Review: Japanese Visual Kei's Darkest Hour"
 date: 2026-04-16T09:00:20.886Z
 labels: ["Visual Kei", "Reviews", "Album Review", "X", "Gothic Metal", "1980s Japanese Rock"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FFeatures%2F3d%2Fed%2F63%2Fdj.ujglmyfw.jpg%2F600x600bb.jpg&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FFeatures%2F3d%2Fed%2F63%2Fdj.ujglmyfw.jpg%2F600x600bb.jpg&w=600&output=jpg"

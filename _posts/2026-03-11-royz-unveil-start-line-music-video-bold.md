@@ -3,6 +3,7 @@ layout: post
 title: "Royz Unveil \"START LINE\" Music Video – A Bold New Chapter"
 date: 2026-03-11T13:44:49.348Z
 labels: ["News", "Music Video", "Royz", "Album Release", "New Single"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7997.jpeg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7997.jpeg&w=800&output=jpg" alt="Royz Unveil &quot;START LINE&quot; Music Video – A Bold New Chapter" style="max-width:100%;height:auto;border-radius:4px;" />

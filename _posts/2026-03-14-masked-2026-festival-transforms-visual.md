@@ -3,6 +3,7 @@ layout: post
 title: "MASKED 2026 Festival Transforms Visual Kei Artists in Bold New Looks"
 date: 2026-03-14T08:01:04.189Z
 labels: ["Visual Kei", "News", "Live Report", "Visual Kei Festival", "Tokyo", "Shibuya", "Band Collaborations"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2Fuploads%2F2026%2F03%2Fmasked-2026-ryouta-codomo-dragon-kouki-onigashima-dout-ryoga-razor-haru-dog-inthepwo-hiro-nocturnal-bloodlust-top-1200x640.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2Fuploads%2F2026%2F03%2Fmasked-2026-ryouta-codomo-dragon-kouki-onigashima-dout-ryoga-razor-haru-dog-inthepwo-hiro-nocturnal-bloodlust-top-1200x640.jpg&w=800&output=jpg" alt="Visual kei festival “MASKED 2026” transforms artists in unexpected looks" style="max-width:100%;height:auto;border-radius:4px;" />

@@ -3,6 +3,7 @@ layout: post
 title: "THE_PiTY. Say Goodbye to Drummer LEN as Band Enters New Chapter"
 date: 2026-03-12T08:20:01.036Z
 labels: ["Visual Kei", "News", "Band Changes", "THE_PiTY."]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F166873-i-d-a-group-photo.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F166873-i-d-a-group-photo.jpg&w=800&output=jpg" alt="LEN leaves THE_PiTY." style="max-width:100%;height:auto;border-radius:4px;" />

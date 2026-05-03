@@ -3,6 +3,7 @@ layout: post
 title: "DIAURA – Ephemeral Review: Their Finest Hour Yet"
 date: 2026-03-12T13:49:01.496Z
 labels: ["Reviews", "Album Review", "Dark VK", "DIAURA", "Gothic", "Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F27%2Fd0%2Fb1%2F27d0b187-6b1d-7d1b-4bfb-24f0783efd52%2F14621300_fixed.jpg%2F600x600bb.jpg&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F27%2Fd0%2Fb1%2F27d0b187-6b1d-7d1b-4bfb-24f0783efd52%2F14621300_fixed.jpg%2F600x600bb.jpg&w=600&output=jpg"

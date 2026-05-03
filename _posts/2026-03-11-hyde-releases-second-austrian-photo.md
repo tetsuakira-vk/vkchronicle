@@ -3,6 +3,7 @@ layout: post
 title: "HYDE Releases Second Austrian Photo Book \"Jekyll and HYDE in Salzburg\" This May"
 date: 2026-03-11T13:44:17.985Z
 labels: ["News", "Photo Book", "HYDE", "Solo Artists", "Austria", "Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F11190225%2F000-52.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F11190225%2F000-52.jpg&w=800&output=jpg" alt="HYDE Releases Second Austrian Photo Book &quot;Jekyll and HYDE in Salzburg&quot; This May" style="max-width:100%;height:auto;border-radius:4px;" />

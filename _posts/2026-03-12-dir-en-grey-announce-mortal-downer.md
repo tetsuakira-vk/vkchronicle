@@ -3,6 +3,7 @@ layout: post
 title: "DIR EN GREY Announce MORTAL DOWNER Album for April 2026"
 date: 2026-03-12T14:02:44.878Z
 labels: ["News", "Album Release", "Dir En Grey", "Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3ca357b9de6326aa2719ff3a0955ef58.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3ca357b9de6326aa2719ff3a0955ef58.jpg&w=800&output=jpg" alt="DIR EN GREY Announce MORTAL DOWNER Album for April 2026"

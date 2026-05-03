@@ -3,6 +3,7 @@ layout: post
 title: "Dir En Grey × Tower Records Cafe Takeout Collab Returns"
 date: 2026-05-03T10:00:30.369Z
 labels: ["Visual Kei", "News", "Dir En Grey", "Merchandise", "Japan"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fcdfront.tower.jp%2F~%2Fmedia%2FImages%2FArticle%2FNews%2Fcafe%2F2026%2FDIR-EN-GREY%2Fdir26_kv_web_b.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fcdfront.tower.jp%2F~%2Fmedia%2FImages%2FArticle%2FNews%2Fcafe%2F2026%2FDIR-EN-GREY%2Fdir26_kv_web_b.jpg&w=800&output=jpg" alt="ご好評につき、「DIR EN GREY × TOWER RECORDS CAFE」テイクアウトコラボが梅田・名古屋にてアンコール開催決定！" style="max-width:100%;height:auto;border-radius:4px;" />

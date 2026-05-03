@@ -3,6 +3,7 @@ layout: post
 title: "Chanty Gears Up for Summer 2026 with New Mini Album and Oneman Tour"
 date: 2026-03-11T13:47:35.163Z
 labels: ["News", "Album Release", "Live Announcement", "Chanty", "Japanese Rock"]
+image: "https://vk.gy/images/172482-chanty-group-photo.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://vk.gy/images/172482-chanty-group-photo.jpg" alt="Chanty teases summer mini album Shinshin Kokyu and corresponding oneman tour" style="max-width:100%;height:auto;border-radius:4px;" />

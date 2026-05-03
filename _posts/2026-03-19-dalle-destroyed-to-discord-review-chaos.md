@@ -3,6 +3,7 @@ layout: post
 title: "DALLE – Destroyed To Discord Review: Chaos Refined"
 date: 2026-03-19T10:00:18.928Z
 labels: ["Visual Kei", "Reviews", "Album Review", "DALLE", "Dark Visual Kei", "Experimental Rock", "Japanese Metal"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F09%2F06%2FDAKMH-2.jpg%3Fv%3D1&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F09%2F06%2FDAKMH-2.jpg%3Fv%3D1&w=600&output=jpg"

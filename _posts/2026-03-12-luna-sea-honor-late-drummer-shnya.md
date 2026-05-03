@@ -3,6 +3,7 @@ layout: post
 title: "LUNA SEA Honor Late Drummer Shnya, Announce 33-Show National Tour"
 date: 2026-03-12T15:13:12.563Z
 labels: ["Visual Kei", "News", "Live Report", "LUNA SEA", "Japanese Rock", "Band Updates"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F12225054%2F1-23.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F12225054%2F1-23.jpg&w=800&output=jpg" alt="LUNA SEA、有明アリーナで＜LUNATIC X’MAS＞振替公演開催。結成記念日から全国ツアー実施決定" style="max-width:100%;height:auto;border-radius:4px;" />

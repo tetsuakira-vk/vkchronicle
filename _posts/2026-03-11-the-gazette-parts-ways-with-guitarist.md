@@ -3,6 +3,7 @@ layout: post
 title: "the GazettE Parts Ways with Guitarist Aoi Amid Internal Conflict"
 date: 2026-03-11T13:44:29.028Z
 labels: ["News", "the GazettE", "Band Changes", "Visual Kei Drama"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7998.jpeg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7998.jpeg&w=800&output=jpg" alt="the GazettE Parts Ways with Guitarist Aoi Amid Internal Conflict" style="max-width:100%;height:auto;border-radius:4px;" />

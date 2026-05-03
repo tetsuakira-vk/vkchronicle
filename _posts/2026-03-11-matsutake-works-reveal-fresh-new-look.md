@@ -3,6 +3,7 @@ layout: post
 title: "MATSUTAKE WORKS Reveal Fresh New Look with Updated Visual Photos"
 date: 2026-03-11T13:44:39.292Z
 labels: ["News", "Visual Kei", "Band Updates", "MATSUTAKE WORKS"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7996.jpeg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7996.jpeg&w=800&output=jpg" alt="MATSUTAKE WORKS Reveal Fresh New Look with Updated Visual Photos" style="max-width:100%;height:auto;border-radius:4px;" />

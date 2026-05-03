@@ -3,6 +3,7 @@ layout: post
 title: "Dir En Grey × Tower Records Cafe Collaboration for 'Mortal Downer'"
 date: 2026-04-03T21:00:55.081Z
 labels: ["Visual Kei", "Dir En Grey", "News", "Album Release", "Japan", "Merchandise"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fcdfront.tower.jp%2F~%2Fmedia%2FImages%2FOnline%2FCommon%2Ftr_ogp.gif&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fcdfront.tower.jp%2F~%2Fmedia%2FImages%2FOnline%2FCommon%2Ftr_ogp.gif&w=800&output=jpg" alt="通算12作品目となるNEW ALBUM『MORTAL DOWNER』リリースを記念し、「DIR EN GREY × TOWER RECORDS CAFE」テイクアウトコラボが梅田・名古屋・福岡にて開催！" style="max-width:100%;height:auto;border-radius:4px;" />

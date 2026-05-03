@@ -3,6 +3,7 @@ layout: post
 title: "CODOMO DRAGON Release Tour Final Live DVD"
 date: 2026-04-01T04:01:18.368Z
 labels: ["Visual Kei", "News", "Live DVD", "CODOMO DRAGON", "Japanese Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F05705135e6b34fe1cf1d9802af1b45e5.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F05705135e6b34fe1cf1d9802af1b45e5.jpg&w=800&output=jpg" alt="CODOMO DRAGON new live DVD "CODOMO DRAGON ONEMAN TOUR「ニュースタンダード」 -TOUR FINAL & 15周年記念-ジャージ限定 2025年11月14日(金)【東京】Spotify O-EAST" release" style="max-width:100%;height:auto;border-radius:4px;" />

@@ -3,6 +3,7 @@ layout: post
 title: "the GazettE's Aoi Exits Band Amid Unresolved Circumstances"
 date: 2026-03-13T08:00:37.158Z
 labels: ["Visual Kei", "News", "the GazettE", "Band Changes"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2Fuploads%2F2026%2F03%2Fthe-gazette-group-2024-1200x640.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2Fuploads%2F2026%2F03%2Fthe-gazette-group-2024-1200x640.jpg&w=800&output=jpg" alt="the GazettE guitarist Aoi departs amid unclear circumstances" style="max-width:100%;height:auto;border-radius:4px;" />

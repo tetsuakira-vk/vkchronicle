@@ -3,6 +3,7 @@ layout: post
 title: "KIZU Announce New Album Gokuraku yori Gokujou no Ame"
 date: 2026-03-12T14:02:54.931Z
 labels: ["News", "Album Release", "KIZU", "Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fc4ad53b42a67db00937db52064cd21e3.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fc4ad53b42a67db00937db52064cd21e3.jpg&w=800&output=jpg" alt="KIZU Announce New Album Gokuraku yori Gokujou no Ame"

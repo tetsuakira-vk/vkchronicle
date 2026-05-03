@@ -3,6 +3,7 @@ layout: post
 title: "MALICE MIZER – merveilles l'espace Review: Gothic Elegance Captured"
 date: 2026-05-01T09:00:19.266Z
 labels: ["Visual Kei", "Reviews", "Album Review", "MALICE MIZER", "Gothic Metal", "Live Performance"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F07%2F37%2FCOBA-4162.jpg%3Fv%3D1&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F07%2F37%2FCOBA-4162.jpg%3Fv%3D1&w=600&output=jpg"

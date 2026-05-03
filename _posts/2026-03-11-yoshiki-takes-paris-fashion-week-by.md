@@ -3,6 +3,7 @@ layout: post
 title: "YOSHIKI Takes Paris Fashion Week by Storm with Cinematic MAISON YOSHIKI PARIS Debut"
 date: 2026-03-11T15:50:40.958Z
 labels: ["Visual Kei", "News", "Fashion", "YOSHIKI", "X JAPAN", "Japanese Fashion", "Celebrity"]
+image: "https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2024.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2024.jpg" alt="MAISON YOSHIKI PARIS Unveils Cinematic Fashion Show Film Highlighting YOSHIKI’s Paris Fashion Week Debut" style="max-width:100%;height:auto;border-radius:4px;" />

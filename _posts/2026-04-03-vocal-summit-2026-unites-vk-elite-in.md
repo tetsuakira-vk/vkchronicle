@@ -3,6 +3,7 @@ layout: post
 title: "VOCAL SUMMIT 2026 Unites VK Elite in September Tokyo Show"
 date: 2026-04-03T21:00:40.272Z
 labels: ["Visual Kei", "News", "Live Events", "MUCC", "lynch.", "Kizu"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F04%2F03192150%2F000-23.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F04%2F03192150%2F000-23.jpg&w=800&output=jpg" alt="＜VOCAL SUMMIT 2026＞に椎名慶治、HAZUKI、苑、逹瑯、⽥澤孝介、中島卓偉、来夢" style="max-width:100%;height:auto;border-radius:4px;" />

@@ -3,6 +3,7 @@ layout: post
 title: "vistlip's \"DAWN\" Album Drops April 1st With Tour, Live Footage"
 date: 2026-03-14T08:00:28.501Z
 labels: ["Visual Kei", "News", "Album Release", "vistlip", "Live Announcement", "Japanese Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fogre.natalie.mu%2Fmedia%2Fnews%2Fmusic%2F2026%2F0314%2Fvistlip_art202603.jpg%3Fimpolicy%3Dtwitter_card_face_crop&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fogre.natalie.mu%2Fmedia%2Fnews%2Fmusic%2F2026%2F0314%2Fvistlip_art202603.jpg%3Fimpolicy%3Dtwitter_card_face_crop&w=800&output=jpg" alt="vistlipニューアルバム「DAWN」詳細発表、試聴動画やライブ映像も一挙公開" style="max-width:100%;height:auto;border-radius:4px;" />

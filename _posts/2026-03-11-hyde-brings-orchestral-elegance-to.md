@@ -3,6 +3,7 @@ layout: post
 title: "HYDE Brings Orchestral Elegance to JEKYLL Tour—and YOSHIKI Crashes the Party"
 date: 2026-03-11T15:48:20.253Z
 labels: ["Visual Kei", "Live Report", "News", "HYDE", "L'Arc~en~Ciel", "Concert Review", "2026"]
+image: "https://www.jame-world.com/media/image/2026-01/_16-9_16574.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://www.jame-world.com/media/image/2026-01/_16-9_16574.jpg" alt="HYDE Orchestra Tour 2026 JEKYLL at Tokyo Garden Theater" style="max-width:100%;height:auto;border-radius:4px;" />

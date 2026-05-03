@@ -3,6 +3,7 @@ layout: post
 title: "The Ravens Release 'BAND-AID' Album with Exclusive Tour Merch"
 date: 2026-04-29T03:00:26.109Z
 labels: ["Visual Kei", "News", "Album Release", "The Ravens", "Live Dates", "Merchandise"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F04%2F10133456%2FThe-Ravens-%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25A2%25E3%2583%25BC%25E5%2586%2599-2026-%25E5%25B0%258F.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F04%2F10133456%2FThe-Ravens-%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25A2%25E3%2583%25BC%25E5%2586%2599-2026-%25E5%25B0%258F.jpg&w=800&output=jpg" alt="The Ravens、本日配信のオリジナルアルバム『BAND-AID』ライブ会場限定スペシャルパッケージ発売決定" style="max-width:100%;height:auto;border-radius:4px;" />

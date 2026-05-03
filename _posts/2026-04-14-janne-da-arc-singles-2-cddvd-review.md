@@ -3,6 +3,7 @@ layout: post
 title: "Janne Da Arc – Singles 2 [CD+DVD] Review: Career Retrospective"
 date: 2026-04-14T09:00:18.895Z
 labels: ["Visual Kei", "Reviews", "Album Review", "Janne Da Arc", "Visual Kei Retrospective", "J-Rock Compilation", "Gothic Rock"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic124%2Fv4%2F3b%2F37%2Ffd%2F3b37fd0a-aaa8-eebb-df24-866b2c7d5a2a%2FANTCD-11148.jpg%2F600x600bb.jpg&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic124%2Fv4%2F3b%2F37%2Ffd%2F3b37fd0a-aaa8-eebb-df24-866b2c7d5a2a%2FANTCD-11148.jpg%2F600x600bb.jpg&w=600&output=jpg"

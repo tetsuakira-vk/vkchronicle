@@ -3,6 +3,7 @@ layout: post
 title: "Yakouchu Unveils Haunting New Video for \"adora\""
 date: 2026-03-11T15:48:07.385Z
 labels: ["Visual Kei", "News", "Music Video", "Yakouchu", "Single Release"]
+image: "https://vk.gy/images/173448--.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://vk.gy/images/173448--.jpg" alt="Yakouchu drops video for adora" style="max-width:100%;height:auto;border-radius:4px;" />

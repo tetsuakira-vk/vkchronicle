@@ -3,6 +3,7 @@ layout: post
 title: "LUNA SEA Launch 2026 National Tour in Honour of Late Drummer Shnya"
 date: 2026-03-13T15:00:36.952Z
 labels: ["Visual Kei", "News", "Live Report", "LUNA SEA", "Tour Announcement", "Japanese Rock"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3d19fde2399712df6ba3ff16f4d2e3e3.jpg&amp;w=800&amp;output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3d19fde2399712df6ba3ff16f4d2e3e3.jpg&amp;w=800&amp;output=jpg" alt="LUNA SEA Launch 2026 National Tour in Honour of Late Drummer Shnya" style="max-width:100%;height:auto;border-radius:4px;">

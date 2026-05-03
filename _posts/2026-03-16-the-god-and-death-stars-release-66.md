@@ -3,6 +3,7 @@ layout: post
 title: "the god and death stars Release 66 Songs, Launch Spring 2026 Tour"
 date: 2026-03-16T08:39:03.727Z
 labels: ["Visual Kei", "News", "Streaming Release", "Tour Announcement", "the god and death stars"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F01%2F26104838%2Fthe-god-and-death-stars_%25E3%2582%25A2%25E3%2583%25BC%25E5%2586%2599-1024x683.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F01%2F26104838%2Fthe-god-and-death-stars_%25E3%2582%25A2%25E3%2583%25BC%25E5%2586%2599-1024x683.jpg&w=800&output=jpg" alt="the god and death stars、全国ツアー前に3人編成時代の66曲を一斉配信" style="max-width:100%;height:auto;border-radius:4px;" />

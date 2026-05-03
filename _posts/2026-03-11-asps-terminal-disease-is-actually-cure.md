@@ -3,6 +3,7 @@ layout: post
 title: "ASP's \"Terminal Disease\" Is Actually a Cure: How WACK's Punks Found Their Sound"
 date: 2026-03-11T15:49:34.590Z
 labels: ["2025 Releases", "Album Review", "ASP", "Experimental Pop-Punk", "J-Rock", "Visual Kei", "WACK Records"]
+image: "https://www.jame-world.com/media/image/2025-08/_16-9_15969.jpg"
 ---
 <div style="margin-bottom: 1.5em; text-align: center;">
   <img alt="ASP - Terminal Disease of ASP" src="https://www.jame-world.com/media/image/2025-08/_16-9_15969.jpg" style="border-radius: 4px; height: auto; max-width: 100%;" />

@@ -3,6 +3,7 @@ layout: post
 title: "YOSHIKI's Yoshikitty Returns to Sanrio Character Ranking for 11th Consecutive Year—Vote Now"
 date: 2026-03-11T15:49:59.459Z
 labels: ["Visual Kei", "News", "X Japan", "YOSHIKI", "Sanrio", "J-Rock Icon"]
+image: "https://jrockrevolution.com/wp-content/uploads/2025/04/Yoshikitty-YoshikiChannel-3.jpeg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://jrockrevolution.com/wp-content/uploads/2025/04/Yoshikitty-YoshikiChannel-3.jpeg" alt="YOSHIKITTY SELECTED FOR 2025 SANRIO CHARACTER RANKING, FOR THE 11TH CONSECUTIVE YEAR" style="max-width:100%;height:auto;border-radius:4px;" />

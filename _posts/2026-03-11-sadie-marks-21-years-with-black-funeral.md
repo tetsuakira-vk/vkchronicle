@@ -3,6 +3,7 @@ layout: post
 title: "Sadie Marks 21 Years With \"BLACK FUNERAL\" at Zepp Shinjuku This March"
 date: 2026-03-11T13:44:04.762Z
 labels: ["News", "Live Announcement", "Sadie", "Anniversary Show", "Tokyo"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F11190222%2F5shot_21th_official.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F11190222%2F5shot_21th_official.jpg&w=800&output=jpg" alt="Sadie Marks 21 Years With &quot;BLACK FUNERAL&quot; at Zepp Shinjuku This March" style="max-width:100%;height:auto;border-radius:4px;" />

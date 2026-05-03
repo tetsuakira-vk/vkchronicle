@@ -3,6 +3,7 @@ layout: post
 title: "Golden Bomber – Memeshikute Review: VK Perfection"
 date: 2026-04-30T09:00:21.883Z
 labels: ["Visual Kei", "Reviews", "Album Review", "Golden Bomber", "J-Rock", "2000s VK"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F13%2F20%2FDAKEAZZ-25.jpg%3Fv%3D1&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F13%2F20%2FDAKEAZZ-25.jpg%3Fv%3D1&w=600&output=jpg"

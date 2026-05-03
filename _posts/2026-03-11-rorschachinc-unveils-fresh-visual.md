@@ -3,6 +3,7 @@ layout: post
 title: "Rorschach.inc Unveils Fresh Visual Identity Ahead of Massive Global Tour Blitz"
 date: 2026-03-11T13:47:58.040Z
 labels: ["News", "Live Report", "Rorschach.inc", "Visual Kei", "Tour Announcement", "International"]
+image: "https://vk.gy/images/173517--.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://vk.gy/images/173517--.jpg" alt="Rorschach.inc reveals Ka.f.ka look going into jam-packed tour schedule" style="max-width:100%;height:auto;border-radius:4px;" />

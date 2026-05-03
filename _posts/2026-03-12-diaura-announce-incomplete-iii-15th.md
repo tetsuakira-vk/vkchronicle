@@ -3,6 +3,7 @@ layout: post
 title: "DIAURA Announce INCOMPLETE III 15th Anniversary Compilation"
 date: 2026-03-12T14:02:34.622Z
 labels: ["News", "Album Release", "DIAURA", "Dark VK", "Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F84d7d07e1074569ca58bc4849200d71d.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F84d7d07e1074569ca58bc4849200d71d.jpg&w=800&output=jpg" alt="DIAURA Announce INCOMPLETE III 15th Anniversary Compilation"

@@ -3,6 +3,7 @@ layout: post
 title: "MATSUTAKE WORKS and TERESA Team Up for \"Hen na Ningen\" Two-Man Live This April"
 date: 2026-03-11T13:48:10.937Z
 labels: ["News", "Live Announcement", "MATSUTAKE WORKS", "TERESA", "Two-Man Live"]
+image: "https://vk.gy/images/173491--.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://vk.gy/images/173491--.jpg" alt="MATSUTAKE WORKS and TERESA announce joint live, Hen na Ningen" style="max-width:100%;height:auto;border-radius:4px;" />

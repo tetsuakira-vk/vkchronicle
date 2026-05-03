@@ -3,6 +3,7 @@ layout: post
 title: "DIR EN GREY – MORTAL DOWNER Review: Dark Evolution"
 date: 2026-04-20T09:00:46.242Z
 labels: ["Visual Kei", "Reviews", "Album Review", "DIR EN GREY", "Industrial Metal", "Experimental Rock"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F14%2Fbb%2Fb1%2F14bbb194-34a5-5ca0-b9db-5560ad7edae3%2F4529123132819.jpg%2F600x600bb.jpg&w=600&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F14%2Fbb%2Fb1%2F14bbb194-34a5-5ca0-b9db-5560ad7edae3%2F4529123132819.jpg%2F600x600bb.jpg&w=600&output=jpg"

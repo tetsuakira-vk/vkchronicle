@@ -3,6 +3,7 @@ layout: post
 title: "YOSHIKI Makes Historic Return to the Stage at 2025 MLB Opening Day in Tokyo"
 date: 2026-03-11T15:50:23.732Z
 labels: ["Visual Kei", "News", "X Japan", "Live Performance", "Japanese Music", "Cultural Milestone"]
+image: "https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2024.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2024.jpg" alt="YOSHIKI to Perform the U.S. and Japanese National Anthems at the 2025 Major League Baseball Opening Day in Tokyo" style="max-width:100%;height:auto;border-radius:4px;" />

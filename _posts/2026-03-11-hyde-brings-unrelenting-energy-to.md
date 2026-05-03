@@ -3,6 +3,7 @@ layout: post
 title: "HYDE Brings Unrelenting Energy to Brooklyn Steel—A Thanksgiving Eve Masterclass"
 date: 2026-03-11T15:50:55.191Z
 labels: ["Visual Kei", "Live Report", "HYDE", "L'Arc~en~Ciel", "VAMPS", "New York", "Rock"]
+image: "https://jrockrevolution.com/wp-content/uploads/2024/12/MelissaCastor_HYDE_Brooklyn_112724_11.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://jrockrevolution.com/wp-content/uploads/2024/12/MelissaCastor_HYDE_Brooklyn_112724_11.jpg" alt="Live Report: HYDE in NYC – 11/27/24" style="max-width:100%;height:auto;border-radius:4px;" />

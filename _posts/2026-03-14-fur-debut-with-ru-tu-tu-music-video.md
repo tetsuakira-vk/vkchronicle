@@ -3,6 +3,7 @@ layout: post
 title: "FUR Debut with \"RU-TU-TU\" Music Video"
 date: 2026-03-14T08:01:42.649Z
 labels: ["Visual Kei", "News", "Music Video", "Debut", "FUR", "New Bands"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2Fuploads%2F2026%2F02%2Ffur-ru-tu-tu-full-group-2026-1197x800.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2Fuploads%2F2026%2F02%2Ffur-ru-tu-tu-full-group-2026-1197x800.jpg&w=800&output=jpg" alt="FUR dazzles audiences with “RU-TU-TU” music video" style="max-width:100%;height:auto;border-radius:4px;" />

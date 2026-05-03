@@ -3,6 +3,7 @@ layout: post
 title: "HYDE Brings Halloween Spectacle to Japan Tour Finale at Makuhari Messe"
 date: 2026-03-11T15:49:17.210Z
 labels: ["Visual Kei", "News", "Live Report", "HYDE", "Solo Artists", "J-Rock"]
+image: "https://www.jame-world.com/media/image/2025-11/_16-9_16302.jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://www.jame-world.com/media/image/2025-11/_16-9_16302.jpg" alt="HYDE [INSIDE] Japan Tour Final at Makuhari Messe" style="max-width:100%;height:auto;border-radius:4px;" />

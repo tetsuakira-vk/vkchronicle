@@ -3,6 +3,7 @@ layout: post
 title: "MASKED 2026 Unveils 57 Visual Kei Vocalists in Epic Photoshoot"
 date: 2026-03-16T08:38:47.099Z
 labels: ["Visual Kei", "News", "Live Event", "Visual Kei Circuit", "Japan Tour", "Multi-Venue Festival"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174304-flyer.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174304-flyer.jpg&w=800&output=jpg" alt="Full 「MASKED 2026」 photoshoot featuring 57 visual kei vocalists released" style="max-width:100%;height:auto;border-radius:4px;" />

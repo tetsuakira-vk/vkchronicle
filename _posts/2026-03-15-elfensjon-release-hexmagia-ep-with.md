@@ -3,6 +3,7 @@ layout: post
 title: "ELFENSJóN Release \"HEXMAGIA\" EP with Instrumental Variants"
 date: 2026-03-15T08:00:42.485Z
 labels: ["Visual Kei", "News", "Album Release", "ELFENSJóN", "Symphonic Metal"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F13e79c9ac64deaa48738228788648cc4.jpg&w=800&output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F13e79c9ac64deaa48738228788648cc4.jpg&w=800&output=jpg" alt="ELFENSJóN new EP "HEXMAGIA" release" style="max-width:100%;height:auto;border-radius:4px;" />

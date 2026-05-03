@@ -3,6 +3,7 @@ layout: post
 title: "YOSHIKI Launches \"Scarlet Army\" Global Fan Club with Meet & Greet Contest"
 date: 2026-03-11T15:49:48.522Z
 labels: ["Visual Kei", "News", "X Japan", "YOSHIKI", "Fan Club", "Contests"]
+image: "https://jrockrevolution.com/wp-content/uploads/2025/06/Yoshiki-Scarlet-Army-Banner.png"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
   <img src="https://jrockrevolution.com/wp-content/uploads/2025/06/Yoshiki-Scarlet-Army-Banner.png" alt="New YOSHIKI Fan Club “Scarlet Army” Announced" style="max-width:100%;height:auto;border-radius:4px;" />

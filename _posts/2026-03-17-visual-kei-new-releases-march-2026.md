@@ -3,6 +3,7 @@ layout: post
 title: "Visual Kei New Releases — March 2026 & April 2026"
 date: 2026-03-17T12:50:50.555Z
 labels: ["Visual Kei", "New Releases", "Monthly Roundup"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege-no-koushin-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg"
 ---
 <p>March and April are absolutely STACKED with visual kei goodness, and we're thrilled to break down every killer release hitting the scene! From anticipated new albums by XAA-XAA, DAMILA, and MATHILDA to remastered classics, live recordings, and the return of beloved acts like Royz and THE MICRO HEAD 4N'S, these two months are shaping up to be absolutely essential for any VK collector.</p>
 
