@@ -93,6 +93,57 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .site-nav a:hover { color: var(--accent); background: var(--accent-dim); }
 
+/* ── Nav dropdown ───────────────────────────────────────────────────────────── */
+.nav-dropdown { position: relative; display: flex; align-items: center; }
+.nav-dropdown-btn {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 6px 10px;
+  border-radius: 6px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  transition: color 0.15s, background 0.15s;
+  white-space: nowrap;
+}
+.nav-dropdown-btn::after { content: '▾'; font-size: 0.65em; opacity: 0.5; }
+.nav-dropdown-btn:hover { color: var(--accent); background: var(--accent-dim); }
+.nav-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  min-width: 210px;
+  background: #111;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 6px;
+  z-index: 200;
+  box-shadow: 0 8px 28px rgba(0,0,0,0.6);
+}
+.nav-dropdown:hover .nav-dropdown-menu,
+.nav-dropdown.open .nav-dropdown-menu { display: block; }
+.nav-dropdown-menu a {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 7px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.15s, background 0.15s;
+}
+.nav-dropdown-menu a:hover { color: var(--accent); background: var(--accent-dim); }
+
 .nav-toggle {
   display: none;
   background: none;
@@ -116,6 +167,10 @@ img { max-width: 100%; height: auto; display: block; }
     border-bottom: 1px solid var(--border);
     padding: 12px 20px;
   }
+  .nav-dropdown { display: contents; }
+  .nav-dropdown-btn { display: none; }
+  .nav-dropdown-menu { display: contents; position: static; background: none; border: none; border-radius: 0; padding: 0; box-shadow: none; min-width: 0; }
+  .nav-dropdown-menu a { padding: 8px 4px; font-size: 0.78rem; }
 }
 
 /* ── Post grid (homepage) ─────────────────────────────────────────────────── */
