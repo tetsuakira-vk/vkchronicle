@@ -1,0 +1,39 @@
+---
+layout: default
+title: Visual Kei Reviews
+permalink: /reviews/
+---
+<div class="container" style="padding:40px 0;">
+  <h1 style="font-family:var(--font-heading);font-size:2rem;margin-bottom:0.4em;">Reviews</h1>
+  <p style="color:var(--text-muted);margin-bottom:2em;">Album and EP reviews from the VK Chronicle team.</p>
+
+  <div class="post-grid">
+    {% for post in site.posts %}
+      {% assign is_review = false %}
+      {% for label in post.labels %}
+        {% if label contains "Review" %}{% assign is_review = true %}{% endif %}
+      {% endfor %}
+      {% if is_review %}
+      <article class="post-card">
+        {% if post.image %}
+        <a href="{{ post.url }}" class="card-image-link">
+          <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+        </a>
+        {% endif %}
+        <div class="card-body">
+          <div class="card-labels">
+            {% for label in post.labels limit:2 %}
+            <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+            {% endfor %}
+          </div>
+          <h2 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+          <div class="card-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+          </div>
+        </div>
+      </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

@@ -314,3 +314,68 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .site-footer a { color: var(--text-faint); }
 .site-footer a:hover { color: var(--accent); }
+
+/* ── Band profile ─────────────────────────────────────────────────────────── */
+.band-profile {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 48px 20px;
+  color: var(--text);
+}
+.band-hero img {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 20px rgba(0,0,0,.5);
+  margin: 0 auto 2em;
+  display: block;
+}
+.band-profile h1 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  color: var(--white);
+  margin-bottom: 0.25em;
+}
+.band-profile h2 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--white);
+  margin: 2em 0 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.8rem;
+}
+.band-tags { margin: 0.75em 0 1em; display: flex; flex-wrap: wrap; gap: 6px; }
+.band-tag-pill {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.15);
+  font-size: 0.78rem;
+  color: #bbb;
+}
+.band-listeners { color: #999; font-size: 0.85rem; margin-bottom: 1.5em; }
+.band-bio { font-size: 0.95rem; line-height: 1.8; color: var(--text); }
+.band-bio p { margin-bottom: 1.2em; }
+.band-bio h1, .band-bio h2, .band-bio h3 { display: none; } /* strip any heading the bio accidentally includes */
+.band-tracks { margin: 0; padding-left: 1.4em; color: #ccc; font-size: 0.9rem; }
+.band-tracks li { margin-bottom: 4px; }
+.band-news { margin: 0; padding-left: 1.4em; font-size: 0.9rem; list-style: none; padding-left: 0; }
+.band-news li { padding: 6px 0; border-bottom: 1px solid var(--border); }
+.band-news li:last-child { border-bottom: none; }
+.band-news a { color: var(--accent); }
+.band-links { margin-top: 2em; display: flex; gap: 10px; flex-wrap: wrap; }
+.band-link-btn {
+  padding: 8px 16px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.15);
+  font-size: 0.85rem;
+  color: var(--text);
+  text-decoration: none;
+  transition: border-color 0.2s, color 0.2s;
+}
+.band-link-btn:hover { border-color: var(--accent-border); color: var(--accent); text-decoration: none; }
+.band-back { margin-top: 2.5em; font-size: 0.85rem; }
+.band-back a { color: var(--text-faint); }
+.band-back a:hover { color: var(--accent); }

@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<article class="band-profile">
+
+  {% if page.photo %}
+  <div class="band-hero">
+    <img src="https://images.weserv.nl/?url={{ page.photo | url_encode }}&w=600&output=jpg"
+         alt="{{ page.name }}" />
+  </div>
+  {% endif %}
+
+  <h1>{{ page.name }}</h1>
+
+  {% if page.tags %}
+  <div class="band-tags">
+    {% for tag in page.tags %}
+    <span class="band-tag-pill">{{ tag }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if page.listeners and page.listeners > 0 %}
+  <p class="band-listeners">{{ page.listeners | divided_by: 1000 }}k Last.fm listeners</p>
+  {% endif %}
+
+  <div class="band-bio">{{ content }}</div>
+
+  {% if page.top_tracks %}
+  <h2>Popular Tracks</h2>
+  <ol class="band-tracks">
+    {% for track in page.top_tracks %}
+    <li>{{ track }}</li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+
+  {% if page.recent_news %}
+  <h2>Recent News</h2>
+  <ul class="band-news">
+    {% for post in page.recent_news %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  <div class="band-links">
+    {% if page.lastfm_slug %}
+    <a href="https://www.last.fm/music/{{ page.lastfm_slug }}" target="_blank" rel="noopener" class="band-link-btn">Last.fm →</a>
+    {% endif %}
+    {% if page.cdjapan_url %}
+    <a href="{{ page.cdjapan_url }}" target="_blank" rel="noopener" class="band-link-btn">CDJapan →</a>
+    {% endif %}
+  </div>
+
+  <p class="band-back"><a href="/bands/">← Band Directory</a></p>
+
+</article>
