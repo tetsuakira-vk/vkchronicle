@@ -113,21 +113,21 @@ img { max-width: 100%; height: auto; display: block; }
   white-space: nowrap;
 }
 .nav-dropdown-btn::after { content: '▾'; font-size: 0.65em; opacity: 0.5; }
-.nav-dropdown-btn:hover { color: var(--accent); background: var(--accent-dim); }
+.nav-dropdown-btn:hover,
+.nav-dropdown.open .nav-dropdown-btn { color: var(--accent); background: var(--accent-dim); }
 .nav-dropdown-menu {
   display: none;
   position: absolute;
-  top: calc(100% + 6px);
+  top: 100%;
   right: 0;
   min-width: 210px;
   background: #111;
   border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 6px;
+  padding: 8px 6px 6px;
   z-index: 200;
   box-shadow: 0 8px 28px rgba(0,0,0,0.6);
 }
-.nav-dropdown:hover .nav-dropdown-menu,
 .nav-dropdown.open .nav-dropdown-menu { display: block; }
 .nav-dropdown-menu a {
   display: block;
@@ -322,12 +322,30 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .upcoming-item {
-  font-size: 0.85rem;
+  display: flex;
+  gap: 10px;
+  align-items: center;
   padding: 8px 0;
   border-bottom: 1px solid var(--border);
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.15s;
 }
 .upcoming-item:last-child { border-bottom: none; }
-.upcoming-item strong { color: var(--white); }
+.upcoming-item:hover { opacity: 0.8; }
+.upcoming-cover {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  object-fit: cover;
+  border-radius: 6px;
+  background: #222;
+}
+.upcoming-cover--placeholder { display: flex; align-items: center; justify-content: center; font-size: 1.3rem; }
+.upcoming-info { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.upcoming-artist { font-size: 0.72rem; font-weight: 700; color: var(--white); text-transform: uppercase; letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.upcoming-title { font-size: 0.78rem; color: var(--text-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.upcoming-date { font-size: 0.7rem; color: var(--accent); font-weight: 600; }
 .release-date { font-size: 0.75rem; color: var(--accent); }
 
 .label-cloud { display: flex; flex-wrap: wrap; gap: 4px; }

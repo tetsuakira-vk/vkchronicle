@@ -5,12 +5,18 @@ if (toggle && nav) {
   toggle.addEventListener('click', () => nav.classList.toggle('open'));
 }
 
-// Dropdown: close on outside click (desktop)
+// Dropdown: click to open/close, click outside to close
 document.querySelectorAll('.nav-dropdown').forEach(function(dd) {
-  dd.addEventListener('mouseleave', function() { dd.classList.remove('open'); });
+  const btn = dd.querySelector('.nav-dropdown-btn');
+  if (btn) {
+    btn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      dd.classList.toggle('open');
+    });
+  }
 });
-document.addEventListener('click', function(e) {
-  document.querySelectorAll('.nav-dropdown').forEach(function(dd) {
-    if (!dd.contains(e.target)) dd.classList.remove('open');
+document.addEventListener('click', function() {
+  document.querySelectorAll('.nav-dropdown.open').forEach(function(dd) {
+    dd.classList.remove('open');
   });
 });

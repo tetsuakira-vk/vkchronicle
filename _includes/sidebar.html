@@ -7,15 +7,22 @@
   <h3 class="widget-title">Upcoming Releases</h3>
   <div id="upcoming-releases">
     {% if site.data.upcoming %}
-      {% for release in site.data.upcoming limit:5 %}
-      <div class="upcoming-item">
-        <strong>{{ release.artist }}</strong><br>
-        <em>{{ release.title }}</em><br>
-        <span class="release-date">{{ release.date }}</span>
-      </div>
+      {% for release in site.data.upcoming limit:8 %}
+      <a class="upcoming-item" href="{{ release.url }}" target="_blank" rel="noopener">
+        {% if release.image %}
+        <img class="upcoming-cover" src="{{ release.image }}" alt="{{ release.title }}" loading="lazy">
+        {% else %}
+        <div class="upcoming-cover upcoming-cover--placeholder">💿</div>
+        {% endif %}
+        <div class="upcoming-info">
+          <span class="upcoming-artist">{{ release.artist }}</span>
+          <span class="upcoming-title">{{ release.title }}</span>
+          <span class="upcoming-date">{{ release.date }}</span>
+        </div>
+      </a>
       {% endfor %}
     {% else %}
-      <p>Loading upcoming releases...</p>
+      <p>Check back soon.</p>
     {% endif %}
   </div>
 </div>
