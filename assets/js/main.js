@@ -5,18 +5,17 @@ if (toggle && nav) {
   toggle.addEventListener('click', () => nav.classList.toggle('open'));
 }
 
-// Dropdown: click to open/close, click outside to close
-document.querySelectorAll('.nav-dropdown').forEach(function(dd) {
-  const btn = dd.querySelector('.nav-dropdown-btn');
-  if (btn) {
-    btn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      dd.classList.toggle('open');
-    });
-  }
-});
-document.addEventListener('click', function() {
+// Dropdown — open on button click, close on outside click (no stopPropagation needed)
+document.addEventListener('click', function(e) {
   document.querySelectorAll('.nav-dropdown.open').forEach(function(dd) {
-    dd.classList.remove('open');
+    if (!dd.contains(e.target)) dd.classList.remove('open');
+  });
+});
+document.querySelectorAll('.nav-dropdown-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    const dd = btn.closest('.nav-dropdown');
+    const wasOpen = dd.classList.contains('open');
+    document.querySelectorAll('.nav-dropdown.open').forEach(function(d) { d.classList.remove('open'); });
+    if (!wasOpen) dd.classList.add('open');
   });
 });
