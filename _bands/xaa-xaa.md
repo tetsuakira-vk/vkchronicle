@@ -7,13 +7,9 @@ lastfm_slug: "Xaa-Xaa"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Xaa-Xaa&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "うざい - UZAI"
-  - "うざい - UZAI"
-  - "Arutyuu"
   - "Arutyuu"
   - "のぞきたい"
 ---
-
-# Xaa-Xaa Biography
 
 Xaa-Xaa emerged from Japan's underground visual kei scene as a provocative and genre-defying outfit, bringing raw energy and controversial aesthetics to the movement during its evolution in the 2000s. The band cultivated a dedicated following through their aggressive approach to visual presentation and uncompromising sonic experimentation, challenging conventional visual kei formulas with their distinctive look and confrontational stage presence. Their name itself became emblematic of their intent to push boundaries within the Japanese rock underground, establishing themselves as a noteworthy presence among the more abrasive and avant-garde corners of the visual kei community.
 

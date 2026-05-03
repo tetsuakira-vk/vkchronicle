@@ -2,18 +2,14 @@
 layout: band
 name: "Arlequin"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/affa2a084b7c2418a99835dc214e5de8.jpg"
-tags: ["japanese", "japanese", "blues", "blues"]
+tags: ["japanese", "blues"]
 lastfm_slug: "Arlequin"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Arlequin&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "PARANOIA"
-  - "PARANOIA"
-  - "IntheMirror"
   - "IntheMirror"
   - "Dameningen"
 ---
-
-# Arlequin Biography
 
 Arlequin stands as a distinctive presence within Japan's visual kei landscape, distinguished by their fusion of the genre's theatrical aesthetics with blues-influenced musical elements. The band emerged from the vibrant Japanese underground music scene, carving out a unique niche by blending the dramatic visual presentation and emotional intensity characteristic of visual kei with bluesy guitar work and soulful vocal performances. This sonic hybrid set them apart from many of their contemporaries, allowing them to appeal to both traditional visual kei enthusiasts and listeners drawn to blues-rock sensibilities. Their willingness to experiment with genre conventions while maintaining the visual kei identity demonstrated the scene's capacity for creative evolution.
 

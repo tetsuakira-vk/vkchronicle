@@ -2,18 +2,14 @@
 layout: band
 name: "D=OUT"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/bd736c0ff8aa41c48ffb779b4fd50cff.jpg"
-tags: ["visual kei", "visual kei", "j-rock", "j-rock"]
+tags: ["visual kei", "j-rock"]
 lastfm_slug: "D%3DOUT"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=D%3DOUT&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "中距離恋愛"
-  - "中距離恋愛"
-  - "grotesQ."
   - "grotesQ."
   - "シャングリラ"
 ---
-
-# D=OUT Biography
 
 D=OUT is a Japanese visual kei band that emerged from the vibrant underground rock scene with a distinctive aesthetic and energetic sound. The group has established itself within the visual kei genre by blending theatrical visual presentation with accessible rock compositions, contributing to the broader landscape of Japanese visual rock music. Known for their engaging live performances and dedicated fanbase, D=OUT represents the mid-2000s visual kei era when the genre continued to evolve with fresh perspectives and dynamic musicianship.
 

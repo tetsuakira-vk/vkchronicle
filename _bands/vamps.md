@@ -2,18 +2,14 @@
 layout: band
 name: "VAMPS"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/975c139777a148d7a09d2a1e18b886d3.jpg"
-tags: ["j-rock", "j-rock", "japanese", "japanese"]
+tags: ["j-rock", "japanese"]
 lastfm_slug: "VAMPS"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=VAMPS&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "Suspiria - Extended mix"
-  - "Suspiria - Extended mix"
-  - "Underworld"
   - "Underworld"
   - "EVANESCENT"
 ---
-
-# VAMPS Biography
 
 VAMPS is a Japanese rock band that emerged from the visual kei scene, known for their dynamic fusion of rock and gothic aesthetics. The project brought together musicians with established backgrounds in the Japanese rock community, combining their influences to create a distinctive sound that blended heavy instrumentation with atmospheric elements. The band's formation represented a collaboration between experienced artists who shared a vision for darker, more experimental rock music within the visual kei genre, establishing themselves as a notable act in Japan's alternative rock landscape.
 

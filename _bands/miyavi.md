@@ -2,18 +2,14 @@
 layout: band
 name: "Miyavi"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/aee7787765224723c792fd182634a2d5.jpg"
-tags: ["j-rock", "j-rock", "visual kei", "visual kei"]
+tags: ["j-rock", "visual kei"]
 lastfm_slug: "Miyavi"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Miyavi&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "Butterfly"
-  - "Butterfly"
-  - "2 be wiz U"
   - "2 be wiz U"
   - "君に願いを"
 ---
-
-# Miyavi Biography
 
 Miyavi is a virtuosic Japanese visual kei guitarist and singer who emerged from the Tokyo underground music scene in the early 2000s, initially gaining prominence as the lead guitarist of the band Dué le Quartz before launching a prolific solo career. Known for his distinctive slap-tap guitar technique—a percussive, unconventional approach to the instrument that blends traditional Japanese aesthetics with rock innovation—Miyavi carved out a unique sonic identity within the visual kei landscape. His striking visual presentation, characterized by elaborate makeup, costumes, and on-stage theatricality, exemplifies the core ethos of the visual kei movement while his guitar mastery transcends genre boundaries.
 

@@ -2,18 +2,14 @@
 layout: band
 name: "Megaromania"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/36aaf998a98741d99571aea684f941f2.jpg"
-tags: ["visual kei", "visual kei", "j-rock", "j-rock"]
+tags: ["visual kei", "j-rock"]
 lastfm_slug: "Megaromania"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Megaromania&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "Clear flora"
-  - "Clear flora"
-  - "AURORA-destinies of world-"
   - "AURORA-destinies of world-"
   - "Idea"
 ---
-
-# Megaromania Biography
 
 Megaromania emerged as a notable presence within Japan's visual kei scene, establishing themselves as practitioners of the genre's theatrical and musically ambitious traditions. The band exemplified visual kei's core aesthetic—combining striking visual presentation with energetic rock compositions—while contributing to the broader j-rock landscape of their era. Their formation and evolution reflected the genre's emphasis on artistic experimentation and visual storytelling, positioning them among the diverse acts that populated the visual kei underground and mainstream crossover circuits.
 

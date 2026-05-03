@@ -2,18 +2,14 @@
 layout: band
 name: "Dir en grey"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/7aabf3530d924bb7125c0a344c2dbff3.jpg"
-tags: ["j-rock", "j-rock", "visual kei", "visual kei"]
+tags: ["j-rock", "visual kei"]
 lastfm_slug: "Dir+en+grey"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Dir%20en%20grey&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "MOBS"
-  - "MOBS"
-  - "Discard"
   - "Discard"
   - "ISOLATION"
 ---
-
-# Dir en grey
 
 Dir en grey emerged from the Japanese visual kei scene as one of the genre's most innovative and influential acts. Formed in the mid-1990s, the band built their reputation through intense live performances and a distinctive sound that blended heavy rock with experimental elements, theatrical aesthetics, and deeply introspective lyrics. Led by vocalist Kyo, the group developed a dedicated following both in Japan and internationally, becoming instrumental in bringing visual kei to a broader global audience. Their commitment to evolving their artistic vision across multiple albums established them as pioneers who continually pushed the boundaries of what the visual kei genre could express.
 

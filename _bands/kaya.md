@@ -2,18 +2,14 @@
 layout: band
 name: "Kaya"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/295b642e75394645aed9ac66e1064c03.jpg"
-tags: ["visual kei", "visual kei", "electronic", "electronic"]
+tags: ["visual kei", "electronic"]
 lastfm_slug: "Kaya"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Kaya&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "Memento Mori"
-  - "Memento Mori"
-  - "Vampire Requiem"
   - "Vampire Requiem"
   - "Marionette"
 ---
-
-# Kaya Biography
 
 Kaya is a Japanese visual kei artist who emerged from the underground electronic and gothic rock scene, establishing himself as a distinctive solo presence within the visual kei community. Known for his theatrical aesthetic and androgynous presentation, Kaya crafted a unique niche by blending the dramatic visual elements characteristic of visual kei with synthesizer-driven electronic music, setting him apart from many of his contemporaries who relied more heavily on guitar-based rock. His approach drew from industrial, electronic, and gothic influences, creating an atmospheric and often melancholic sound that resonated with fans seeking experimental alternatives within the visual kei genre.
 

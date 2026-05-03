@@ -2,12 +2,10 @@
 layout: band
 name: "An Cafe"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/cebf4e3c2b3c1aaef39853f601a3b79c.jpg"
-tags: ["j-rock", "j-rock", "oshare kei", "oshare kei"]
+tags: ["j-rock", "oshare kei"]
 lastfm_slug: "An+Cafe"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=An%20Cafe&genre=JPOP&subgenre_id=VK"
 ---
-
-# An Cafe
 
 An Cafe emerged from the Japanese visual kei scene as one of the defining bands of the oshare kei subgenre, a style characterized by fashionable aesthetics, energetic performances, and a blend of rock with pop sensibilities. Fronted by the charismatic vocalist Mkami, the band quickly gained a devoted following through their vibrant visual presentation, catchy melodies, and theatrical live shows that emphasized style and glamour alongside musical prowess. Their lineup featured the guitar work of Teruki, the bass of Yuuki, and the drumming of Tamaranch, creating a cohesive unit that embodied the carefree yet polished spirit of oshare kei during its peak years.
 

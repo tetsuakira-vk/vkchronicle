@@ -2,18 +2,14 @@
 layout: band
 name: "Razor"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/be5df8cb6070467ec69b83a7c889a152.jpg"
-tags: ["thrash metal", "thrash metal", "speed metal", "speed metal"]
+tags: ["thrash metal", "speed metal"]
 lastfm_slug: "Razor"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Razor&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "The Marshall Arts"
-  - "The Marshall Arts"
-  - "Cross Me Fool"
   - "Cross Me Fool"
   - "Hypertension"
 ---
-
-# Razor Biography
 
 Razor emerged as a distinctive force within Japan's visual kei scene, bringing an aggressive and technically demanding sound that set them apart from many of their contemporaries. The band carved out their identity by blending the raw intensity of thrash metal and speed metal with the theatrical visual aesthetics that defined the visual kei movement. Their approach was uncompromising—driving riffs, rapid-fire drumming, and the genre's signature dramatic presentation created a unique fusion that appealed to both metal purists and visual kei enthusiasts. Songs like "The Marshall Arts" and "Cross Me Fool" showcased their ability to deliver technically proficient compositions without sacrificing the performative elements central to the visual kei tradition.
 

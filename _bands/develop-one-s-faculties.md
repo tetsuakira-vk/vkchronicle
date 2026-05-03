@@ -2,18 +2,14 @@
 layout: band
 name: "Develop One's Faculties"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/ca038b932733662ae43aa559673137e8.jpg"
-tags: ["visual kei", "visual kei", "japanese", "japanese"]
+tags: ["visual kei", "japanese"]
 lastfm_slug: "Develop+One's+Faculties"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Develop%20One's%20Faculties&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "フラスコを振ると天秤揺れた(album ver.)"
-  - "フラスコを振ると天秤揺れた(album ver.)"
-  - "insert memory"
   - "insert memory"
   - "アンインテリジブル"
 ---
-
-# Develop One's Faculties Biography
 
 Develop One's Faculties emerged as a notable presence within the Japanese Visual Kei scene, establishing themselves through their distinctive blend of theatrical aesthetics and intricate musical compositions. The band represents the diverse creative landscape of visual kei, a genre known for its emphasis on striking visual presentations alongside experimental and technically proficient musicianship. Through their work, Develop One's Faculties contributed to the ongoing evolution of the visual kei movement, participating in a community of artists dedicated to pushing the boundaries of both visual and sonic artistry.
 

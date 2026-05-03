@@ -2,18 +2,14 @@
 layout: band
 name: "LUNA SEA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/3d19fde2399712df6ba3ff16f4d2e3e3.jpg"
-tags: ["j-rock", "j-rock", "visual kei", "visual kei"]
+tags: ["j-rock", "visual kei"]
 lastfm_slug: "LUNA+SEA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=LUNA%20SEA&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "Dejavu"
-  - "Dejavu"
-  - "TRUE BLUE"
   - "TRUE BLUE"
   - "ROSIER - Single Version"
 ---
-
-# LUNA SEA Biography
 
 LUNA SEA emerged as one of the most influential acts in the visual kei movement, forming during the genre's golden era in the early 1990s. The band's lineup featured distinctive vocalists and skilled instrumentalists who crafted a sound that blended the theatrical aesthetics of visual kei with accessible rock melodies and emotional depth. Their formation marked a pivotal moment in Japanese rock, as they helped establish visual kei as a legitimate force in mainstream music rather than merely an underground phenomenon. The group's commitment to both visual presentation and musical quality set them apart in a scene often defined by style alone.
 

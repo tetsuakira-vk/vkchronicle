@@ -2,18 +2,14 @@
 layout: band
 name: "D"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/997a8147527b423e8fc9676e1b96b290.jpg"
-tags: ["visual kei", "visual kei", "j-rock", "j-rock"]
+tags: ["visual kei", "j-rock"]
 lastfm_slug: "D"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=D&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "7th rose"
-  - "7th rose"
-  - "Vampire Missa"
   - "Vampire Missa"
   - "闇の国のアリス"
 ---
-
-# D
 
 D is a Japanese visual kei band that emerged as a notable presence in the visual kei and J-rock scene, characterized by their distinctive blend of gothic aesthetics and rock instrumentation. The band became recognized for their theatrical approach to performance, combining elaborate visual presentations with heavy, atmospheric guitar work that defined much of their sound. Their musical style drew from the broader visual kei tradition while incorporating elements that appealed to fans of Japanese rock music, positioning them within a landscape populated by similarly styled acts of their era.
 

@@ -2,18 +2,14 @@
 layout: band
 name: "X"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c7d7cbb34950373bded921845338c56d.jpg"
-tags: ["punk", "punk", "punk rock", "punk rock"]
+tags: ["punk", "punk rock"]
 lastfm_slug: "X"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=X&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "Los Angeles"
-  - "Los Angeles"
-  - "I Must Not Think Bad Thoughts"
   - "I Must Not Think Bad Thoughts"
   - "Nausea"
 ---
-
-# X Biography
 
 X stands as one of the pioneering forces that shaped Visual Kei's aggressive edge, emerging from Japan's underground music scene with a raw punk-influenced sound that defied the genre's theatrical conventions. The band channeled the rebellious spirit of punk rock into their visual presentation and sonic approach, creating a distinctive identity that blended punk's confrontational energy with Visual Kei's dramatic aesthetics. Their relentless attitude and uncompromising musical direction attracted listeners who gravitated toward the harder, more street-level aspects of the scene rather than its more ornamental elements.
 

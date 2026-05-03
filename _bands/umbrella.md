@@ -2,18 +2,14 @@
 layout: band
 name: "Umbrella"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/7f2422fc9ffbd8a163d36020649c934f.jpg"
-tags: ["hardcore", "hardcore", "japanese", "japanese"]
+tags: ["hardcore", "japanese"]
 lastfm_slug: "Umbrella"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Umbrella&genre=JPOP&subgenre_id=VK"
 top_tracks:
   - "CARAMEL JESTER"
-  - "CARAMEL JESTER"
-  - "CARAMEL JESTER - Slowed"
   - "CARAMEL JESTER - Slowed"
   - "CARAMEL JESTER - Super Slowed"
 ---
-
-# Umbrella Biography
 
 Umbrella emerged from Japan's underground visual kei scene as a hardcore-driven act that pushed the boundaries of the genre's sonic aggression. The band carved out a distinctive niche by blending the theatrical aesthetics and visual presentation characteristic of visual kei with the raw intensity and uncompromising heaviness of hardcore music. Their approach represented a fusion of two seemingly opposing Japanese musical subcultures, attracting listeners who sought something heavier and more visceral than traditional visual kei while maintaining the scene's emphasis on striking visual presentation and artistic identity.
 
