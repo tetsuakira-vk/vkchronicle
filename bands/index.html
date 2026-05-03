@@ -1,0 +1,778 @@
+---
+layout: "default"
+title: "Visual Kei Band Directory"
+permalink: "/bands/"
+---
+
+<style>
+  .bands-header { margin: 0 0 20px; }
+  .bands-header h1 { margin: 0 0 6px; }
+  .bands-header p { color: #bbb; margin: 0; font-size: 0.9rem; }
+  #band-search { width: 100%; max-width: 400px; padding: 10px 14px; border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.15); background: rgba(255,255,255,0.05);
+    color: inherit; font-size: 0.95rem; margin-bottom: 20px; box-sizing: border-box; }
+  .bands-grid { display: grid; gap: 12px; grid-template-columns: repeat(12, 1fr); }
+  .band-card { grid-column: span 12; display: flex; gap: 14px; align-items: center;
+    border: 1px solid rgba(255,255,255,0.08); border-radius: 12px;
+    background: rgba(255,255,255,0.02); padding: 12px; }
+  @media (min-width: 540px) { .band-card { grid-column: span 6; } }
+  @media (min-width: 900px) { .band-card { grid-column: span 4; } }
+  .band-info { flex: 1; min-width: 0; }
+  .band-name { font-size: 0.95rem; font-weight: 700; margin-bottom: 4px; }
+  .band-meta { font-size: 0.78rem; margin-bottom: 6px; }
+  .band-tag { display: inline-block; padding: 2px 8px; border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.12); color: #ccc; margin-right: 6px; }
+  .band-link { font-size: 0.8rem; text-decoration: none; }
+  .bands-footer { font-size: 0.8rem; color: #666; margin-top: 24px; }
+  .band-card[hidden] { display: none; }
+</style>
+<div class="bands-header">
+  <h1>Visual Kei Band Directory</h1>
+  <p style="margin-bottom:6px;">Your home for Visual Kei bands worldwide — profiles, music, tour dates.</p>
+  <p>74 bands · sorted by popularity · updated 3 May 2026</p>
+</div>
+<input id="band-search" type="search" placeholder="Search bands by name or genre..." oninput="
+  var q = this.value.toLowerCase();
+  document.querySelectorAll('.band-card').forEach(function(c) {
+    c.hidden = q && !c.dataset.name.includes(q) && !c.dataset.tag.includes(q);
+  });
+" />
+<div class="bands-grid">
+<article class="band-card" data-name="dir en grey" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F7aabf3530d924bb7125c0a344c2dbff3.jpg&w=200&output=jpg"
+             alt="Dir en grey"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Dir en grey</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/dir-en-grey/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="the gazette" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F1b047646a41f444893db874851c9db11.jpg&w=200&output=jpg"
+             alt="the GazettE"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">the GazettE</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/the-gazette/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="buck-tick" data-tag="j-rock j-rock japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fa692d8b2a74f46050295ea83cf9114ea.jpg&w=200&output=jpg"
+             alt="Buck-Tick"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Buck-Tick</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/buck-tick/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="malice mizer" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F6b8a573fefe84ba596994a7e4b8b344e.jpg&w=200&output=jpg"
+             alt="Malice Mizer"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Malice Mizer</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/malice-mizer/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="luna sea" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3d19fde2399712df6ba3ff16f4d2e3e3.jpg&w=200&output=jpg"
+             alt="LUNA SEA"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">LUNA SEA</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/luna-sea/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="x japan" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F8e363461bf214d6e81cd97411ac7ec36.jpg&w=200&output=jpg"
+             alt="X Japan"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">X Japan</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/x-japan/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="l'arc-en-ciel" data-tag="j-rock j-rock japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fc284adfc7e752879f368d9dd95f43a71.jpg&w=200&output=jpg"
+             alt="L'Arc-en-Ciel"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">L'Arc-en-Ciel</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/l-arc-en-ciel/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="versailles" data-tag="visual kei visual kei symphonic metal symphonic metal">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F68399e609df0416287e21ec8aaee60c5.jpg&w=200&output=jpg"
+             alt="Versailles"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Versailles</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/versailles/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="alice nine" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F779f51905e424459ac562213d05d83a7.jpg&w=200&output=jpg"
+             alt="Alice Nine"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Alice Nine</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/alice-nine/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="moi dix mois" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F4245f5d2fb5046fbb6882513f83a446b.jpg&w=200&output=jpg"
+             alt="Moi dix Mois"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Moi dix Mois</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/moi-dix-mois/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="mucc" data-tag="j-rock j-rock japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fe8f15a35ee034cefeb950d979e0a9cbf.jpg&w=200&output=jpg"
+             alt="MUCC"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">MUCC</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/mucc/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="nightmare" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fcca302f32a2042548660d2bbda039d6d.jpg&w=200&output=jpg"
+             alt="Nightmare"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Nightmare</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/nightmare/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="an cafe" data-tag="j-rock j-rock oshare kei oshare kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fcebf4e3c2b3c1aaef39853f601a3b79c.jpg&w=200&output=jpg"
+             alt="An Cafe"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">An Cafe</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/an-cafe/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="girugamesh" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fd83de273791d27613a173ca5ddbeaf9b.jpg&w=200&output=jpg"
+             alt="Girugamesh"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Girugamesh</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/girugamesh/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="plastic tree" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F9638d4e122e7452ca05523d81d0ea142.jpg&w=200&output=jpg"
+             alt="Plastic Tree"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Plastic Tree</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/plastic-tree/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="kagrra" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F65b8126cce8145cab51bca7390f49561.jpg&w=200&output=jpg"
+             alt="Kagrra"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Kagrra</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/kagrra/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="sid" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F2771402eee3ddbb0f0e886c85ef04479.jpg&w=200&output=jpg"
+             alt="SID"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">SID</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/sid/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="the novembers" data-tag="shoegaze shoegaze japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F6f8d5aaf539c4356b36e42b8c2068beb.jpg&w=200&output=jpg"
+             alt="The Novembers"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">The Novembers</div>
+    <div class="band-meta"><span class="band-tag">shoegaze</span> </div>
+    <a class="band-link" href="/bands/the-novembers/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="rentrer en soi" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F35a6624a8deb7be0f0dc0949d5e3afce.jpg&w=200&output=jpg"
+             alt="Rentrer en Soi"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Rentrer en Soi</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/rentrer-en-soi/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="vamps" data-tag="j-rock j-rock japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F975c139777a148d7a09d2a1e18b886d3.jpg&w=200&output=jpg"
+             alt="VAMPS"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">VAMPS</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/vamps/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="gackt" data-tag="j-rock j-rock japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fbe7e1eb8d68a45d9a4ef105f9b11098d.jpg&w=200&output=jpg"
+             alt="Gackt"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Gackt</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/gackt/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="hyde" data-tag="j-rock j-rock japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F614c42f998f8ff65270dab08a9d1c5bb.jpg&w=200&output=jpg"
+             alt="HYDE"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">HYDE</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/hyde/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="miyavi" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Faee7787765224723c792fd182634a2d5.jpg&w=200&output=jpg"
+             alt="Miyavi"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Miyavi</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/miyavi/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="diaura" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fbafbbd7d1c95bdf654146ec56956d357.jpg&w=200&output=jpg"
+             alt="DIAURA"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">DIAURA</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/diaura/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="nazare" data-tag="hard rock hard rock classic rock classic rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F95a0c6df246a49a38dfdfc1ea9526085.jpg&w=200&output=jpg"
+             alt="NAZARE"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">NAZARE</div>
+    <div class="band-meta"><span class="band-tag">hard rock</span> </div>
+    <a class="band-link" href="/bands/nazare/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="kizu" data-tag="rock rock metal metal">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fc4ad53b42a67db00937db52064cd21e3.jpg&w=200&output=jpg"
+             alt="KIZU"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">KIZU</div>
+    <div class="band-meta"><span class="band-tag">rock</span> </div>
+    <a class="band-link" href="/bands/kizu/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="royz" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fd85cf1a08b3b401f87d4e6c3341d94b6.jpg&w=200&output=jpg"
+             alt="Royz"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Royz</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/royz/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="codomo dragon" data-tag="alternative metal alternative metal add tags view all tags">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F05705135e6b34fe1cf1d9802af1b45e5.jpg&w=200&output=jpg"
+             alt="Codomo Dragon"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Codomo Dragon</div>
+    <div class="band-meta"><span class="band-tag">alternative metal</span> </div>
+    <a class="band-link" href="/bands/codomo-dragon/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="razor" data-tag="thrash metal thrash metal speed metal speed metal">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fbe5df8cb6070467ec69b83a7c889a152.jpg&w=200&output=jpg"
+             alt="Razor"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Razor</div>
+    <div class="band-meta"><span class="band-tag">thrash metal</span> </div>
+    <a class="band-link" href="/bands/razor/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="jiluka" data-tag="visual kei visual kei metalcore metalcore">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fc6c2842621f4e3ce61cccbb60ba5161f.jpg&w=200&output=jpg"
+             alt="Jiluka"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Jiluka</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/jiluka/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="deviloof" data-tag="deathcore deathcore visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F21b9a149c5d8b334c9b39be5d6b7ebef.jpg&w=200&output=jpg"
+             alt="Deviloof"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Deviloof</div>
+    <div class="band-meta"><span class="band-tag">deathcore</span> </div>
+    <a class="band-link" href="/bands/deviloof/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="megaromania" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F36aaf998a98741d99571aea684f941f2.jpg&w=200&output=jpg"
+             alt="Megaromania"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Megaromania</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/megaromania/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="matenrou opera" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Ff2612085ae4e4fd480fd625035db90f4.jpg&w=200&output=jpg"
+             alt="Matenrou Opera"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Matenrou Opera</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/matenrou-opera/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="sadie" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F0694e9cc370adceabaead6ba278c1391.jpg&w=200&output=jpg"
+             alt="Sadie"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Sadie</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/sadie/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="mejibray" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F33b0c554edd842efb3dfffd0ac024599.jpg&w=200&output=jpg"
+             alt="Mejibray"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Mejibray</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/mejibray/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="scapegoat" data-tag="powerviolence powerviolence post-hardcore post-hardcore">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F0926914627b5436ba7cd98a008a4dd59.jpg&w=200&output=jpg"
+             alt="Scapegoat"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Scapegoat</div>
+    <div class="band-meta"><span class="band-tag">powerviolence</span> </div>
+    <a class="band-link" href="/bands/scapegoat/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="sarigia" data-tag="visual kei visual kei japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Ff186e5454262ef80847d1a7d08fdf431.jpg&w=200&output=jpg"
+             alt="Sarigia"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Sarigia</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/sarigia/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="xaa-xaa" data-tag="add tags">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F33930370f4b34a54ee165b86a4c52518.jpg&w=200&output=jpg"
+             alt="Xaa-Xaa"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Xaa-Xaa</div>
+    <div class="band-meta"><span class="band-tag">add tags</span> </div>
+    <a class="band-link" href="/bands/xaa-xaa/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="arlequin" data-tag="japanese japanese blues blues">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Faffa2a084b7c2418a99835dc214e5de8.jpg&w=200&output=jpg"
+             alt="Arlequin"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Arlequin</div>
+    <div class="band-meta"><span class="band-tag">japanese</span> </div>
+    <a class="band-link" href="/bands/arlequin/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="cali≠gari" data-tag="eroguro eroguro visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F413e579334effc8b318bd24c93daf92b.jpg&w=200&output=jpg"
+             alt="Cali≠gari"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Cali≠gari</div>
+    <div class="band-meta"><span class="band-tag">eroguro</span> </div>
+    <a class="band-link" href="/bands/cali-gari/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="lycaon" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F0cd4cd261c2c030cdc057b73cad3e879.jpg&w=200&output=jpg"
+             alt="Lycaon"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Lycaon</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/lycaon/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="born" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F8ef80193c81c4b5a93f2f102368dff87.jpg&w=200&output=jpg"
+             alt="BORN"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">BORN</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/born/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="deathgaze" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F9c0b053ece4c4f0ba51f8d27544e13e0.jpg&w=200&output=jpg"
+             alt="Deathgaze"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Deathgaze</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/deathgaze/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="d" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F997a8147527b423e8fc9676e1b96b290.jpg&w=200&output=jpg"
+             alt="D"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">D</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/d/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="exist†trace" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F8b98dde4f4a24c8f8d2934f917737b09.jpg&w=200&output=jpg"
+             alt="Exist†trace"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Exist†trace</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/exist-trace/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="vidoll" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F9ed02b567a404ba0b1146ba23d701a65.jpg&w=200&output=jpg"
+             alt="Vidoll"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Vidoll</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/vidoll/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="heidi." data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fbd70ff2f576b63c99640b90f99cc65ca.jpg&w=200&output=jpg"
+             alt="heidi."
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">heidi.</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/heidi/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="pentagon" data-tag="k-pop k-pop japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F221cdbb0b94db1599b09b10c5ae0035f.jpg&w=200&output=jpg"
+             alt="Pentagon"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Pentagon</div>
+    <div class="band-meta"><span class="band-tag">k-pop</span> </div>
+    <a class="band-link" href="/bands/pentagon/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="baroque" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F8c092ce76e984f8abd8aec34d5909d70.jpg&w=200&output=jpg"
+             alt="Baroque"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Baroque</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/baroque/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="vistlip" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F8fb46e3e9a124994895f5965620be3ab.jpg&w=200&output=jpg"
+             alt="Vistlip"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Vistlip</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/vistlip/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="kra" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F5b6c648c1f684f66aa06cce88761a90f.jpg&w=200&output=jpg"
+             alt="KRA"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">KRA</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/kra/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="lm.c" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Ffa2625a02a7e44159e434d5bd024c28d.jpg&w=200&output=jpg"
+             alt="LM.C"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">LM.C</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/lm-c/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="the black swan" data-tag="visual kei visual kei metal metal">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fdec20ebcf1a4e91d0629e98e79fdc668.jpg&w=200&output=jpg"
+             alt="The Black Swan"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">The Black Swan</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/the-black-swan/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="suicide ali" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F94c4e35549c2412b9fd55dac3cc78221.jpg&w=200&output=jpg"
+             alt="Suicide Ali"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Suicide Ali</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/suicide-ali/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="angelo" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F7e7a43def810771ef7a2dba7256db171.jpg&w=200&output=jpg"
+             alt="Angelo"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Angelo</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/angelo/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="develop one's faculties" data-tag="visual kei visual kei japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fca038b932733662ae43aa559673137e8.jpg&w=200&output=jpg"
+             alt="Develop One's Faculties"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Develop One's Faculties</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/develop-one-s-faculties/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="petit brabancon" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fb50802fb4a5645574b753f480201defb.jpg&w=200&output=jpg"
+             alt="Petit Brabancon"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Petit Brabancon</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/petit-brabancon/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="sukekiyo" data-tag="visual kei visual kei experimental experimental">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F0d65d771e1980dab3182f5f0d2189f6d.jpg&w=200&output=jpg"
+             alt="Sukekiyo"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Sukekiyo</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/sukekiyo/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="dimlim" data-tag="j-rock j-rock visual kei visual kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Ffda2014404dfd92cb729b6efa821ff9e.jpg&w=200&output=jpg"
+             alt="DIMLIM"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">DIMLIM</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/dimlim/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="dadaroma" data-tag="visual kei visual kei japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F0a08d8057325b2457d028a13e28b5261.jpg&w=200&output=jpg"
+             alt="Dadaroma"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Dadaroma</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/dadaroma/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="rides in revellion" data-tag="visual kei visual kei power metal power metal">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fc3400e00c4665f68ee5158033e472b35.jpg&w=200&output=jpg"
+             alt="Rides in ReVellion"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Rides in ReVellion</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/rides-in-revellion/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="umbrella" data-tag="hardcore hardcore japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F7f2422fc9ffbd8a163d36020649c934f.jpg&w=200&output=jpg"
+             alt="Umbrella"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Umbrella</div>
+    <div class="band-meta"><span class="band-tag">hardcore</span> </div>
+    <a class="band-link" href="/bands/umbrella/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="fatima" data-tag="visual kei visual kei soul soul">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fd8f3b9165aa24f01a4a46a390d3dde26.jpg&w=200&output=jpg"
+             alt="Fatima"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Fatima</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/fatima/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="la:sadie's" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F6b1439406f93470d90d3bb3a1a0b8f0a.jpg&w=200&output=jpg"
+             alt="La:Sadie's"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">La:Sadie's</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/la-sadie-s/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="lynch." data-tag="j-rock j-rock nagoya kei nagoya kei">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F807a83279883d76f5e547a0951b64878.jpg&w=200&output=jpg"
+             alt="lynch."
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">lynch.</div>
+    <div class="band-meta"><span class="band-tag">j-rock</span> </div>
+    <a class="band-link" href="/bands/lynch/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="d=out" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fbd736c0ff8aa41c48ffb779b4fd50cff.jpg&w=200&output=jpg"
+             alt="D=OUT"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">D=OUT</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/d-out/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="hanabie." data-tag="metalcore metalcore kawaii metal kawaii metal">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Ffb5d01b53361afdaabdba3aae2fe2a06.jpg&w=200&output=jpg"
+             alt="HANABIE."
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">HANABIE.</div>
+    <div class="band-meta"><span class="band-tag">metalcore</span> </div>
+    <a class="band-link" href="/bands/hanabie/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="kiryu" data-tag="visual kei visual kei j-rock j-rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F30391b529a34ca8cbb9438cce6c6250e.jpg&w=200&output=jpg"
+             alt="Kiryu"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Kiryu</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/kiryu/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="d'espairsray" data-tag="">
+  <div style="width:80px;height:80px;border-radius:50%;background:rgba(255,255,255,0.07);flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:1.5rem;">🎸</div>
+  <div class="band-info">
+    <div class="band-name">D'ESPAIRSRAY</div>
+    <div class="band-meta"><span class="band-tag">Visual Kei</span> </div>
+    <a class="band-link" href="/bands/d-espairsray/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="x" data-tag="punk punk punk rock punk rock">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fc7d7cbb34950373bded921845338c56d.jpg&w=200&output=jpg"
+             alt="X"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">X</div>
+    <div class="band-meta"><span class="band-tag">punk</span> </div>
+    <a class="band-link" href="/bands/x/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="kamijo" data-tag="visual kei visual kei japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Ffbe5c1f83b5a2bdb144db34ce7a8242d.jpg&w=200&output=jpg"
+             alt="KAMIJO"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">KAMIJO</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/kamijo/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="kaya" data-tag="visual kei visual kei electronic electronic">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F295b642e75394645aed9ac66e1064c03.jpg&w=200&output=jpg"
+             alt="Kaya"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Kaya</div>
+    <div class="band-meta"><span class="band-tag">visual kei</span> </div>
+    <a class="band-link" href="/bands/kaya/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="original soundtrack (music by sugizo)" data-tag="">
+  <div style="width:80px;height:80px;border-radius:50%;background:rgba(255,255,255,0.07);flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:1.5rem;">🎸</div>
+  <div class="band-info">
+    <div class="band-name">Original Soundtrack (Music by SUGIZO)</div>
+    <div class="band-meta"><span class="band-tag">Visual Kei</span> </div>
+    <a class="band-link" href="/bands/original-soundtrack-music-by-sugizo/">View profile →</a>
+  </div>
+</article>
+<article class="band-card" data-name="onmyoza" data-tag="heavy metal heavy metal japanese japanese">
+  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fa748080defb103d294b306eae9ed5656.jpg&w=200&output=jpg"
+             alt="Onmyoza"
+             style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
+  <div class="band-info">
+    <div class="band-name">Onmyoza</div>
+    <div class="band-meta"><span class="band-tag">heavy metal</span> </div>
+    <a class="band-link" href="/bands/onmyoza/">View profile →</a>
+  </div>
+</article>
+</div>
+<p class="bands-footer">Updated 3 May 2026.</p>
