@@ -69,11 +69,10 @@ img { max-width: 100%; height: auto; display: block; }
   gap: 20px;
 }
 .site-banner-logo {
-  align-self: stretch;
-  width: auto;
-  aspect-ratio: 1 / 1;
+  width: 58px;
+  height: 58px;
   flex-shrink: 0;
-  border-radius: 7px;
+  border-radius: 10px;
 }
 .site-banner-title {
   font-family: var(--font-heading);
