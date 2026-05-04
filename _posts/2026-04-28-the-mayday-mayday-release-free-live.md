@@ -3,6 +3,7 @@ layout: post
 title: "THE MAYDAY MAYDAY Release Free Live-Limited CD in May 2026"
 date: 2026-04-28T14:00:42.665Z
 labels: ["Visual Kei", "News", "Live Release", "New Band"]
+image: "https://vkchronicle.com/assets/images/placeholder.jpg"
 ---
 <p>A fresh wave is breaking in the Visual Kei underground: **THE MAYDAY MAYDAY**, a newly formed supergroup featuring seasoned musicians from respected VK acts, will release a free live-limited CD on **May 24, 2026**.</p>
 <p>While details on the recording itself remain sparse, this announcement marks an exciting moment for a band assembled from genuine VK pedigree. The lineup brings together members from acts that have shaped the underground scene—including the experimental theatricality of Sunawachi Saga., the atmospheric textures of Wakuraba, and the gothic aesthetics of Luvielle.</p>

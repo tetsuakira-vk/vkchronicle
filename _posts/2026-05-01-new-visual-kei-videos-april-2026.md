@@ -3,6 +3,7 @@ layout: post
 title: "New Visual Kei Videos — April 2026"
 date: 2026-05-01T09:00:11.445Z
 labels: ["Visual Kei", "Music Video", "Monthly Roundup"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FK8YiE7pA5pQ%2Fmaxresdefault.jpg&w=800&output=jpg"
 ---
 <p>April 2026 is absolutely PACKED with visual kei goodness, and we're thrilled to guide you through this month's most essential releases and announcements! From highly anticipated debut albums and sophomore releases to unexpected comebacks, jaw-dropping rebrands, and dark new music videos, the scene is firing on all cylinders this month with everything from established legends like DIR EN GREY and MUCC to explosive newcomers like 丑03-USHIMITSU- and Strawberry Song Orchestra.</p>
 

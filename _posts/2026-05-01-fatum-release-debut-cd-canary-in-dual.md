@@ -3,6 +3,7 @@ layout: post
 title: "Fatüm Release Debut CD \"Canary\" in Dual Editions"
 date: 2026-05-01T20:00:22.596Z
 labels: ["Visual Kei", "News", "Album Release", "Fatüm", "Independent Label"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FSFOfUdcPJ-Y%2Fmaxresdefault.jpg&w=800&output=jpg"
 ---
 <p>Swiss Visual Kei outfit Fatüm is officially stepping into the spotlight with their long-awaited debut CD, arriving June 24th under their freshly minted independent imprint, Vox Division, with distribution handled by CREAM Entertainment.</p>
 <p>The band—comprising members SUI and HIDE-ZOU—are wasting no time making an impression. Alongside the CD announcement comes their debut music video for "Canary," which dropped online and offers Western fans their first official glimpse at Fatüm's sonic identity and visual direction. Check it out above.</p>

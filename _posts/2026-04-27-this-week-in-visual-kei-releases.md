@@ -3,6 +3,7 @@ layout: post
 title: "This Week in Visual Kei: Releases & Reunions — April 27, 2026"
 date: 2026-04-27T08:00:23.606Z
 labels: ["Visual Kei", "Weekly Digest", "News"]
+image: "https://vkchronicle.com/assets/images/placeholder.jpg"
 ---
 <p>What a week to be a Visual Kei fan. We've got comeback stories, new material flooding in, and some of the scene's biggest names dominating headlines—it's the kind of week that reminds you why you fell in love with this genre in the first place.</p>
 <p>**Releases & New Music**</p>

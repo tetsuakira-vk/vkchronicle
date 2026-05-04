@@ -3,6 +3,7 @@ layout: post
 title: "YUKI (ex-Raphael) Forms \"Solid Statement Soul\" Supergroup"
 date: 2026-04-28T14:00:28.823Z
 labels: ["Visual Kei", "News", "New Band", "YUKI", "Raphael", "Live Announcement"]
+image: "https://vkchronicle.com/assets/images/placeholder.jpg"
 ---
 <p>A fresh supergroup has just emerged from the Japanese Visual Kei scene, and the lineup is seriously stacked. **Solid Statement Soul** (abbreviated as SSS) has officially formed, uniting members from some of the genre's most respected acts—and they're already gearing up for their debut live performance on July 11, 2026.</p>
 <p>Leading the charge is **YUKI**, the former vocalist of the legendary Raphael and the short-lived project rice. YUKI's powerful vocal presence and theatrical command are legendary among VK fans, making their return to an active band a cause for celebration. Joining them is **RENO** on guitar, best known for his work in ViViD, where he delivered intricate, dynamic riffing that defined much of the band's signature sound.</p>

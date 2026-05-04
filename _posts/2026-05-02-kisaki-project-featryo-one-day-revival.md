@@ -3,6 +3,7 @@ layout: post
 title: "KISAKI PROJECT feat.ryo One-Day Revival with Star-Studded Lineup"
 date: 2026-05-02T21:00:54.546Z
 labels: ["Visual Kei", "News", "Live Report", "KISAKI PROJECT", "ryo", "Visual Kei Reunion"]
+image: "https://vkchronicle.com/assets/images/placeholder.jpg"
 ---
 <p>One of Visual Kei's most respected session projects is making a rare comeback. KISAKI PROJECT feat.ryo will reunite for a special one-day event, bringing together some of the scene's most skilled musicians for what promises to be an unmissable performance.</p>
 <p>The project centers on ryo, a vocalist with an impressive resume spanning D'ELSQUEL, 9GOATS BLACK OUT, HOLLOWGRAM, DÄLLE, and H.U.G. He'll be joined by KISAKI on bass—a musician best known for his work with Phantasmagoria and MIRAGE—alongside support guitar from HIZAKI, the virtuoso formerly of Versailles, SULFURIC ACID, Schwardix Marvally, and Jupiter. Completing the lineup are guitarist Iyoda Kohei from THE GENIUS ORCHESTRATION and drummer Ryota Moritani (ex.GLARD).</p>

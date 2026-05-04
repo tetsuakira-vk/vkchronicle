@@ -3,6 +3,7 @@ layout: post
 title: "泥眼 (Deigan) Release New Song \"恋文\" (Love Letter)"
 date: 2026-05-02T21:00:24.414Z
 labels: ["Visual Kei", "News", "Single Release", "泥眼"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FJvFQTvdZMY0%2Fmaxresdefault.jpg&w=800&output=jpg"
 ---
 <p>Rising Visual Kei act 泥眼 (Deigan) has unveiled a striking new single that showcases the band's signature blend of theatrical aesthetics and dynamic musicianship. The track "恋文" (Love Letter) marks another compelling release from the Tokyo-based outfit, and it's well worth your attention.</p>
 <p>For those unfamiliar with Deigan, the band has been building steady momentum within the Japanese Visual Kei underground scene. Known for their polished production, intricate guitar work, and front-man 累 (Rui)'s commanding vocal presence, they represent the contemporary wave of VK acts pushing the genre forward with both reverence for tradition and fresh creative vision.</p>

@@ -3,6 +3,7 @@ layout: post
 title: "Visual Kei April 2026: Month in Review"
 date: 2026-05-01T08:00:41.548Z
 labels: ["Month in Review", "Visual Kei", "News"]
+image: "https://vkchronicle.com/assets/images/placeholder.jpg"
 ---
 <h2>April 2026 Month in Review: Reunions, Supergroups & the Sound of Tomorrow</h2>
 

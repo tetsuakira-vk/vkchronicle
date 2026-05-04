@@ -3,6 +3,7 @@ layout: post
 title: "This Week in Visual Kei: X Japan Takes the Fast Lane — May 4, 2026"
 date: 2026-05-04T08:00:14.342Z
 labels: ["Visual Kei", "Weekly Digest", "News"]
+image: "https://vkchronicle.com/assets/images/placeholder.jpg"
 ---
 
 It's been a quieter week on the Visual Kei front, but don't let that fool you—when X Japan makes a move, even a commercial one, the entire scene sits up and pays attention.

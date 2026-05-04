@@ -3,6 +3,7 @@ layout: post
 title: "unRealless Debut EP \"NETWORK SYNDROME\" Out May 2026"
 date: 2026-04-30T18:03:24.298Z
 labels: ["Visual Kei", "News", "Album Release", "unRealless", "New Band"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FkgtVCi2-wsE%2Fmaxresdefault.jpg&w=800&output=jpg"
 ---
 <p>Fresh energy is coming to the Visual Kei scene with unRealless's first EP, and it's arriving sooner than you might think.</p>
 <p>**unRealless** will drop their debut EP **"NETWORK SYNDROME"** on **May 1st, 2026**. This four-track, 15-minute release marks an exciting entry point into a band that's already generating buzz among Western VK fans.</p>

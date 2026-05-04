@@ -3,6 +3,7 @@ layout: post
 title: "COCK ROACH Fifth Album \"死への先駆的覚悟性\" Coming May 2026"
 date: 2026-04-28T14:00:53.900Z
 labels: ["Visual Kei", "News", "Album Release", "COCK ROACH", "Dark Visual Kei"]
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FI9l7K28tyTk%2Fmaxresdefault.jpg&w=800&output=jpg"
 ---
 <p>COCK ROACH is returning with their most ambitious project yet. The Tokyo-based Visual Kei outfit has announced their fifth full-length album, *死への先駆的覚悟性* (Shi e no Senkushateki Kakugo-sei / Pioneering Resolve Toward Death), arriving May 1st, 2026.</p>
 <p>If you're unfamiliar with COCK ROACH, they're one of Japan's most uncompromising dark Visual Kei acts, known for their grotesque imagery, dissonant guitar work, and existential lyrical themes. They've been quietly building a devoted underground following with their previous albums and relentless live performances—this fifth record signals another evolution in their aesthetic vision.</p>

@@ -3,6 +3,7 @@ layout: post
 title: "KEY PARTY Reunion Live Stream May 30 – Iconic 90s VK Agency Returns"
 date: 2026-04-30T05:00:29.052Z
 labels: ["Visual Kei", "News", "Live Stream", "KEY PARTY", "1990s Visual Kei", "Reunion"]
+image: "https://vkchronicle.com/assets/images/placeholder.jpg"
 ---
 <p>A legendary chapter of Visual Kei history is reopening. KEY PARTY, the iconic 1990s Visual Kei talent agency that shaped the movement's early years, is hosting a reunion special — and it's happening live via TwitCasting Premium on May 30th, 2026.</p>
 <p>For those unfamiliar with KEY PARTY's legacy, the agency was instrumental in developing and promoting some of Visual Kei's most influential acts during the genre's formative decade. The agency dissolved over 20 years ago, making this reunion particularly significant for longtime fans who lived through that era.</p>

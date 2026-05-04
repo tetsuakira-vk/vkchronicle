@@ -3,6 +3,7 @@ layout: post
 title: "KAMIJO European Tour 2026 – Eight Cities Announced"
 date: 2026-04-25T08:01:12.925Z
 labels: ["Visual Kei", "News", "Live Dates", "KAMIJO", "Symphonic Metal"]
+image: "https://vkchronicle.com/assets/images/placeholder.jpg"
 ---
 <p>Symphonic metal virtuoso KAMIJO is bringing his operatic prowess across Europe this September and October with the *SANCTUARY OF EUROPE* tour—and Western fans have eight major cities to choose from.</p>
 <p>For those unfamiliar, KAMIJO is the classically trained vocalist and frontman behind the legendary Visual Kei band Versailles, known for blending ornate orchestral arrangements with rock intensity and theatrical grandeur. His solo work maintains that same commitment to baroque-influenced metal and gothic romance that made Versailles essential listening for VK fans worldwide.</p>
