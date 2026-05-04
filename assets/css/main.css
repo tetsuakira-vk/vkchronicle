@@ -474,3 +474,9 @@ img { max-width: 100%; height: auto; display: block; }
 .band-back { margin-top: 2.5em; font-size: 0.85rem; }
 .band-back a { color: var(--text-faint); }
 .band-back a:hover { color: var(--accent); }
+
+/* ── Guide page overrides (force site gold accent, Playfair Display headings) ─ */
+.vk-guide { --accent: #ecac0d !important; }
+.vk-hero h1 { font-family: var(--font-heading) !important; font-size: 2rem !important; font-weight: 700 !important; letter-spacing: 0 !important; }
+.vk-badge { font-family: var(--font-body) !important; }
+.vk-guide h2, .vk-section h2 { font-family: var(--font-heading); }
