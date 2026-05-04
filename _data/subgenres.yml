@@ -1,0 +1,78 @@
+# VK Subgenre master index — used by subgenres/index.html
+
+- slug: kote-kei
+  name: "Kote Kei"
+  kanji: "コテ系"
+  era: "Late 1980s – mid-1990s"
+  tagline: "The dark, theatrical origin point of Visual Kei — elaborate costumes, heavy riffs, gothic drama."
+  color: "#8b3a3a"
+
+- slug: nagoya-kei
+  name: "Nagoya Kei"
+  kanji: "名古屋系"
+  era: "Early 1990s – present"
+  tagline: "Heavier, darker, and more aggressive than mainstream VK — the underground sound of Nagoya."
+  color: "#3a3a8b"
+
+- slug: oshare-kei
+  name: "Oshare Kei"
+  kanji: "おしゃれ系"
+  era: "Early 2000s – mid-2010s"
+  tagline: "Colourful, upbeat pop-punk with a kawaii aesthetic — the antithesis of dark VK."
+  color: "#c06090"
+
+- slug: angura-kei
+  name: "Angura Kei"
+  kanji: "アングラ系"
+  era: "Mid-1990s – present"
+  tagline: "Japanese underground art and grotesque imagery fused into avant-garde rock."
+  color: "#5a3a6a"
+
+- slug: tanbi-kei
+  name: "Tanbi Kei"
+  kanji: "耽美系"
+  era: "Late 1980s – late 1990s"
+  tagline: "Aestheticism and beauty above all — European art, androgyny, and lush orchestration."
+  color: "#4a2a5a"
+
+- slug: loud-kei
+  name: "Loud Kei"
+  kanji: "ラウド系"
+  era: "Mid-1990s – present"
+  tagline: "Where Visual Kei meets heavy metal — the hardest, most aggressive wing of the scene."
+  color: "#2a2a2a"
+
+- slug: iryou-kei
+  name: "Iryou Kei"
+  kanji: "医療系"
+  era: "Mid-2000s – present"
+  tagline: "Hospital and medical imagery pushed to grotesque extremes — surgery gowns and splatter aesthetics."
+  color: "#3a6a5a"
+
+- slug: menhera-kei
+  name: "Menhera Kei"
+  kanji: "メンヘラ系"
+  era: "2010s – present"
+  tagline: "Raw mental-health themes expressed through dark kawaii imagery and confessional lyrics."
+  color: "#7a3a5a"
+
+- slug: wafuu-kei
+  name: "Wafuu Kei"
+  kanji: "和風系"
+  era: "Mid-1990s – present"
+  tagline: "Traditional Japanese aesthetics — feudal costuming, shamisen tones, and classical motifs."
+  color: "#6a4a2a"
+
+- slug: soft-visual
+  name: "Soft Visual"
+  kanji: "ソフトビジュアル"
+  era: "Late 1990s – present"
+  tagline: "Lighter makeup, melodic rock, and mass-market appeal — VK for the mainstream."
+  color: "#4a6a4a"
+
+- slug: kirakira-kei
+  name: "Kirakira Kei"
+  kanji: "きらきら系"
+  era: "2010s – present"
+  tagline: "Glitter, idol energy, and hyper-cute aesthetics — the newest and most maximalist branch."
+  color: "#9a6a2a"

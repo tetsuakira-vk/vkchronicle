@@ -516,3 +516,55 @@ img { max-width: 100%; height: auto; display: block; }
 .vk-hero h1 { font-family: var(--font-heading) !important; font-size: 2rem !important; font-weight: 700 !important; letter-spacing: 0 !important; }
 .vk-badge { font-family: var(--font-body) !important; }
 .vk-guide h2, .vk-section h2 { font-family: var(--font-heading); }
+
+/* ── Subgenre pages ─────────────────────────────────────────────────────────── */
+.sg-breadcrumb { font-size: 0.82rem; margin-bottom: 24px; }
+.sg-breadcrumb a { color: var(--text-muted); }
+.sg-breadcrumb a:hover { color: var(--accent); }
+
+.sg-hero { margin-bottom: 36px; border-bottom: 1px solid var(--border); padding-bottom: 28px; }
+.sg-hero-meta { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+.sg-era-tag { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; background: var(--accent-dim); color: var(--accent); border: 1px solid var(--accent-border); border-radius: 4px; padding: 3px 9px; }
+.sg-kanji { font-size: 1.4rem; color: var(--text-muted); }
+.sg-hero-title { font-family: var(--font-heading); font-size: 2.4rem; color: var(--white); margin: 0 0 8px; line-height: 1.1; }
+.sg-hero-tagline { font-size: 1rem; color: var(--text-muted); margin: 0; line-height: 1.6; max-width: 640px; }
+
+.sg-body { display: grid; grid-template-columns: 1fr 240px; gap: 40px; }
+@media (max-width: 860px) { .sg-body { grid-template-columns: 1fr; } .sg-aside { order: -1; } }
+
+.sg-main { min-width: 0; }
+.sg-section { margin-bottom: 40px; }
+.sg-section h2 { font-family: var(--font-heading); font-size: 1.3rem; color: var(--white); margin: 0 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+.sg-section p, .sg-section li { font-size: 0.95rem; line-height: 1.8; color: var(--text); }
+.sg-section p + p { margin-top: 0.9em; }
+
+.sg-band-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.sg-band-card { display: flex; flex-direction: column; gap: 6px; border: 1px solid var(--border); border-radius: 10px; background: var(--bg-card); padding: 14px 16px; text-decoration: none; color: inherit; transition: border-color 0.2s; }
+.sg-band-card:hover { border-color: var(--accent-border); text-decoration: none; }
+.sg-band-name { font-size: 0.95rem; font-weight: 700; color: var(--white); }
+.sg-band-note { font-size: 0.8rem; color: var(--text-muted); line-height: 1.5; margin: 0; }
+
+.sg-start-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+.sg-start-card { border: 1px solid var(--accent-border); border-radius: 10px; background: var(--accent-dim); padding: 14px 16px; display: flex; flex-direction: column; gap: 4px; }
+.sg-start-label { font-size: 0.63rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin: 0; }
+.sg-start-title { font-size: 0.92rem; font-weight: 700; color: var(--white); }
+.sg-start-by { font-size: 0.8rem; color: var(--text-muted); }
+.sg-start-note { font-size: 0.78rem; color: var(--text-muted); line-height: 1.5; margin: 4px 0 0; }
+
+.sg-related { display: flex; flex-wrap: wrap; gap: 8px; }
+.sg-related-pill { font-size: 0.78rem; font-weight: 600; border: 1px solid var(--border); border-radius: 20px; padding: 5px 14px; color: var(--text-muted); text-decoration: none; transition: all 0.15s; }
+.sg-related-pill:hover { border-color: var(--accent-border); color: var(--accent); text-decoration: none; }
+
+.sg-aside { display: flex; flex-direction: column; gap: 16px; }
+.sg-aside-box { border: 1px solid var(--border); border-radius: 12px; background: var(--bg-card); padding: 16px; }
+.sg-aside-box h3 { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; color: var(--text-faint); margin: 0 0 12px; }
+
+.sg-glance { display: grid; grid-template-columns: auto 1fr; gap: 6px 12px; font-size: 0.83rem; }
+.sg-glance dt { color: var(--text-muted); font-weight: 600; }
+.sg-glance dd { color: var(--text); margin: 0; }
+
+.sg-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.sg-tag { font-size: 0.72rem; background: rgba(255,255,255,0.05); border: 1px solid var(--border); border-radius: 4px; padding: 3px 8px; color: var(--text-muted); }
+
+.sg-back-btn { display: block; font-size: 0.8rem; font-weight: 600; color: var(--text-muted); text-decoration: none; text-align: center; }
+.sg-back-btn:hover { color: var(--accent); text-decoration: none; }

@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<div class="container" style="padding: 40px 0;">
+
+<nav class="sg-breadcrumb">
+  <a href="/subgenres/">← All Subgenres</a>
+</nav>
+
+<div class="sg-hero">
+  <div class="sg-hero-meta">
+    <span class="sg-era-tag">{{ page.era }}</span>
+    {% if page.kanji %}<span class="sg-kanji">{{ page.kanji }}</span>{% endif %}
+  </div>
+  <h1 class="sg-hero-title">{{ page.title }}</h1>
+  <p class="sg-hero-tagline">{{ page.tagline }}</p>
+</div>
+
+<div class="sg-body">
+
+  <div class="sg-main">
+
+    <section class="sg-section">
+      <h2>What Is {{ page.title }}?</h2>
+      {{ page.intro | markdownify }}
+    </section>
+
+    <section class="sg-section">
+      <h2>The Sound</h2>
+      {{ page.the_sound | markdownify }}
+    </section>
+
+    <section class="sg-section">
+      <h2>The Look</h2>
+      {{ page.the_look | markdownify }}
+    </section>
+
+    {% if page.bands %}
+    <section class="sg-section">
+      <h2>Key Bands</h2>
+      <div class="sg-band-grid">
+        {% for band in page.bands %}
+        <a href="{{ band.url }}" class="sg-band-card">
+          <strong class="sg-band-name">{{ band.name }}</strong>
+          {% if band.note %}<p class="sg-band-note">{{ band.note }}</p>{% endif %}
+        </a>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if page.start_with %}
+    <section class="sg-section sg-start-with">
+      <h2>Start With</h2>
+      <div class="sg-start-grid">
+        {% for item in page.start_with %}
+        <div class="sg-start-card">
+          <p class="sg-start-label">{{ item.type }}</p>
+          <strong class="sg-start-title">{{ item.title }}</strong>
+          <span class="sg-start-by">{{ item.by }}</span>
+          {% if item.note %}<p class="sg-start-note">{{ item.note }}</p>{% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if page.related %}
+    <section class="sg-section">
+      <h2>Related Subgenres</h2>
+      <div class="sg-related">
+        {% for sg in page.related %}
+        <a href="/subgenres/{{ sg.slug }}/" class="sg-related-pill">{{ sg.name }}</a>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+  </div>
+
+  <aside class="sg-aside">
+    <div class="sg-aside-box">
+      <h3>At a Glance</h3>
+      <dl class="sg-glance">
+        <dt>Era</dt><dd>{{ page.era }}</dd>
+        <dt>Origin</dt><dd>{{ page.origin }}</dd>
+        <dt>Mood</dt><dd>{{ page.mood }}</dd>
+      </dl>
+    </div>
+    {% if page.listen_tags %}
+    <div class="sg-aside-box">
+      <h3>Search Tags</h3>
+      <div class="sg-tags">
+        {% for tag in page.listen_tags %}
+        <span class="sg-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+    <div class="sg-aside-box">
+      <a href="/subgenres/" class="sg-back-btn">← All Subgenres</a>
+    </div>
+  </aside>
+
+</div>
+
+</div>

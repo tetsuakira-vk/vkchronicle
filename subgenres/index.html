@@ -1,0 +1,65 @@
+---
+layout: default
+title: "Visual Kei Subgenres Explained"
+permalink: /subgenres/
+description: "A complete guide to Visual Kei subgenres — from kote kei to nagoya kei, oshare kei, angura kei, and beyond. Learn what each style sounds and looks like."
+image: /assets/images/placeholder.jpg
+---
+
+<style>
+.sg-index-header { margin-bottom: 36px; }
+.sg-index-header h1 { font-family: var(--font-heading); font-size: 2rem; margin: 0 0 10px; }
+.sg-index-header p { color: var(--text-muted); max-width: 600px; margin: 0; font-size: 0.95rem; line-height: 1.6; }
+
+.sg-index-grid { display: grid; gap: 16px; grid-template-columns: repeat(12, 1fr); }
+.sg-index-card { grid-column: span 12; }
+@media (min-width: 540px) { .sg-index-card { grid-column: span 6; } }
+@media (min-width: 900px) { .sg-index-card { grid-column: span 4; } }
+
+.sg-index-link {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  padding: 20px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, transform 0.15s;
+  height: 100%;
+}
+.sg-index-link:hover { border-color: var(--accent-border); transform: translateY(-2px); text-decoration: none; }
+
+.sg-index-meta { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.sg-index-kanji { font-size: 1.2rem; color: var(--text-muted); }
+.sg-index-era { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-faint); }
+.sg-index-name { font-size: 1.15rem; font-weight: 700; color: var(--white); line-height: 1.2; }
+.sg-index-tagline { font-size: 0.83rem; color: var(--text-muted); line-height: 1.5; flex: 1; }
+.sg-index-cta { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--accent); margin-top: auto; padding-top: 6px; }
+</style>
+
+<div class="container" style="padding: 40px 0;">
+
+<div class="sg-index-header">
+  <h1>Visual Kei Subgenres</h1>
+  <p>Visual Kei is not one sound — it is a scene encompassing a dozen distinct subgenres, each with its own aesthetic rules, sonic identity, and fanbase. Explore them all below.</p>
+</div>
+
+<div class="sg-index-grid">
+  {% for sg in site.data.subgenres %}
+  <div class="sg-index-card">
+    <a href="/subgenres/{{ sg.slug }}/" class="sg-index-link">
+      <div class="sg-index-meta">
+        <span class="sg-index-kanji">{{ sg.kanji }}</span>
+        <span class="sg-index-era">{{ sg.era }}</span>
+      </div>
+      <p class="sg-index-name">{{ sg.name }}</p>
+      <p class="sg-index-tagline">{{ sg.tagline }}</p>
+      <span class="sg-index-cta">Explore →</span>
+    </a>
+  </div>
+  {% endfor %}
+</div>
+
+</div>
