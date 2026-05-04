@@ -1,0 +1,93 @@
+---
+layout: default
+title: "Visual Kei Livehouses & Venues in Japan"
+permalink: /livehouses/
+description: "A guide to the arenas, halls, and livehouses where Visual Kei bands play in Japan — from Budokan to basement livehouse, with maps and websites."
+image: /assets/images/placeholder.jpg
+---
+
+<style>
+.lh-header { margin-bottom: 28px; }
+.lh-header h1 { font-family: var(--font-heading); font-size: 2rem; margin: 0 0 8px; }
+.lh-header p { color: var(--text-muted); margin: 0; font-size: 0.92rem; }
+
+.lh-filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 24px; }
+.lh-filter { background: transparent; border: 1px solid var(--border); border-radius: 20px; color: var(--text-muted); cursor: pointer; font-size: 0.75rem; font-family: var(--font-body); letter-spacing: 0.05em; padding: 5px 14px; text-transform: uppercase; transition: all 0.15s; }
+.lh-filter:hover, .lh-filter.active { background: var(--accent); border-color: var(--accent); color: #000; font-weight: 700; }
+
+.lh-grid { display: grid; gap: 14px; grid-template-columns: repeat(12, 1fr); }
+.lh-card { grid-column: span 12; display: flex; flex-direction: column; gap: 10px; border: 1px solid var(--border); border-radius: 12px; background: var(--card-bg); padding: 16px; transition: border-color 0.2s; }
+.lh-card[hidden] { display: none; }
+.lh-card:hover { border-color: rgba(236,172,13,0.3); }
+@media (min-width: 540px) { .lh-card { grid-column: span 6; } }
+@media (min-width: 900px) { .lh-card { grid-column: span 4; } }
+
+.lh-card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+.lh-badges { display: flex; gap: 5px; flex-wrap: wrap; }
+.lh-type { font-size: 0.63rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; border-radius: 4px; padding: 2px 7px; }
+.lh-type--arena  { background: rgba(220,50,50,0.15);  color: #e88; border: 1px solid rgba(220,50,50,0.3); }
+.lh-type--hall   { background: rgba(80,140,220,0.15); color: #8af; border: 1px solid rgba(80,140,220,0.3); }
+.lh-type--livehouse { background: rgba(236,172,13,0.12); color: var(--accent); border: 1px solid rgba(236,172,13,0.3); }
+
+.lh-name { font-size: 1rem; font-weight: 700; color: var(--white); margin: 0; line-height: 1.2; }
+.lh-japanese { font-size: 0.8rem; color: var(--text-muted); margin: 1px 0 0; }
+.lh-area { display: flex; align-items: center; gap: 5px; font-size: 0.78rem; color: var(--text-muted); margin-top: 2px; }
+.lh-area::before { content: "📍"; font-size: 0.7rem; }
+.lh-note { font-size: 0.82rem; color: rgba(255,255,255,0.45); line-height: 1.5; flex: 1; }
+.lh-links { display: flex; gap: 8px; margin-top: auto; padding-top: 4px; }
+.lh-link { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; border: 1px solid var(--border); border-radius: 6px; padding: 4px 10px; text-decoration: none; color: var(--text-muted); transition: all 0.15s; }
+.lh-link:hover { border-color: var(--accent); color: var(--accent); }
+.lh-link--map { border-color: rgba(236,172,13,0.3); color: var(--accent); }
+.lh-link--map:hover { background: rgba(236,172,13,0.1); }
+</style>
+
+<div class="container" style="padding: 40px 0;">
+
+<div class="lh-header">
+  <h1>Livehouses &amp; Venues in Japan</h1>
+  <p>Arenas, halls, and basement livehouses where Visual Kei bands play — from Budokan to the underground circuit.</p>
+</div>
+
+<div class="lh-filters">
+  <button class="lh-filter active" data-type="all">All</button>
+  <button class="lh-filter" data-type="Arena">Arenas</button>
+  <button class="lh-filter" data-type="Hall">Halls</button>
+  <button class="lh-filter" data-type="Livehouse">Livehouses</button>
+</div>
+
+<div class="lh-grid" id="lh-grid">
+{% for v in site.data.livehouses %}
+  <div class="lh-card" data-type="{{ v.type }}">
+    <div class="lh-card-top">
+      <div class="lh-badges">
+        <span class="lh-type lh-type--{{ v.type | downcase }}">{{ v.type }}</span>
+      </div>
+    </div>
+    <div>
+      <p class="lh-name">{{ v.name }}</p>
+      {% if v.japanese %}<p class="lh-japanese">{{ v.japanese }}</p>{% endif %}
+      <p class="lh-area">{{ v.area }}</p>
+    </div>
+    {% if v.note %}<p class="lh-note">{{ v.note }}</p>{% endif %}
+    <div class="lh-links">
+      <a href="{{ v.maps }}" class="lh-link lh-link--map" target="_blank" rel="noopener">Map →</a>
+      {% if v.website %}<a href="{{ v.website }}" class="lh-link" target="_blank" rel="noopener">Website →</a>{% endif %}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+</div>
+
+<script>
+document.querySelectorAll('.lh-filter').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var type = btn.dataset.type;
+    document.querySelectorAll('.lh-filter').forEach(function(b){ b.classList.remove('active'); });
+    btn.classList.add('active');
+    document.querySelectorAll('.lh-card').forEach(function(card) {
+      card.hidden = (type !== 'all' && card.dataset.type !== type);
+    });
+  });
+});
+</script>
