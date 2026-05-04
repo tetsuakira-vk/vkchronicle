@@ -4,6 +4,16 @@
 </div>
 
 <div class="sidebar-widget">
+  <h3 class="widget-title">Band Spotlight</h3>
+  <div id="band-spotlight" class="sb-loading">Loading&hellip;</div>
+</div>
+
+<div class="sidebar-widget">
+  <h3 class="widget-title">Latest Review</h3>
+  <div id="latest-review" class="sb-loading">Loading&hellip;</div>
+</div>
+
+<div class="sidebar-widget">
   <h3 class="widget-title">Upcoming Releases</h3>
   <div id="upcoming-releases">
     {% if site.data.upcoming %}
@@ -53,3 +63,64 @@
     <li><a href="https://www.cdjapan.co.jp" target="_blank" rel="noopener">CD Japan</a></li>
   </ul>
 </div>
+
+<script>
+(function () {
+  function esc(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+  function proxied(url) {
+    return 'https://images.weserv.nl/?url=' + encodeURIComponent(url) + '&w=300&h=300&fit=cover&output=jpg';
+  }
+
+  // ── Band Spotlight ─────────────────────────────────────────────────────────
+  fetch('/bands.json')
+    .then(function(r){ return r.json(); })
+    .then(function(bands) {
+      var band = bands[Math.floor(Math.random() * bands.length)];
+      var el = document.getElementById('band-spotlight');
+      var tags = (band.tags || []).map(function(t){
+        return '<span class="sb-tag">' + esc(t) + '</span>';
+      }).join('');
+      var photo = band.photo
+        ? '<img src="' + proxied(band.photo) + '" alt="' + esc(band.name) + '" class="sb-band-photo">'
+        : '<div class="sb-band-photo sb-band-photo--placeholder">♪</div>';
+      el.className = '';
+      el.innerHTML =
+        '<a href="' + esc(band.url) + '" class="sb-band-card">' +
+          photo +
+          '<div class="sb-band-info">' +
+            '<strong class="sb-band-name">' + esc(band.name) + '</strong>' +
+            '<div class="sb-tags">' + tags + '</div>' +
+            '<span class="sb-band-cta">View profile →</span>' +
+          '</div>' +
+        '</a>';
+    })
+    .catch(function(){ document.getElementById('band-spotlight').textContent = ''; });
+
+  // ── Latest Review ──────────────────────────────────────────────────────────
+  fetch('/posts.json')
+    .then(function(r){ return r.json(); })
+    .then(function(posts) {
+      var review = posts.find(function(p){
+        return (p.labels || []).some(function(l){ return l.toLowerCase().includes('review'); });
+      });
+      var el = document.getElementById('latest-review');
+      if (!review) { el.textContent = 'No reviews yet.'; return; }
+      var img = review.image
+        ? '<img src="' + esc(review.image) + '" alt="' + esc(review.title) + '" class="sb-review-img">'
+        : '';
+      el.className = '';
+      el.innerHTML =
+        '<a href="' + esc(review.url) + '" class="sb-review-card">' +
+          img +
+          '<div class="sb-review-info">' +
+            '<span class="sb-review-label">Review</span>' +
+            '<strong class="sb-review-title">' + esc(review.title) + '</strong>' +
+            '<span class="sb-review-date">' + esc(review.date) + '</span>' +
+          '</div>' +
+        '</a>';
+    })
+    .catch(function(){ document.getElementById('latest-review').textContent = ''; });
+})();
+</script>
