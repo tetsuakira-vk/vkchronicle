@@ -1,0 +1,43 @@
+# Song of the Day — Spotify track IDs
+# To find a track ID: right-click any song in Spotify → Share → Copy song link
+# URL format: https://open.spotify.com/track/TRACK_ID_HERE
+# Paste just the TRACK_ID_HERE part below.
+# The sidebar picks one track per day using the date as a seed — same song all day.
+
+tracks:
+  - id: "2rCsXHbkBaDsTExbOiyNQ5"
+    title: "Endless Rain"
+    artist: "X Japan"
+  - id: "5nrGFkdJqS1XuEA4FVFXjn"
+    title: "Honey"
+    artist: "L'Arc-en-Ciel"
+  - id: "REPLACE_gazette_filth"
+    title: "Filth in the Beauty"
+    artist: "the GazettE"
+  - id: "REPLACE_diru_obscure"
+    title: "Obscure"
+    artist: "Dir en grey"
+  - id: "REPLACE_bucktick_dress"
+    title: "Dress"
+    artist: "Buck-Tick"
+  - id: "REPLACE_ancafe_maple"
+    title: "Maple Gunman"
+    artist: "An Cafe"
+  - id: "REPLACE_malicemizer_le_ciel"
+    title: "Le ciel"
+    artist: "Malice Mizer"
+  - id: "REPLACE_versailles_noble"
+    title: "Noble"
+    artist: "Versailles"
+  - id: "REPLACE_mucc_fuzz"
+    title: "Fuzz"
+    artist: "Mucc"
+  - id: "REPLACE_lunacea_rosier"
+    title: "Rosier"
+    artist: "LUNA SEA"
+  - id: "REPLACE_kagrra_shizuku"
+    title: "Shizuku"
+    artist: "Kagrra,"
+  - id: "REPLACE_sid_itsuka"
+    title: "Itsuka"
+    artist: "SID"

@@ -8,7 +8,11 @@ layout: default
   <a href="/subgenres/">← All Subgenres</a>
 </nav>
 
-<div class="sg-hero">
+{% if page.hero_image %}
+<div class="sg-hero-img" style="background-image: url('{{ page.hero_image }}')"></div>
+{% endif %}
+
+<div class="sg-hero" {% if page.color %}style="border-left: 4px solid {{ page.color }}; padding-left: 20px;"{% endif %}>
   <div class="sg-hero-meta">
     <span class="sg-era-tag">{{ page.era }}</span>
     {% if page.kanji %}<span class="sg-kanji">{{ page.kanji }}</span>{% endif %}

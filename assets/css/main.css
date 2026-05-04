@@ -517,7 +517,13 @@ img { max-width: 100%; height: auto; display: block; }
 .vk-badge { font-family: var(--font-body) !important; }
 .vk-guide h2, .vk-section h2 { font-family: var(--font-heading); }
 
+/* ── Song of the Day sidebar widget ────────────────────────────────────────── */
+.sotd-meta { display: flex; flex-direction: column; gap: 2px; }
+.sotd-artist { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--accent); }
+.sotd-title { font-size: 0.88rem; color: var(--text); font-weight: 600; }
+
 /* ── Subgenre pages ─────────────────────────────────────────────────────────── */
+.sg-hero-img { width: 100%; height: 200px; background-size: cover; background-position: center; border-radius: var(--radius); margin-bottom: 20px; }
 .sg-breadcrumb { font-size: 0.82rem; margin-bottom: 24px; }
 .sg-breadcrumb a { color: var(--text-muted); }
 .sg-breadcrumb a:hover { color: var(--accent); }

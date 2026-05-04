@@ -49,7 +49,7 @@ image: /assets/images/placeholder.jpg
 <div class="sg-index-grid">
   {% for sg in site.data.subgenres %}
   <div class="sg-index-card">
-    <a href="/subgenres/{{ sg.slug }}/" class="sg-index-link">
+    <a href="/subgenres/{{ sg.slug }}/" class="sg-index-link" {% if sg.color %}style="border-top: 3px solid {{ sg.color }};"{% endif %}>
       <div class="sg-index-meta">
         <span class="sg-index-kanji">{{ sg.kanji }}</span>
         <span class="sg-index-era">{{ sg.era }}</span>
