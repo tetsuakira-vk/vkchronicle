@@ -523,7 +523,11 @@ img { max-width: 100%; height: auto; display: block; }
 .sotd-title { font-size: 0.88rem; color: var(--text); font-weight: 600; }
 
 /* ── Subgenre pages ─────────────────────────────────────────────────────────── */
-.sg-hero-img { width: 100%; height: 200px; background-size: cover; background-position: center; border-radius: var(--radius); margin-bottom: 20px; }
+.sg-banner { position: relative; width: 100%; height: 160px; border-radius: var(--radius); margin-bottom: 24px; overflow: hidden; display: flex; align-items: flex-end; padding: 0; }
+.sg-banner--photo { background-size: cover; background-position: center; }
+.sg-banner::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to bottom, transparent 30%, rgba(10,10,10,0.6) 100%); }
+.sg-banner-kanji { position: absolute; right: 20px; bottom: -12px; font-size: 7rem; line-height: 1; color: rgba(255,255,255,0.12); font-family: serif; pointer-events: none; z-index: 1; letter-spacing: -0.02em; }
+
 .sg-breadcrumb { font-size: 0.82rem; margin-bottom: 24px; }
 .sg-breadcrumb a { color: var(--text-muted); }
 .sg-breadcrumb a:hover { color: var(--accent); }
@@ -531,7 +535,6 @@ img { max-width: 100%; height: auto; display: block; }
 .sg-hero { margin-bottom: 36px; border-bottom: 1px solid var(--border); padding-bottom: 28px; }
 .sg-hero-meta { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
 .sg-era-tag { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; background: var(--accent-dim); color: var(--accent); border: 1px solid var(--accent-border); border-radius: 4px; padding: 3px 9px; }
-.sg-kanji { font-size: 1.4rem; color: var(--text-muted); }
 .sg-hero-title { font-family: var(--font-heading); font-size: 2.4rem; color: var(--white); margin: 0 0 8px; line-height: 1.1; }
 .sg-hero-tagline { font-size: 1rem; color: var(--text-muted); margin: 0; line-height: 1.6; max-width: 640px; }
 

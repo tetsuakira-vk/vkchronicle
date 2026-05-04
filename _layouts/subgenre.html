@@ -9,13 +9,18 @@ layout: default
 </nav>
 
 {% if page.hero_image %}
-<div class="sg-hero-img" style="background-image: url('{{ page.hero_image }}')"></div>
+<div class="sg-banner sg-banner--photo" style="background-image: url('{{ page.hero_image }}')">
+  {% if page.kanji %}<span class="sg-banner-kanji">{{ page.kanji }}</span>{% endif %}
+</div>
+{% elsif page.color %}
+<div class="sg-banner" style="background: linear-gradient(135deg, {{ page.color }} 0%, {{ page.color }}88 40%, rgba(10,10,10,0.6) 100%);">
+  {% if page.kanji %}<span class="sg-banner-kanji">{{ page.kanji }}</span>{% endif %}
+</div>
 {% endif %}
 
-<div class="sg-hero" {% if page.color %}style="border-left: 4px solid {{ page.color }}; padding-left: 20px;"{% endif %}>
+<div class="sg-hero">
   <div class="sg-hero-meta">
-    <span class="sg-era-tag">{{ page.era }}</span>
-    {% if page.kanji %}<span class="sg-kanji">{{ page.kanji }}</span>{% endif %}
+    <span class="sg-era-tag" {% if page.color %}style="border-color: {{ page.color }}66; background: {{ page.color }}22; color: {{ page.color }};"{% endif %}>{{ page.era }}</span>
   </div>
   <h1 class="sg-hero-title">{{ page.title }}</h1>
   <p class="sg-hero-tagline">{{ page.tagline }}</p>
