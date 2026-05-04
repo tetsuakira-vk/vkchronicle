@@ -69,8 +69,9 @@ img { max-width: 100%; height: auto; display: block; }
   gap: 20px;
 }
 .site-banner-logo {
-  width: 36px;
-  height: 36px;
+  align-self: stretch;
+  width: auto;
+  aspect-ratio: 1 / 1;
   flex-shrink: 0;
   border-radius: 7px;
 }
@@ -382,6 +383,8 @@ img { max-width: 100%; height: auto; display: block; }
 .release-date { font-size: 0.75rem; color: var(--accent); }
 
 .label-cloud { display: flex; flex-wrap: wrap; gap: 4px; }
+.label-view-all { display: block; margin-top: 10px; font-size: 0.78rem; color: var(--accent); text-decoration: none; }
+.label-view-all:hover { text-decoration: underline; }
 
 .link-list { list-style: none; }
 .link-list li { padding: 5px 0; border-bottom: 1px solid var(--border); font-size: 0.9rem; }

@@ -14,7 +14,7 @@ layout: default
         <div class="card-body">
           <div class="card-labels">
             {% for label in post.labels limit:2 %}
-            <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+            <a href="/label/?tag={{ label | url_encode }}" class="label-pill">{{ label }}</a>
             {% endfor %}
           </div>
           <h2 class="card-title">

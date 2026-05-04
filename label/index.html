@@ -1,0 +1,99 @@
+---
+layout: default
+title: Browse by Label
+permalink: /label/
+description: "Browse all Visual Kei news, reviews, and band coverage by topic — filter posts by label on VK Chronicle."
+image: /assets/images/placeholder.jpg
+---
+<div class="container" style="padding: 40px 0;">
+
+<div id="label-page">
+  <h1 id="label-heading" style="font-family: var(--font-heading); font-size: 2rem; margin-bottom: 0.3em;">Browse by Label</h1>
+  <p id="label-subheading" style="color: var(--text-muted); margin-bottom: 2em;">All topics</p>
+
+  <div id="all-labels" style="margin-bottom: 2em; display: flex; flex-wrap: wrap; gap: 6px;"></div>
+
+  <div id="label-results" class="post-grid"></div>
+  <p id="label-empty" style="display:none; color: var(--text-muted);">No posts found for this label.</p>
+  <p id="label-loading" style="color: var(--text-muted);">Loading&hellip;</p>
+</div>
+
+<script>
+(function () {
+  var tag = new URLSearchParams(window.location.search).get('tag') || '';
+
+  fetch('/posts.json')
+    .then(function (r) { return r.json(); })
+    .then(function (posts) {
+      document.getElementById('label-loading').style.display = 'none';
+
+      // Build full label list
+      var labelSet = {};
+      posts.forEach(function (p) {
+        (p.labels || []).forEach(function (l) { labelSet[l] = (labelSet[l] || 0) + 1; });
+      });
+      var allLabels = Object.keys(labelSet).sort();
+      var labelsEl = document.getElementById('all-labels');
+      allLabels.forEach(function (l) {
+        var a = document.createElement('a');
+        a.href = '/label/?tag=' + encodeURIComponent(l);
+        a.className = 'label-pill' + (l === tag ? ' label-pill--active' : '');
+        a.textContent = l + ' (' + labelSet[l] + ')';
+        labelsEl.appendChild(a);
+      });
+
+      // Filter posts
+      var filtered = tag
+        ? posts.filter(function (p) { return (p.labels || []).some(function (l) { return l === tag; }); })
+        : posts;
+
+      if (tag) {
+        document.getElementById('label-heading').textContent = tag;
+        document.getElementById('label-subheading').textContent = filtered.length + ' post' + (filtered.length === 1 ? '' : 's');
+      } else {
+        document.getElementById('label-subheading').textContent = posts.length + ' posts across ' + allLabels.length + ' labels';
+      }
+
+      var grid = document.getElementById('label-results');
+      if (filtered.length === 0) {
+        document.getElementById('label-empty').style.display = '';
+        return;
+      }
+
+      filtered.forEach(function (post) {
+        var article = document.createElement('article');
+        article.className = 'post-card';
+        var img = post.image
+          ? '<a href="' + post.url + '" class="card-image-link"><img src="' + post.image + '" alt="" loading="lazy"></a>'
+          : '';
+        var labels = (post.labels || []).slice(0, 2).map(function (l) {
+          return '<a href="/label/?tag=' + encodeURIComponent(l) + '" class="label-pill">' + l + '</a>';
+        }).join('');
+        article.innerHTML = img +
+          '<div class="card-body">' +
+          '<div class="card-labels">' + labels + '</div>' +
+          '<h2 class="card-title"><a href="' + post.url + '">' + escHtml(post.title) + '</a></h2>' +
+          '<div class="card-meta"><time>' + post.date + '</time></div>' +
+          '</div>';
+        grid.appendChild(article);
+      });
+    })
+    .catch(function () {
+      document.getElementById('label-loading').textContent = 'Could not load posts.';
+    });
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+})();
+</script>
+
+<style>
+.label-pill--active {
+  background: rgba(236,172,13,0.3) !important;
+  border-color: var(--accent) !important;
+  color: var(--accent) !important;
+}
+</style>
+
+</div>

@@ -38,8 +38,9 @@
     {% endfor %}
     {% assign unique_labels = all_labels | uniq | sort %}
     {% for label in unique_labels limit:20 %}
-    <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+    <a href="/label/?tag={{ label | url_encode }}" class="label-pill">{{ label }}</a>
     {% endfor %}
+    <a href="/label/" class="label-view-all">View all labels →</a>
   </div>
 </div>
 

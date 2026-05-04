@@ -13,7 +13,7 @@ layout: default
       <header class="post-header">
         <div class="post-labels">
           {% for label in page.labels %}
-          <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+          <a href="/label/?tag={{ label | url_encode }}" class="label-pill">{{ label }}</a>
           {% endfor %}
         </div>
         <h1 class="post-title">{{ page.title }}</h1>
@@ -30,7 +30,7 @@ layout: default
       <footer class="post-footer">
         <div class="post-labels-footer">
           {% for label in page.labels %}
-          <a href="/label/{{ label | slugify }}/" class="label-pill">{{ label }}</a>
+          <a href="/label/?tag={{ label | url_encode }}" class="label-pill">{{ label }}</a>
           {% endfor %}
         </div>
       </footer>
