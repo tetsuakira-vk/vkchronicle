@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Razor"
+title: "Razor"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/be5df8cb6070467ec69b83a7c889a152.jpg"
 tags: ["thrash metal", "speed metal"]
 lastfm_slug: "Razor"

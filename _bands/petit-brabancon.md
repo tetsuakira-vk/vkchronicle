@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Petit Brabancon"
+title: "Petit Brabancon"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/b50802fb4a5645574b753f480201defb.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Petit+Brabancon"

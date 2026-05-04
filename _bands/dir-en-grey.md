@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Dir en grey"
+title: "Dir en grey"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/7aabf3530d924bb7125c0a344c2dbff3.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "Dir+en+grey"

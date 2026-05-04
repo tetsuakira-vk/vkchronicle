@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "HYDE"
+title: "HYDE"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/614c42f998f8ff65270dab08a9d1c5bb.jpg"
 tags: ["j-rock", "japanese"]
 lastfm_slug: "HYDE"

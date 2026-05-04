@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Deviloof"
+title: "Deviloof"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/21b9a149c5d8b334c9b39be5d6b7ebef.jpg"
 tags: ["deathcore", "visual kei"]
 lastfm_slug: "Deviloof"

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Kagrra"
+title: "Kagrra"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/65b8126cce8145cab51bca7390f49561.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Kagrra"

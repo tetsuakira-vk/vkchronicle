@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Sarigia"
+title: "Sarigia"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/f186e5454262ef80847d1a7d08fdf431.jpg"
 tags: ["visual kei", "japanese"]
 lastfm_slug: "Sarigia"

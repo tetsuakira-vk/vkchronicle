@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Umbrella"
+title: "Umbrella"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/7f2422fc9ffbd8a163d36020649c934f.jpg"
 tags: ["hardcore", "japanese"]
 lastfm_slug: "Umbrella"

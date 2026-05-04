@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "KAMIJO"
+title: "KAMIJO"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fbe5c1f83b5a2bdb144db34ce7a8242d.jpg"
 tags: ["visual kei", "japanese"]
 lastfm_slug: "KAMIJO"

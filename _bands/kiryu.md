@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Kiryu"
+title: "Kiryu"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/30391b529a34ca8cbb9438cce6c6250e.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Kiryu"

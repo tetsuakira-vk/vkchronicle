@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Arlequin"
+title: "Arlequin"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/affa2a084b7c2418a99835dc214e5de8.jpg"
 tags: ["japanese", "blues"]
 lastfm_slug: "Arlequin"

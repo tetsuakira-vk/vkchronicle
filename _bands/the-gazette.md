@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "the GazettE"
+title: "the GazettE"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/1b047646a41f444893db874851c9db11.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "the+GazettE"

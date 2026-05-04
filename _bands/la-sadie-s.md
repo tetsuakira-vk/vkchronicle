@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "La:Sadie's"
+title: "La:Sadie's"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/6b1439406f93470d90d3bb3a1a0b8f0a.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "La%3ASadie's"

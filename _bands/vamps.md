@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "VAMPS"
+title: "VAMPS"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/975c139777a148d7a09d2a1e18b886d3.jpg"
 tags: ["j-rock", "japanese"]
 lastfm_slug: "VAMPS"

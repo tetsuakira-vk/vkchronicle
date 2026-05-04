@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "SID"
+title: "SID"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/2771402eee3ddbb0f0e886c85ef04479.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "SID"

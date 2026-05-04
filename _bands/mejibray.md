@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Mejibray"
+title: "Mejibray"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/33b0c554edd842efb3dfffd0ac024599.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Mejibray"

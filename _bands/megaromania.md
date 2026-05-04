@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Megaromania"
+title: "Megaromania"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/36aaf998a98741d99571aea684f941f2.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Megaromania"

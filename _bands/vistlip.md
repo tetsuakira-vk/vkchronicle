@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Vistlip"
+title: "Vistlip"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8fb46e3e9a124994895f5965620be3ab.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Vistlip"

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Deathgaze"
+title: "Deathgaze"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/9c0b053ece4c4f0ba51f8d27544e13e0.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Deathgaze"

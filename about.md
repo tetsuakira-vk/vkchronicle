@@ -2,6 +2,8 @@
 layout: default
 title: About VK Chronicle
 permalink: /about/
+description: "VK Chronicle covers Visual Kei news, reviews, and band profiles in English for Western fans who want to stay connected to the Japanese scene."
+image: /assets/images/placeholder.jpg
 ---
 <div class="container" style="max-width:760px; padding: 48px 20px;">
   <h1 style="font-family:'Playfair Display',serif; color:#fff; font-size:2rem; margin-bottom:16px;">About VK Chronicle</h1>

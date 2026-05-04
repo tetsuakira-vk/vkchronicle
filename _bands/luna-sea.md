@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "LUNA SEA"
+title: "LUNA SEA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/3d19fde2399712df6ba3ff16f4d2e3e3.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "LUNA+SEA"

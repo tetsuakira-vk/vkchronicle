@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "LM.C"
+title: "LM.C"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fa2625a02a7e44159e434d5bd024c28d.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "LM.C"

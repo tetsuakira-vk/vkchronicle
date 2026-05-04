@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "KIZU"
+title: "KIZU"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c4ad53b42a67db00937db52064cd21e3.jpg"
 tags: ["rock", "metal"]
 lastfm_slug: "KIZU"

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Rides in ReVellion"
+title: "Rides in ReVellion"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c3400e00c4665f68ee5158033e472b35.jpg"
 tags: ["visual kei", "power metal"]
 lastfm_slug: "Rides+in+ReVellion"

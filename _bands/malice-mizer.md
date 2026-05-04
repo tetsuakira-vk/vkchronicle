@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Malice Mizer"
+title: "Malice Mizer"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/6b8a573fefe84ba596994a7e4b8b344e.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Malice+Mizer"

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "HANABIE."
+title: "HANABIE."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fb5d01b53361afdaabdba3aae2fe2a06.jpg"
 tags: ["metalcore", "kawaii metal"]
 lastfm_slug: "HANABIE."

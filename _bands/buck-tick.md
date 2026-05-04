@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Buck-Tick"
+title: "Buck-Tick"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/a692d8b2a74f46050295ea83cf9114ea.jpg"
 tags: ["j-rock", "japanese"]
 lastfm_slug: "Buck-Tick"

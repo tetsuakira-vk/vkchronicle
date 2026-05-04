@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Onmyoza"
+title: "Onmyoza"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/a748080defb103d294b306eae9ed5656.jpg"
 tags: ["heavy metal", "japanese"]
 lastfm_slug: "Onmyoza"

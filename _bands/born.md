@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "BORN"
+title: "BORN"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8ef80193c81c4b5a93f2f102368dff87.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "BORN"

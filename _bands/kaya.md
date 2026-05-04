@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Kaya"
+title: "Kaya"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/295b642e75394645aed9ac66e1064c03.jpg"
 tags: ["visual kei", "electronic"]
 lastfm_slug: "Kaya"

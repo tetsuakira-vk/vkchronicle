@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Dadaroma"
+title: "Dadaroma"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/0a08d8057325b2457d028a13e28b5261.jpg"
 tags: ["visual kei", "japanese"]
 lastfm_slug: "Dadaroma"

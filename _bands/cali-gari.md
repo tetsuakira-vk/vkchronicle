@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Cali≠gari"
+title: "Cali≠gari"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/413e579334effc8b318bd24c93daf92b.jpg"
 tags: ["eroguro", "visual kei"]
 lastfm_slug: "Cali%E2%89%A0gari"

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Suicide Ali"
+title: "Suicide Ali"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/94c4e35549c2412b9fd55dac3cc78221.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Suicide+Ali"

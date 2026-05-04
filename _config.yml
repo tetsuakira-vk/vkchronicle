@@ -54,11 +54,12 @@ defaults:
       type: bands
     values:
       layout: band
+      image: /assets/images/placeholder.jpg
 
 # Social / SEO
 twitter:
   username: vkchronicle
-logo: /assets/images/logo.png
+logo: /favicon.png
 
 # Feed
 feed:

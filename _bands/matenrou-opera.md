@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Matenrou Opera"
+title: "Matenrou Opera"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/f2612085ae4e4fd480fd625035db90f4.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Matenrou+Opera"

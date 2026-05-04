@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Nightmare"
+title: "Nightmare"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/cca302f32a2042548660d2bbda039d6d.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "Nightmare"

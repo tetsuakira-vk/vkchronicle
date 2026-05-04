@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Plastic Tree"
+title: "Plastic Tree"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/9638d4e122e7452ca05523d81d0ea142.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "Plastic+Tree"

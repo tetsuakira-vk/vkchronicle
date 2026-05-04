@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "heidi."
+title: "heidi."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/bd70ff2f576b63c99640b90f99cc65ca.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "heidi."

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Xaa-Xaa"
+title: "Xaa-Xaa"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/33930370f4b34a54ee165b86a4c52518.jpg"
 tags: ["add tags"]
 lastfm_slug: "Xaa-Xaa"

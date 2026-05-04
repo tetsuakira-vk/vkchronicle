@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "lynch."
+title: "lynch."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/807a83279883d76f5e547a0951b64878.jpg"
 tags: ["j-rock", "nagoya kei"]
 lastfm_slug: "lynch."

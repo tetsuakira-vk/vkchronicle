@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "DIMLIM"
+title: "DIMLIM"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fda2014404dfd92cb729b6efa821ff9e.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "DIMLIM"

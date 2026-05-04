@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Angelo"
+title: "Angelo"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/7e7a43def810771ef7a2dba7256db171.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "Angelo"

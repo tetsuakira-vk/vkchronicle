@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Jiluka"
+title: "Jiluka"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c6c2842621f4e3ce61cccbb60ba5161f.jpg"
 tags: ["visual kei", "metalcore"]
 lastfm_slug: "Jiluka"

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Lycaon"
+title: "Lycaon"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/0cd4cd261c2c030cdc057b73cad3e879.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Lycaon"

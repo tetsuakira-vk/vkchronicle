@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "NAZARE"
+title: "NAZARE"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/95a0c6df246a49a38dfdfc1ea9526085.jpg"
 tags: ["hard rock", "classic rock"]
 lastfm_slug: "NAZARE"

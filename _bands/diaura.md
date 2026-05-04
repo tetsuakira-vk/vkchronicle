@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "DIAURA"
+title: "DIAURA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/bafbbd7d1c95bdf654146ec56956d357.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "DIAURA"

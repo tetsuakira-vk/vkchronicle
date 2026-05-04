@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Develop One's Faculties"
+title: "Develop One's Faculties"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/ca038b932733662ae43aa559673137e8.jpg"
 tags: ["visual kei", "japanese"]
 lastfm_slug: "Develop+One's+Faculties"

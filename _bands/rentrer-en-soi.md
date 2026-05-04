@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Rentrer en Soi"
+title: "Rentrer en Soi"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/35a6624a8deb7be0f0dc0949d5e3afce.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Rentrer+en+Soi"

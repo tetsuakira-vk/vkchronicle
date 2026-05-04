@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "X Japan"
+title: "X Japan"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8e363461bf214d6e81cd97411ac7ec36.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "X+Japan"

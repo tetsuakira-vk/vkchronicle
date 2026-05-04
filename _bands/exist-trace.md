@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Exist†trace"
+title: "Exist†trace"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8b98dde4f4a24c8f8d2934f917737b09.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Exist%E2%80%A0trace"

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Pentagon"
+title: "Pentagon"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/221cdbb0b94db1599b09b10c5ae0035f.jpg"
 tags: ["k-pop", "japanese"]
 lastfm_slug: "Pentagon"

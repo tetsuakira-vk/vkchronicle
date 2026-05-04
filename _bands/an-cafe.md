@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "An Cafe"
+title: "An Cafe"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/cebf4e3c2b3c1aaef39853f601a3b79c.jpg"
 tags: ["j-rock", "oshare kei"]
 lastfm_slug: "An+Cafe"

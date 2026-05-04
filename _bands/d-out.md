@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "D=OUT"
+title: "D=OUT"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/bd736c0ff8aa41c48ffb779b4fd50cff.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "D%3DOUT"

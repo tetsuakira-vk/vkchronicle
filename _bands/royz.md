@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Royz"
+title: "Royz"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/d85cf1a08b3b401f87d4e6c3341d94b6.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Royz"

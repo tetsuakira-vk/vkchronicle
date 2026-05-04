@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Moi dix Mois"
+title: "Moi dix Mois"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/4245f5d2fb5046fbb6882513f83a446b.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Moi+dix+Mois"

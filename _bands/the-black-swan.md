@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "The Black Swan"
+title: "The Black Swan"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/dec20ebcf1a4e91d0629e98e79fdc668.jpg"
 tags: ["visual kei", "metal"]
 lastfm_slug: "The+Black+Swan"

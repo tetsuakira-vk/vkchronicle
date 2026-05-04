@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "The Novembers"
+title: "The Novembers"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/6f8d5aaf539c4356b36e42b8c2068beb.jpg"
 tags: ["shoegaze", "japanese"]
 lastfm_slug: "The+Novembers"

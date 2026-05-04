@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Versailles"
+title: "Versailles"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/68399e609df0416287e21ec8aaee60c5.jpg"
 tags: ["visual kei", "symphonic metal"]
 lastfm_slug: "Versailles"

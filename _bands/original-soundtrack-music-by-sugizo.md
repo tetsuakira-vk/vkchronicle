@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Original Soundtrack (Music by SUGIZO)"
+title: "Original Soundtrack (Music by SUGIZO)"
 lastfm_slug: "Original%20Soundtrack%20(Music%20by%20SUGIZO)"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Original%20Soundtrack%20(Music%20by%20SUGIZO)&genre=JPOP&subgenre_id=VK"
 ---

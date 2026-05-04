@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Girugamesh"
+title: "Girugamesh"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/d83de273791d27613a173ca5ddbeaf9b.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "Girugamesh"

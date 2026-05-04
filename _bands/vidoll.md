@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Vidoll"
+title: "Vidoll"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/9ed02b567a404ba0b1146ba23d701a65.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Vidoll"

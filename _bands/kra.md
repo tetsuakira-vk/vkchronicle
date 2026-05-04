@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "KRA"
+title: "KRA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/5b6c648c1f684f66aa06cce88761a90f.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "KRA"

@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Baroque"
+title: "Baroque"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8c092ce76e984f8abd8aec34d5909d70.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "Baroque"

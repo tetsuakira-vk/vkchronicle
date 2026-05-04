@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "X"
+title: "X"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c7d7cbb34950373bded921845338c56d.jpg"
 tags: ["punk", "punk rock"]
 lastfm_slug: "X"

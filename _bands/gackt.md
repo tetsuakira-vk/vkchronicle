@@ -1,6 +1,7 @@
 ---
 layout: band
 name: "Gackt"
+title: "Gackt"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/be7e1eb8d68a45d9a4ef105f9b11098d.jpg"
 tags: ["j-rock", "japanese"]
 lastfm_slug: "Gackt"
