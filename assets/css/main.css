@@ -60,8 +60,19 @@ img { max-width: 100%; height: auto; display: block; }
 .site-banner {
   background: #000;
   border-bottom: 1px solid rgba(255,255,255,0.06);
-  padding: 22px 0 18px;
-  text-align: center;
+  padding: 20px 0 16px;
+}
+.site-banner-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.site-banner-logo {
+  width: 68px;
+  height: 68px;
+  flex-shrink: 0;
+  border-radius: 14px;
 }
 .site-banner-title {
   font-family: var(--font-heading);
