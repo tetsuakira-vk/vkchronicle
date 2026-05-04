@@ -523,10 +523,10 @@ img { max-width: 100%; height: auto; display: block; }
 .sotd-title { font-size: 0.88rem; color: var(--text); font-weight: 600; }
 
 /* ── Subgenre pages ─────────────────────────────────────────────────────────── */
-.sg-banner { position: relative; width: 100%; height: 160px; border-radius: var(--radius); margin-bottom: 24px; overflow: hidden; display: flex; align-items: flex-end; padding: 0; }
-.sg-banner--photo { background-size: cover; background-position: center; }
-.sg-banner::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to bottom, transparent 30%, rgba(10,10,10,0.6) 100%); }
-.sg-banner-kanji { position: absolute; right: 20px; bottom: -12px; font-size: 7rem; line-height: 1; color: rgba(255,255,255,0.12); font-family: serif; pointer-events: none; z-index: 1; letter-spacing: -0.02em; }
+.sg-banner { position: relative; width: 100%; height: 180px; border-radius: var(--radius); margin-bottom: 24px; overflow: hidden; }
+.sg-banner--photo { background-size: cover; background-position: center top; }
+.sg-banner::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(10,10,10,0.2) 0%, rgba(10,10,10,0.55) 100%); }
+.sg-banner-kanji { position: absolute; right: 24px; bottom: -8px; font-size: 8rem; line-height: 1; color: rgba(255,255,255,0.15); font-family: serif; pointer-events: none; z-index: 1; letter-spacing: -0.02em; text-shadow: 0 2px 8px rgba(0,0,0,0.5); }
 
 .sg-breadcrumb { font-size: 0.82rem; margin-bottom: 24px; }
 .sg-breadcrumb a { color: var(--text-muted); }
