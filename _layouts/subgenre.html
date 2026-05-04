@@ -8,11 +8,7 @@ layout: default
   <a href="/subgenres/">← All Subgenres</a>
 </nav>
 
-{% if page.hero_image %}
-<div class="sg-banner sg-banner--photo" style="background-image: url('{{ page.hero_image }}')">
-  {% if page.kanji %}<span class="sg-banner-kanji">{{ page.kanji }}</span>{% endif %}
-</div>
-{% elsif page.color %}
+{% if page.color %}
 <div class="sg-banner" style="background: linear-gradient(135deg, {{ page.color }} 0%, {{ page.color }}88 40%, rgba(10,10,10,0.6) 100%);">
   {% if page.kanji %}<span class="sg-banner-kanji">{{ page.kanji }}</span>{% endif %}
 </div>
@@ -29,6 +25,12 @@ layout: default
 <div class="sg-body">
 
   <div class="sg-main">
+
+    {% if page.hero_image %}
+    <div class="sg-feature-img">
+      <img src="{{ page.hero_image }}" alt="{{ page.title }} — representative band photo" loading="lazy">
+    </div>
+    {% endif %}
 
     <section class="sg-section">
       <h2>What Is {{ page.title }}?</h2>
