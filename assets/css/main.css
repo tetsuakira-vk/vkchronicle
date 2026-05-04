@@ -69,10 +69,10 @@ img { max-width: 100%; height: auto; display: block; }
   gap: 20px;
 }
 .site-banner-logo {
-  width: 68px;
-  height: 68px;
+  width: 36px;
+  height: 36px;
   flex-shrink: 0;
-  border-radius: 14px;
+  border-radius: 7px;
 }
 .site-banner-title {
   font-family: var(--font-heading);
