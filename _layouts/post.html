@@ -4,7 +4,18 @@ layout: default
 <div class="container">
   <div class="post-layout">
     <article class="post">
-      {% if page.image %}
+      {% if page.youtube_id %}
+      <div class="post-video">
+        <iframe
+          src="https://www.youtube.com/embed/{{ page.youtube_id }}"
+          title="{{ page.title }}"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+          loading="lazy">
+        </iframe>
+      </div>
+      {% elsif page.image %}
       <div class="post-hero">
         <img src="{{ page.image }}" alt="{{ page.title }}" loading="lazy">
       </div>
