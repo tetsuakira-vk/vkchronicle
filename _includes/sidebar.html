@@ -1,9 +1,9 @@
 <div class="sidebar-widget">
   <h3 class="widget-title">About</h3>
-  <p>VK Chronicle covers Visual Kei music news, reviews, and band profiles for English-speaking fans worldwide.</p>
+  <p>VK Chronicle covers Visual Kei and J-Rock music news, reviews, and band profiles for English-speaking fans worldwide.</p>
 </div>
 
-<!-- Song of the Day — hidden until track IDs are filled in _data/sotd.yml -->
+<!-- Song of the Day -->
 <div class="sidebar-widget sotd-widget" id="sotd-widget" style="display:none">
   <h3 class="widget-title">Song of the Day</h3>
   <div class="sotd-meta" id="sotd-meta"></div>
@@ -18,16 +18,24 @@
 
 <script>
 (function () {
+  function extractId(raw) {
+    // Accept full Spotify share URLs or plain track IDs
+    var m = raw && raw.match(/\/track\/([a-zA-Z0-9]+)/);
+    return m ? m[1] : raw;
+  }
   var tracks = [{% for t in site.data.sotd.tracks %}{"id":{{ t.id | jsonify }},"title":{{ t.title | jsonify }},"artist":{{ t.artist | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}];
   if (!tracks.length) return;
-  var realTracks = tracks.filter(function(t){ return !t.id.startsWith('REPLACE_'); });
+  var realTracks = tracks.filter(function(t){ return t.id && !t.id.startsWith('REPLACE_'); });
   if (!realTracks.length) return;
   var day = Math.floor(Date.now() / 86400000);
   var t = realTracks[day % realTracks.length];
+  var trackId = extractId(t.id);
   var player = document.getElementById('sotd-player');
   var meta = document.getElementById('sotd-meta');
-  player.src = 'https://open.spotify.com/embed/track/' + t.id + '?utm_source=generator&theme=0';
-  meta.innerHTML = '<span class="sotd-artist">' + t.artist + '</span><span class="sotd-title">' + t.title + '</span>';
+  player.src = 'https://open.spotify.com/embed/track/' + trackId + '?utm_source=generator&theme=0';
+  var artistHtml = t.artist ? '<span class="sotd-artist">' + t.artist + '</span>' : '';
+  var titleHtml  = t.title  ? '<span class="sotd-title">'  + t.title  + '</span>' : '';
+  meta.innerHTML = artistHtml + titleHtml;
   document.getElementById('sotd-widget').style.display = '';
 })();
 </script>
