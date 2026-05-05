@@ -5,10 +5,10 @@
 # The sidebar picks one track per day using the date as a seed — same song all day.
 
 tracks:
-  - id: "2rCsXHbkBaDsTExbOiyNQ5"
+  - id: "REPLACE_xjapan_endlessrain"
     title: "Endless Rain"
     artist: "X Japan"
-  - id: "5nrGFkdJqS1XuEA4FVFXjn"
+  - id: "REPLACE_larc_honey"
     title: "Honey"
     artist: "L'Arc-en-Ciel"
   - id: "REPLACE_gazette_filth"
