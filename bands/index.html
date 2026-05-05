@@ -721,8 +721,10 @@ image: /assets/images/placeholder.jpg
     <a class="band-link" href="/bands/kiryu/">View profile →</a>
   </div>
 </article>
-<article class="band-card" data-name="d'espairsray" data-tag="">
-  <div style="width:80px;height:80px;border-radius:50%;background:rgba(255,255,255,0.07);flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:1.5rem;">🎸</div>
+<article class="band-card" data-name="d'espairsray" data-tag="visual kei">
+  <img src="https://images.weserv.nl/?url=lastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F9dda0d0b9ab947c0a5e5f50d23c86e3e.jpg&w=200&output=jpg"
+       alt="D'ESPAIRSRAY"
+       style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
   <div class="band-info">
     <div class="band-name">D'ESPAIRSRAY</div>
     <div class="band-meta"><span class="band-tag">Visual Kei</span> </div>
@@ -759,8 +761,10 @@ image: /assets/images/placeholder.jpg
     <a class="band-link" href="/bands/kaya/">View profile →</a>
   </div>
 </article>
-<article class="band-card" data-name="original soundtrack (music by sugizo)" data-tag="">
-  <div style="width:80px;height:80px;border-radius:50%;background:rgba(255,255,255,0.07);flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:1.5rem;">🎸</div>
+<article class="band-card" data-name="sugizo" data-tag="visual kei">
+  <img src="https://images.weserv.nl/?url=lastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F2fc2c9ff93e8c7b3e36d73fa78e3a5c9.jpg&w=200&output=jpg"
+       alt="SUGIZO"
+       style="width:80px;height:80px;object-fit:cover;border-radius:50%;flex-shrink:0;background:#222;" />
   <div class="band-info">
     <div class="band-name">Original Soundtrack (Music by SUGIZO)</div>
     <div class="band-meta"><span class="band-tag">Visual Kei</span> </div>
@@ -780,3 +784,41 @@ image: /assets/images/placeholder.jpg
 </div>
 <p class="bands-footer">Updated 3 May 2026.</p>
 </div>
+
+<script>
+(function () {
+  function makePlaceholder(name) {
+    var clean = (name || '').replace(/[^a-zA-Z0-9\s]/g, '').trim();
+    var words = clean.split(/\s+/).filter(Boolean);
+    var initials = words.length >= 2
+      ? (words[0][0] + words[1][0]).toUpperCase()
+      : (clean.slice(0, 2).toUpperCase() || '♪');
+    var div = document.createElement('div');
+    div.style.cssText = [
+      'width:80px', 'height:80px', 'border-radius:50%', 'flex-shrink:0',
+      'display:flex', 'align-items:center', 'justify-content:center',
+      'font-size:1.25rem', 'font-weight:700', 'letter-spacing:-1px',
+      'color:rgba(255,255,255,0.35)', 'font-family:Inter,sans-serif',
+      'background:linear-gradient(135deg,rgba(255,255,255,0.07) 0%,rgba(255,255,255,0.02) 100%)',
+      'border:1px solid rgba(255,255,255,0.08)'
+    ].join(';');
+    div.textContent = initials;
+    return div;
+  }
+
+  function replaceWithPlaceholder(img) {
+    if (img._replaced) return;
+    img._replaced = true;
+    img.parentNode.replaceChild(makePlaceholder(img.alt), img);
+  }
+
+  document.querySelectorAll('.band-card img').forEach(function (img) {
+    // Wire onerror for images not yet loaded
+    img.onerror = function () { replaceWithPlaceholder(this); };
+    // Catch images that already failed before this script ran
+    if (img.complete && img.naturalWidth === 0) {
+      replaceWithPlaceholder(img);
+    }
+  });
+})();
+</script>
