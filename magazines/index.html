@@ -1,0 +1,93 @@
+---
+layout: default
+title: "Visual Kei Magazines"
+permalink: /magazines/
+description: "A guide to the Japanese magazines that documented the Visual Kei scene — from SHOXX and FOOL'S MATE to Cure and ROCK AND READ."
+image: /assets/images/placeholder.jpg
+---
+
+<style>
+.mag-header { margin-bottom: 28px; }
+.mag-header h1 { font-family: var(--font-heading); font-size: 2rem; margin: 0 0 8px; }
+.mag-header p { color: var(--text-muted); margin: 0; font-size: 0.92rem; max-width: 620px; }
+
+.mag-filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 24px; }
+.mag-filter { background: transparent; border: 1px solid var(--border); border-radius: 20px; color: var(--text-muted); cursor: pointer; font-size: 0.75rem; font-family: var(--font-body); letter-spacing: 0.05em; padding: 5px 14px; text-transform: uppercase; transition: all 0.15s; }
+.mag-filter:hover, .mag-filter.active { background: var(--accent); border-color: var(--accent); color: #000; font-weight: 700; }
+
+.mag-grid { display: grid; gap: 14px; grid-template-columns: repeat(12, 1fr); }
+.mag-card { grid-column: span 12; display: flex; flex-direction: column; gap: 12px; border: 1px solid var(--border); border-radius: 12px; background: var(--bg-card); padding: 20px; transition: border-color 0.2s; }
+.mag-card[hidden] { display: none; }
+.mag-card:hover { border-color: rgba(236,172,13,0.3); }
+@media (min-width: 600px) { .mag-card { grid-column: span 6; } }
+@media (min-width: 1000px) { .mag-card { grid-column: span 4; } }
+
+.mag-badges { display: flex; gap: 5px; flex-wrap: wrap; margin-bottom: 4px; }
+.mag-badge { font-size: 0.63rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; border-radius: 4px; padding: 2px 7px; }
+.mag-badge--vk     { background: rgba(236,172,13,0.12); color: var(--accent); border: 1px solid rgba(236,172,13,0.3); }
+.mag-badge--j-rock { background: rgba(80,140,220,0.12); color: #8ab4f8; border: 1px solid rgba(80,140,220,0.3); }
+.mag-badge--guitar { background: rgba(60,180,100,0.12); color: #7dd4a0; border: 1px solid rgba(60,180,100,0.3); }
+.mag-badge--active  { background: rgba(60,180,100,0.12); color: #7dd4a0; border: 1px solid rgba(60,180,100,0.3); }
+.mag-badge--defunct { background: rgba(120,120,120,0.12); color: #888; border: 1px solid rgba(120,120,120,0.3); }
+
+.mag-name { font-family: var(--font-heading); font-size: 1.2rem; font-weight: 700; color: var(--white); margin: 0 0 2px; line-height: 1.2; }
+.mag-japanese { font-size: 0.8rem; color: var(--text-faint); margin: 0 0 6px; }
+.mag-meta { display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.75rem; color: var(--text-muted); }
+.mag-years::before { content: "📅 "; }
+.mag-freq::before  { content: "🗓 "; }
+
+.mag-desc { font-size: 0.83rem; color: rgba(255,255,255,0.5); line-height: 1.6; flex: 1; }
+.mag-notable { font-size: 0.78rem; color: rgba(255,255,255,0.35); line-height: 1.5; font-style: italic; border-top: 1px solid var(--border); padding-top: 10px; margin-top: auto; }
+</style>
+
+<div class="container" style="padding: 40px 0;">
+
+<div class="mag-header">
+  <h1>Visual Kei Magazines</h1>
+  <p>The Japanese print publications that documented the scene — from the genre's formation in the late 80s through the peak years and eventual decline of dedicated VK press.</p>
+</div>
+
+<div class="mag-filters">
+  <button class="mag-filter active" data-filter="all">All</button>
+  <button class="mag-filter" data-filter="active">Still in Print</button>
+  <button class="mag-filter" data-filter="vk">VK-focused</button>
+  <button class="mag-filter" data-filter="j-rock">J-Rock &amp; Broader</button>
+</div>
+
+<div class="mag-grid">
+{% for mag in site.data.magazines %}
+  <div class="mag-card" data-status="{{ mag.status }}" data-focus="{{ mag.focus }}">
+    <div>
+      <div class="mag-badges">
+        <span class="mag-badge mag-badge--{{ mag.focus }}">{% if mag.focus == 'vk' %}Visual Kei{% elsif mag.focus == 'j-rock' %}J-Rock{% elsif mag.focus == 'guitar' %}Guitar / Tech{% endif %}</span>
+        <span class="mag-badge mag-badge--{{ mag.status }}">{% if mag.status == 'active' %}In Print{% else %}Defunct{% endif %}</span>
+      </div>
+      <p class="mag-name">{{ mag.name }}</p>
+      {% if mag.japanese %}<p class="mag-japanese">{{ mag.japanese }}</p>{% endif %}
+      <div class="mag-meta">
+        {% if mag.years %}<span class="mag-years">{{ mag.years }}</span>{% endif %}
+        {% if mag.frequency %}<span class="mag-freq">{{ mag.frequency }}</span>{% endif %}
+      </div>
+    </div>
+    <p class="mag-desc">{{ mag.description }}</p>
+    {% if mag.notable %}<p class="mag-notable">{{ mag.notable }}</p>{% endif %}
+  </div>
+{% endfor %}
+</div>
+
+</div>
+
+<script>
+document.querySelectorAll('.mag-filter').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var filter = btn.dataset.filter;
+    document.querySelectorAll('.mag-filter').forEach(function(b){ b.classList.remove('active'); });
+    btn.classList.add('active');
+    document.querySelectorAll('.mag-card').forEach(function(card) {
+      if (filter === 'all') { card.hidden = false; return; }
+      if (filter === 'active') { card.hidden = card.dataset.status !== 'active'; return; }
+      card.hidden = card.dataset.focus !== filter;
+    });
+  });
+});
+</script>
