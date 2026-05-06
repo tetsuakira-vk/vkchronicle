@@ -113,9 +113,11 @@ image: /assets/images/placeholder.jpg
     </div>
     {% endif %}
 
+    {% if label.website %}
     <div class="rl-footer">
-      <a href="{{ label.vkgy }}" class="rl-link" target="_blank" rel="noopener">vk.gy →</a>
+      <a href="{{ label.website }}" class="rl-link" target="_blank" rel="noopener">Official Site →</a>
     </div>
+    {% endif %}
 
   </div>
 {% endfor %}
