@@ -1,0 +1,139 @@
+---
+layout: default
+title: "Visual Kei Record Labels"
+permalink: /record-labels/
+description: "The indie labels, major imprints, and sub-labels behind Visual Kei — who they are, where they operate, and which bands they've built."
+image: /assets/images/placeholder.jpg
+---
+
+<style>
+.rl-header { margin-bottom: 28px; }
+.rl-header h1 { font-family: var(--font-heading); font-size: 2rem; margin: 0 0 8px; }
+.rl-header p { color: var(--text-muted); margin: 0; font-size: 0.92rem; max-width: 600px; }
+
+.rl-filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 24px; }
+.rl-filter { background: transparent; border: 1px solid var(--border); border-radius: 20px; color: var(--text-muted); cursor: pointer; font-size: 0.75rem; font-family: var(--font-body); letter-spacing: 0.05em; padding: 5px 14px; text-transform: uppercase; transition: all 0.15s; }
+.rl-filter:hover, .rl-filter.active { background: var(--accent); border-color: var(--accent); color: #000; font-weight: 700; }
+
+.rl-grid { display: grid; gap: 14px; grid-template-columns: repeat(12, 1fr); }
+.rl-card { grid-column: span 12; display: flex; flex-direction: column; gap: 12px; border: 1px solid var(--border); border-radius: 12px; background: var(--bg-card); padding: 20px; transition: border-color 0.2s; }
+.rl-card[hidden] { display: none; }
+.rl-card:hover { border-color: rgba(236,172,13,0.3); }
+@media (min-width: 600px) { .rl-card { grid-column: span 6; } }
+@media (min-width: 1000px) { .rl-card { grid-column: span 4; } }
+
+.rl-card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+.rl-badges { display: flex; gap: 5px; flex-wrap: wrap; }
+.rl-badge { font-size: 0.63rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; border-radius: 4px; padding: 2px 7px; }
+.rl-badge--vk-indie  { background: rgba(236,172,13,0.12); color: var(--accent); border: 1px solid rgba(236,172,13,0.3); }
+.rl-badge--major     { background: rgba(80,140,220,0.12); color: #8ab4f8; border: 1px solid rgba(80,140,220,0.3); }
+.rl-badge--sublabel  { background: rgba(160,100,220,0.12); color: #c4a0f0; border: 1px solid rgba(160,100,220,0.3); }
+.rl-badge--defunct   { background: rgba(120,120,120,0.12); color: #888; border: 1px solid rgba(120,120,120,0.3); }
+
+.rl-name { font-family: var(--font-heading); font-size: 1.15rem; font-weight: 700; color: var(--white); margin: 0; line-height: 1.2; }
+.rl-meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 4px; }
+.rl-location { font-size: 0.75rem; color: var(--text-muted); }
+.rl-location::before { content: "📍 "; }
+.rl-founded { font-size: 0.75rem; color: var(--text-muted); }
+.rl-founded::before { content: "Est. "; }
+.rl-parent { font-size: 0.75rem; color: var(--text-muted); font-style: italic; }
+
+.rl-desc { font-size: 0.83rem; color: rgba(255,255,255,0.5); line-height: 1.55; flex: 1; }
+
+.rl-section-label { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-faint); margin: 0 0 6px; }
+.rl-bands { display: flex; flex-wrap: wrap; gap: 5px; }
+.rl-band-pill { font-size: 0.72rem; background: rgba(255,255,255,0.05); border: 1px solid var(--border); border-radius: 4px; color: rgba(255,255,255,0.55); padding: 2px 8px; }
+
+.rl-sublabels { display: flex; flex-wrap: wrap; gap: 5px; }
+.rl-sublabel-pill { font-size: 0.72rem; background: rgba(160,100,220,0.08); border: 1px solid rgba(160,100,220,0.2); border-radius: 4px; color: #c4a0f0; padding: 2px 8px; }
+
+.rl-footer { display: flex; gap: 8px; margin-top: auto; padding-top: 4px; }
+.rl-link { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; border: 1px solid var(--border); border-radius: 6px; padding: 4px 10px; text-decoration: none; color: var(--text-muted); transition: all 0.15s; }
+.rl-link:hover { border-color: var(--accent); color: var(--accent); }
+
+.rl-source { font-size: 0.75rem; color: var(--text-faint); margin-top: 32px; }
+.rl-source a { color: var(--text-muted); }
+</style>
+
+<div class="container" style="padding: 40px 0;">
+
+<div class="rl-header">
+  <h1>Visual Kei Record Labels</h1>
+  <p>The indie labels, major imprints, and sub-labels behind the scene — who they are, where they're based, and the bands they've built. Data sourced from <a href="https://vk.gy/labels/" target="_blank" rel="noopener" style="color:var(--text-muted);">vk.gy</a>.</p>
+</div>
+
+<div class="rl-filters">
+  <button class="rl-filter active" data-type="all">All</button>
+  <button class="rl-filter" data-type="vk-indie">VK Indie</button>
+  <button class="rl-filter" data-type="major">Major Labels</button>
+  <button class="rl-filter" data-type="sublabel">Sub-labels</button>
+</div>
+
+<div class="rl-grid" id="rl-grid">
+{% for label in site.data.record_labels %}
+  <div class="rl-card" data-type="{{ label.type }}">
+
+    <div class="rl-card-top">
+      <div class="rl-badges">
+        <span class="rl-badge rl-badge--{{ label.type }}">{% if label.type == 'vk-indie' %}VK Indie{% elsif label.type == 'major' %}Major{% elsif label.type == 'sublabel' %}Sub-label{% endif %}</span>
+        {% if label.status == 'defunct' %}<span class="rl-badge rl-badge--defunct">Defunct</span>{% endif %}
+      </div>
+    </div>
+
+    <div>
+      <p class="rl-name">{{ label.name }}{% if label.short %} <span style="font-size:0.75rem;font-weight:400;color:var(--text-faint);">({{ label.short }})</span>{% endif %}</p>
+      <div class="rl-meta">
+        {% if label.location %}<span class="rl-location">{{ label.location }}</span>{% endif %}
+        {% if label.founded %}<span class="rl-founded">{{ label.founded }}</span>{% endif %}
+        {% if label.parent %}<span class="rl-parent">Under {{ label.parent }}</span>{% endif %}
+      </div>
+    </div>
+
+    {% if label.description %}<p class="rl-desc">{{ label.description }}</p>{% endif %}
+
+    {% if label.notable_bands %}
+    <div>
+      <p class="rl-section-label">Notable Artists</p>
+      <div class="rl-bands">
+        {% for band in label.notable_bands %}
+        <span class="rl-band-pill">{{ band }}</span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if label.sublabels %}
+    <div>
+      <p class="rl-section-label">Sub-labels</p>
+      <div class="rl-sublabels">
+        {% for sub in label.sublabels %}
+        <span class="rl-sublabel-pill">{{ sub }}</span>
+        {% endfor %}
+    </div>
+    </div>
+    {% endif %}
+
+    <div class="rl-footer">
+      <a href="{{ label.vkgy }}" class="rl-link" target="_blank" rel="noopener">vk.gy →</a>
+    </div>
+
+  </div>
+{% endfor %}
+</div>
+
+<p class="rl-source">Label data sourced from <a href="https://vk.gy/labels/" target="_blank" rel="noopener">vk.gy</a>. Band associations reflect historical and current rosters.</p>
+
+</div>
+
+<script>
+document.querySelectorAll('.rl-filter').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var type = btn.dataset.type;
+    document.querySelectorAll('.rl-filter').forEach(function(b){ b.classList.remove('active'); });
+    btn.classList.add('active');
+    document.querySelectorAll('.rl-card').forEach(function(card) {
+      card.hidden = (type !== 'all' && card.dataset.type !== type);
+    });
+  });
+});
+</script>

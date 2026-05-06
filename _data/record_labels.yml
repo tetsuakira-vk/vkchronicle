@@ -1,0 +1,80 @@
+# Visual Kei Record Labels
+# Source: vk.gy
+# type: vk-indie | major | sublabel
+# status: active | defunct
+
+- name: "PS COMPANY"
+  short: "PSC"
+  japanese: "PS カンパニー"
+  location: "Tokyo"
+  founded: "2000"
+  type: "vk-indie"
+  status: "active"
+  description: "One of the most influential indie labels of the 2000s VK boom. Responsible for breaking the GazettE, ALICE NINE., and a generation of acts that defined the scene internationally."
+  notable_bands: ["the GazettE", "ALICE NINE.", "Kagrra,", "D=OUT", "Kra", "MIYAVI", "SCREW", "SuG", "ViViD", "BORN", "Dué le quartz"]
+  sublabels: ["Indie PSC."]
+  vkgy: "https://vk.gy/labels/ps-company/"
+
+- name: "FREE-WILL"
+  location: "Tokyo"
+  founded: "c. 1992"
+  type: "vk-indie"
+  status: "active"
+  description: "One of the longest-running indie labels in VK. Home to Dir en grey during their formative indie years, and still active today through KIZU and MERRY."
+  notable_bands: ["DIR EN GREY", "MERRY", "KIZU", "12012", "Kagerou", "RENTRER EN SOI", "sugar"]
+  sublabels: ["FIREWALL DIV.", "Anarchist Records", "BIG FOREST RECORDS", "DAMAGE", "Einustar Records"]
+  vkgy: "https://vk.gy/labels/free-will/"
+
+- name: "DANGER CRUE"
+  location: "Tokyo"
+  founded: "1981"
+  type: "vk-indie"
+  status: "active"
+  parent: "MAVERICK DC GROUP"
+  description: "Founded in 1981 and one of the oldest labels in Japanese rock. Part of the MAVERICK DC GROUP umbrella and home to an enormous roster of VK heavyweights across four decades."
+  notable_bands: ["L'Arc~en~Ciel", "SID", "MUCC", "Petit Brabancon", "DEZERT", "D'ERLANGER", "vistlip", "girugamesh", "DIV", "UNiTE.", "ACME"]
+  sublabels: ["CLOUD", "Wint", "DANGER CRUE 9th Records", "13 Bishop"]
+  vkgy: "https://vk.gy/labels/danger-crue/"
+
+- name: "MAVERICK DC GROUP"
+  location: "Tokyo"
+  type: "vk-indie"
+  status: "active"
+  description: "Parent company of DANGER CRUE and one of the most powerful independent groups in Japanese rock. Their infrastructure underpins some of the genre's biggest careers."
+  notable_bands: ["L'Arc~en~Ciel", "SID", "MUCC", "DEZERT", "Petit Brabancon"]
+  sublabels: ["DANGER CRUE", "13 Bishop"]
+  vkgy: "https://vk.gy/labels/maverick-dc-group/"
+
+- name: "KING RECORDS"
+  location: "Tokyo"
+  type: "major"
+  status: "active"
+  description: "Major label with deep VK roots. Particularly strong in the mid-tier scene — lynch., Angelo, and Matenrou Opera are flagship acts, alongside classic names like ZI:KILL and METRONOME."
+  notable_bands: ["lynch.", "Matenrou Opera", "Angelo", "Onmyo-za", "NoGoD", "THE KIDDIE", "ZI:KILL", "METRONOME"]
+  vkgy: "https://vk.gy/labels/king-records/"
+
+- name: "AVEX TRAX"
+  location: "Tokyo"
+  type: "major"
+  status: "active"
+  description: "Major label with surprising VK heritage — home to Kuroyume and LUNA SEA during their commercial peaks, alongside PENICILLIN and KIYOHARU's solo work."
+  notable_bands: ["Kuroyume", "LUNA SEA", "PENICILLIN", "KIYOHARU", "SADS", "SEIKIMA-II", "SOPHIA"]
+  vkgy: "https://vk.gy/labels/avex-trax/"
+
+- name: "FIREWALL DIV."
+  location: "Tokyo"
+  type: "sublabel"
+  status: "active"
+  parent: "FREE-WILL"
+  description: "FREE-WILL's primary imprint for their biggest acts. Dir en grey, MERRY, and 12012 all released through this division during their most prominent years."
+  notable_bands: ["DIR EN GREY", "MERRY", "12012"]
+  vkgy: "https://vk.gy/labels/firewall-div/"
+
+- name: "Indie PSC."
+  location: "Tokyo"
+  type: "sublabel"
+  status: "active"
+  parent: "PS COMPANY"
+  description: "The indie arm of PS COMPANY, handling acts in development and early releases before major label activity. Launched several acts that later became scene staples."
+  notable_bands: ["D=OUT", "ViViD", "SCREW", "SuG", "BORN", "bis"]
+  vkgy: "https://vk.gy/labels/indie-psc/"
