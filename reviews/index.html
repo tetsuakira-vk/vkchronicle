@@ -13,7 +13,7 @@ image: /assets/images/placeholder.jpg
     {% for post in site.posts %}
       {% assign is_review = false %}
       {% for label in post.labels %}
-        {% if label contains "Review" %}{% assign is_review = true %}{% endif %}
+        {% if label contains "Review" and label != "Month in Review" %}{% assign is_review = true %}{% endif %}
       {% endfor %}
       {% if is_review %}
       <article class="post-card">
