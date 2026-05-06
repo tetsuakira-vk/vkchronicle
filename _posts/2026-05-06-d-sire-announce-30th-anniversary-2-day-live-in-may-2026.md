@@ -4,7 +4,7 @@ title: "D∈∋SIRE Announce 30th Anniversary 2-Day Live in May 2026"
 date: 2026-05-06T15:18:20.263Z
 labels: ["Visual Kei", "News", "Live Announcement", "D∈∋SIRE", "Anniversary", "Japanese Visual Kei"]
 source: "http://www.vkdb.jp/NEWS_7524"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fstyle%2Fcard.png&w=800&output=jpg"
+image: "/assets/images/d-sire.webp"
 related_posts:
   - title: "OddRe: Release \"Nemuru Kimi\" MV, Announce First Headline Tour"
     url: "https://vkchronicle.com/2026/05/oddre-release-nemuru-kimi-mv-announce-first-headline-tour/"
