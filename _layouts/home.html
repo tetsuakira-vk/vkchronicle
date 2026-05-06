@@ -2,8 +2,17 @@
 layout: default
 ---
 <div class="container">
+
+  <div class="feed-tabs">
+    <button class="feed-tab active" data-tab="latest">Latest</button>
+    {% if site.data.popular_posts.posts.size > 0 %}
+    <button class="feed-tab" data-tab="popular">Popular</button>
+    {% endif %}
+  </div>
+
   <div class="home-layout">
-    <section class="post-grid">
+
+    <section class="post-grid" id="latest-grid">
       {% for post in paginator.posts %}
       <article class="post-card">
         {% if post.image %}
@@ -29,13 +38,16 @@ layout: default
       {% endfor %}
     </section>
 
+    <section class="post-grid" id="popular-grid" style="display:none">
+      <!-- populated by JS from popular_posts data -->
+    </section>
+
     <aside class="sidebar">
       {% include sidebar.html %}
     </aside>
   </div>
 
-  {% if paginator.total_pages > 1 %}
-  <nav class="pagination">
+  <nav class="pagination" id="latest-pagination" {% if paginator.total_pages <= 1 %}style="display:none"{% endif %}>
     {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="page-btn">&larr; Newer</a>
     {% endif %}
@@ -44,5 +56,57 @@ layout: default
     <a href="{{ paginator.next_page_path }}" class="page-btn">Older &rarr;</a>
     {% endif %}
   </nav>
-  {% endif %}
+
 </div>
+
+<script>
+(function () {
+  var POPULAR = {{ site.data.popular_posts.posts | jsonify }};
+
+  function makeCard(p) {
+    var labels = (p.labels || []).slice(0, 2).map(function (l) {
+      return '<a href="/label/?tag=' + encodeURIComponent(l) + '" class="label-pill">' + escHtml(l) + '</a>';
+    }).join('');
+    var img = p.image
+      ? '<a href="' + escHtml(p.url) + '" class="card-image-link"><img src="' + escHtml(p.image) + '" alt="' + escHtml(p.title) + '" loading="lazy"></a>'
+      : '';
+    return '<article class="post-card">'
+      + img
+      + '<div class="card-body">'
+      + '<div class="card-labels">' + labels + '</div>'
+      + '<h2 class="card-title"><a href="' + escHtml(p.url) + '">' + escHtml(p.title) + '</a></h2>'
+      + '<p class="card-excerpt">' + escHtml(p.excerpt) + '</p>'
+      + '<div class="card-meta"><time datetime="' + escHtml(p.date_iso) + '">' + escHtml(p.date_formatted) + '</time></div>'
+      + '</div></article>';
+  }
+
+  function escHtml(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  var popularGrid = document.getElementById('popular-grid');
+  var latestGrid  = document.getElementById('latest-grid');
+  var latestPag   = document.getElementById('latest-pagination');
+
+  if (POPULAR && POPULAR.length) {
+    popularGrid.innerHTML = POPULAR.map(makeCard).join('');
+  }
+
+  document.querySelectorAll('.feed-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('.feed-tab').forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      var tab = btn.dataset.tab;
+      if (tab === 'popular') {
+        latestGrid.style.display  = 'none';
+        popularGrid.style.display = '';
+        if (latestPag) latestPag.style.display = 'none';
+      } else {
+        latestGrid.style.display  = '';
+        popularGrid.style.display = 'none';
+        if (latestPag) latestPag.style.display = '';
+      }
+    });
+  });
+})();
+</script>
