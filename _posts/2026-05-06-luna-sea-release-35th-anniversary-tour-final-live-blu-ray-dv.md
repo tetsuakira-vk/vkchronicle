@@ -4,7 +4,7 @@ title: "LUNA SEA Release 35th Anniversary Tour Final Live Blu-ray/DVD"
 date: 2026-05-06T15:18:00.543Z
 labels: ["Visual Kei", "News", "Live Release", "LUNA SEA", "Anniversary", "Home Video"]
 source: "http://www.vkdb.jp/NEWS_7528"
-image: "https://images.weserv.nl/?url=http%3A%2F%2Fwww.vkdb.jp%2Fimg%2Fjubeir216.png&w=800&output=jpg"
+image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fartist-2464.jpeg&w=800&output=jpg"
 related_posts:
   - title: "Unlucky Morpheus Return with \"Gate of Hell\" Album"
     url: "https://vkchronicle.com/2026/05/unlucky-morpheus-return-with-gate-of-hell-album/"
