@@ -6,8 +6,7 @@ labels: ["Visual Kei", "News", "Live Report", "LUNA SEA", "Tour Announcement", "
 image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3d19fde2399712df6ba3ff16f4d2e3e3.jpg&amp;w=800&amp;output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3d19fde2399712df6ba3ff16f4d2e3e3.jpg&amp;w=800&amp;output=jpg" alt="LUNA SEA Launch 2026 National Tour in Honour of Late Drummer Shnya" style="max-width:100%;height:auto;border-radius:4px;">
-</div>
+  </div>
 <p>In a deeply moving turn of events, legendary Visual Kei pioneers LUNA SEA have announced a comprehensive 2026 national tour, beginning 29 May—the band's formation anniversary—honouring the memory of their irreplaceable drummer Shnya, who passed away on 17 February at age 61.</p>
 <p>The announcement came during a rescheduled performance at Tokyo Ariake Arena on 12 March, originally intended for December 2023. The concert held profound significance: Shnya had spent months in rehabilitation, determined to perform even a single phrase on drums. Though he was unable to take the stage that evening, his presence remained tangible—his brand-new YAMAHA drum kit was positioned onstage alongside support drummer Atsushi's setup, a visual testament to his enduring spirit. The kit marked a symbolic return to the band's roots; YAMAHA drums were used during LUNA SEA's debut era, including their iconic rotating drum setup.</p>
 <p>Shnya's final message—"Please don't stop LUNA SEA"—resonated throughout the venue and now drives the band's resolve to continue. Over 30,000 fans attended a memorial service on 8 March, celebrating the drummer's legacy and unwavering dedication to the band.</p>

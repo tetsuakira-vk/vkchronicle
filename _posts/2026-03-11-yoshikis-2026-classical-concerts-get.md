@@ -5,9 +5,6 @@ date: 2026-03-11T15:48:35.758Z
 labels: ["Visual Kei", "News", "Live Report", "YOSHIKI", "Classical", "Ticket Information", "Japan"]
 image: "https://jrockrevolution.com/wp-content/uploads/2026/02/yoshiki-2026.webp"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://jrockrevolution.com/wp-content/uploads/2026/02/yoshiki-2026.webp" alt="YOSHIKI CLASSICAL 2026 Ticket Pre-Sale Lottery Extended & General Ticket Sale Rescheduled!" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>If you've been trying to snag tickets to YOSHIKI's highly anticipated classical concerts and hit a payment wall, you're not alone—and the good news is you're getting a second chance.</p>
 <p>For those unfamiliar, YOSHIKI is the legendary drummer and composer best known as the founding member of X Japan, the pioneering Japanese heavy metal band that essentially created Visual Kei. Beyond his work in metal, YOSHIKI has cultivated a prestigious career as a classical composer and conductor, blending orchestral arrangements with his signature dramatic intensity. His classical concerts are intimate, prestigious affairs that sell out quickly.</p>
 <p>**What Went Wrong?**</p>

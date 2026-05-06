@@ -5,9 +5,6 @@ date: 2026-03-11T15:49:02.517Z
 labels: ["Visual Kei", "News", "Live Shows", "Japanese Punk", "STRAIGHT BACK FORWARD", "J's Underground Scene"]
 image: "https://img.youtube.com/vi/IUDHMI_XC48/hqdefault.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://img.youtube.com/vi/IUDHMI_XC48/hqdefault.jpg" alt="STRAIGHT BACK FORWARD Close 2025 with Biggest Show Yet" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>It's the kind of opportunity most emerging bands can only dream about: as 2025 winds down, the Brit-Japanese punk outfit STRAIGHT BACK FORWARD will share the stage with some of Japan's most respected underground musicians at one of Tokyo's most prestigious venues.</p>
 <p>On **30 December 2025**, the band will perform at **Shibuya O-EAST** as part of **Hokama Daibounenkai** (The Arsonist's Year-End Riot)—a star-studded year-end celebration curated by none other than **J**, the legendary LUNA SEA bassist and co-founder. It's a testament to STRAIGHT BACK FORWARD's rapid rise within Japan's punk underground.</p>
 <p>The lineup reads like an underground scene all-star roster. Joining STRAIGHT BACK FORWARD are punk heavyweights **ROTTENGRAFFTY** and **BONE DAWN**, plus special guests **Toshiya** of the iconic DIR EN GREY and **Takada Metal** of ELLEGARDEN and MAYKIDZ. More performers are expected to be announced soon.</p>

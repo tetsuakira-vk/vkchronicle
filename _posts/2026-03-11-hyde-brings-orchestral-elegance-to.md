@@ -5,9 +5,6 @@ date: 2026-03-11T15:48:20.253Z
 labels: ["Visual Kei", "Live Report", "News", "HYDE", "L'Arc~en~Ciel", "Concert Review", "2026"]
 image: "https://www.jame-world.com/media/image/2026-01/_16-9_16574.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://www.jame-world.com/media/image/2026-01/_16-9_16574.jpg" alt="HYDE Orchestra Tour 2026 JEKYLL at Tokyo Garden Theater" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>If you thought HYDE's solo work couldn't get any more sophisticated, think again. The L'Arc~en~Ciel frontman's ongoing HYDE Orchestra Tour 2026 JEKYLL is redefining what a rock concert can be—and it's all in service of his softer, more introspective material.</p>
 <p>For those unfamiliar, HYDE is best known as the charismatic vocalist of L'Arc~en~Ciel, one of Japan's most influential rock bands since the 1990s. Beyond that legacy, he's maintained a prolific solo career spanning decades, blending rock sensibilities with everything from electronica to orchestral arrangements. This current tour celebrates that softer side exclusively.</p>
 <p>The January 29th streamed performance from Tokyo Garden Theater proved why this concept works brilliantly. Accompanied by a full orchestra—violins, cellos, saxophones, and trumpets—HYDE opened boldly with the unreleased track DIE HAPPILY, immediately setting an elegant, noir-tinged tone. Dressed in a long dark coat and brimmed hat, he commanded the dimly lit stage with theatrical gravitas that wouldn't feel out of place in a classic film score.</p>

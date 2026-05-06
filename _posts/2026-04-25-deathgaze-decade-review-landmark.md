@@ -5,11 +5,6 @@ date: 2026-04-25T09:00:19.318Z
 labels: ["Visual Kei", "Reviews", "Album Review", "DEATHGAZE", "Melodic Metalcore", "Decade Anniversary"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F05%2F32%2FDAKBVCA-5.jpg%3Fv%3D1&w=600&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F05%2F32%2FDAKBVCA-5.jpg%3Fv%3D1&w=600&output=jpg"
-       alt="DEATHGAZE – DECADE"
-       style="max-width:400px;width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
 <p>When a band titles an album *DECADE*, they're making a statement. For DEATHGAZE, 2013's *DECADE* arrived as both a retrospective nod and a bold declaration of artistic maturity—a ten-year milestone album that refused to rest on nostalgia. Instead, it crystallizes everything the Tokyo metalcore outfit had refined since their formation, while simultaneously pushing toward new sonic territories that would define their later era.</p>
 <p>From the opening moments, *DECADE* establishes a confident, anthemic tone. DEATHGAZE had spent years perfecting the marriage of Japanese melodic sensibilities with Western metalcore brutality, and by 2013, they'd achieved something rare: genuine cross-pollination rather than pastiche. The production is pristine without feeling sterile—guitars maintain their bite, drums punch with surgical precision, and the vocal interplay between clean and harsh delivery feels earned rather than formulaic.</p>
 <p>The album's strength lies in its dynamic range. DEATHGAZE never allow *DECADE* to settle into one gear. Where earlier works sometimes defaulted to mid-tempo heaviness, this record breathes. Slower passages feel genuinely melancholic, building toward cathartic surges that justify their intensity. The band's knack for constructing memorable hooks—a hallmark of their best work—reaches new sophistication here, weaving complex melodies into arrangements that never sacrifice heaviness for accessibility.</p>

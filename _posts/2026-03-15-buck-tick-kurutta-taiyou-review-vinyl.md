@@ -5,11 +5,6 @@ date: 2026-03-15T10:00:20.062Z
 labels: ["Visual Kei", "Reviews", "Album Review", "BUCK-TICK", "Dark Wave", "Gothic Rock", "Analog Restoration"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F14%2F27%2FVIJL-60401.jpg%3Fv%3D1&w=600&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F14%2F27%2FVIJL-60401.jpg%3Fv%3D1&w=600&output=jpg"
-       alt="BUCK-TICK – Kurutta Taiyou [Limited Pressing Analog Edition]"
-       style="max-width:400px;width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
 <p>There's something deeply satisfying about hearing BUCK-TICK's vision rendered in analog warmth. *Kurutta Taiyou* (Mad Sun) arrives as a limited vinyl pressing that feels less like a reissue and more like a deliberate sonic statement—a band at the twilight of their legendary career choosing to immortalize their work in the format that best captures their orchestral darkness.</p>
 <p>Released in 2026, this album sits intriguingly late in BUCK-TICK's discography, yet it doesn't feel like the work of artists running on fumes. Instead, Sakurai Atsushi and company sound reinvigorated, channeling decades of Gothic rock mastery into something that bridges their 1990s industrial-tinged peak with contemporary production sensibilities. The analog pressing amplifies what makes this record special: a tangible, almost tactile quality to the synths, guitars, and Sakurai's characteristically theatrical vocals.</p>
 <p>The record's opening immediately establishes its aesthetic—a collision of baroque strings and distorted basslines that recalls their most ambitious work without feeling derivative. What's particularly striking is how the vinyl format accentuates the album's dynamic range. Where digital compression might flatten subtle details, the grooves here preserve every layer: the crisp snare hits, the cavernous reverb on backing vocals, the crystalline shimmer of keyboard passages that would otherwise blur together.</p>

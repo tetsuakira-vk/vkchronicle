@@ -13,7 +13,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
 
 <div class="nr-grid">
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/xaa-xaa/70656/gege-no-koushin/" rel="noopener" target="_blank"><img alt="XAA-XAA — Gege no koushin" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege-no-koushin-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/xaa-xaa/70656/gege-no-koushin/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">XAA-XAA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/xaa-xaa/70656/gege-no-koushin/" rel="noopener" target="_blank">Gege no koushin</a></div>
@@ -22,7 +22,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/damila/70779/ashita-sekai-ga-owarunara/" rel="noopener" target="_blank"><img alt="DAMILA — Ashita, sekai ga owarunara" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F172064-ashita-sekai-ga-owarunara-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/damila/70779/ashita-sekai-ga-owarunara/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">DAMILA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/damila/70779/ashita-sekai-ga-owarunara/" rel="noopener" target="_blank">Ashita, sekai ga owarunara</a></div>
@@ -31,7 +31,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/mathilda/70927/gochisousama-deshita/" rel="noopener" target="_blank"><img alt="MATHILDA — Gochisousama deshita。" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173205-gochisousama-deshita-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/mathilda/70927/gochisousama-deshita/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">MATHILDA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/mathilda/70927/gochisousama-deshita/" rel="noopener" target="_blank">Gochisousama deshita。</a></div>
@@ -40,7 +40,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/d-cry/70928/keep-the-flame-alive/" rel="noopener" target="_blank"><img alt="D†Cry — Keep the Flame Alive" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173206-keep-the-flame-alive-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/d-cry/70928/keep-the-flame-alive/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">D†Cry</div>
     <div class="nr-title"><a href="https://vk.gy/releases/d-cry/70928/keep-the-flame-alive/" rel="noopener" target="_blank">Keep the Flame Alive</a></div>
@@ -49,7 +49,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/botsu/70937/boubiroku-2026-remaster/" rel="noopener" target="_blank"><img alt="「#Botsu」 — Boubiroku (2026 Remaster)" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173282-boubiruku-2026-remaster-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/botsu/70937/boubiroku-2026-remaster/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">「#Botsu」</div>
     <div class="nr-title"><a href="https://vk.gy/releases/botsu/70937/boubiroku-2026-remaster/" rel="noopener" target="_blank">Boubiroku (2026 Remaster)</a></div>
@@ -58,7 +58,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/kakumay/70960/sweet-toxic/" rel="noopener" target="_blank"><img alt="KAKUMAY — SWEET TOXIC" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173384-sweet-toxic-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/kakumay/70960/sweet-toxic/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">KAKUMAY</div>
     <div class="nr-title"><a href="https://vk.gy/releases/kakumay/70960/sweet-toxic/" rel="noopener" target="_blank">SWEET TOXIC</a></div>
@@ -67,7 +67,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/3470-mon/70961/aooni-san/" rel="noopener" target="_blank"><img alt="3470.mon — Aooni-san" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173388-aooni-san-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/3470-mon/70961/aooni-san/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">3470.mon</div>
     <div class="nr-title"><a href="https://vk.gy/releases/3470-mon/70961/aooni-san/" rel="noopener" target="_blank">Aooni-san</a></div>
@@ -76,7 +76,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/the-raid/70969/last-noise/" rel="noopener" target="_blank"><img alt="the Raid. — LAST NOISE" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173406-last-noise-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/the-raid/70969/last-noise/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">the Raid.</div>
     <div class="nr-title"><a href="https://vk.gy/releases/the-raid/70969/last-noise/" rel="noopener" target="_blank">LAST NOISE</a></div>
@@ -85,7 +85,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/missa-missa/70980/hsp/" rel="noopener" target="_blank"><img alt="Missa — HSP" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173604-hsp-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/missa-missa/70980/hsp/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Missa</div>
     <div class="nr-title"><a href="https://vk.gy/releases/missa-missa/70980/hsp/" rel="noopener" target="_blank">HSP</a></div>
@@ -94,7 +94,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/babykingdom/70068/hapine-no-kakurenbo-shokai-genteiban/" rel="noopener" target="_blank"><img alt="BabyKingdom — HAPPINESS no Kakurenbo" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171725-hapine-no-kakurenbo-shokai-genteiban-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/babykingdom/70068/hapine-no-kakurenbo-shokai-genteiban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">BabyKingdom</div>
     <div class="nr-title"><a href="https://vk.gy/releases/babykingdom/70068/hapine-no-kakurenbo-shokai-genteiban/" rel="noopener" target="_blank">HAPPINESS no Kakurenbo</a></div>
@@ -112,7 +112,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/angelo/70575/start-of-the-world-line-day-1/" rel="noopener" target="_blank"><img alt="Angelo — START OF THE WORLD LINE" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171094-start-of-the-world-line-day-1-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/angelo/70575/start-of-the-world-line-day-1/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Angelo</div>
     <div class="nr-title"><a href="https://vk.gy/releases/angelo/70575/start-of-the-world-line-day-1/" rel="noopener" target="_blank">START OF THE WORLD LINE</a></div>
@@ -121,7 +121,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/z-clear/70697/shidai-shigou/" rel="noopener" target="_blank"><img alt="Z CLEAR — Shidai Shigou" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171850-z-clear-release-for-shidai-shigou.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/z-clear/70697/shidai-shigou/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Z CLEAR</div>
     <div class="nr-title"><a href="https://vk.gy/releases/z-clear/70697/shidai-shigou/" rel="noopener" target="_blank">Shidai Shigou</a></div>
@@ -130,7 +130,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/sex-virgin-killer/70825/angel-international-ban/" rel="noopener" target="_blank"><img alt="SEX VIRGIN KILLER — ANGEL" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F172404-angel-international-ban-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/sex-virgin-killer/70825/angel-international-ban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">SEX VIRGIN KILLER</div>
     <div class="nr-title"><a href="https://vk.gy/releases/sex-virgin-killer/70825/angel-international-ban/" rel="noopener" target="_blank">ANGEL</a></div>
@@ -139,7 +139,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/henkaku-works/70849/dress-is/" rel="noopener" target="_blank"><img alt="Henkaku WORKS — DRESS / IS..." class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F172791-dress-is-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/henkaku-works/70849/dress-is/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Henkaku WORKS</div>
     <div class="nr-title"><a href="https://vk.gy/releases/henkaku-works/70849/dress-is/" rel="noopener" target="_blank">DRESS / IS...</a></div>
@@ -157,7 +157,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/toys-panic/70976/nochihare-member-shi-yashari-ver/" rel="noopener" target="_blank"><img alt="TOYS PANIC — Nochihare" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173686-nochihare-member-shi-yashari-ver-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/toys-panic/70976/nochihare-member-shi-yashari-ver/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">TOYS PANIC</div>
     <div class="nr-title"><a href="https://vk.gy/releases/toys-panic/70976/nochihare-member-shi-yashari-ver/" rel="noopener" target="_blank">Nochihare</a></div>
@@ -166,7 +166,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/revaless/70996/decline/" rel="noopener" target="_blank"><img alt="REVALESS — Decline" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173603-decline-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/revaless/70996/decline/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">REVALESS</div>
     <div class="nr-title"><a href="https://vk.gy/releases/revaless/70996/decline/" rel="noopener" target="_blank">Decline</a></div>
@@ -175,7 +175,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/mojimania/71031/vivarock-in-space/" rel="noopener" target="_blank"><img alt="MojimaniA — VIVAROCK IN SPACE" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173967-vivarock-in-space-cover.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/mojimania/71031/vivarock-in-space/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">MojimaniA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/mojimania/71031/vivarock-in-space/" rel="noopener" target="_blank">VIVAROCK IN SPACE</a></div>
@@ -184,7 +184,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/the-micro-head-4ns/70783/best-of-myclone-s-voter/" rel="noopener" target="_blank"><img alt="THE MICRO HEAD 4N'S — Best of MYCLONE'S VOTER" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F172112-best-of-myclones-voter-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/the-micro-head-4ns/70783/best-of-myclone-s-voter/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">THE MICRO HEAD 4N'S</div>
     <div class="nr-title"><a href="https://vk.gy/releases/the-micro-head-4ns/70783/best-of-myclone-s-voter/" rel="noopener" target="_blank">Best of MYCLONE'S VOTER</a></div>
@@ -193,7 +193,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/royz/70881/start-line/" rel="noopener" target="_blank"><img alt="Royz — START LINE" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173084-start-line-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/royz/70881/start-line/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Royz</div>
     <div class="nr-title"><a href="https://vk.gy/releases/royz/70881/start-line/" rel="noopener" target="_blank">START LINE</a></div>
@@ -202,7 +202,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/d-out/70992/grotesq/" rel="noopener" target="_blank"><img alt="D=OUT — grotesQ." class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173598-grotesq-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/d-out/70992/grotesq/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">D=OUT</div>
     <div class="nr-title"><a href="https://vk.gy/releases/d-out/70992/grotesq/" rel="noopener" target="_blank">grotesQ.</a></div>
@@ -211,7 +211,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/luvielle/70967/atheist/" rel="noopener" target="_blank"><img alt="Luvielle — atheist" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173399-atheist-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/luvielle/70967/atheist/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Luvielle</div>
     <div class="nr-title"><a href="https://vk.gy/releases/luvielle/70967/atheist/" rel="noopener" target="_blank">atheist</a></div>
@@ -220,7 +220,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/kisaki/69095/voice-in-sadness/" rel="noopener" target="_blank"><img alt="KISAKI — Voice in Sadness" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F166923-voice-of-sadness-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/kisaki/69095/voice-in-sadness/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">KISAKI</div>
     <div class="nr-title"><a href="https://vk.gy/releases/kisaki/69095/voice-in-sadness/" rel="noopener" target="_blank">Voice in Sadness</a></div>
@@ -229,7 +229,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/kisaki/69096/forgotten/" rel="noopener" target="_blank"><img alt="KISAKI — Forgotten" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F167107-forgotten-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/kisaki/69096/forgotten/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">KISAKI</div>
     <div class="nr-title"><a href="https://vk.gy/releases/kisaki/69096/forgotten/" rel="noopener" target="_blank">Forgotten</a></div>
@@ -238,7 +238,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/fur/70784/ru-tu-tu/" rel="noopener" target="_blank"><img alt="FUR — RU-TU-TU" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173778-ru-tu-tu-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/fur/70784/ru-tu-tu/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">FUR</div>
     <div class="nr-title"><a href="https://vk.gy/releases/fur/70784/ru-tu-tu/" rel="noopener" target="_blank">RU-TU-TU</a></div>
@@ -247,7 +247,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/like-an-angel/71035/live-2025-thank-you/" rel="noopener" target="_blank"><img alt="Like~an~Angel — LIVE 2025 “THANK YOU”" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173779-live-2025-thank-you-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/like-an-angel/71035/live-2025-thank-you/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Like~an~Angel</div>
     <div class="nr-title"><a href="https://vk.gy/releases/like-an-angel/71035/live-2025-thank-you/" rel="noopener" target="_blank">LIVE 2025 “THANK YOU”</a></div>
@@ -256,7 +256,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/tetsuya/71036/live-2025-thank-you/" rel="noopener" target="_blank"><img alt="TETSUYA — LIVE 2025 “THANK YOU”" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173780-live-2025-thank-you-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/tetsuya/71036/live-2025-thank-you/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">TETSUYA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/tetsuya/71036/live-2025-thank-you/" rel="noopener" target="_blank">LIVE 2025 “THANK YOU”</a></div>
@@ -274,7 +274,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/tatsuro/71045/checkmate-type-a/" rel="noopener" target="_blank"><img alt="Tatsuro — checkmate" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173858-checkmate-type-a-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/tatsuro/71045/checkmate-type-a/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Tatsuro</div>
     <div class="nr-title"><a href="https://vk.gy/releases/tatsuro/71045/checkmate-type-a/" rel="noopener" target="_blank">checkmate</a></div>
@@ -283,7 +283,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/hellbroth/71047/voyage/" rel="noopener" target="_blank"><img alt="HELLBROTH — Voyage" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173860-voyage-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/hellbroth/71047/voyage/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">HELLBROTH</div>
     <div class="nr-title"><a href="https://vk.gy/releases/hellbroth/71047/voyage/" rel="noopener" target="_blank">Voyage</a></div>
@@ -292,7 +292,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/machina/71066/kono-yubi-tomare/" rel="noopener" target="_blank"><img alt="MACHINA — KONO YUBI TOMARE" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173965-kono-yubi-tomare-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/machina/71066/kono-yubi-tomare/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">MACHINA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/machina/71066/kono-yubi-tomare/" rel="noopener" target="_blank">KONO YUBI TOMARE</a></div>
@@ -301,7 +301,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/fukuro/70354/kirei-wa-kitanai-kitanai-wa-kirei/" rel="noopener" target="_blank"><img alt="Fukuro — Kirei wa kitanai, kitanai wa kirei" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F170038-kirei-wa-kitanai-kitanai-wa-kirei-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/fukuro/70354/kirei-wa-kitanai-kitanai-wa-kirei/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Fukuro</div>
     <div class="nr-title"><a href="https://vk.gy/releases/fukuro/70354/kirei-wa-kitanai-kitanai-wa-kirei/" rel="noopener" target="_blank">Kirei wa kitanai, kitanai wa kirei</a></div>
@@ -310,7 +310,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/ophelia/71065/souen-ga-nokosu-kokuin/" rel="noopener" target="_blank"><img alt="OPHELIA — Souen ga Nokosu Kokuin" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174081-souen-ga-nokosu-kokuin-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/ophelia/71065/souen-ga-nokosu-kokuin/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">OPHELIA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/ophelia/71065/souen-ga-nokosu-kokuin/" rel="noopener" target="_blank">Souen ga Nokosu Kokuin</a></div>
@@ -319,7 +319,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/the-locus/71064/fairy-times-memory-arrange-new-recording-version/" rel="noopener" target="_blank"><img alt="THE LOCUS — fairy times memory -Arrange &amp; New Recording Version-" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173959-fairy-times-memory-arrange-new-recording-version-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/the-locus/71064/fairy-times-memory-arrange-new-recording-version/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">THE LOCUS</div>
     <div class="nr-title"><a href="https://vk.gy/releases/the-locus/71064/fairy-times-memory-arrange-new-recording-version/" rel="noopener" target="_blank">fairy times memory -Arrange &amp; New Recording Version-</a></div>
@@ -328,7 +328,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/the-god-and-death-stars/71100/addle-apple-haishinban/" rel="noopener" target="_blank"><img alt="the god and death stars — addle apple" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174221-addle-apple-haishinban-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/the-god-and-death-stars/71100/addle-apple-haishinban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">the god and death stars</div>
     <div class="nr-title"><a href="https://vk.gy/releases/the-god-and-death-stars/71100/addle-apple-haishinban/" rel="noopener" target="_blank">addle apple</a></div>
@@ -337,7 +337,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/the-god-and-death-stars/71102/dawn-of-the-god-haishinban/" rel="noopener" target="_blank"><img alt="the god and death stars — dawn of the god" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174225-dawn-of-the-god-haishinban-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/the-god-and-death-stars/71102/dawn-of-the-god-haishinban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">the god and death stars</div>
     <div class="nr-title"><a href="https://vk.gy/releases/the-god-and-death-stars/71102/dawn-of-the-god-haishinban/" rel="noopener" target="_blank">dawn of the god</a></div>
@@ -346,7 +346,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/the-god-and-death-stars/71103/it-isnt-a-singles-haishinban/" rel="noopener" target="_blank"><img alt="the god and death stars — it isn't a singles" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174228-it-isnt-a-singles-haishinban-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/the-god-and-death-stars/71103/it-isnt-a-singles-haishinban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">the god and death stars</div>
     <div class="nr-title"><a href="https://vk.gy/releases/the-god-and-death-stars/71103/it-isnt-a-singles-haishinban/" rel="noopener" target="_blank">it isn't a singles</a></div>
@@ -355,7 +355,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/damned/71106/anhedonia/" rel="noopener" target="_blank"><img alt="DAMNED — ANHEDONIA" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174346-anhedonia-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/damned/71106/anhedonia/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">DAMNED</div>
     <div class="nr-title"><a href="https://vk.gy/releases/damned/71106/anhedonia/" rel="noopener" target="_blank">ANHEDONIA</a></div>
@@ -373,7 +373,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/ensoku/70356/shin-mirai-koujou-chimera-21/" rel="noopener" target="_blank"><img alt="Ensoku — Shin mirai koujou CHIMERA 21" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F170039-shin-mirai-koujou-chimera-21-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/ensoku/70356/shin-mirai-koujou-chimera-21/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Ensoku</div>
     <div class="nr-title"><a href="https://vk.gy/releases/ensoku/70356/shin-mirai-koujou-chimera-21/" rel="noopener" target="_blank">Shin mirai koujou CHIMERA 21</a></div>
@@ -382,7 +382,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/onmyo-za/70388/ginrei-saimai/" rel="noopener" target="_blank"><img alt="Onmyo-za — Ginrei saimai" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171723-ginrei-saimai-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/onmyo-za/70388/ginrei-saimai/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Onmyo-za</div>
     <div class="nr-title"><a href="https://vk.gy/releases/onmyo-za/70388/ginrei-saimai/" rel="noopener" target="_blank">Ginrei saimai</a></div>
@@ -391,7 +391,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/asagi/70755/tandoku-jungyo-ni-zero-ni-go-momotaro-denki-gamushara-senshuraku-ni-zero-ni-go-nen-ni-gatsu-juni-nichi-zepp-shinjuku/" rel="noopener" target="_blank"><img alt="ASAGI — tandoku jungyo ni-zero-ni-go 「Momotaro Denki Gamushara」 senshuraku ni-zero-ni-go-nen ni-gatsu juni-nichi ZEPP SHINJUKU" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F172016-asagi-release.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/asagi/70755/tandoku-jungyo-ni-zero-ni-go-momotaro-denki-gamushara-senshuraku-ni-zero-ni-go-nen-ni-gatsu-juni-nichi-zepp-shinjuku/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">ASAGI</div>
     <div class="nr-title"><a href="https://vk.gy/releases/asagi/70755/tandoku-jungyo-ni-zero-ni-go-momotaro-denki-gamushara-senshuraku-ni-zero-ni-go-nen-ni-gatsu-juni-nichi-zepp-shinjuku/" rel="noopener" target="_blank">tandoku jungyo ni-zero-ni-go 「Momotaro Denki Gamushara」 senshuraku ni-zero-ni-go-nen ni-gatsu juni-nichi ZEPP SHINJUKU</a></div>
@@ -400,7 +400,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/shin/70571/the-flag/" rel="noopener" target="_blank"><img alt="SHIN — THE FLAG" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171078-the-flag-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/shin/70571/the-flag/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">SHIN</div>
     <div class="nr-title"><a href="https://vk.gy/releases/shin/70571/the-flag/" rel="noopener" target="_blank">THE FLAG</a></div>
@@ -418,7 +418,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/buck-tick/70614/koroshi-no-shirabe-this-is-not-greatest-hits-kanzen-seisan-gentei-analog-ban/" rel="noopener" target="_blank"><img alt="BUCK∞TICK — Koroshi no Shirabe This is NOT Greatest Hits" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171212-this-is-not-greatest-hits-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/buck-tick/70614/koroshi-no-shirabe-this-is-not-greatest-hits-kanzen-seisan-gentei-analog-ban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">BUCK∞TICK</div>
     <div class="nr-title"><a href="https://vk.gy/releases/buck-tick/70614/koroshi-no-shirabe-this-is-not-greatest-hits-kanzen-seisan-gentei-analog-ban/" rel="noopener" target="_blank">Koroshi no Shirabe This is NOT Greatest Hits</a></div>
@@ -436,7 +436,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/chaoss/70622/fxxking-chapter/" rel="noopener" target="_blank"><img alt="CHAOSS — FxxKING CHAPTER" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171307-fxxking-chapter-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/chaoss/70622/fxxking-chapter/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">CHAOSS</div>
     <div class="nr-title"><a href="https://vk.gy/releases/chaoss/70622/fxxking-chapter/" rel="noopener" target="_blank">FxxKING CHAPTER</a></div>
@@ -463,7 +463,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/sick2/70782/warau-philosophos/" rel="noopener" target="_blank"><img alt="Sick² — Warau PHILOSOPHOS" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173729-warau-philosophos-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/sick2/70782/warau-philosophos/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Sick²</div>
     <div class="nr-title"><a href="https://vk.gy/releases/sick2/70782/warau-philosophos/" rel="noopener" target="_blank">Warau PHILOSOPHOS</a></div>
@@ -472,7 +472,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/cinnamons-god/70819/red-hot-baby/" rel="noopener" target="_blank"><img alt="CINNAMON'S GOD — Red Hot Baby" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F172366-red-hot-baby-photo.thumbnail.png&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/cinnamons-god/70819/red-hot-baby/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">CINNAMON'S GOD</div>
     <div class="nr-title"><a href="https://vk.gy/releases/cinnamons-god/70819/red-hot-baby/" rel="noopener" target="_blank">Red Hot Baby</a></div>
@@ -490,7 +490,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/nightmare/70859/reach-for-tsuujouban/" rel="noopener" target="_blank"><img alt="NIGHTMARE — Reach for" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F172876-reach-for-tsuujouban-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/nightmare/70859/reach-for-tsuujouban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">NIGHTMARE</div>
     <div class="nr-title"><a href="https://vk.gy/releases/nightmare/70859/reach-for-tsuujouban/" rel="noopener" target="_blank">Reach for</a></div>
@@ -499,7 +499,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/rorschach-inc/71099/ka-f-ka/" rel="noopener" target="_blank"><img alt="Rorschach.inc — Ka.f.ka" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174210-ka-f-ka-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/rorschach-inc/71099/ka-f-ka/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Rorschach.inc</div>
     <div class="nr-title"><a href="https://vk.gy/releases/rorschach-inc/71099/ka-f-ka/" rel="noopener" target="_blank">Ka.f.ka</a></div>
@@ -508,7 +508,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/kalmia/70958/exploring-sensations/" rel="noopener" target="_blank"><img alt="KALMIA — exploring sensations" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173378-kalmia-release.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/kalmia/70958/exploring-sensations/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">KALMIA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/kalmia/70958/exploring-sensations/" rel="noopener" target="_blank">exploring sensations</a></div>
@@ -526,7 +526,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/mamireta/70490/hizumi-nda-jazu-to-bindzume-meno-ja-mu/" rel="noopener" target="_blank"><img alt="Mamireta — Hizumi nda jazu to bindzume meno ja mu" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F170615-hizumi-nda-jazu-to-bindzume-meno-ja-mu-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/mamireta/70490/hizumi-nda-jazu-to-bindzume-meno-ja-mu/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Mamireta</div>
     <div class="nr-title"><a href="https://vk.gy/releases/mamireta/70490/hizumi-nda-jazu-to-bindzume-meno-ja-mu/" rel="noopener" target="_blank">Hizumi nda jazu to bindzume meno ja mu</a></div>
@@ -553,7 +553,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/deshabillz/70466/mariana-snail-fish/" rel="noopener" target="_blank"><img alt="Deshabillz — Mariana Snail Fish" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F172674-mariana-snail-fish-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/deshabillz/70466/mariana-snail-fish/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Deshabillz</div>
     <div class="nr-title"><a href="https://vk.gy/releases/deshabillz/70466/mariana-snail-fish/" rel="noopener" target="_blank">Mariana Snail Fish</a></div>
@@ -562,7 +562,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/unite/70626/selection/" rel="noopener" target="_blank"><img alt="UNiTE. — selection" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171313-selection-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/unite/70626/selection/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">UNiTE.</div>
     <div class="nr-title"><a href="https://vk.gy/releases/unite/70626/selection/" rel="noopener" target="_blank">selection</a></div>
@@ -571,7 +571,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/vistlip/70638/dawn-kanzen-gentei-seisanban/" rel="noopener" target="_blank"><img alt="vistlip — DAWN" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174122-dawn-kanzen-gentei-seisanban-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/vistlip/70638/dawn-kanzen-gentei-seisanban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">vistlip</div>
     <div class="nr-title"><a href="https://vk.gy/releases/vistlip/70638/dawn-kanzen-gentei-seisanban/" rel="noopener" target="_blank">DAWN</a></div>
@@ -580,7 +580,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/zera/70680/raven/" rel="noopener" target="_blank"><img alt="ZERA — RAVEN" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171739-raven-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/zera/70680/raven/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">ZERA</div>
     <div class="nr-title"><a href="https://vk.gy/releases/zera/70680/raven/" rel="noopener" target="_blank">RAVEN</a></div>
@@ -625,7 +625,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/sakashimana-haguruma-wo-kamen-ga-warau-more/70971/cynica/" rel="noopener" target="_blank"><img alt="Sakashimana Haguruma wo Kamen ga Warau. — Cynica" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173414-cynica-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/sakashimana-haguruma-wo-kamen-ga-warau-more/70971/cynica/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Sakashimana Haguruma wo Kamen ga Warau.</div>
     <div class="nr-title"><a href="https://vk.gy/releases/sakashimana-haguruma-wo-kamen-ga-warau-more/70971/cynica/" rel="noopener" target="_blank">Cynica</a></div>
@@ -634,7 +634,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/lucy-2004/70608/rockarollica-ii-remaster-cd/" rel="noopener" target="_blank"><img alt="Lucy — ROCKAROLLICA II (Remaster CD)" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171233-rockarollica-ii-remaster-cd-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/lucy-2004/70608/rockarollica-ii-remaster-cd/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Lucy</div>
     <div class="nr-title"><a href="https://vk.gy/releases/lucy-2004/70608/rockarollica-ii-remaster-cd/" rel="noopener" target="_blank">ROCKAROLLICA II (Remaster CD)</a></div>
@@ -643,7 +643,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/lucy-2004/70609/rockarollica-remaster-cd/" rel="noopener" target="_blank"><img alt="Lucy — ROCKAROLLICA (Remaster CD)" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F171232-rockarollica-remaster-cd-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/lucy-2004/70609/rockarollica-remaster-cd/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Lucy</div>
     <div class="nr-title"><a href="https://vk.gy/releases/lucy-2004/70609/rockarollica-remaster-cd/" rel="noopener" target="_blank">ROCKAROLLICA (Remaster CD)</a></div>
@@ -661,7 +661,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/sugar-2024/70520/vital-shokai-genteiban/" rel="noopener" target="_blank"><img alt="sugar — VITAL" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174130-vital-shokai-genteiban-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/sugar-2024/70520/vital-shokai-genteiban/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">sugar</div>
     <div class="nr-title"><a href="https://vk.gy/releases/sugar-2024/70520/vital-shokai-genteiban/" rel="noopener" target="_blank">VITAL</a></div>
@@ -706,7 +706,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/yui-umbrella/70508/dokugaku/" rel="noopener" target="_blank"><img alt="Yui — 独楽-dokugaku-" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F170750-dokugaku-photo.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/yui-umbrella/70508/dokugaku/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Yui</div>
     <div class="nr-title"><a href="https://vk.gy/releases/yui-umbrella/70508/dokugaku/" rel="noopener" target="_blank">独楽-dokugaku-</a></div>
@@ -724,7 +724,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
   </div>
 </div>
 <div class="nr-card">
-  <a class="nr-thumb-link" href="https://vk.gy/releases/z-clear/71098/haccho-hidarimawari/" rel="noopener" target="_blank"><img alt="Z CLEAR — Haccho-Hidarimawari" class="nr-thumb" src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174175-z-clear-release-for-haccho-hidarimawari.thumbnail.jpg&amp;w=200&amp;h=200&amp;fit=cover&amp;output=jpg" /></a>
+  <a class="nr-thumb-link" href="https://vk.gy/releases/z-clear/71098/haccho-hidarimawari/" rel="noopener" target="_blank"></a>
   <div class="nr-info">
     <div class="nr-artist">Z CLEAR</div>
     <div class="nr-title"><a href="https://vk.gy/releases/z-clear/71098/haccho-hidarimawari/" rel="noopener" target="_blank">Haccho-Hidarimawari</a></div>

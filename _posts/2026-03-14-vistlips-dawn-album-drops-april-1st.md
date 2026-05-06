@@ -5,9 +5,6 @@ date: 2026-03-14T08:00:28.501Z
 labels: ["Visual Kei", "News", "Album Release", "vistlip", "Live Announcement", "Japanese Visual Kei"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fogre.natalie.mu%2Fmedia%2Fnews%2Fmusic%2F2026%2F0314%2Fvistlip_art202603.jpg%3Fimpolicy%3Dtwitter_card_face_crop&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fogre.natalie.mu%2Fmedia%2Fnews%2Fmusic%2F2026%2F0314%2Fvistlip_art202603.jpg%3Fimpolicy%3Dtwitter_card_face_crop&w=800&output=jpg" alt="vistlipニューアルバム「DAWN」詳細発表、試聴動画やライブ映像も一挙公開" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>vistlip are raising the stakes with their most introspective and musically ambitious album yet. *DAWN*, arriving April 1st, 2026, marks a major statement from the five-piece visual kei outfit—and the band is pulling out all the stops to introduce it to the world.</p>
 <p>For those unfamiliar, vistlip formed back in 2007 and have spent nearly two decades building a reputation for theatrical, dynamic live shows and increasingly sophisticated songwriting. After going independent in 2023 and releasing the concept album *THESEUS* last January, they're now ready to unveil their next chapter.</p>
 <p>**What Makes DAWN Special**</p>

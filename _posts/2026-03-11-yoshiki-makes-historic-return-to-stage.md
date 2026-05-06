@@ -5,9 +5,6 @@ date: 2026-03-11T15:50:23.732Z
 labels: ["Visual Kei", "News", "X Japan", "Live Performance", "Japanese Music", "Cultural Milestone"]
 image: "https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2024.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2024.jpg" alt="YOSHIKI to Perform the U.S. and Japanese National Anthems at the 2025 Major League Baseball Opening Day in Tokyo" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>One of Japan's most iconic musicians is stepping into the spotlight for a moment that transcends music—and it marks his triumphant comeback after major surgery.</p>
 <p>YOSHIKI, the legendary drummer and composer behind the pioneering Visual Kei band X Japan, has been selected by Major League Baseball to perform both the American and Japanese national anthems at the 2025 MLB Opening Day in Tokyo on March 18 at Tokyo Dome. The performance will precede a high-stakes game between the Los Angeles Dodgers and Chicago Cubs, both teams featuring several Japanese players returning home for the historic occasion.</p>
 <p>This appearance carries special significance: it's YOSHIKI's first public performance since undergoing his third major neck surgery in October 2024—a necessary procedure after decades of intense physical performances as a rock drummer and classical pianist. Despite the recovery, YOSHIKI has committed to honoring both anthems and celebrating the cultural bond between the U.S. and Japan.</p>

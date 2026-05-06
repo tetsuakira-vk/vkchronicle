@@ -5,11 +5,6 @@ date: 2026-03-12T13:49:06.584Z
 labels: ["Reviews", "Album Review", "Anniversary", "Classic VK", "NIGHTMARE", "Visual Kei"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F41%2F89%2F10%2F41891046-8a98-14fe-23f1-2ddc1897e9d3%2FNPKA-00179.jpg%2F600x600bb.jpg&w=600&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F41%2F89%2F10%2F41891046-8a98-14fe-23f1-2ddc1897e9d3%2FNPKA-00179.jpg%2F600x600bb.jpg&w=600&output=jpg"
-       alt="NIGHTMARE – √25"
-       style="max-width:400px;width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
 <p>Some anniversaries feel like obligations. NIGHTMARE's 25th is not one of them.</p>
 <p>√25 — read it as the square root of 25, which equals 5, the number of original members — is the kind of title that tells you immediately this band hasn't lost their flair for the theatrical. Released in July 2025 as a milestone mini-album, it arrives 25 years after a group from Osaka quietly began building one of Visual Kei's most improbable legacies: the band whose song "Alumina" introduced millions of Western fans to the genre through the Death Note anime.</p>
 <p>That cultural footprint is something NIGHTMARE have always worn lightly. They never chased the anime pipeline again; they just kept making records. √25 doesn't feel like nostalgia bait — it feels like a band taking honest stock of what they've been and where they still want to go.</p>

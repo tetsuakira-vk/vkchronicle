@@ -5,9 +5,6 @@ date: 2026-03-11T13:47:58.040Z
 labels: ["News", "Live Report", "Rorschach.inc", "Visual Kei", "Tour Announcement", "International"]
 image: "https://vk.gy/images/173517--.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://vk.gy/images/173517--.jpg" alt="Rorschach.inc reveals Ka.f.ka look going into jam-packed tour schedule" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>Japanese Visual Kei outfit **Rorschach.inc** are gearing up for one of their most ambitious touring campaigns yet—and they're doing it with a striking new look to match.</p>
 <p>The band has just revealed their latest aesthetic direction as they prepare to hit the road for an extensive schedule of live dates stretching through November. This isn't just domestic activity either: Rorschach.inc are expanding their international footprint significantly, with a Latin American tour confirmed for April and May. Fans across Brazil, Argentina, Chile, Peru, and Mexico should mark their calendars—this is a rare opportunity to catch the band in person outside Japan.</p>
 <p>**About Rorschach.inc**</p>

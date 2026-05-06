@@ -5,9 +5,6 @@ date: 2026-03-13T15:00:22.831Z
 labels: ["Visual Kei", "News", "Live Announcement", "umbrella", "Osaka", "Japanese Rock"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F02%2F20174520%2Fumbrella_%25E3%2582%25A2%25E3%2583%25BC%25E5%2586%2599.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F02%2F20174520%2Fumbrella_%25E3%2582%25A2%25E3%2583%25BC%25E5%2586%2599.jpg&w=800&output=jpg" alt="umbrella、大阪・心斎橋BIG CATにて主催ライヴ＜路地裏サーチライト＞開催決定" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>Osaka-based visual rock outfit **umbrella** has confirmed the return of their annual self-curated event **〈Alleyway Searchlight〉** (路地裏サーチライト), taking place **June 23, 2026** at **Shinsaibashi BIG CAT** in Osaka.</p>
 <p>Running since 2014, this biennial showcase has become a staple of the Kansai underground rock scene. Returning to the same venue and date as last year's edition, umbrella has assembled a compelling four-band lineup that reflects their commitment to elevating the local Osaka scene.</p>
 <p>**The Lineup:**</p>

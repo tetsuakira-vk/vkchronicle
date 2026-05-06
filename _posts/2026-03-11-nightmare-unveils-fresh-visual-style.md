@@ -5,9 +5,6 @@ date: 2026-03-11T13:47:46.789Z
 labels: ["News", "Single Release", "NIGHTMARE", "Visual Kei", "2026 Tour"]
 image: "https://vk.gy/images/173605--.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://vk.gy/images/173605--.jpg" alt="NIGHTMARE reveals new look and 33rd single, Reach for" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>After nearly two decades in the Visual Kei scene, NIGHTMARE continues to evolve—and their latest announcement proves they're far from resting on their laurels.</p>
 <p>The Tokyo-based band has unveiled a striking new look alongside the reveal of their 33rd single, "Reach for," dropping March 25, 2026. For those unfamiliar with NIGHTMARE, the group has long been a fixture in the darker corners of Visual Kei, blending symphonic elements with heavy guitars and theatrical aesthetics. Their longevity and consistent output have made them stalwarts for fans who appreciate melodic yet aggressive soundscapes.</p>
 <p>The new single arrives in two editions. The limited edition (Genteiban) includes the title track, "[N]," and a music video plus behind-the-scenes making content. The standard edition (Tsuujouban) swaps the video bonus for "Sendousha" (煽動者, meaning "Agitator")—a track that should appeal to longtime listeners seeking heavier material.</p>

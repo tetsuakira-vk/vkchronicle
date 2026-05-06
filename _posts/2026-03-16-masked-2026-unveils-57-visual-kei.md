@@ -5,9 +5,6 @@ date: 2026-03-16T08:38:47.099Z
 labels: ["Visual Kei", "News", "Live Event", "Visual Kei Circuit", "Japan Tour", "Multi-Venue Festival"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174304-flyer.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174304-flyer.jpg&w=800&output=jpg" alt="Full 「MASKED 2026」 photoshoot featuring 57 visual kei vocalists released" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>One of Japan's most anticipated visual kei festivals is back—and bigger than ever. MASKED 2026 has officially revealed its full lineup and released a stunning custom photoshoot featuring all 57 participating vocalists, giving fans an exclusive glimpse at the sheer scale of this year's event.</p>
 <p>Building on last year's successful inaugural run, MASKED 2026 expands dramatically across three Tokyo venues—Spotify O-EAST, Spotify O-WEST, and duo MUSIC EXCHANGE—over May 22nd and 23rd. The lineup reads like a who's who of the contemporary visual kei scene, blending established legends with rising acts that define where the genre is headed.</p>
 <p>The photoshoot itself is a visual feast. Day 1 features powerhouses like MUCC (with vocalist Tatsuro's commanding presence), KIZU's Lime, lynch.'s Hazuki, and beloved underground staples such as NOCTURNAL BLOODLUST, BugLug, and DAMNED. D'ESPAIRSRAY's HIZUMI also appears, cementing the event's appeal to both classic visual kei devotees and newer fans.</p>

@@ -5,9 +5,6 @@ date: 2026-03-12T08:20:01.036Z
 labels: ["Visual Kei", "News", "Band Changes", "THE_PiTY."]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F166873-i-d-a-group-photo.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F166873-i-d-a-group-photo.jpg&w=800&output=jpg" alt="LEN leaves THE_PiTY." style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>THE_PiTY. is moving forward as a three-piece. The Tokyo-based visual kei outfit announced this morning that drummer LEN (レン) will be departing the group effective April 1st, marking a significant shift for the band as they prepare for what comes next.</p>
 <p>For those unfamiliar with THE_PiTY., the group has established themselves within the visual kei scene with their theatrical aesthetic and dynamic sound. The departure of any core member is always a pivotal moment, but the band's official statement emphasizes continuity—the remaining three members are committed to carrying the project forward.</p>
 <p>LEN's exit comes as the band navigates an evolving creative direction. While details surrounding the drummer's reasons for leaving haven't been extensively detailed, such transitions in visual kei are often opportunities for bands to explore fresh sonic territories. Losing a drummer can significantly reshape a band's rhythmic foundation, and fans are understandably curious about how THE_PiTY. will sound moving ahead.</p>

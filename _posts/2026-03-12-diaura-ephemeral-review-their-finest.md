@@ -5,11 +5,6 @@ date: 2026-03-12T13:49:01.496Z
 labels: ["Reviews", "Album Review", "Dark VK", "DIAURA", "Gothic", "Visual Kei"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F27%2Fd0%2Fb1%2F27d0b187-6b1d-7d1b-4bfb-24f0783efd52%2F14621300_fixed.jpg%2F600x600bb.jpg&w=600&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F27%2Fd0%2Fb1%2F27d0b187-6b1d-7d1b-4bfb-24f0783efd52%2F14621300_fixed.jpg%2F600x600bb.jpg&w=600&output=jpg"
-       alt="DIAURA – Ephemeral"
-       style="max-width:400px;width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
 <p>Fifteen years into their career, DIAURA have earned the right to call a release Ephemeral — because everything they touch feels simultaneously fragile and overwhelming. Released in April 2025, this full-length is the sound of a band that has long since outgrown needing to prove themselves, and knows it.</p>
 <p>DIAURA have always occupied a specific corner of the Visual Kei world: heavier than the saccharine oshare crowd, more melodic than the pure extreme acts, with vocalist yo-ka anchoring everything in a delivery that shifts from whispered vulnerability to full-throated urgency within a single phrase. Ephemeral leans into those contrasts harder than anything they've released in years.</p>
 <p>The release title sets the tone from the start — the Japanese concept of mono no aware, the bittersweet awareness of impermanence. It's not an academic exercise, though. The band translates it into dense guitar arrangements that build tension slowly before releasing it, and in yo-ka's phrasing that treats every line like it might be the last time he gets to sing it.</p>

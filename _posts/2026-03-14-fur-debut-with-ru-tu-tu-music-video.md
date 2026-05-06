@@ -5,9 +5,6 @@ date: 2026-03-14T08:01:42.649Z
 labels: ["Visual Kei", "News", "Music Video", "Debut", "FUR", "New Bands"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2Fuploads%2F2026%2F02%2Ffur-ru-tu-tu-full-group-2026-1197x800.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2Fuploads%2F2026%2F02%2Ffur-ru-tu-tu-full-group-2026-1197x800.jpg&w=800&output=jpg" alt="FUR dazzles audiences with “RU-TU-TU” music video" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>A fresh face has arrived in the Visual Kei scene. On February 11, 2026, emerging band FUR unveiled their debut music video for "RU-TU-TU"—and it's a statement of intent.</p>
 <p>The track showcases exactly what draws fans to Visual Kei: theatrical presentation paired with infectious energy. Draped in grand, elegant attire that channels the movement's signature aesthetic, FUR delivered a fun, upbeat sound wrapped in the kind of visual spectacle that defines the genre. The band members radiate confidence throughout the video, performing with the polish you'd expect from a group that clearly understands the VK playbook.</p>
 <p>For those unfamiliar with FUR, they represent the wave of new talent continuing Visual Kei's legacy in the 2020s. While details about the band's lineup and formation remain sparse, their debut offering proves they've got both the look and the musicality to turn heads. The "RU-TU-TU" video is a colorful, engaging introduction that balances accessibility with the theatrical flair Western fans have come to love about the genre.</p>

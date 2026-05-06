@@ -6,8 +6,7 @@ labels: ["Visual Kei", "News", "Album Release", "BugLug", "Oshare Kei"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fffe24b51aa3e42f9f0e38c07761dc08c.jpg&amp;w=800&amp;output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fffe24b51aa3e42f9f0e38c07761dc08c.jpg&amp;w=800&amp;output=jpg" alt="BugLug Release New Single &quot;Original Not Found&quot; July 2026" style="max-width:100%;height:auto;border-radius:4px;">
-</div>
+  </div>
 <p>BugLug is gearing up to unleash fresh material this summer with the arrival of their new single "Original Not Found," scheduled to drop on July 8, 2026.</p>
 <p>For those unfamiliar with the Tokyo outfit, BugLug has carved out a distinctive niche within the Visual Kei landscape since their formation in 2010. Known for their chaotic yet precisely executed blend of oshare kei aesthetics and metalcore-influenced instrumentation, the band has built a loyal following both domestically and internationally. With their trademark theatrical presentation, intricate guitar work, and uncompromising attitude toward their craft, BugLug represents the more aggressive, experimental end of the VK spectrum—a far cry from the prettier, more accessible acts that often dominate Western perceptions of the genre.</p>
 <p>The title "Original Not Found" carries an intriguing conceptual weight that suggests the band may be exploring themes of authenticity, imitation, or the search for identity—topics that resonate deeply within Visual Kei circles. Given BugLug's history of releasing thought-provoking material, this single could signal another artistic evolution for the group.</p>

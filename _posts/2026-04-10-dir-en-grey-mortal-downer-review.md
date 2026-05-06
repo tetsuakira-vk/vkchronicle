@@ -5,11 +5,6 @@ date: 2026-04-10T09:00:22.631Z
 labels: ["Visual Kei", "Reviews", "Album Review", "DIR EN GREY", "Industrial Metal", "Experimental Rock", "Japanese Visual Kei"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F01%2F21%2FSFCD-291.jpg%3Fv%3D1&w=600&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F01%2F21%2FSFCD-291.jpg%3Fv%3D1&w=600&output=jpg"
-       alt="DIR EN GREY – MORTAL DOWNER [2CD + Blu-ray / Limited Edition]"
-       style="max-width:400px;width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
 <p>DIR EN GREY has never been a band to rest on laurels, and *MORTAL DOWNER* proves they're still willing to push boundaries in their third decade of existence. This double album arrives as a statement of artistic defiance—a sprawling, densely layered exploration of existential weight that feels simultaneously their most accessible and most uncompromising work to date.</p>
 <p>From the opening moments, it's clear Kyo and co. are operating at peak creative confidence. The production is immaculate without sacrificing the raw, industrial edge that defined their watershed works like *Uroboros*. Rather than chasing trends, the band has synthesized their entire catalog—the melodic sensibilities of their 2000s output, the avant-garde textures of their recent work, and the sheer visceral intensity they've always commanded. What emerges is something that feels both familiar and freshly destabilizing.</p>
 <p>The instrumental architecture deserves special praise. Die's guitar work remains the band's secret weapon, oscillating between crystalline, almost mathematical passages and walls of distortion that hit like a physical force. Toshiya and Shinya create a rhythm section that's less interested in serving traditional rock structures and more focused on building hypnotic, prog-adjacent grooves that can hold the listener's attention across seven-minute stretches without ever feeling indulgent.</p>

@@ -5,9 +5,6 @@ date: 2026-03-15T08:00:42.485Z
 labels: ["Visual Kei", "News", "Album Release", "ELFENSJóN", "Symphonic Metal"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F13e79c9ac64deaa48738228788648cc4.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F13e79c9ac64deaa48738228788648cc4.jpg&w=800&output=jpg" alt="ELFENSJóN new EP "HEXMAGIA" release" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>ELFENSJóN are preparing to cast a spell on listeners with their upcoming EP *HEXMAGIA*, arriving in physical format on March 14, 2026, followed by digital distribution on March 18.</p>
 <p>For those unfamiliar with the project, ELFENSJóN blends symphonic and gothic aesthetics with theatrical visual presentation—a hallmark of Japan's experimental metal underground. The band crafts immersive soundscapes that marry orchestral arrangements with heavy instrumentation, positioning them within the broader visual and avant-garde metal community that overlaps with Visual Kei's more experimental edges.</p>
 <p>*HEXMAGIA* delivers six original tracks across two discs. The first disc presents the full vocal versions:</p>

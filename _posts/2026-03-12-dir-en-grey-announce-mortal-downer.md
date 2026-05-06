@@ -5,12 +5,6 @@ date: 2026-03-12T14:02:44.878Z
 labels: ["News", "Album Release", "Dir En Grey", "Visual Kei"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3ca357b9de6326aa2719ff3a0955ef58.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F3ca357b9de6326aa2719ff3a0955ef58.jpg&w=800&output=jpg" alt="DIR EN GREY Announce MORTAL DOWNER Album for April 2026"
-       style="max-width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
-
-
 <p>DIR EN GREY are returning with a brand new full-length album, **MORTAL DOWNER**, set to drop on **April 8, 2026**—marking a significant moment for one of Visual Kei's most influential and experimental acts.</p>
 <p>The Tokyo outfit has spent decades pushing the boundaries of heavy music, blending brutalist industrial aesthetics with visceral emotional depth. From their early shock-rock days through their more recent avant-garde explorations, DIR EN GREY consistently prove why they remain essential listening for anyone serious about Japanese rock and metal. This new album promises to continue that legacy of fearless artistic evolution.</p>
 <p>## Available Editions</p>

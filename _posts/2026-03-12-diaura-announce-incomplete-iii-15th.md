@@ -5,12 +5,6 @@ date: 2026-03-12T14:02:34.622Z
 labels: ["News", "Album Release", "DIAURA", "Dark VK", "Visual Kei"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F84d7d07e1074569ca58bc4849200d71d.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F84d7d07e1074569ca58bc4849200d71d.jpg&w=800&output=jpg" alt="DIAURA Announce INCOMPLETE III 15th Anniversary Compilation"
-       style="max-width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
-
-
 <p>After 15 years of pushing the boundaries of Visual Kei, DIAURA is celebrating their milestone anniversary with the release of *INCOMPLETE III*, a comprehensive compilation set for April 1, 2026.</p>
 <p>The third installment in the *INCOMPLETE* series marks a significant moment for the Tokyo-based band, whose uncompromising fusion of heavy electronics, orchestral arrangements, and theatrical aesthetics has earned them a dedicated international fanbase. Since their formation, DIAURA has consistently delivered innovative soundscapes that challenge genre conventions—and this collection promises to reflect that evolution.</p>
 <p>**About DIAURA**</p>

@@ -5,11 +5,6 @@ date: 2026-03-19T10:00:18.928Z
 labels: ["Visual Kei", "Reviews", "Album Review", "DALLE", "Dark Visual Kei", "Experimental Rock", "Japanese Metal"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F09%2F06%2FDAKMH-2.jpg%3Fv%3D1&w=600&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F09%2F06%2FDAKMH-2.jpg%3Fv%3D1&w=600&output=jpg"
-       alt="DALLE – Destroyed To Discord. And The Reason"
-       style="max-width:400px;width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
 <p>There's a particular kind of beauty that emerges from controlled destruction, and DALLE's 2021 offering *Destroyed To Discord. And The Reason* is a masterclass in harnessing sonic chaos without losing melodic coherence. This is an album that announces itself as a statement—a band unafraid to splinter their sound into jagged fragments, then reassemble them into something unexpectedly hypnotic.</p>
 <p>From the opening moments, it's clear DALLE has embraced a more abrasive aesthetic than typical Visual Kei orthodoxy demands. The production is deliberately raw, guitars clash with almost confrontational intensity, and the vocal delivery oscillates between melodic croon and visceral snarl. Rather than smooth this friction away, the band leans into it, creating an album that feels genuinely destabilized—appropriate given the title's promise of discord.</p>
 <p>What prevents *Destroyed To Discord* from descending into mere noise is its underlying compositional intelligence. Beneath the distortion and feedback lies genuine song architecture. The arrangements breathe; verses decompress into moments of unnerving quietude before erupting into wall-of-sound choruses. This dynamic range keeps the listener perpetually off-balance, which seems precisely the intended effect.</p>

@@ -6,8 +6,7 @@ labels: ["Visual Kei", "News", "HYDE", "Photo Book", "Austria", "Orchestra Tour"
 image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F614c42f998f8ff65270dab08a9d1c5bb.jpg&amp;w=800&amp;output=jpg"
 ---
 <div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F614c42f998f8ff65270dab08a9d1c5bb.jpg&amp;w=800&amp;output=jpg" alt="HYDE Announces 'Jekyll and HYDE in Salzburg' Photo Collection" style="max-width:100%;height:auto;border-radius:4px;">
-</div>
+  </div>
 <p>HYDE continues his Austrian renaissance with the announcement of a second photo collection, *Jekyll and HYDE in Salzburg*, following the massive success of last year's *Jekyll and HYDE in Wien*.</p>
 <p>For those unfamiliar with HYDE: he's the iconic vocalist of legendary Japanese rock band L'Arc~en~Ciel, and a solo artist in his own right with a cinematic approach to visual presentation that aligns closely with Visual Kei sensibilities. Since his appointment as Austria's Tourism Ambassador in January 2024, HYDE has deepened his connection to the country—and now he's documenting it in stunning fashion.</p>
 <p>The new collection was shot across Salzburg, located 300 kilometers west of Vienna at an elevation of 420 meters. In collaboration with the Austrian Embassy's tourism department, HYDE was photographed against some of the region's most striking landmarks: the medieval architecture of the city itself, Hohensalzburg Fortress, the palace-turned-hotel Schloss Leopoldskron, the Hallein salt mines, and the snow-covered Nordkette mountain range near Innsbruck. The result promises a "one-of-a-kind world" blending HYDE's distinctive aesthetic with centuries of European history.</p>

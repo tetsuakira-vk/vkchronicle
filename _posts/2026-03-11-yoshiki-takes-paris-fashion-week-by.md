@@ -5,9 +5,6 @@ date: 2026-03-11T15:50:40.958Z
 labels: ["Visual Kei", "News", "Fashion", "YOSHIKI", "X JAPAN", "Japanese Fashion", "Celebrity"]
 image: "https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2024.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2024.jpg" alt="MAISON YOSHIKI PARIS Unveils Cinematic Fashion Show Film Highlighting YOSHIKI’s Paris Fashion Week Debut" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>X JAPAN's visionary leader YOSHIKI just proved he's not just a rock icon—he's a global creative force reshaping high fashion. After months of anticipation delayed by his third neck surgery, YOSHIKI has finally unveiled the film documenting his stunning Paris Fashion Week debut with MAISON YOSHIKI PARIS, and it's absolutely worth your time.</p>
 <p>For those unfamiliar: YOSHIKI is the classically-trained pianist, rock drummer, and composer who revolutionized visual aesthetics across Asia as X JAPAN's leader since the 1980s. His influence on makeup, fashion, and androgynous style runs through decades of artists—from visual kei pioneers to today's K-pop superstars. He's literally a cultural architect.</p>
 <p>MAISON YOSHIKI PARIS represents the latest evolution of his fashion vision. The Spring Summer 2025 collection bows to elegance while maintaining YOSHIKI's signature edge. Staged at the iconic Palais de Chaillot, the 33-piece lineup balances white bases with pastel accents (pistachio, lemon) and striking black-and-gold abstract brushstrokes inspired by German-Franco Lyrical Abstractionist Hans Hartung. Closing looks reference 1960s American Pop Art, featuring geometric shift dresses with YOSHIKI's own portrait in jacquard fabric.</p>

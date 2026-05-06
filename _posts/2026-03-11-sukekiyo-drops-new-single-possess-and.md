@@ -5,9 +5,6 @@ date: 2026-03-11T13:48:22.434Z
 labels: ["News", "Single Release", "Live Dates", "sukekiyo", "Dark Wave"]
 image: "https://vk.gy/images/173451--.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://vk.gy/images/173451--.jpg" alt="sukekiyo releases new track, possess and August tour dates" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>Dark wave pioneers sukekiyo are back with fresh material. The band has released a new digital single titled "possess" and unveiled a string of live dates for August 2026, giving fans plenty of reason to anticipate what's coming next from the visually striking outfit.</p>
 <p>For those new to sukekiyo, the project emerged from the ashes of Merry's dissolution and features members bringing their experience in Japan's darker underground scenes. Known for their brooding aesthetics, intricate arrangements, and theatrical presentation, sukekiyo has carved out a dedicated following among Western VK enthusiasts hungry for music that balances beauty with an underlying sense of unease. Their work sits at the intersection of dark wave, industrial rock, and visual kei sensibilities—making them essential listening for fans of bands like Moi dix Mois or Laleah.</p>
 <p>The new single "possess" arrives as a digital-only release, dropping on February 26, 2026. While details about the track's sonic direction remain sparse, the title alone suggests sukekiyo's continued exploration of darker, more introspective territory. The single is available through major digital retailers including Amazon, CDJapan, and RarezHut for those who prefer physical copies.</p>

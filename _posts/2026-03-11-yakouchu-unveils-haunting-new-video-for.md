@@ -5,9 +5,6 @@ date: 2026-03-11T15:48:07.385Z
 labels: ["Visual Kei", "News", "Music Video", "Yakouchu", "Single Release"]
 image: "https://vk.gy/images/173448--.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://vk.gy/images/173448--.jpg" alt="Yakouchu drops video for adora" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>Japanese Visual Kei act Yakouchu (夜光蟲) is back with fresh material, dropping a brand-new music video for their latest single "adora"—and it's already making waves across streaming platforms worldwide.</p>
 <p>The track marks another compelling addition to Yakouchu's discography, showcasing the band's signature blend of atmospheric soundscapes and dramatic Visual Kei aesthetics. For those newly discovering the group, Yakouchu has built a reputation for crafting introspective, moody compositions that balance delicate melodies with darker instrumental textures—a hallmark of the more experimental side of the VK scene.</p>
 <p>"adora" is now streaming on all major platforms, making it easily accessible for Western fans who've been keeping tabs on the Japanese underground. The accompanying music video, which dropped on February 28, 2026, brings the single's emotional weight to life with the band's characteristic visual style. You can catch the full video on YouTube (ID: 1Yar30cxsM8) and experience exactly what Yakouchu is channeling with this latest release.</p>

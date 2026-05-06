@@ -5,9 +5,6 @@ date: 2026-03-11T13:47:35.163Z
 labels: ["News", "Album Release", "Live Announcement", "Chanty", "Japanese Rock"]
 image: "https://vk.gy/images/172482-chanty-group-photo.jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://vk.gy/images/172482-chanty-group-photo.jpg" alt="Chanty teases summer mini album Shinshin Kokyu and corresponding oneman tour" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>Chanty is preparing to kick off summer 2026 in style with the announcement of *Shinshin Kokyu* (Deep Breathing), an upcoming mini album that promises to showcase the band's evolving sound. Even better news for devoted fans: tickets for the corresponding oneman tour are already available for preorder.</p>
 <p>For those new to Chanty, the Tokyo-based outfit has carved out a distinctive niche in the Visual Kei landscape with their blend of melodic sensibilities and theatrical presentation. Known for their dynamic live performances and thoughtfully crafted releases, the band continues to build momentum within both domestic and international fanbases.</p>
 <p>The announcement of *Shinshin Kokyu* comes as welcome news after months of anticipation. While the band has kept specific release details under wraps for now, the title itself carries intriguing implications—evoking imagery of renewal and revitalization. Given Chanty's track record of conceptual cohesion across their projects, fans can likely expect a thematically unified collection that reflects the band's creative direction heading into the latter half of 2026.</p>

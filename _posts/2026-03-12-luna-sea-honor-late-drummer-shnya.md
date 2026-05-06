@@ -5,9 +5,6 @@ date: 2026-03-12T15:13:12.563Z
 labels: ["Visual Kei", "News", "Live Report", "LUNA SEA", "Japanese Rock", "Band Updates"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F12225054%2F1-23.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F12225054%2F1-23.jpg&w=800&output=jpg" alt="LUNA SEA、有明アリーナで＜LUNATIC X’MAS＞振替公演開催。結成記念日から全国ツアー実施決定" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>In one of the most emotionally resonant moments in recent Visual Kei history, LUNA SEA held a rescheduled performance at Ariake Arena on March 12, 2026—a concert that became far more than a makeup date. The legendary band, who've been pioneering the darker, more sophisticated end of the J-Rock spectrum since their 1991 formation, delivered a setlist of 17 songs while honoring the memory of drummer Shnya, who passed away on February 17, 2026.</p>
 <p>Shnya had spent months in rehabilitation, determined to perform at the originally scheduled December 2025 show. Though he never made it back to the stage, his spirit was unmistakably present: his drum kit sat beside support drummer Junsshi's setup throughout the performance. Notably, it was a new YAMAHA kit—a symbolic return to the brand Shnya used during LUNA SEA's debut era, complete with the iconic rotating drums that became part of the band's visual identity.</p>
 <p>The concert drew an estimated 30,000 fans (SLAVEs, as the fanbase is known), with an additional global audience tuning in via live streaming on ZAIKO. The setlist spanned their extensive catalog, from early classics like "UP TO YOU" and "WISH" to deeper cuts like "absorb" and "LUCA."</p>

@@ -5,9 +5,6 @@ date: 2026-03-11T13:44:29.028Z
 labels: ["News", "the GazettE", "Band Changes", "Visual Kei Drama"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7998.jpeg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7998.jpeg&w=800&output=jpg" alt="the GazettE Parts Ways with Guitarist Aoi Amid Internal Conflict" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>One of Visual Kei's most influential acts has undergone a seismic lineup shift. On March 10, 2026, the GazettE announced the removal of guitarist Aoi from the band, marking a significant turning point for the quintet that has dominated the scene since their 2002 debut.</p>
 <p>For those unfamiliar, the GazettE are titans of modern Visual Kei—known for their aggressive sound, theatrical aesthetics, and devoted international fanbase. The band has spent over two decades crafting a legacy through albums like *Stacked Rubbish* and *Beautiful Deformity*, establishing themselves as genre pillars. Aoi's guitar work has been central to that identity since day one.</p>
 <p>According to the band's official statement, tensions escalated after Aoi unilaterally withdrew from band activities and took actions that jeopardized scheduled releases and tours. The remaining members—vocalist RUKI, guitarist Uruha, bassist REITA, and drummer Kai—attempted repeated direct communication, but Aoi declined engagement, eventually forcing discussions through his representative.</p>

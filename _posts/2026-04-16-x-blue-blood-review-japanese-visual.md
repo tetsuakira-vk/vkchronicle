@@ -5,11 +5,6 @@ date: 2026-04-16T09:00:20.886Z
 labels: ["Visual Kei", "Reviews", "Album Review", "X", "Gothic Metal", "1980s Japanese Rock"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FFeatures%2F3d%2Fed%2F63%2Fdj.ujglmyfw.jpg%2F600x600bb.jpg&w=600&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FFeatures%2F3d%2Fed%2F63%2Fdj.ujglmyfw.jpg%2F600x600bb.jpg&w=600&output=jpg"
-       alt="X – BLUE BLOOD"
-       style="max-width:400px;width:100%;height:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.3);" />
-</div>
 <p>There's a palpable darkness that settles over BLUE BLOOD from its first moments—a suffocating, beautiful dread that would come to define an entire visual kei aesthetic for Western audiences discovering Japanese rock in the decades to come. X's 1989 debut is less an album and more a manifesto: proof that the underground Tokyo scene was ready to challenge the glossy dominance of mainstream j-rock with something genuinely transgressive.</p>
 <p>From the production standpoint, BLUE BLOOD is remarkably ambitious for a debut. The guitar work carries a gothic heaviness that wouldn't feel out of place in European metal circles, yet maintains a distinctly Japanese sensibility—melodic even when crushing. The drums hit with mechanical precision, while Yoshiki's keyboard arrangements add orchestral depth without ever softening the record's essential bite. It's a complete sonic vision, and that's rare for a band's first statement.</p>
 <p>The album constructs an atmosphere of controlled chaos. Standout moments emerge throughout: tracks that balance theatrical flourishes with genuine musical intensity. What makes BLUE BLOOD essential is how it synthesizes influences—the glam rock posturing, the metal aggression, the synth-pop textures—without feeling derivative. X weren't copying anyone; they were creating the blueprint others would follow.</p>

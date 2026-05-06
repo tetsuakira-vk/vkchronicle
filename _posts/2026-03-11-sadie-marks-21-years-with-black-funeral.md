@@ -5,10 +5,6 @@ date: 2026-03-11T13:44:04.762Z
 labels: ["News", "Live Announcement", "Sadie", "Anniversary Show", "Tokyo"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F11190222%2F5shot_21th_official.jpg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F03%2F11190222%2F5shot_21th_official.jpg&w=800&output=jpg" alt="Sadie Marks 21 Years With &quot;BLACK FUNERAL&quot; at Zepp Shinjuku This March" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
-
 <p>After two decades of pushing the boundaries of Visual Kei, Sadie is ready to turn the page—and they're doing it in style.</p>
 <p>The legendary band, who've spent the last year touring in celebration of their 20th anniversary, will commemorate their 21st year as a group with a special live event titled "BLACK FUNERAL" at Zepp Shinjuku on March 18, 2026. Fresh off the heels of their 20th anniversary tour finale in Nagoya this weekend, Sadie is hitting the ground running with what promises to be another unmissable night.</p>
 <p>**About Sadie**</p>

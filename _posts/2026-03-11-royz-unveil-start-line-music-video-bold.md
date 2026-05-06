@@ -5,9 +5,6 @@ date: 2026-03-11T13:44:49.348Z
 labels: ["News", "Music Video", "Royz", "Album Release", "New Single"]
 image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7997.jpeg&w=800&output=jpg"
 ---
-<div style="margin-bottom:1.5em;text-align:center;">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblog-7997.jpeg&w=800&output=jpg" alt="Royz Unveil &quot;START LINE&quot; Music Video – A Bold New Chapter" style="max-width:100%;height:auto;border-radius:4px;" />
-</div>
 <p>Japanese Visual Kei outfit Royz is pushing forward with fresh momentum, dropping the official music video for their latest single, "START LINE." The track marks an exciting new direction for the band, and the accompanying visual is well worth your attention.</p>
 <p>For those unfamiliar with Royz, the Tokyo-based group has spent years building a devoted fanbase through their dynamic blend of Visual Kei theatricality and rock-solid musicianship. They're known for their polished production values and emotionally charged performances—qualities that shine through in their newest release.</p>
 <p>"START LINE" serves as the title track for a brand-new single, hitting digital subscription platforms and physical retailers starting March 7, 2026. The song is accompanied by two B-side cuts, "Evil" and "LIP SERVICE," giving listeners a fuller picture of where Royz is heading creatively. The music video, uploaded to YouTube on March 6, offers a cinematic glimpse into the single's aesthetic and sonic identity.</p>
