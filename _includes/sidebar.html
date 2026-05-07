@@ -39,21 +39,6 @@
 })();
 </script>
 
-{% if site.data.birthdays.members.size > 0 %}
-<div class="sidebar-widget">
-  <h3 class="widget-title">Birthdays Today</h3>
-  <p class="bday-date">{{ site.data.birthdays.date }}</p>
-  <ul class="bday-list">
-    {% for member in site.data.birthdays.members %}
-    <li class="bday-item">
-      <span class="bday-name">{{ member.name }}</span>
-      <span class="bday-band">{{ member.band }}</span>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
-
 <div class="sidebar-widget">
   <h3 class="widget-title">Band Spotlight</h3>
   <div id="band-spotlight" class="sb-loading">Loading&hellip;</div>
@@ -87,6 +72,18 @@
     {% endif %}
   </div>
 </div>
+
+{% if site.data.birthdays.members.size > 0 %}
+<div class="sidebar-widget">
+  <h3 class="widget-title">Birthdays Today</h3>
+  <p class="bday-date">{{ site.data.birthdays.date }}</p>
+  <div class="bday-list">
+    {% for member in site.data.birthdays.members %}
+    <p class="bday-item">{{ member.name }} <span class="bday-band">({{ member.band }})</span></p>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
 
 <div class="sidebar-widget">
   <h3 class="widget-title">Browse by Label</h3>
