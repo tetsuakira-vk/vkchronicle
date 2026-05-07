@@ -85,6 +85,31 @@
 </div>
 {% endif %}
 
+{% if site.data.monthly_video.video_id and site.data.monthly_video.video_id != "" %}
+<div class="sidebar-widget">
+  <h3 class="widget-title">Monthly MV Roundup</h3>
+  <p class="monthly-video-label">{{ site.data.monthly_video.month }}</p>
+  <div class="monthly-video-wrap">
+    <iframe src="https://www.youtube.com/embed/{{ site.data.monthly_video.video_id }}"
+      title="VK Chronicle Monthly Roundup"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      loading="lazy"></iframe>
+  </div>
+</div>
+{% endif %}
+
+{% if site.data.vk_playlist.playlist_id and site.data.vk_playlist.playlist_id != "" %}
+<div class="sidebar-widget">
+  <h3 class="widget-title">VK Music Videos</h3>
+  <p class="playlist-meta">{{ site.data.vk_playlist.video_count }} videos and growing</p>
+  <a class="playlist-link" href="https://www.youtube.com/playlist?list={{ site.data.vk_playlist.playlist_id }}" target="_blank" rel="noopener">
+    Watch on YouTube →
+  </a>
+</div>
+{% endif %}
+
 <div class="sidebar-widget">
   <h3 class="widget-title">Browse by Label</h3>
   <div class="label-cloud">
