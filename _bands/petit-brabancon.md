@@ -6,15 +6,12 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/b50802fb4a5645574b753f480201de
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Petit+Brabancon"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Petit%20Brabancon&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "haunted house"
-  - "Koku"
-  - "Miserable"
 top_albums:
-  - "Fetish"
   - "haunted house"
   - "Seven Garbage Born of Hatred"
-  - "Automata"
+  - "Vendetta"
+  - "BATMAN"
+  - "EXPLODE -02-"
 ---
 
 Petit Brabancon emerged as a distinctive presence within Japan's visual kei scene, bringing a unique blend of theatrical aesthetics and hard rock sensibilities to the genre. The band established themselves through their commitment to the visual kei philosophy of combining striking visual presentation with musically compelling j-rock compositions. With their elaborate costumes and dramatic stage presence, they carved out a niche that appealed to fans seeking both artistic experimentation and solid musicianship within the visual kei community.

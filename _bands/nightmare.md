@@ -6,15 +6,12 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/cca302f32a2042548660d2bbda039d
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "Nightmare"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Nightmare&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "the WORLD"
-  - "ALUMINA"
-  - "The WORLD - TV Size"
 top_albums:
-  - "The WORLD Ruler"
-  - "the WORLD/アルミナ"
-  - "Killer Show"
-  - "Majestical Parade"
+  - "Reach for"
+  - "Yaen -SABBATH-"
+  - "「√25」"
+  - "Kuon"
+  - "Labyrinth"
 ---
 
 Nightmare emerged as a prominent force in the Japanese visual kei scene, establishing themselves through a potent blend of hard rock intensity and theatrical aesthetics that defined much of the mid-2000s VK movement. The band's distinctive sound combined heavy instrumentation with melodic sensibilities, creating a style that appealed to both dedicated visual kei enthusiasts and mainstream rock audiences. Their visual presentation—characterized by elaborate costumes, dramatic makeup, and dynamic stage performances—exemplified the visual kei philosophy of merging music with visual art into a complete sensory experience.

@@ -6,16 +6,12 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/36aaf998a98741d99571aea684f941
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Megaromania"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Megaromania&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "Clear flora"
-  - "AURORA-destinies of world-"
-  - "Idea"
 top_albums:
-  - "The Birth of Creation"
-  - "Oblivious"
-  - "Propaganda-プロパガンダ-"
-  - "Quintessence Voyage"
-  - "APOCALYPSE"
+  - "THE LEGEND OF CREATION 2013.07.28 OSAKA MUSE"
+  - "THE LEGEND OF CREATION -2013.7.31 SHIBUYA O-EAST-"
+  - "a Revolving Lantern... COMPLETE SET"
+  - "BONUS CD"
+  - "a Revolving Lantern..."
 ---
 
 Megaromania emerged as a notable presence within Japan's visual kei scene, establishing themselves as practitioners of the genre's theatrical and musically ambitious traditions. The band exemplified visual kei's core aesthetic—combining striking visual presentation with energetic rock compositions—while contributing to the broader j-rock landscape of their era. Their formation and evolution reflected the genre's emphasis on artistic experimentation and visual storytelling, positioning them among the diverse acts that populated the visual kei underground and mainstream crossover circuits.

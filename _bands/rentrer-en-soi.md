@@ -6,15 +6,12 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/35a6624a8deb7be0f0dc0949d5e3af
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Rentrer+en+Soi"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Rentrer%20en%20Soi&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "I HATE MYSELF AND WANT TO DIE"
-  - "JUST MAD PAIN"
-  - "THORNY RAIN BREAK"
 top_albums:
-  - "The bottom of chaos"
-  - "Sphire-Croid"
+  - "MILLENARIANISM ~THE WAR OF MEGIDDO~"
+  - "AIN SOPH AUR"
   - "MEGIDDO"
-  - "AMONGST FOOLISH ENEMIES"
+  - "UNENDING SANCTUARY"
+  - "Stigmata"
 ---
 
 Rentrer en Soi emerged as a distinctive force within the Japanese visual kei scene, establishing themselves through their darkly atmospheric and emotionally intense approach to the genre. The band's name, French for "returning into oneself," reflects their introspective artistic philosophy and sets the tone for their sonic identity. Combining the theatrical visual aesthetics characteristic of visual kei with brooding j-rock instrumentation, they crafted a sound marked by melancholic melodies, heavy guitars, and deeply personal lyrical content. Their approach resonated with listeners seeking more psychologically raw and existentially-driven material within the visual kei landscape.
