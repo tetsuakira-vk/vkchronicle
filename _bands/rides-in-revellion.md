@@ -10,8 +10,8 @@ top_albums:
   - "THE LAST ReVellion"
   - "Shooting the MOON"
   - "37℃"
-  - "8th ANNIVERSARY ONEMAN 『∞-infinity-』 -GORILLA HALL OSAKA-"
   - "PERFECT・BLUE"
+  - "Yoake Frontline"
 ---
 
 Rides in ReVellion emerged as a distinctive force within Japan's visual kei scene, blending the theatrical aesthetics and dark glamour characteristic of the genre with the grandiose instrumentation and epic songwriting of power metal. The band distinguished itself through this fusion, creating a sound that appealed to both devoted visual kei fans and those drawn to metal's symphonic and melodic subgenres. Their visual presentation maintained the ornate costumes and dramatic styling expected of visual kei acts, while their musical approach emphasized powerful vocals, soaring melodies, and intricate guitar work that reflected power metal's technical ambitions.
