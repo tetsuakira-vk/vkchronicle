@@ -7,17 +7,12 @@ tags: ["visual kei"]
 lastfm_slug: "ViViD"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=ViViD&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"
-top_tracks:
-  - "BLUE"
-  - "光-HIKARI-"
-  - "The Neon City"
-  - "Like This"
-  - "REAL"
 top_albums:
-  - "BLUE"
-  - "INFINITY"
-  - "THE PENDULUM"
-  - "光-HIKARI-"
+  - "RAINBOW LIFE"
+  - "TV Star no Higeki"
+  - "Marble"
+  - "7 Days"
+  - "Sekirara"
 ---
 
 ViViD is a Japanese Visual Kei band known for their dramatic theatrical performances and striking visual aesthetics that combine elegant costumes with dark, gothic imagery. The band delivers a powerful sound characterized by heavy guitar riffs and intense vocal performances, blending aggressive rock elements with melodic passages that define their signature style. As fixtures in the Japanese Visual Kei underground and indie scene, ViViD has cultivated a dedicated fanbase through their energetic live shows and consistent artistic evolution since their formation.

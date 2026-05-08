@@ -6,15 +6,16 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/68399e609df0416287e21ec8aaee60
 tags: ["visual kei", "symphonic metal"]
 lastfm_slug: "Versailles"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Versailles&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "Vampire"
-  - "MASQUERADE"
-  - "Flowery"
 top_albums:
-  - "Holy Grail"
-  - "The Greatest Hits 2007-2016"
-  - "Rhapsody of the Darkness"
-  - "Lyrical Sympathy"
+  - "CHATEAU DE VERSAILLES -Prelude-"
+  - "VOGUE"
+  - "Holy Grail VERSAILLES"
+  - "EMPEROR (※ canceled)"
+  - "HIZAKI grace project"
+top_tracks:
+  - "Aristocrat's Symphony"
+  - "Masquerade"
+  - "Noble"
 ---
 
 Versailles emerged as a prominent force in the Japanese visual kei scene, bringing an operatic grandeur and symphonic metal aesthetic to the genre. The band, fronted by vocalist Kamijo, combined the theatrical visual elements central to visual kei with elaborate orchestral arrangements and powerful vocal performances. Their music blended classical instrumentation with heavy rock elements, creating a distinctive sound that appealed to both dedicated visual kei fans and progressive metal enthusiasts. The band's formation represented a significant moment in visual kei evolution, as they elevated the genre's sonic ambitions beyond traditional rock structures into symphonic territories dominated by sweeping melodies and intricate compositional arrangements.
