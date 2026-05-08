@@ -6,18 +6,16 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/cebf4e3c2b3c1aaef39853f601a3b7
 tags: ["j-rock", "oshare kei"]
 lastfm_slug: "An+Cafe"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=An%20Cafe&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "流星ロケット"
-  - "スノーシーン"
-  - "Cherry咲く勇気!!"
-  - "メープルガンマン"
-  - "恋のディペンデンス"
 top_albums:
-  - "アンティック-珈琲店-"
-  - "極魂ROCK CAFE"
-  - "マグニャカルタ"
-  - "飴玉ロック"
-  - "色彩モーメント"
+  - "Cherry Re:Bloom Café"
+  - "Cherry Saku Yuuki!! -Re:Bloom-"
+  - "Bandoru!~Band de Idol Shiyoze~"
+  - "¡Bandoru!~Band de Idol Shiyoze~"
+  - "BEST 2015~2018"
+top_tracks:
+  - "Nyappy Day"
+  - "Zoku Zoku Zoku"
+  - "Escapist"
 ---
 
 An Cafe emerged from the Japanese visual kei scene as one of the defining bands of the oshare kei subgenre, a style characterized by fashionable aesthetics, energetic performances, and a blend of rock with pop sensibilities. Fronted by the charismatic vocalist Mkami, the band quickly gained a devoted following through their vibrant visual presentation, catchy melodies, and theatrical live shows that emphasized style and glamour alongside musical prowess. Their lineup featured the guitar work of Teruki, the bass of Yuuki, and the drumming of Tamaranch, creating a cohesive unit that embodied the carefree yet polished spirit of oshare kei during its peak years.

@@ -6,16 +6,12 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8c092ce76e984f8abd8aec34d5909d
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "Baroque"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Baroque&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "Noisescape - Original Mix"
-  - "FLOWER OF ROMANCE (ALBUM MIX)"
-  - "in good time"
 top_albums:
-  - "Noisescape"
-  - "Baroque"
+  - "STAY"
   - "SIN DIVISION"
   - "PUER ET PUELLA"
-  - "Reborn"
+  - "YOU"
+  - "AN ETERNITY / FLOWER OF ROMANCE"
 ---
 
 Baroque emerged as a distinctive force within Japan's visual kei scene, establishing themselves as an act that blended the theatrical aesthetics of visual kei with experimental j-rock sensibilities. The band's approach to the genre set them apart by incorporating darker, more intricate production techniques and complex sonic arrangements. Their music showcased a commitment to pushing the boundaries of traditional visual kei, earning them recognition among fans who sought more avant-garde and atmospheric interpretations of the genre. Through their catalog, including standout tracks like "Noisescape" and "FLOWER OF ROMANCE," Baroque demonstrated a sophisticated understanding of both melody and texture.

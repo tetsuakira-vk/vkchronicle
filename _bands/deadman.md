@@ -7,15 +7,11 @@ tags: ["visual kei"]
 lastfm_slug: "Deadman"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Deadman&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"
-top_tracks:
-  - "additional cause for sorrow"
-  - "follow the night light"
-  - "sakura to ame"
-  - "this day.this rain."
-  - "degreeds centigrade"
 top_albums:
-  - "in the direction of sunrise and night light"
-  - "Site of Scaffold"
+  - "Hifuku suru zoukei wa hito, hareru fuusen no kibyou"
+  - "Rinshimoku wa CYAN BLUE"
+  - "documentary of GENEALOGIE DER MORAL"
+  - "endroll 2006/endroll 2022"
   - "Genealogie der Moral"
 ---
 
