@@ -10,6 +10,12 @@ top_tracks:
   - "Butterfly"
   - "2 be wiz U"
   - "君に願いを"
+top_albums:
+  - "WHAT'S MY NAME?"
+  - "【雅-みやびうた-歌】～独奏～"
+  - "SAMURAI SESSIONS vol.1"
+  - "Miyavi"
+  - "Galyuu"
 ---
 
 Miyavi is a virtuosic Japanese visual kei guitarist and singer who emerged from the Tokyo underground music scene in the early 2000s, initially gaining prominence as the lead guitarist of the band Dué le Quartz before launching a prolific solo career. Known for his distinctive slap-tap guitar technique—a percussive, unconventional approach to the instrument that blends traditional Japanese aesthetics with rock innovation—Miyavi carved out a unique sonic identity within the visual kei landscape. His striking visual presentation, characterized by elaborate makeup, costumes, and on-stage theatricality, exemplifies the core ethos of the visual kei movement while his guitar mastery transcends genre boundaries.

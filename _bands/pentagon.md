@@ -10,6 +10,12 @@ top_tracks:
   - "Shine"
   - "Daisy"
   - "Dr. BeBe"
+top_albums:
+  - "Positive"
+  - "WE:TH"
+  - "UNIVERSE : The Black Hall"
+  - "Thumbs Up!"
+  - "Positive"
 ---
 
 Pentagon is a Japanese visual kei band that emerged within the broader landscape of Japanese rock and visual kei music. The group is characterized by their dynamic blend of rock sensibilities with elements that bridge Japanese and contemporary musical influences. Their musical approach combines the theatrical and aesthetic elements core to visual kei with accessible melodies and energetic performances, establishing them as participants in Japan's vibrant alternative rock scene. The band's visual presentation and sonic identity reflect the visual kei tradition of combining striking stage aesthetics with powerful musicianship.
