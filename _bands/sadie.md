@@ -10,6 +10,12 @@ top_tracks:
   - "Better Angels"
   - "TANTRUM!!!"
   - "Wash"
+top_albums:
+  - "Better Angels"
+  - "Wash"
+  - "TANTRUM!!!"
+  - "Arms Wide"
+  - "Everland"
 ---
 
 Sadie emerged as a notable force within the Japanese visual kei landscape, bringing a distinctive aesthetic and energetic sound to the genre. The band exemplifies the visual kei tradition of combining striking visual presentation with dynamic rock music, drawing from both the theatrical roots of the movement and contemporary j-rock sensibilities. Their approach to the genre reflects the collaborative spirit that defines visual kei, with members contributing to both the musical and visual aspects that create their complete artistic identity.

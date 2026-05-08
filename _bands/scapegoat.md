@@ -10,6 +10,12 @@ top_tracks:
   - "赤いバスルーム"
   - "眠れない僕の趣味"
   - "禁じられた遊戯"
+top_albums:
+  - "赤いバスルーム（通常盤）"
+  - "「デキソコナイ」の「林檎」（通常盤）"
+  - "A Way For The Damned"
+  - "ぼくときみ、のしたい（B type）"
+  - "Let Our Violins Be Heard"
 ---
 
 Scapegoat emerged within Japan's visual kei underground as a distinctive force in the powerviolence and post-hardcore subgenres, carving out a niche that blended aggressive sonic brutality with the aesthetic sensibilities of the VK movement. The band distinguished themselves through their uncompromising approach to instrumentation and composition, refusing to soften their abrasive sound despite operating within a scene often associated with more theatrical or melodic stylings. Their formation represented a convergence of the underground punk-influenced violence of powerviolence with the visual presentation and emotional intensity characteristic of visual kei, creating a unique identity that appealed to listeners seeking rawer, more confrontational expressions within the genre.

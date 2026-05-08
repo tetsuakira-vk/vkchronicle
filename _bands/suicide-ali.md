@@ -10,6 +10,12 @@ top_tracks:
   - "行商人の絵画"
   - "四十七の弦"
   - "Stitch Doll (Album Version)"
+top_albums:
+  - "Tainted Gallery"
+  - "Sarau Fue to Yakusoku"
+  - "Stitch Doll"
+  - "Tadashi Mahou No Tsukurikata"
+  - "Sarau Fue to Yakusoku"
 ---
 
 Suicide Ali emerged as a distinctive presence within Japan's visual kei movement, bringing a theatrical and avant-garde aesthetic to the genre's landscape. The band carved out their identity through a fusion of visual kei's dramatic visual presentation with intricate j-rock instrumentation, creating a sound that emphasized both technical complexity and emotional intensity. Their approach to the genre reflected the creative experimentation that characterized visual kei during their period of activity, with performances that integrated striking visual elements alongside their musical compositions.
