@@ -11,8 +11,8 @@ top_albums:
   - "Evermore"
   - "Rosy Moments 4D"
   - "Bitter Sweet"
-  - "【KIDS BLUE STANDING SPECIAL 2019】2019/12/24 @TSUTAYA O-EAST"
   - "roneve"
+  - "J'aime La Vie"
 ---
 
 D'erlanger is a pioneering visual kei band known for their theatrical presentation and darkly atmospheric sound that blends gothic aesthetics with experimental rock elements. Emerging from the underground Tokyo scene in the late 1980s, the band established themselves as influential figures in visual kei's formative years through their dramatic stage presence and innovative visual concepts. Their music and aesthetic helped define the theatrical darkness that became central to visual kei's identity, cementing their legacy as essential architects of the genre.
