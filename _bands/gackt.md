@@ -6,15 +6,16 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/be7e1eb8d68a45d9a4ef105f9b1109
 tags: ["j-rock", "japanese"]
 lastfm_slug: "Gackt"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Gackt&genre=JPOP&subgenre_id=VK"
+top_albums:
+  - "GACKT’s -45th Birthday Concert- LAST SONGS"
+  - "Tsumi no Keishō~Original Sin~"
+  - "Kimi Dake no Boku de Iru Kara"
+  - "LAST MOON"
+  - "ARROW"
 top_tracks:
-  - "U+K"
   - "Mizerable"
   - "Vanilla"
-top_albums:
-  - "MARS"
-  - "Mizerable"
-  - "Journey through the Decade"
-  - "MOON"
+  - "Duel ~町 Anata to Issho~"
 ---
 
 Gackt is a legendary Japanese visual kei artist who emerged as one of the genre's most influential figures during the late 1990s. Known for his striking androgynous appearance, elaborate stage costumes, and theatrical performances, Gackt rose to prominence with a distinctive blend of rock, pop, and electronic elements that pushed visual kei beyond its gothic roots. His powerful vocal range and dramatic presence made him a standout performer in the Japanese rock scene, and he quickly became a pioneer who helped bring visual kei aesthetics and music to mainstream recognition both domestically and internationally.

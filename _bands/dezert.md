@@ -7,16 +7,11 @@ tags: ["visual kei"]
 lastfm_slug: "Dezert"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Dezert&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"
-top_tracks:
-  - "「変態」 / Hentai"
-  - "HENTAI"
-  - "「変身」"
-  - "蝶々 / Chocho"
-  - "再教育 / Saikyoiku"
 top_albums:
-  - "完売音源集-暫定的オカルト週刊誌②- / Kanbaiongenshu zanteiteki occult shuukanshi 2"
-  - "Kessaku Ongensyu Zettaiteki Occult Syukanshi -Shinzou Hen- / -Noumiso Hen-"
-  - "TODAY"
+  - "Ongaku"
+  - "「Hibana」/「Mushuusei。」"
+  - "HIBANA"
+  - "MELANCHOLIA TRAIN / Shunkashuto"
   - "yourself: ATTITUDE"
 ---
 

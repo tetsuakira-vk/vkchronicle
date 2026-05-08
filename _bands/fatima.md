@@ -6,15 +6,12 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/d8f3b9165aa24f01a4a46a390d3dde
 tags: ["visual kei", "soul"]
 lastfm_slug: "Fatima"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Fatima&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "Biggest Joke Of All"
-  - "Cinnamon"
-  - "Caught in a Lie"
 top_albums:
-  - "Yellow Memories"
-  - "Follow You EP (feat. Floating Points)"
-  - "And Yet It's All Love"
-  - "roma"
+  - "Fatima 1998-2005"
+  - "to Exit~Grand Finale~"
+  - "Exit"
+  - "Kesenai Ame / Muchi na Inochi e"
+  - "Tsumugi Ito"
 ---
 
 Fatima emerged as a distinctive presence within the Japanese visual kei scene, blending the theatrical aesthetics and dramatic presentation characteristic of the genre with soulful vocal delivery and emotionally resonant songwriting. The band carved out a unique identity by infusing their visual kei foundation with soul influences, creating a sound that appealed to audiences seeking both visual spectacle and genuine musical depth. Their approach represented a thoughtful fusion of VK's ornate visual presentation with the raw emotional authenticity of soul music, distinguishing them from more traditionally styled acts within the movement.
