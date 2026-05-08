@@ -6,6 +6,7 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8ba15a03589e4296aea20e5a656a15
 tags: ["visual kei"]
 lastfm_slug: "Raphael"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Raphael&genre=JPOP&subgenre_id=VK"
+added: "2026-05-08"
 ---
 
 Raphael is a Visual Kei band known for their dramatic theatrical aesthetics and gothic-inspired visual presentation that exemplifies the darker side of the VK movement. The band's sound combines heavy instrumental arrangements with emotionally intense vocals, creating a dark and atmospheric musical experience that resonates with fans of theatrical rock. As an active force in the Japanese Visual Kei scene, Raphael has maintained a dedicated following through their commitment to the genre's core values of artistic expression and visual spectacle.

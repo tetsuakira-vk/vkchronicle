@@ -10,6 +10,7 @@ top_tracks:
   - "ROCKET DIVE"
   - "PINK SPIDER"
   - "ever free"
+added: "2026-05-08"
 ---
 
 hide (Hideto Matsumoto) was the lead guitarist of X Japan and one of the most iconic figures in visual kei history, known for his vibrant pink hair, flamboyant style, and a solo career that pushed the genre into new experimental territory. His solo work — released under the name hide with Spread Beaver — blended industrial rock, glam, and pop with a chaotic energy that made albums like *Psychommunity* and *Ja, Zoo* essential listens for any VK fan. His sudden passing in May 1998 sent shockwaves through Japan's music world, and he remains a towering influence on every generation of visual kei that followed.
