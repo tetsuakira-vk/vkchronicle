@@ -10,6 +10,12 @@ top_tracks:
   - "Los Angeles"
   - "I Must Not Think Bad Thoughts"
   - "Nausea"
+top_albums:
+  - "Los Angeles"
+  - "More Fun in the New World"
+  - "Los Angeles (2019 Remaster)"
+  - "Under the Big Black Sun"
+  - "Los Angeles"
 ---
 
 X stands as one of the pioneering forces that shaped Visual Kei's aggressive edge, emerging from Japan's underground music scene with a raw punk-influenced sound that defied the genre's theatrical conventions. The band channeled the rebellious spirit of punk rock into their visual presentation and sonic approach, creating a distinctive identity that blended punk's confrontational energy with Visual Kei's dramatic aesthetics. Their relentless attitude and uncompromising musical direction attracted listeners who gravitated toward the harder, more street-level aspects of the scene rather than its more ornamental elements.
