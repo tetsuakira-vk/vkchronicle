@@ -7,15 +7,11 @@ tags: ["visual kei", "j-rock"]
 lastfm_slug: "Malice+Mizer"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Malice%20Mizer&genre=JPOP&subgenre_id=VK"
 top_albums:
-  - "La meilleur selection de MALICE MIZER"
-  - "La collection des Singles"
-  - "La Collection \"Merveilles\" -L'édition Limitée-"
-  - "La Collection des Singles -L'édition Limitée-"
   - "Bara no Konrei ~Mayonaka ni Kawashita Yakusoku~"
-top_tracks:
-  - "Kedama"
-  - "Shuramuki"
-  - "Garasu no Hitomi"
+  - "Bara no Higeki Mayonaka ni Kawashita Yakusoku"
+  - "Cardinal"
+  - "MALICE MIZER no \"Aa, Mujou\" -Kousai Rikurihen-"
+  - "UV SPECIAL MALICE MIZER FILE"
 ---
 
 Malice Mizer emerged as one of visual kei's most influential acts during the genre's formative years in the 1990s. The Japanese band, fronted by the distinctive vocalist Mana, became known for their theatrical visual aesthetic and sophisticated musical arrangements that blended gothic rock with classical influences. Their formation marked a turning point in the visual kei movement, establishing a template for artistic presentation that emphasized elaborate costumes, dramatic makeup, and conceptual stage design. The band's commitment to visual artistry was matched by their musical ambition, crafting compositions that incorporated orchestral elements, varied instrumentation, and intricate song structures that elevated visual kei beyond its punk-influenced origins.
