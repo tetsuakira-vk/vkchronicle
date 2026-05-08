@@ -8,10 +8,9 @@ lastfm_slug: "Sadie"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Sadie&genre=JPOP&subgenre_id=VK"
 top_albums:
   - "THE REVIVAL OF MADNESS"
-  - "THE REVIVAL OF DARKNESS"
-  - "THE REVIVAL OF SADNESS"
-  - "UNDEAD Vol.032"
-  - "UNDEAD Vol.031"
+  - "GANGSTA"
+  - "MADRIGAL de MARIA"
+  - "bleach"
 top_tracks:
   - "SCREAM"
   - "Rosario"
