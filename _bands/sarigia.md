@@ -7,11 +7,11 @@ tags: ["visual kei", "japanese"]
 lastfm_slug: "Sarigia"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Sarigia&genre=JPOP&subgenre_id=VK"
 top_albums:
-  - "THE BEST"
   - "7 Tsu no Daizai ~SEVEN DEADLY SINS~"
   - "Anti Christ"
   - "Fundo -wrath-"
   - "Taida -sloth-"
+  - "Boushoku -gluttony-"
 ---
 
 Sarigia stands as a distinctive presence within Japan's visual kei landscape, a genre known for its fusion of heavy rock instrumentation with theatrical visual aesthetics and androgynous fashion. The band emerged from the vibrant underground music scene that has long characterized visual kei's DIY ethos, carving out their niche through a combination of dark, atmospheric soundscapes and visually striking stage presentations. Their music exemplifies the genre's characteristic blend of melancholic melodies with aggressive instrumental arrangements, drawing from the theatrical and gothic influences that define modern visual kei.
