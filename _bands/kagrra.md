@@ -6,16 +6,12 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/65b8126cce8145cab51bca7390f495
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Kagrra"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Kagrra&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "皐月"
-  - "うたかた"
-  - "徒然謌"
 top_albums:
-  - "燦 (さん)"
-  - "雫 -shizuku-"
-  - "百鬼絢爛"
-  - "Miyako"
-  - "[gozen]"
+  - "Kagrra Indies Best 2000-2003"
+  - "Shuuen~Sakura Maichiru Ano Oka De~"
+  - "Hyakkikenran"
+  - "Shiroi Uso"
+  - "Tsuki ni Murakumo Hana ni Ame"
 ---
 
 Kagrra emerged from Japan's visual kei scene as a distinctive force blending traditional Japanese aesthetics with modern rock sensibilities. The band distinguished itself through a unique visual presentation that incorporated elements of classical Japanese costume and spiritual imagery, setting them apart from their contemporaries in the VK movement. Their sound combined heavy guitar-driven rock with atmospheric arrangements, creating a theatrical and immersive experience that appealed to both dedicated visual kei fans and listeners interested in experimental j-rock. The band's commitment to their concept—drawing heavily from Japanese folklore, spirituality, and historical imagery—gave them a culturally grounded identity within an often Western-influenced subgenre.

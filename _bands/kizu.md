@@ -6,15 +6,12 @@ photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c4ad53b42a67db00937db52064cd21
 tags: ["rock", "metal"]
 lastfm_slug: "KIZU"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=KIZU&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "Strawberry Blue"
-  - "Buta"
-  - "Heisei"
 top_albums:
-  - "Kataki"
-  - "Bee-autiful days"
-  - "Strawberry Blue"
-  - "Ningen Shikkaku"
+  - "Gokuraku yori Gokujou no Ame"
+  - "JP:PARASITE"
+  - "KIZU Tandoku Kouen 「Homura」 2025.1.16 Nippon Budokan"
+  - "RED"
+  - "Kizu Tandouku Kouen 「Homura」 2025.1.16 Nippon Budokan"
 ---
 
 KIZU emerged as a distinctive force within the Japanese Visual Kei scene, establishing themselves through a bold fusion of heavy rock and metal elements that set them apart from their contemporaries. The band's sonic identity is characterized by aggressive guitar work, dynamic vocal performances, and the theatrical presentation inherent to the Visual Kei aesthetic. Their music combines the raw energy of metal with the structured accessibility of rock, creating a sound that appeals to both devoted metalheads and broader Visual Kei audiences. With their striking visual presentation and unapologetic musical intensity, KIZU carved out a notable presence in a subgenre known for its diversity and artistic experimentation.
