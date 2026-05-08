@@ -10,6 +10,12 @@ top_tracks:
   - "スクールゾーン"
   - "マッキーナ"
   - "暗中浪漫"
+top_albums:
+  - "１０"
+  - "11"
+  - "この雨に撃たれて（霧雨盤）"
+  - "マネキン / 散影"
+  - "１０"
 ---
 
 Cali≠gari is a Japanese Visual Kei band renowned for their provocative embrace of eroguro (erotic grotesque) aesthetics and shock value within the visual kei scene. The group emerged in the mid-2010s, establishing themselves as one of the more controversial and visually extreme acts in the genre, known for theatrical live performances that push boundaries with explicit imagery and disturbing visuals. Their aesthetic deliberately challenges conventional beauty standards within Visual Kei, instead mining grotesque and taboo subject matter for artistic and shock effect.

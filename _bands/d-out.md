@@ -10,6 +10,12 @@ top_tracks:
   - "中距離恋愛"
   - "grotesQ."
   - "シャングリラ"
+top_albums:
+  - "明星オリオン"
+  - "[2016.01.06] 心・技・体"
+  - "花咲ビューティ"
+  - "[2012.02.08] MUSIC NIPPON"
+  - "サイケデリコ∞サイケデリコ"
 ---
 
 D=OUT is a Japanese visual kei band that emerged from the vibrant underground rock scene with a distinctive aesthetic and energetic sound. The group has established itself within the visual kei genre by blending theatrical visual presentation with accessible rock compositions, contributing to the broader landscape of Japanese visual rock music. Known for their engaging live performances and dedicated fanbase, D=OUT represents the mid-2000s visual kei era when the genre continued to evolve with fresh perspectives and dynamic musicianship.

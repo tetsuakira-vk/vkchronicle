@@ -10,6 +10,12 @@ top_tracks:
   - "SCHÉMA"
   - "NUAGES GRIS"
   - "Spirits"
+top_albums:
+  - "SCHÉMA"
+  - "NUAGES GRIS"
+  - "Design"
+  - "Love over Fear"
+  - "REBIRTH OF NEWBORN BABY"
 ---
 
 Angelo is a Japanese visual kei rock band that emerged within the distinctive aesthetic and sonic landscape of the visual kei scene. The band embodies the genre's signature fusion of theatrical visual presentation with dynamic rock instrumentation, creating a compelling artistic identity that resonates with fans of both traditional j-rock and the more avant-garde elements of visual kei. Their musical approach combines intricate guitar work, powerful vocal performances, and the genre's characteristic blend of melancholic and energetic compositions, establishing them as notable contributors to the visual kei movement.

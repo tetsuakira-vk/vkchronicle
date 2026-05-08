@@ -10,6 +10,12 @@ top_tracks:
   - "7th rose"
   - "Vampire Missa"
   - "闇の国のアリス"
+top_albums:
+  - "7th Rose"
+  - "VAMPIRE SAGA"
+  - "Vampire Chronicle (〜V-Best Selection Vol.2〜 One)"
+  - "Genetic World"
+  - "7th Rose"
 ---
 
 D is a Japanese visual kei band that emerged as a notable presence in the visual kei and J-rock scene, characterized by their distinctive blend of gothic aesthetics and rock instrumentation. The band became recognized for their theatrical approach to performance, combining elaborate visual presentations with heavy, atmospheric guitar work that defined much of their sound. Their musical style drew from the broader visual kei tradition while incorporating elements that appealed to fans of Japanese rock music, positioning them within a landscape populated by similarly styled acts of their era.
