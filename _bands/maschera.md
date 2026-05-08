@@ -10,9 +10,9 @@ added: "2026-05-08"
 top_albums:
   - "DRAGONHEADS DRAGONTAILS-LL01."
   - "DRAGONHEADS DRAGONTAILS"
-  - "HISTORY 1996-2000"
-  - "BEST"
   - "orb"
+  - "SCOPE~FILE ONE~"
+  - "Dragonheads Snaketails"
 ---
 
 MASCHERA is a Visual Kei band known for their elaborate theatrical aesthetics and dramatic stage presence, blending gothic and avant-garde visual elements with their dark, orchestral sound. The band's music incorporates symphonic arrangements and melancholic melodies, creating an immersive atmosphere that complements their visually striking performances and costume designs. Operating within Japan's independent Visual Kei circuit, MASCHERA has built a dedicated following through their commitment to the theatrical and artistic traditions that define the genre.
