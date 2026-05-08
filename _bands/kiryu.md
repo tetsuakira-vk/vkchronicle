@@ -10,6 +10,12 @@ top_tracks:
   - "nue"
   - "watashimamire"
   - "hakoniwa"
+top_albums:
+  - "manjushage"
+  - "yukikokugounitsuki"
+  - "kodoku"
+  - "nue"
+  - "manjushage"
 ---
 
 Kiryu is a Japanese visual kei band that emerged from the underground rock scene, establishing themselves as a notable presence within the visual kei and J-rock genres. The band is characterized by their dramatic aesthetic and theatrical approach to performance, embodying the visual kei ethos of combining striking visual presentation with aggressive, dynamic rock music. Their sound blends heavy instrumentation with melodic sensibilities, creating a distinctive sonic identity that resonates within the Japanese underground music community.

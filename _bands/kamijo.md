@@ -10,6 +10,12 @@ top_tracks:
   - "薔薇は美しく散る"
   - "抱きしめられながら"
   - "mademoiselle"
+top_albums:
+  - "Royal Blood -Revival Best-"
+  - "Heart"
+  - "Mademoiselle"
+  - "Sang"
+  - "Royal Blood -Revival Best-"
 ---
 
 KAMIJO is a Japanese visual kei artist who emerged as a distinctive solo performer within the visual kei scene, building upon experience from earlier band projects. Known for his theatrical presentation and elaborate costumes characteristic of the genre, KAMIJO established himself through a combination of gothic aesthetics and symphonic musical arrangements. His work exemplifies the visual kei tradition of blending striking visual presentations with dramatic vocal performances, creating an immersive artistic experience that extends beyond conventional rock music.

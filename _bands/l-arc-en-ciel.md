@@ -10,6 +10,12 @@ top_tracks:
   - "Driver's High"
   - "Blurry Eyes"
   - "READY STEADY GO"
+top_albums:
+  - "Ark"
+  - "True"
+  - "KISS"
+  - "Ray"
+  - "Ark"
 ---
 
 L'Arc-en-Ciel stands as one of Japan's most influential rock bands, emerging from the visual kei scene in the early 1990s to become pioneers who transcended the genre's boundaries. The band, whose name means "rainbow" in French, coalesced around vocalist Hyde and guitarist Alexander, eventually solidifying their classic lineup with bassist Tetsu and drummer Yu-ki. Rather than adhering strictly to visual kei's theatrical conventions, L'Arc-en-Ciel crafted a distinctive sound that blended rock's raw energy with melodic sensibilities and atmospheric production, allowing them to achieve unprecedented commercial success both domestically and internationally. Their willingness to experiment across their discography—from harder rock tracks to more introspective compositions—demonstrated an artistic maturity that helped establish them as more than just a visual kei novelty act.
