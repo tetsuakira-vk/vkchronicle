@@ -10,6 +10,12 @@ top_tracks:
   - "Biggest Joke Of All"
   - "Cinnamon"
   - "Caught in a Lie"
+top_albums:
+  - "Yellow Memories"
+  - "Follow You EP (feat. Floating Points)"
+  - "And Yet It's All Love"
+  - "roma"
+  - "Yellow Memories"
 ---
 
 Fatima emerged as a distinctive presence within the Japanese visual kei scene, blending the theatrical aesthetics and dramatic presentation characteristic of the genre with soulful vocal delivery and emotionally resonant songwriting. The band carved out a unique identity by infusing their visual kei foundation with soul influences, creating a sound that appealed to audiences seeking both visual spectacle and genuine musical depth. Their approach represented a thoughtful fusion of VK's ornate visual presentation with the raw emotional authenticity of soul music, distinguishing them from more traditionally styled acts within the movement.

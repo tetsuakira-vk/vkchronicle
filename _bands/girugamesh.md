@@ -10,6 +10,12 @@ top_tracks:
   - "壊れていく世界"
   - "Drain"
   - "patchwork"
+top_albums:
+  - "Girugamesh"
+  - "NOW"
+  - "MUSIC"
+  - "MONSTER"
+  - "MUSIC"
 ---
 
 Girugamesh is a Japanese visual kei band that emerged from the mid-2000s underground rock scene, establishing themselves as prominent figures in the modern visual kei movement. The band built their identity around a fusion of heavy rock instrumentation with experimental and avant-garde elements, creating a distinctive sound that set them apart from their contemporaries. Known for their visually striking aesthetic—combining elaborate makeup, costumes, and stage presence typical of visual kei—Girugamesh developed a dedicated following both within Japan and internationally, contributing significantly to the genre's evolution during a period of transformation and diversification.

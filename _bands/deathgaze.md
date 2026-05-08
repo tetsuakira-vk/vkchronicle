@@ -10,6 +10,12 @@ top_tracks:
   - "BLOOD"
   - "fuck me"
   - "DEAREST"
+top_albums:
+  - "AWAKE -evoke the urge-"
+  - "BLISS OUT I"
+  - "THE CONTINUATION"
+  - "CREATURE"
+  - "DEAREST"
 ---
 
 Deathgaze emerged as a notable act within Japan's visual kei scene, bringing an aggressive and provocative aesthetic to the genre. The band exemplified the darker, heavier side of visual kei that flourished in the 2000s, combining theatrical visual presentation with raw, intense instrumentation. Their music channeled the genre's characteristic blend of dramatic makeup, elaborate costumes, and androgynous styling while pushing toward more visceral sonic territories. The band's willingness to embrace controversial imagery and explicit themes set them apart within a scene known for pushing boundaries.
