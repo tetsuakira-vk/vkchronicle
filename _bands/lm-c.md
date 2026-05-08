@@ -10,6 +10,12 @@ top_tracks:
   - "88"
   - "Punky Heart"
   - "The LOVE SONG"
+top_albums:
+  - "WONDERFUL WONDERHOLIC"
+  - "Nurarihyon no Mago - Sennen Makyo - Opening CD"
+  - "Strong Pop (Standard Edition)"
+  - "Super Glitter Loud Box"
+  - "Glitter Loud Box"
 ---
 
 LM.C is a Japanese visual kei rock band known for their energetic fusion of punk rock aesthetics and electronic elements. The duo, comprised of vocalist Amotsuki and guitarist/programmer Yasu, formed within Japan's vibrant visual kei scene and quickly distinguished themselves through their high-octane performances and catchy, hook-driven compositions. Their visual presentation combines the theatrical makeup and costume traditions of visual kei with a rebellious punk attitude, creating a distinctive stage presence that has made them stand out in a crowded genre.

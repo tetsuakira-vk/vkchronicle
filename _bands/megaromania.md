@@ -10,6 +10,12 @@ top_tracks:
   - "Clear flora"
   - "AURORA-destinies of world-"
   - "Idea"
+top_albums:
+  - "The Birth of Creation"
+  - "Oblivious"
+  - "Propaganda-プロパガンダ-"
+  - "Quintessence Voyage"
+  - "APOCALYPSE"
 ---
 
 Megaromania emerged as a notable presence within Japan's visual kei scene, establishing themselves as practitioners of the genre's theatrical and musically ambitious traditions. The band exemplified visual kei's core aesthetic—combining striking visual presentation with energetic rock compositions—while contributing to the broader j-rock landscape of their era. Their formation and evolution reflected the genre's emphasis on artistic experimentation and visual storytelling, positioning them among the diverse acts that populated the visual kei underground and mainstream crossover circuits.

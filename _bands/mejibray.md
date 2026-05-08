@@ -10,6 +10,12 @@ top_tracks:
   - "これを依存と呼ぶなら"
   - "DIE KUSSE"
   - "RAVEN"
+top_albums:
+  - "Slivers.exe"
+  - "DIE KUSSE 通常盤"
+  - "RAVEN（通常盤）"
+  - "VENOMS.app（通常盤）"
+  - "Slivers.exe"
 ---
 
 Mejibray emerged as a prominent force in Japan's visual kei scene, establishing themselves through their distinctive blend of heavy rock instrumentation and theatrical visual aesthetics that define the genre. The band garnered significant attention within the visual kei community for their dramatic live performances and carefully crafted image, which combined dark makeup, elaborate costumes, and gothic-influenced styling with energetic stage presence. Their music showcased the technical proficiency and emotional intensity characteristic of the visual kei movement, drawing fans who appreciated both the sonic complexity and the visual artistry that accompanied their work.

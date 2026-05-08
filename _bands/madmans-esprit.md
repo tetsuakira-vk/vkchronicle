@@ -7,6 +7,18 @@ tags: ["visual kei"]
 lastfm_slug: "Madmans+Esprit"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Madmans%20Esprit&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"
+top_tracks:
+  - "Suicidol"
+  - "Please Stop Loving Me"
+  - "Garden of skeletons"
+  - "Idon'tknowwhoIambutthesexgoeson"
+  - "SEOUL"
+top_albums:
+  - "Suicidol"
+  - "Conscientization of Unconsciousness"
+  - "Mismatch"
+  - "Dandelion; 斷絶"
+  - "Suicidol"
 ---
 
 Madmans Esprit is a Visual Kei band known for their theatrical aesthetic combining elaborate costumes with darkly dramatic instrumental arrangements that showcase both technical prowess and emotional intensity. The group has built a dedicated following within the Japanese underground Visual Kei scene through their dynamic live performances and commitment to the genre's visual and sonic traditions. Their music blends heavy guitar work with atmospheric elements, establishing them as a notable presence in the indie Visual Kei landscape.
