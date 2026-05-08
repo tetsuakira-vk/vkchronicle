@@ -15,7 +15,6 @@ top_albums:
   - "Nozokitai"
   - "どしゃ降りの彼女"
   - "傘がない"
-  - "Nozokitai"
 ---
 
 Xaa-Xaa emerged from Japan's underground visual kei scene as a provocative and genre-defying outfit, bringing raw energy and controversial aesthetics to the movement during its evolution in the 2000s. The band cultivated a dedicated following through their aggressive approach to visual presentation and uncompromising sonic experimentation, challenging conventional visual kei formulas with their distinctive look and confrontational stage presence. Their name itself became emblematic of their intent to push boundaries within the Japanese rock underground, establishing themselves as a noteworthy presence among the more abrasive and avant-garde corners of the visual kei community.

@@ -18,7 +18,6 @@ top_albums:
   - "Prism"
   - "NOW AND THEN〜THE WORLD〜"
   - "Doppelganger ～Mou Hitori no Jibun～"
-  - "Frontiers"
 ---
 
 Psycho le Cému is a Japanese visual kei band known for their theatrical performances and dark, symphonic sound that blends gothic influences with heavy instrumentation. The band emerged in the Japanese underground visual kei scene during the early 2000s, establishing themselves through their distinctive aesthetic combining dramatic makeup, elaborate costumes, and intense stage presence. Their music and visual presentation exemplify the theatrical extravagance characteristic of visual kei, earning them recognition within both the indie and mainstream segments of the Japanese rock scene.

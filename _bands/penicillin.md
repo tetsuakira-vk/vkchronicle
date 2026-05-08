@@ -18,7 +18,6 @@ top_albums:
   - "Ultimate Velocity"
   - "Vibe ∞"
   - "Limelight (International Version)"
-  - "Ultimate Velocity"
 ---
 
 Penicillin is a Japanese visual kei band known for their theatrical live performances and dramatically styled appearance, combining Gothic and androgynous aesthetics with elaborate stage makeup and costumes. The band's sound blends heavy rock and metal elements with orchestral arrangements, creating a dark and cinematic atmosphere that appeals to devoted visual kei enthusiasts. Rising to prominence in the Japanese underground scene during the 1990s, Penicillin became recognized as an influential act within the visual kei movement, known for their artistic commitment to both sonic and visual presentation.

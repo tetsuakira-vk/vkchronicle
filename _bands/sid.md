@@ -15,7 +15,6 @@ top_albums:
   - "SID 10th Anniversary BEST"
   - "dead stock"
   - "SID Anime Best 2008-2017"
-  - "hikari"
 ---
 
 SID is a Japanese visual kei rock band that emerged during the mid-2000s as part of the thriving visual kei scene. The group is known for their dynamic blend of hard rock and melodic sensibilities, combined with the theatrical visual aesthetics characteristic of the visual kei movement. Their sound incorporates heavy guitar work, powerful vocals, and compositional complexity that appeals to both dedicated visual kei fans and broader j-rock audiences. The band's striking stage presence and carefully crafted visual presentation have made them recognizable figures within the genre, drawing comparisons to other prominent acts in the visual kei landscape.

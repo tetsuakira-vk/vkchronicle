@@ -15,7 +15,6 @@ top_albums:
   - "NOCTURNAL OPERA"
   - "DIXANADU"
   - "D+SECT"
-  - "Dix infernal"
 ---
 
 Moi dix Mois is a Japanese visual kei band that emerged from the underground Tokyo music scene, fronted by the enigmatic vocalist Mana, who is also known for his involvement in other prominent visual kei projects. The band's name, derived from French meaning "me ten months," reflects their artistic aesthetic that blends gothic sensibilities with theatrical presentation characteristic of the visual kei movement. Since their formation, Moi dix Mois has carved out a distinctive niche within the genre, attracting devoted fans with their atmospheric soundscapes and Mana's commanding stage presence. The group's dedication to both sonic and visual artistry has made them influential figures in maintaining and evolving the visual kei tradition during its various phases of popularity.

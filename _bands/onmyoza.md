@@ -17,7 +17,6 @@ top_albums:
   - "迦陵頻伽"
   - "夢幻泡影"
   - "吟澪御前"
-  - "臥龍點睛"
 ---
 
 Onmyoza emerged from Japan's visual kei underground as one of the genre's most distinctive and artistically ambitious acts, blending traditional Japanese aesthetics with heavy metal's raw power. The band's formation marked a significant moment in visual kei history, as they deliberately synthesized feudal Japanese imagery, mythology, and spiritual themes with aggressive, distortion-heavy instrumentation. This fusion set them apart from their peers, who often drew from Western gothic, cyberpunk, or androgynous rock aesthetics. By incorporating traditional instruments, elaborate stage costumes steeped in samurai and shrine maiden iconography, and conceptual narratives rooted in Japanese folklore, Onmyoza created a uniquely nationalist yet universally heavy sound that appealed to listeners seeking something both culturally grounded and sonically uncompromising.

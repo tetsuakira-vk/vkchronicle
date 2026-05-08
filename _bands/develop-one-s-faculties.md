@@ -15,7 +15,6 @@ top_albums:
   - "不恰好な街と僕と君"
   - "INVERSE ЯEVERSE"
   - "Develop One's Faculties BEST"
-  - "reincarnation"
 ---
 
 Develop One's Faculties emerged as a notable presence within the Japanese Visual Kei scene, establishing themselves through their distinctive blend of theatrical aesthetics and intricate musical compositions. The band represents the diverse creative landscape of visual kei, a genre known for its emphasis on striking visual presentations alongside experimental and technically proficient musicianship. Through their work, Develop One's Faculties contributed to the ongoing evolution of the visual kei movement, participating in a community of artists dedicated to pushing the boundaries of both visual and sonic artistry.

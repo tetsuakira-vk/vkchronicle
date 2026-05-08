@@ -15,7 +15,6 @@ top_albums:
   - "memoire DX"
   - "Voyage sans retour"
   - "Gardenia"
-  - "merveilles"
 ---
 
 Malice Mizer emerged as one of visual kei's most influential acts during the genre's formative years in the 1990s. The Japanese band, fronted by the distinctive vocalist Mana, became known for their theatrical visual aesthetic and sophisticated musical arrangements that blended gothic rock with classical influences. Their formation marked a turning point in the visual kei movement, establishing a template for artistic presentation that emphasized elaborate costumes, dramatic makeup, and conceptual stage design. The band's commitment to visual artistry was matched by their musical ambition, crafting compositions that incorporated orchestral elements, varied instrumentation, and intricate song structures that elevated visual kei beyond its punk-influenced origins.

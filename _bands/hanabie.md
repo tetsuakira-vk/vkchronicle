@@ -15,7 +15,6 @@ top_albums:
   - "Girl's Reform Manifest"
   - "ICONIC"
   - "Spicy Queen"
-  - "Girl's Reform Manifest"
 ---
 
 HANABIE. is a Japanese visual kei band that emerged from the Tokyo music scene, blending the aesthetics of cute, playful imagery with aggressive metalcore instrumentation—a fusion often associated with the "kawaii metal" subgenre. The band's distinctive approach combines frilly, girly visual presentation with heavy guitar work and intense vocal delivery, creating a striking contrast that challenges conventional genre boundaries. Their name and overall concept reflect a deliberate subversion of expectations, presenting an infectious yet powerful sound that appeals to both metalcore enthusiasts and those drawn to Japan's kawaii culture. The group has become known for their energetic live performances and their ability to balance tongue-in-cheek humor with genuine musical competency.

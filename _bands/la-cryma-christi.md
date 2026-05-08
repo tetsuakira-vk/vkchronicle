@@ -18,7 +18,6 @@ top_albums:
   - "Lhasa"
   - "IN FOREST / Lhasa (unplugged)"
   - "With-you"
-  - "Sculpture of Time"
 ---
 
 La'cryma Christi emerged from the Japanese underground visual kei scene with a striking aesthetic that blended gothic imagery and theatrical presentation with their dark, symphonic sound. The band cultivated a devoted fanbase throughout the 1990s and 2000s with their dramatic performances and melancholic compositions that drew heavily from religious and mystical themes. As stalwarts of the indie visual kei circuit, La'cryma Christi maintained their artistic integrity while influencing the broader landscape of Japanese gothic rock and theatrical metal music.

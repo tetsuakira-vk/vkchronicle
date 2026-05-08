@@ -15,7 +15,6 @@ top_albums:
   - "RAIZIN"
   - "AMON"
   - "VENOM"
-  - "CORE"
 ---
 
 Royz is a Japanese visual kei band that emerged from the dynamic Tokyo underground music scene, establishing themselves as notable contributors to the modern visual kei movement. The group combines the theatrical visual aesthetics characteristic of visual kei with energetic j-rock instrumentation, creating a sound that bridges traditional rock sensibilities with contemporary punk and metal influences. Their formation brought together musicians dedicated to revitalizing visual kei during a period when the genre was experiencing significant evolution, and they quickly gained recognition within both domestic and international visual kei communities for their distinctive visual presentation and high-energy performances.

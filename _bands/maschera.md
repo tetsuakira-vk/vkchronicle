@@ -18,7 +18,6 @@ top_albums:
   - "MASCHERA HISTORY 1996-2000"
   - "ekou"
   - "PRETTY NEUROSIS"
-  - "MASCHERA HISTORY 1996-2000"
 ---
 
 MASCHERA is a Visual Kei band known for their elaborate theatrical aesthetics and dramatic stage presence, blending gothic and avant-garde visual elements with their dark, orchestral sound. The band's music incorporates symphonic arrangements and melancholic melodies, creating an immersive atmosphere that complements their visually striking performances and costume designs. Operating within Japan's independent Visual Kei circuit, MASCHERA has built a dedicated following through their commitment to the theatrical and artistic traditions that define the genre.

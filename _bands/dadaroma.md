@@ -15,7 +15,6 @@ top_albums:
   - "dadaism#3"
   - "「This is ”LIVE”」"
   - "Pornograph"
-  - "Stanczyk"
 ---
 
 Dadaroma is a Japanese visual kei band that emerged from the vibrant underground music scene with a distinctive and provocative approach to the genre. The band is known for their bold aesthetic and unapologetic artistic vision, combining the theatrical visual presentation characteristic of visual kei with a raw, unconventional musical edge. Their name and imagery reflect a deliberate rejection of mainstream sensibilities, positioning them as outsiders within the already alternative visual kei community. This defiant stance has attracted a dedicated fanbase drawn to their refusal to compromise or conform to typical industry expectations.

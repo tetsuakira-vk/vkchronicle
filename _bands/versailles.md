@@ -15,7 +15,6 @@ top_albums:
   - "The Greatest Hits 2007-2016"
   - "Rhapsody of the Darkness"
   - "Lyrical Sympathy"
-  - "Lyrical Sympathy"
 ---
 
 Versailles emerged as a prominent force in the Japanese visual kei scene, bringing an operatic grandeur and symphonic metal aesthetic to the genre. The band, fronted by vocalist Kamijo, combined the theatrical visual elements central to visual kei with elaborate orchestral arrangements and powerful vocal performances. Their music blended classical instrumentation with heavy rock elements, creating a distinctive sound that appealed to both dedicated visual kei fans and progressive metal enthusiasts. The band's formation represented a significant moment in visual kei evolution, as they elevated the genre's sonic ambitions beyond traditional rock structures into symphonic territories dominated by sweeping melodies and intricate compositional arrangements.

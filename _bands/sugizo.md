@@ -15,7 +15,6 @@ top_albums:
   - "REPLICANTS"
   - "Truth?"
   - "愛と調和"
-  - "ONENESS M"
 ---
 
 SUGIZO is one of the most celebrated figures in Japanese Visual Kei, best known as the guitarist and violinist of LUNA SEA, one of the genre's most iconic bands. As a solo artist he has explored cinematic instrumentals, electronic experimentation, and orchestral compositions, consistently pushing beyond conventional rock boundaries. His virtuosic guitar work, spiritual themes, and cross-genre ambition have made him an enduring influence across multiple generations of VK and J-rock musicians.

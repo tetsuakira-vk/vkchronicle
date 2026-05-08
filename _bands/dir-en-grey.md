@@ -15,7 +15,6 @@ top_albums:
   - "MORTAL DOWNER"
   - "VULGAR"
   - "ARCHE"
-  - "VULGAR"
 ---
 
 Dir en grey emerged from the Japanese visual kei scene as one of the genre's most innovative and influential acts. Formed in the mid-1990s, the band built their reputation through intense live performances and a distinctive sound that blended heavy rock with experimental elements, theatrical aesthetics, and deeply introspective lyrics. Led by vocalist Kyo, the group developed a dedicated following both in Japan and internationally, becoming instrumental in bringing visual kei to a broader global audience. Their commitment to evolving their artistic vision across multiple albums established them as pioneers who continually pushed the boundaries of what the visual kei genre could express.

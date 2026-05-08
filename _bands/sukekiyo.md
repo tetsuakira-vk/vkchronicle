@@ -15,7 +15,6 @@ top_albums:
   - "Ius Cerebri"
   - "ADORATIO"
   - "EROSIO"
-  - "IMMORTALIS"
 ---
 
 Sukekiyo is a Japanese visual kei band that emerged from the experimental fringes of the genre, known for their avant-garde approach to both sound and visual presentation. The project represents a collaborative effort within the visual kei community, blending theatrical aesthetics with unconventional musical arrangements that challenge traditional genre boundaries. Their work is characterized by a deliberate embrace of experimental elements, creating a distinctive sonic landscape that incorporates dissonant instrumentation, layered textures, and haunting vocal performances that set them apart from more mainstream visual kei acts.

@@ -15,7 +15,6 @@ top_albums:
   - "DEFINITION Atype"
   - "INCOPMLETEⅡ 通常盤"
   - "VERSUS (通常盤)"
-  - "VERSUS (初回限定盤)"
 ---
 
 DIAURA is a Japanese visual kei band that emerged from the vibrant Tokyo underground music scene, establishing themselves as a distinctive force within the visual kei and J-rock landscape. The group is characterized by their striking visual aesthetic—a hallmark of the visual kei genre—combined with a dynamic musical approach that blends heavy rock instrumentation with intricate melodies and atmospheric arrangements. Their musical identity draws from both the theatrical traditions of visual kei and contemporary rock sensibilities, allowing them to appeal to fans of both classic visual kei and modern J-rock audiences.

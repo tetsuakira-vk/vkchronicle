@@ -15,7 +15,6 @@ top_albums:
   - "Sphire-Croid"
   - "MEGIDDO"
   - "AMONGST FOOLISH ENEMIES"
-  - "The bottom of chaos"
 ---
 
 Rentrer en Soi emerged as a distinctive force within the Japanese visual kei scene, establishing themselves through their darkly atmospheric and emotionally intense approach to the genre. The band's name, French for "returning into oneself," reflects their introspective artistic philosophy and sets the tone for their sonic identity. Combining the theatrical visual aesthetics characteristic of visual kei with brooding j-rock instrumentation, they crafted a sound marked by melancholic melodies, heavy guitars, and deeply personal lyrical content. Their approach resonated with listeners seeking more psychologically raw and existentially-driven material within the visual kei landscape.

@@ -15,7 +15,6 @@ top_albums:
   - "MOTHER"
   - "EDEN"
   - "ROSIER"
-  - "IMAGE"
 ---
 
 LUNA SEA emerged as one of the most influential acts in the visual kei movement, forming during the genre's golden era in the early 1990s. The band's lineup featured distinctive vocalists and skilled instrumentalists who crafted a sound that blended the theatrical aesthetics of visual kei with accessible rock melodies and emotional depth. Their formation marked a pivotal moment in Japanese rock, as they helped establish visual kei as a legitimate force in mainstream music rather than merely an underground phenomenon. The group's commitment to both visual presentation and musical quality set them apart in a scene often defined by style alone.

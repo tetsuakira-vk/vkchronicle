@@ -15,7 +15,6 @@ top_albums:
   - "the WORLD/アルミナ"
   - "Killer Show"
   - "Majestical Parade"
-  - "The WORLD Ruler"
 ---
 
 Nightmare emerged as a prominent force in the Japanese visual kei scene, establishing themselves through a potent blend of hard rock intensity and theatrical aesthetics that defined much of the mid-2000s VK movement. The band's distinctive sound combined heavy instrumentation with melodic sensibilities, creating a style that appealed to both dedicated visual kei enthusiasts and mainstream rock audiences. Their visual presentation—characterized by elaborate costumes, dramatic makeup, and dynamic stage performances—exemplified the visual kei philosophy of merging music with visual art into a complete sensory experience.

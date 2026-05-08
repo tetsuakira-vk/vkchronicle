@@ -17,8 +17,6 @@ top_albums:
   - "in the direction of sunrise and night light"
   - "Site of Scaffold"
   - "Genealogie der Moral"
-  - "in the direction of sunrise and night light"
-  - "Site of Scaffold"
 ---
 
 Deadman is a Japanese Visual Kei band known for their dark, theatrical aesthetic combining gothic imagery with avant-garde fashion and dramatic stage presence. Their sound blends heavy guitar work with melodic vocals, creating an intense sonic landscape that captures themes of despair and psychological darkness. Operating primarily within the independent Visual Kei scene, Deadman has cultivated a devoted underground following through their commitment to uncompromising artistic vision and elaborate live performances.

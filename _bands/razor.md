@@ -15,7 +15,6 @@ top_albums:
   - "Evil Invaders"
   - "Executioner's Song"
   - "Armed and Dangerous (Reissue)"
-  - "Evil Invaders"
 ---
 
 Razor emerged as a distinctive force within Japan's visual kei scene, bringing an aggressive and technically demanding sound that set them apart from many of their contemporaries. The band carved out their identity by blending the raw intensity of thrash metal and speed metal with the theatrical visual aesthetics that defined the visual kei movement. Their approach was uncompromising—driving riffs, rapid-fire drumming, and the genre's signature dramatic presentation created a unique fusion that appealed to both metal purists and visual kei enthusiasts. Songs like "The Marshall Arts" and "Cross Me Fool" showcased their ability to deliver technically proficient compositions without sacrificing the performative elements central to the visual kei tradition.

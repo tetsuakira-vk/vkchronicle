@@ -18,7 +18,6 @@ top_albums:
   - "antique collection"
   - "hokage"
   - "é [acute]"
-  - "antique collection"
 ---
 
 emmurée is a Visual Kei band known for their theatrical aesthetics and dramatic instrumental arrangements that blend symphonic and gothic elements with heavy guitar work. The group has cultivated a dedicated following within the underground Visual Kei scene through their emotionally intense live performances and visually striking stage presence. emmurée represents the contemporary indie Visual Kei movement, maintaining the genre's tradition of elaborate costumes and conceptual storytelling while pushing boundaries with their avant-garde musical compositions.

@@ -15,7 +15,6 @@ top_albums:
   - "喝采と激情のグロリア"
   - "ANOMIE"
   - "Justice"
-  - "ANOMIE"
 ---
 
 Matenrou Opera emerged as a distinctive force within Japan's visual kei scene, carving out their own aesthetic and sonic identity through a blend of theatrical rock and sophisticated instrumentation. The band represents a significant chapter in visual kei's evolution, bringing together the genre's signature visual extravagance with carefully crafted musical arrangements. Their approach to the visual kei formula emphasized both grandiose presentation and substantive compositional depth, allowing them to attract listeners who appreciated both the theatrical elements and the underlying musicianship that defined their work.
