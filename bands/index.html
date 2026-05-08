@@ -10,9 +10,22 @@ image: /assets/images/placeholder.jpg
   .bands-header { margin: 0 0 20px; }
   .bands-header h1 { margin: 0 0 6px; }
   .bands-header p { color: #bbb; margin: 0; font-size: 0.9rem; }
-  #band-search { width: 100%; max-width: 400px; padding: 10px 14px; border-radius: 10px;
-    border: 1px solid rgba(255,255,255,0.15); background: rgba(255,255,255,0.05);
-    color: inherit; font-size: 0.95rem; margin-bottom: 20px; box-sizing: border-box; }
+
+  .bands-toolbar { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 16px; }
+  #band-search { flex: 1; min-width: 200px; max-width: 360px; padding: 9px 14px;
+    border-radius: 10px; border: 1px solid rgba(255,255,255,0.15);
+    background: rgba(255,255,255,0.05); color: inherit; font-size: 0.9rem;
+    box-sizing: border-box; }
+  #visible-count { color: #777; font-size: 0.8rem; margin-left: auto; white-space: nowrap; }
+
+  .ctrl-group { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+  .ctrl-label { color: #777; font-size: 0.78rem; white-space: nowrap; }
+  .ctrl-btn { padding: 6px 14px; border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.15); background: transparent;
+    color: #bbb; font-size: 0.78rem; cursor: pointer; transition: all 0.18s; white-space: nowrap; }
+  .ctrl-btn:hover { border-color: rgba(236,172,13,0.5); color: #ecac0d; }
+  .ctrl-btn.active { background: #ecac0d; border-color: #ecac0d; color: #000; font-weight: 600; }
+
   .bands-grid { display: grid; gap: 12px; grid-template-columns: repeat(12, 1fr); }
   .band-card { grid-column: span 12; display: flex; gap: 14px; align-items: center;
     border: 1px solid rgba(255,255,255,0.08); border-radius: 12px;
@@ -28,9 +41,10 @@ image: /assets/images/placeholder.jpg
   .band-tag { display: inline-block; padding: 2px 8px; border-radius: 10px;
     border: 1px solid rgba(255,255,255,0.12); color: #ccc; margin-right: 6px;
     font-size: 0.72rem; }
-  .band-link { font-size: 0.8rem; color: var(--accent); text-decoration: none; display: inline-block; margin-top: 4px; }
-  .bands-footer { font-size: 0.8rem; color: #666; margin-top: 24px; }
+  .band-link { font-size: 0.8rem; color: var(--accent); text-decoration: none;
+    display: inline-block; margin-top: 4px; }
   .band-card[hidden] { display: none; }
+  .bands-footer { font-size: 0.8rem; color: #666; margin-top: 24px; }
 </style>
 
 <div class="container" style="padding:40px 0;">
@@ -40,7 +54,20 @@ image: /assets/images/placeholder.jpg
   <p>{{ site.bands | size }} bands</p>
 </div>
 
-<input id="band-search" type="search" placeholder="Search bands by name or genre..." />
+<div class="bands-toolbar">
+  <input id="band-search" type="search" placeholder="Search bands…" />
+  <span id="visible-count"></span>
+</div>
+
+<div class="bands-toolbar" style="margin-bottom: 20px;">
+  <div class="ctrl-group">
+    <span class="ctrl-label">Sort:</span>
+    <button class="ctrl-btn active" data-sort="az">A – Z</button>
+    <button class="ctrl-btn" data-sort="za">Z – A</button>
+    <button class="ctrl-btn" data-sort="newest">Newest Added</button>
+    <button class="ctrl-btn" data-sort="shuffle">Shuffle</button>
+  </div>
+</div>
 
 <div class="bands-grid" id="bands-grid">
 {% assign sorted_bands = site.bands | sort: "name" %}
@@ -49,13 +76,14 @@ image: /assets/images/placeholder.jpg
 {% assign tags_lower = band.tags | join: " " | downcase %}
 <a class="band-card" href="{{ band.url }}"
    data-name="{{ name_lower }}"
-   data-tag="{{ tags_lower }}">
+   data-tag="{{ tags_lower }}"
+   data-added="{{ band.added | default: '2000-01-01' }}">
   {% if band.photo contains 'http' %}
-  <img src="https://images.weserv.nl/?url={{ band.photo | url_encode }}&w=200&output=jpg" alt="{{ band.name }}" />
+  <img src="https://images.weserv.nl/?url={{ band.photo | url_encode }}&w=200&output=jpg" alt="{{ band.name }}" loading="lazy" />
   {% elsif band.photo %}
-  <img src="{{ band.photo }}" alt="{{ band.name }}" />
+  <img src="{{ band.photo }}" alt="{{ band.name }}" loading="lazy" />
   {% else %}
-  <img src="/assets/images/placeholder.jpg" alt="{{ band.name }}" />
+  <img src="/assets/images/placeholder.jpg" alt="{{ band.name }}" loading="lazy" />
   {% endif %}
   <div class="band-info">
     <div class="band-name">{{ band.name }}</div>
@@ -72,14 +100,59 @@ image: /assets/images/placeholder.jpg
 </div>
 
 <script>
-document.getElementById('band-search').addEventListener('input', function () {
-  var q = this.value.toLowerCase();
-  var any = false;
-  document.querySelectorAll('.band-card').forEach(function (c) {
-    var show = !q || c.dataset.name.includes(q) || c.dataset.tag.includes(q);
-    c.hidden = !show;
-    if (show) any = true;
+(function () {
+  var grid   = document.getElementById('bands-grid');
+  var search = document.getElementById('band-search');
+  var cntEl  = document.getElementById('visible-count');
+  var noRes  = document.getElementById('no-results');
+  var cards  = Array.from(grid.querySelectorAll('.band-card'));
+  var query  = '';
+
+  function updateCount() {
+    var vis = cards.filter(function (c) { return !c.hidden; }).length;
+    cntEl.textContent = vis + ' of ' + cards.length + ' bands';
+    noRes.style.display = vis === 0 ? '' : 'none';
+  }
+
+  function applySearch() {
+    cards.forEach(function (c) {
+      c.hidden = !!(query && !c.dataset.name.includes(query) && !c.dataset.tag.includes(query));
+    });
+    updateCount();
+  }
+
+  function sortCards(type) {
+    var list = cards.slice();
+    if (type === 'az') {
+      list.sort(function (a, b) { return a.dataset.name.localeCompare(b.dataset.name); });
+    } else if (type === 'za') {
+      list.sort(function (a, b) { return b.dataset.name.localeCompare(a.dataset.name); });
+    } else if (type === 'newest') {
+      list.sort(function (a, b) { return (b.dataset.added || '').localeCompare(a.dataset.added || ''); });
+    } else if (type === 'shuffle') {
+      for (var i = list.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var t = list[i]; list[i] = list[j]; list[j] = t;
+      }
+    }
+    list.forEach(function (c) { grid.appendChild(c); });
+    cards = list;
+    applySearch();
+  }
+
+  search.addEventListener('input', function () {
+    query = this.value.toLowerCase().trim();
+    applySearch();
   });
-  document.getElementById('no-results').style.display = any || !q ? 'none' : '';
-});
+
+  document.querySelectorAll('.ctrl-btn[data-sort]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('.ctrl-btn[data-sort]').forEach(function (b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      sortCards(this.dataset.sort);
+    });
+  });
+
+  updateCount();
+})();
 </script>
