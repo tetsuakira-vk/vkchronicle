@@ -1,11 +1,15 @@
 ---
 layout: band
-name: "Hide"
-title: "Hide"
+name: "hide"
+title: "hide"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/166049d9a94e4bcb8f61edcf003b1382.jpg"
-tags: ["visual kei"]
+tags: ["visual kei", "j-rock"]
 lastfm_slug: "Hide"
-cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Hide&genre=JPOP&subgenre_id=VK"
+cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=hide&genre=JPOP&subgenre_id=VK"
+top_tracks:
+  - "ROCKET DIVE"
+  - "PINK SPIDER"
+  - "ever free"
 ---
 
-Hide was a pioneering visual kei act known for their theatrical presentation and dark, atmospheric sound that blended gothic aesthetics with heavy instrumentation. The band developed a dedicated following within Japan's underground visual kei scene through their dramatic live performances and distinctive visual style characterized by elaborate costumes and makeup. Hide's music and aesthetic contributions helped establish key elements of the visual kei genre during their active years in the Japanese music underground.
+hide (Hideto Matsumoto) was the lead guitarist of X Japan and one of the most iconic figures in visual kei history, known for his vibrant pink hair, flamboyant style, and a solo career that pushed the genre into new experimental territory. His solo work — released under the name hide with Spread Beaver — blended industrial rock, glam, and pop with a chaotic energy that made albums like *Psychommunity* and *Ja, Zoo* essential listens for any VK fan. His sudden passing in May 1998 sent shockwaves through Japan's music world, and he remains a towering influence on every generation of visual kei that followed.
