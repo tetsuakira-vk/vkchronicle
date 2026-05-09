@@ -1,24 +1,73 @@
 ---
 layout: default
-title: Visual Kei Interviews — Translated from Japanese
+title: "Visual Kei Interviews in English — Translated from Japanese Music Press"
 permalink: /interviews/
-description: "English translations of Visual Kei interviews from Japanese music press — barks.jp, natalie.mu, and more. Translated by VK Chronicle for Western fans."
-image: /assets/images/placeholder.jpg
+description: "Read Visual Kei interviews in English — translated from barks.jp, natalie.mu, The First Times, and spice.eplus.jp by VK Chronicle. MUCC, DIR EN GREY, lynch., and more."
+image: /assets/images/interviews-og.jpg
 ---
+
+<style>
+  .interviews-toolbar { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 16px; }
+  #interview-search { flex: 1; min-width: 200px; max-width: 360px; padding: 9px 14px;
+    border-radius: 10px; border: 1px solid rgba(255,255,255,0.15);
+    background: rgba(255,255,255,0.05); color: inherit; font-size: 0.9rem;
+    box-sizing: border-box; }
+  #visible-count { color: #777; font-size: 0.8rem; margin-left: auto; white-space: nowrap; }
+
+  .ctrl-group { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+  .ctrl-label { color: #777; font-size: 0.78rem; white-space: nowrap; }
+  .ctrl-btn { padding: 6px 14px; border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.15); background: transparent;
+    color: #bbb; font-size: 0.78rem; cursor: pointer; transition: all 0.18s; white-space: nowrap; }
+  .ctrl-btn:hover { border-color: rgba(236,172,13,0.5); color: #ecac0d; }
+  .ctrl-btn.active { background: #ecac0d; border-color: #ecac0d; color: #000; font-weight: 600; }
+
+  .post-card[hidden] { display: none; }
+  #no-results { color: var(--text-muted); }
+</style>
+
 <div class="container" style="padding:40px 0;">
-  <div class="interviews-header" style="margin-bottom:32px;">
-    <h1 style="font-family:var(--font-heading);font-size:2rem;margin:0 0 8px;">Interviews</h1>
+  <div class="interviews-header" style="margin-bottom:24px;">
+    <h1 style="font-family:var(--font-heading);font-size:2rem;margin:0 0 8px;">Visual Kei Interviews</h1>
     <p style="color:var(--text-muted);margin:0 0 6px;">Japanese Visual Kei interviews translated into English — sourced from barks.jp, natalie.mu, The First Times, and spice.eplus.jp.</p>
     <p style="color:var(--text-muted);font-size:0.82rem;margin:0;">All translations by VK Chronicle. Original Japanese interviews remain property of their respective publishers.</p>
   </div>
 
   {% assign interview_posts = site.posts | where_exp: "post", "post.labels contains 'Interviews'" %}
+
   {% if interview_posts.size == 0 %}
   <p style="color:var(--text-muted);">No interviews published yet — check back soon.</p>
   {% else %}
-  <div class="post-grid">
+
+  <div class="interviews-toolbar">
+    <input id="interview-search" type="search" placeholder="Search by band or title…" />
+    <span id="visible-count"></span>
+  </div>
+
+  <div class="interviews-toolbar" style="margin-bottom:20px;gap:16px;flex-wrap:wrap;">
+    <div class="ctrl-group">
+      <span class="ctrl-label">Sort:</span>
+      <button class="ctrl-btn active" data-sort="newest">Newest</button>
+      <button class="ctrl-btn" data-sort="oldest">Oldest</button>
+      <button class="ctrl-btn" data-sort="shuffle">Shuffle</button>
+    </div>
+    <div class="ctrl-group">
+      <span class="ctrl-label">Source:</span>
+      <button class="ctrl-btn active" data-source="all">All</button>
+      <button class="ctrl-btn" data-source="barks.jp">barks.jp</button>
+      <button class="ctrl-btn" data-source="thefirsttimes.jp">The First Times</button>
+      <button class="ctrl-btn" data-source="natalie.mu">natalie.mu</button>
+      <button class="ctrl-btn" data-source="spice.eplus.jp">spice</button>
+    </div>
+  </div>
+
+  <div class="post-grid" id="interviews-grid">
     {% for post in interview_posts %}
-    <article class="post-card">
+    {% assign source_key = post.source_name | downcase | replace: " ", "" %}
+    <article class="post-card"
+      data-date="{{ post.date | date: '%Y-%m-%d' }}"
+      data-source="{{ post.source_name | downcase }}"
+      data-search="{{ post.title | downcase }} {% for label in post.labels %}{{ label | downcase }} {% endfor %}">
       {% if post.image %}
       <a href="{{ post.url }}" class="card-image-link">
         <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
@@ -44,5 +93,76 @@ image: /assets/images/placeholder.jpg
     </article>
     {% endfor %}
   </div>
+
+  <p id="no-results" style="display:none;">No interviews found.</p>
+
   {% endif %}
 </div>
+
+<script>
+(function () {
+  var grid    = document.getElementById('interviews-grid');
+  if (!grid) return;
+  var cntEl   = document.getElementById('visible-count');
+  var noRes   = document.getElementById('no-results');
+  var cards   = Array.from(grid.querySelectorAll('.post-card'));
+  var query   = '';
+  var source  = 'all';
+
+  function updateCount() {
+    var vis = cards.filter(function (c) { return !c.hidden; }).length;
+    cntEl.textContent = vis + ' of ' + cards.length + ' interviews';
+    noRes.style.display = vis === 0 ? '' : 'none';
+  }
+
+  function applyFilters() {
+    cards.forEach(function (c) {
+      var matchSearch = !query || c.dataset.search.includes(query);
+      var matchSource = source === 'all' || c.dataset.source.includes(source);
+      c.hidden = !(matchSearch && matchSource);
+    });
+    updateCount();
+  }
+
+  function sortCards(type) {
+    var list = cards.slice();
+    if (type === 'newest') {
+      list.sort(function (a, b) { return b.dataset.date.localeCompare(a.dataset.date); });
+    } else if (type === 'oldest') {
+      list.sort(function (a, b) { return a.dataset.date.localeCompare(b.dataset.date); });
+    } else if (type === 'shuffle') {
+      for (var i = list.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var t = list[i]; list[i] = list[j]; list[j] = t;
+      }
+    }
+    list.forEach(function (c) { grid.appendChild(c); });
+    cards = list;
+    applyFilters();
+  }
+
+  document.getElementById('interview-search').addEventListener('input', function () {
+    query = this.value.toLowerCase().trim();
+    applyFilters();
+  });
+
+  document.querySelectorAll('.ctrl-btn[data-sort]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('.ctrl-btn[data-sort]').forEach(function (b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      sortCards(this.dataset.sort);
+    });
+  });
+
+  document.querySelectorAll('.ctrl-btn[data-source]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('.ctrl-btn[data-source]').forEach(function (b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      source = this.dataset.source;
+      applyFilters();
+    });
+  });
+
+  updateCount();
+})();
+</script>
