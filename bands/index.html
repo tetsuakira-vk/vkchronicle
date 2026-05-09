@@ -156,3 +156,57 @@ image: /assets/images/placeholder.jpg
   updateCount();
 })();
 </script>
+
+<div style="margin-top:60px; padding-top:40px; border-top:1px solid rgba(255,255,255,0.08); max-width:560px;">
+  <h2 style="font-family:'Playfair Display',serif; color:#fff; font-size:1.3rem; margin:0 0 8px;">Band missing or info incorrect?</h2>
+  <p style="color:rgba(255,255,255,0.5); font-size:0.9rem; margin:0 0 24px;">Let us know and we'll get it sorted.</p>
+
+  <form action="https://api.web3forms.com/submit" method="POST" id="bands-contact-form" style="display:flex; flex-direction:column; gap:14px;">
+    <input type="hidden" name="access_key" value="908029ae-f4be-4dbc-8e5d-8c63bbd1430c">
+    <input type="hidden" name="subject" value="VK Chronicle — Band Directory Feedback">
+    <input type="hidden" name="redirect" value="false">
+
+    <div style="display:flex; gap:12px; flex-wrap:wrap;">
+      <div style="display:flex; flex-direction:column; gap:5px; flex:1; min-width:160px;">
+        <label for="bd-name" style="font-size:0.75rem; letter-spacing:0.08em; text-transform:uppercase; color:rgba(255,255,255,0.4);">Name</label>
+        <input type="text" id="bd-name" name="name" placeholder="Your name" class="cf-input">
+      </div>
+      <div style="display:flex; flex-direction:column; gap:5px; flex:1; min-width:160px;">
+        <label for="bd-email" style="font-size:0.75rem; letter-spacing:0.08em; text-transform:uppercase; color:rgba(255,255,255,0.4);">Email</label>
+        <input type="email" id="bd-email" name="email" placeholder="your@email.com" class="cf-input">
+      </div>
+    </div>
+
+    <div style="display:flex; flex-direction:column; gap:5px;">
+      <label for="bd-message" style="font-size:0.75rem; letter-spacing:0.08em; text-transform:uppercase; color:rgba(255,255,255,0.4);">Message</label>
+      <textarea id="bd-message" name="message" required placeholder="Which band is missing, or what needs fixing?" rows="4" class="cf-input" style="resize:vertical;"></textarea>
+    </div>
+
+    <button type="submit" class="cf-submit">Send</button>
+    <p id="bd-result" style="display:none; font-size:0.88rem; padding:10px 14px; border-radius:8px;"></p>
+  </form>
+
+  <script>
+    document.getElementById('bands-contact-form').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      var btn = this.querySelector('.cf-submit');
+      var result = document.getElementById('bd-result');
+      btn.disabled = true; btn.textContent = 'Sending…';
+      try {
+        var res = await fetch('https://api.web3forms.com/submit', { method: 'POST', body: new FormData(this) });
+        var data = await res.json();
+        result.style.display = 'block';
+        if (data.success) {
+          result.style.cssText += ';background:rgba(60,180,80,0.12);border:1px solid rgba(60,180,80,0.3);color:#6ddc8b;';
+          result.textContent = 'Thanks — we\'ll look into it!';
+          this.reset();
+        } else { throw new Error(); }
+      } catch(e) {
+        result.style.display = 'block';
+        result.style.cssText += ';background:rgba(220,60,60,0.12);border:1px solid rgba(220,60,60,0.3);color:#f08080;';
+        result.textContent = 'Something went wrong — please try again.';
+      }
+      btn.disabled = false; btn.textContent = 'Send';
+    });
+  </script>
+</div>
