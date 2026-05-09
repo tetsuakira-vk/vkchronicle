@@ -46,9 +46,16 @@ image: /assets/images/placeholder.jpg
   .band-card[hidden] { display: none; }
   .bands-footer { font-size: 0.8rem; color: #666; margin-top: 24px; }
 
-  .bd-form-section { margin-top: 60px; padding-top: 40px; border-top: 1px solid rgba(255,255,255,0.08); max-width: 560px; }
-  .bd-form-section h2 { font-family: 'Playfair Display', serif; color: #fff; font-size: 1.3rem; margin: 0 0 8px; }
-  .bd-form-section p { color: rgba(255,255,255,0.5); font-size: 0.9rem; margin: 0 0 24px; }
+  .bd-bottom { margin-top: 60px; padding-top: 40px; border-top: 1px solid rgba(255,255,255,0.08);
+    display: flex; gap: 48px; flex-wrap: wrap; }
+  .bd-form-section { flex: 1; min-width: 260px; }
+  .bd-info-section { flex: 1; min-width: 220px; }
+  .bd-form-section h2, .bd-info-section h2 { font-family: 'Playfair Display', serif; color: #fff; font-size: 1.3rem; margin: 0 0 8px; }
+  .bd-form-section p, .bd-info-section p { color: rgba(255,255,255,0.5); font-size: 0.9rem; margin: 0 0 14px; }
+  .bd-info-section ul { list-style: none; padding: 0; margin: 0 0 20px; display: flex; flex-direction: column; gap: 8px; }
+  .bd-info-section li { font-size: 0.88rem; color: rgba(255,255,255,0.5); padding-left: 16px; position: relative; }
+  .bd-info-section li::before { content: '—'; position: absolute; left: 0; color: #ecac0d; }
+  .bd-updated { font-size: 0.78rem; color: rgba(255,255,255,0.25); margin-top: 8px !important; }
   .bd-row { display: flex; gap: 12px; flex-wrap: wrap; }
   .bd-field { display: flex; flex-direction: column; gap: 5px; flex: 1; min-width: 160px; }
   .bd-label { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.4); }
@@ -115,30 +122,46 @@ image: /assets/images/placeholder.jpg
 
 <p class="bands-footer" id="no-results" style="display:none">No bands found.</p>
 
-<div class="bd-form-section">
-  <h2>Band missing or info incorrect?</h2>
-  <p>Let us know and we'll get it sorted.</p>
-  <form action="https://api.web3forms.com/submit" method="POST" id="bands-contact-form" style="display:flex; flex-direction:column; gap:14px;">
-    <input type="hidden" name="access_key" value="908029ae-f4be-4dbc-8e5d-8c63bbd1430c">
-    <input type="hidden" name="subject" value="VK Chronicle — Band Directory Feedback">
-    <input type="hidden" name="redirect" value="false">
-    <div class="bd-row">
-      <div class="bd-field">
-        <label for="bd-name" class="bd-label">Name</label>
-        <input type="text" id="bd-name" name="name" placeholder="Your name" class="cf-input">
+<div class="bd-bottom">
+
+  <div class="bd-info-section">
+    <h2>About this directory</h2>
+    <p>Band profiles are built from multiple Japanese and international sources and kept up to date as the scene evolves.</p>
+    <ul>
+      <li>Band data &amp; discography sourced from <strong>vk.gy</strong> — the definitive Visual Kei database</li>
+      <li>Artist photos via <strong>Last.fm</strong> and <strong>iTunes</strong></li>
+      <li>Top tracks verified against <strong>Last.fm</strong> listener data</li>
+      <li>Release information cross-referenced with <strong>CDJapan</strong></li>
+    </ul>
+    <p class="bd-updated">Directory last updated {{ site.time | date: "%B %Y" }}</p>
+  </div>
+
+  <div class="bd-form-section">
+    <h2>Band missing or info incorrect?</h2>
+    <p>Let us know and we'll get it sorted.</p>
+    <form action="https://api.web3forms.com/submit" method="POST" id="bands-contact-form" style="display:flex; flex-direction:column; gap:14px;">
+      <input type="hidden" name="access_key" value="908029ae-f4be-4dbc-8e5d-8c63bbd1430c">
+      <input type="hidden" name="subject" value="VK Chronicle — Band Directory Feedback">
+      <input type="hidden" name="redirect" value="false">
+      <div class="bd-row">
+        <div class="bd-field">
+          <label for="bd-name" class="bd-label">Name</label>
+          <input type="text" id="bd-name" name="name" placeholder="Your name" class="cf-input">
+        </div>
+        <div class="bd-field">
+          <label for="bd-email" class="bd-label">Email</label>
+          <input type="email" id="bd-email" name="email" placeholder="your@email.com" class="cf-input">
+        </div>
       </div>
       <div class="bd-field">
-        <label for="bd-email" class="bd-label">Email</label>
-        <input type="email" id="bd-email" name="email" placeholder="your@email.com" class="cf-input">
+        <label for="bd-message" class="bd-label">Message</label>
+        <textarea id="bd-message" name="message" required placeholder="Which band is missing, or what needs fixing?" rows="4" class="cf-input" style="resize:vertical;"></textarea>
       </div>
-    </div>
-    <div class="bd-field">
-      <label for="bd-message" class="bd-label">Message</label>
-      <textarea id="bd-message" name="message" required placeholder="Which band is missing, or what needs fixing?" rows="4" class="cf-input" style="resize:vertical;"></textarea>
-    </div>
-    <button type="submit" class="cf-submit">Send</button>
-    <p id="bd-result" style="display:none; font-size:0.88rem; padding:10px 14px; border-radius:8px;"></p>
-  </form>
+      <button type="submit" class="cf-submit">Send</button>
+      <p id="bd-result" style="display:none; font-size:0.88rem; padding:10px 14px; border-radius:8px;"></p>
+    </form>
+  </div>
+
 </div>
 
 </div>
