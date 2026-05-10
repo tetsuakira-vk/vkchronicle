@@ -1,14 +1,11 @@
 ---
 layout: band
 name: "HANABIE."
+title: "HANABIE."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fb5d01b53361afdaabdba3aae2fe2a06.jpg"
 tags: ["metalcore", "kawaii metal"]
 lastfm_slug: "HANABIE."
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=HANABIE.&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "お先に失礼します。"
-  - "ICONIC"
-  - "We love sweets"
 ---
 
 HANABIE. is a Japanese visual kei band that emerged from the Tokyo music scene, blending the aesthetics of cute, playful imagery with aggressive metalcore instrumentation—a fusion often associated with the "kawaii metal" subgenre. The band's distinctive approach combines frilly, girly visual presentation with heavy guitar work and intense vocal delivery, creating a striking contrast that challenges conventional genre boundaries. Their name and overall concept reflect a deliberate subversion of expectations, presenting an infectious yet powerful sound that appeals to both metalcore enthusiasts and those drawn to Japan's kawaii culture. The group has become known for their energetic live performances and their ability to balance tongue-in-cheek humor with genuine musical competency.

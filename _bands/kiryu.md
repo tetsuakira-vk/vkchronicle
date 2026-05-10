@@ -1,14 +1,17 @@
 ---
 layout: band
 name: "Kiryu"
+title: "Kiryu"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/30391b529a34ca8cbb9438cce6c6250e.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "Kiryu"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Kiryu&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "nue"
-  - "watashimamire"
-  - "hakoniwa"
+top_albums:
+  - "Kiryu Seitan Juuroku-shuunen Kinen Kouen Senshuuraku ''Juuroku-shuunen'' 2023/12/18 (Mon) Zepp Haneda"
+  - "Kiryu Tandoku Jyungyo 「Jyugo Shunen」~Senshuraku・Seitan Jyugo Shunen Kinen Koen ~ 12 Gatsu 15 Nichi Tokyo Garden Theater"
+  - "Kiryu Tandoku Jungyo 「Kodoku Enmi」 ~Senshuraku~ 2022 Nen 09 Gatsu 19 Nichi KT Zepp Yokohama"
+  - "「Zekuu Zeshiki」 ~Kiryu Tandoku Jungyou Senshuuraku~ Nisennijuuninen Gogatsu Kokonoka Zepp Haneda"
+  - "Kodoku"
 ---
 
 Kiryu is a Japanese visual kei band that emerged from the underground rock scene, establishing themselves as a notable presence within the visual kei and J-rock genres. The band is characterized by their dramatic aesthetic and theatrical approach to performance, embodying the visual kei ethos of combining striking visual presentation with aggressive, dynamic rock music. Their sound blends heavy instrumentation with melodic sensibilities, creating a distinctive sonic identity that resonates within the Japanese underground music community.

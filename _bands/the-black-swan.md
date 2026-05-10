@@ -1,14 +1,17 @@
 ---
 layout: band
 name: "The Black Swan"
+title: "The Black Swan"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/dec20ebcf1a4e91d0629e98e79fdc668.jpg"
 tags: ["visual kei", "metal"]
 lastfm_slug: "The+Black+Swan"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=The%20Black%20Swan&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "RUVISH"
-  - "THE HOPELESS"
-  - "I SOLATION"
+top_albums:
+  - "Mushigoe"
+  - "RAGE"
+  - "PERSONA"
+  - "OUSIA"
+  - "Len to Kotetsu"
 ---
 
 The Black Swan emerged as a notable act within Japan's visual kei scene, bringing a distinctive blend of metal aesthetics and theatrical presentation that captured the attention of fans seeking harder-edged sounds within the genre. The band exemplified visual kei's characteristic fusion of striking visual presentation with aggressive musical sensibilities, positioning themselves among the metal-influenced acts that pushed the boundaries of traditional visual kei styling. Their approach combined the ornate costuming and dramatic imagery iconic to visual kei with the raw energy and sonic intensity of metal, creating a unique identity that resonated with audiences drawn to both aesthetic extravagance and musical heaviness.

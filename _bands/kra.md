@@ -1,14 +1,17 @@
 ---
 layout: band
 name: "KRA"
+title: "KRA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/5b6c648c1f684f66aa06cce88761a90f.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "KRA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=KRA&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "絆-キズナ-"
-  - "Alice"
-  - "ブリキの旗 (Album ver.)"
+top_albums:
+  - "Tamashii wo Tomosu AUTOMATA no Guchi"
+  - "Shinshoku no Namida"
+  - "Dis WORLD"
+  - "BRÄEMÖR"
+  - "Touryanse"
 ---
 
 KRA is a Japanese visual kei band that emerged within the distinctive landscape of Japan's alternative rock and visual kei scenes. The group represents the theatrical and experimental side of visual kei, blending heavy instrumentation with dramatic visual aesthetics that are characteristic of the genre. Their musical approach combines elements of hard rock and j-rock with the avant-garde presentation that defines visual kei culture, creating a sound that appeals to both dedicated fans of the underground visual kei movement and broader j-rock audiences.

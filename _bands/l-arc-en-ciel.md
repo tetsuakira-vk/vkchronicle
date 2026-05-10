@@ -1,14 +1,21 @@
 ---
 layout: band
 name: "L'Arc-en-Ciel"
+title: "L'Arc-en-Ciel"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c284adfc7e752879f368d9dd95f43a71.jpg"
 tags: ["j-rock", "japanese"]
 lastfm_slug: "L'Arc-en-Ciel"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=L'Arc-en-Ciel&genre=JPOP&subgenre_id=VK"
+top_albums:
+  - "YOU GOTTA RUN -English version-"
+  - "YOU GOTTA RUN"
+  - "L'Album Complete Box -Remastered Edition-"
+  - "FOREVER"
+  - "FOREVER (Anime Edit)"
 top_tracks:
-  - "Driver's High"
+  - "Honey"
+  - "Forbidden Lover"
   - "Blurry Eyes"
-  - "READY STEADY GO"
 ---
 
 L'Arc-en-Ciel stands as one of Japan's most influential rock bands, emerging from the visual kei scene in the early 1990s to become pioneers who transcended the genre's boundaries. The band, whose name means "rainbow" in French, coalesced around vocalist Hyde and guitarist Alexander, eventually solidifying their classic lineup with bassist Tetsu and drummer Yu-ki. Rather than adhering strictly to visual kei's theatrical conventions, L'Arc-en-Ciel crafted a distinctive sound that blended rock's raw energy with melodic sensibilities and atmospheric production, allowing them to achieve unprecedented commercial success both domestically and internationally. Their willingness to experiment across their discography—from harder rock tracks to more introspective compositions—demonstrated an artistic maturity that helped establish them as more than just a visual kei novelty act.

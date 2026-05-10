@@ -1,14 +1,17 @@
 ---
 layout: band
 name: "NAZARE"
+title: "NAZARE"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/95a0c6df246a49a38dfdfc1ea9526085.jpg"
 tags: ["hard rock", "classic rock"]
 lastfm_slug: "NAZARE"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=NAZARE&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "Love Hurts"
-  - "Love Hurts - Single Edit"
-  - "Where Are You Now"
+top_albums:
+  - "Jingai-RE:BIBLE-"
+  - "Gensou ni sakarete wa"
+  - "Rewrite"
+  - "COMMON ERA -CANAAN-"
+  - "COMMON ERA"
 ---
 
 NAZARE emerged as a notable entry in Japan's visual kei hard rock landscape, bringing a heavier edge to the genre's theatrical aesthetic. The band carved out their identity by blending the visual spectacle and dramatic presentation characteristic of visual kei with the raw power and guitar-driven sound of hard rock and classic rock influences. This fusion set them apart from some of their peers who leaned more heavily toward metal or alternative rock, positioning NAZARE as a bridge between traditional hard rock sensibilities and the visual kei movement's emphasis on striking imagery and performance.

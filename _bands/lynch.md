@@ -1,14 +1,17 @@
 ---
 layout: band
 name: "lynch."
+title: "lynch."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/807a83279883d76f5e547a0951b64878.jpg"
 tags: ["j-rock", "nagoya kei"]
 lastfm_slug: "lynch."
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=lynch.&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "CREATURE"
-  - "IDOL"
-  - "Devil"
+top_albums:
+  - "CLIMAX"
+  - "2nd RETAKE ALBUM 『THE AVOIDED SUN / SHADOWS』"
+  - "GOD ONLY KNOWS"
+  - "RETAKE ALBUM [GREEDY DEAD SOULS / UNDERNEATH THE SKIN]"
+  - "FIERCE-EP"
 ---
 
 lynch. is a Japanese visual kei band hailing from Nagoya, a city that became synonymous with a distinctive subgenre of VK known as "Nagoya kei." The band emerged as a notable force within the visual kei scene, characterized by their aggressive yet theatrical approach to rock music. Their sound blends heavy instrumentation with the dramatic visual presentation that defines visual kei, creating a style that appeals to both hardcore rock enthusiasts and VK fashion devotees. With their distinctive aesthetic and powerful performances, lynch. established themselves as significant contributors to the Nagoya kei movement, helping to define the regional sound that set them apart from Tokyo-based visual kei acts.

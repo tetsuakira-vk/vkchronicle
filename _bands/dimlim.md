@@ -1,14 +1,11 @@
 ---
 layout: band
 name: "DIMLIM"
+title: "DIMLIM"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fda2014404dfd92cb729b6efa821ff9e.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "DIMLIM"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=DIMLIM&genre=JPOP&subgenre_id=VK"
-top_tracks:
-  - "vanitas"
-  - "Rijin"
-  - "Malformation"
 ---
 
 DIMLIM is a Japanese visual kei rock band that emerged from the vibrant underground music scene, establishing themselves as a distinctive force within the genre through their theatrical aesthetics and dynamic musical approach. The group combines the visual extravagance characteristic of visual kei—elaborate costumes, dramatic makeup, and carefully crafted stage personas—with heavy rock instrumentation and emotionally charged performances. Their visual presentation is as integral to their identity as their music, creating an immersive experience that captivates audiences across Japan and internationally among visual kei enthusiasts.
