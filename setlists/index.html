@@ -79,6 +79,23 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
     </div>
   </div>
 
+  <div class="setlists-toolbar" style="margin-bottom:8px;">
+    <div class="ctrl-group" id="year-filter-group">
+      <span class="ctrl-label">Year:</span>
+      <button class="ctrl-btn active" data-year="">All</button>
+    </div>
+  </div>
+
+  <div class="setlists-toolbar" style="margin-bottom:8px;">
+    <div class="ctrl-group">
+      <span class="ctrl-label">Set size:</span>
+      <button class="ctrl-btn active" data-size="">All</button>
+      <button class="ctrl-btn" data-size="short">Short (&lt;10)</button>
+      <button class="ctrl-btn" data-size="medium">Medium (10–20)</button>
+      <button class="ctrl-btn" data-size="long">Long (20+)</button>
+    </div>
+  </div>
+
   <div class="section-header" id="recent-header" style="margin-top:20px;display:none;">
     <h2>Recent Setlists</h2>
     <div class="section-divider"></div>
@@ -104,6 +121,7 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
     {% for post in all_setlists %}
     <a class="setlist-card" href="{{ post.url }}"
        data-date="{{ post.date | date: '%Y-%m-%d' }}"
+       data-songs="{{ post.song_count | default: 0 }}"
        data-search="{{ post.band | downcase }} {{ post.venue | downcase }} {{ post.tour | downcase }}">
       <div class="sl-band">{{ post.band }}</div>
       <div class="sl-venue">{{ post.venue | default: "Live Show" }}</div>
@@ -130,23 +148,33 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
   var historicGrid = document.getElementById('historic-grid');
   var cntEl  = document.getElementById('visible-count');
   var noRes  = document.getElementById('no-results');
-  var query  = '';
+  var query      = '';
+  var yearFilter = '';
+  var sizeFilter = '';
 
   function updateCount() {
     var vis = allCards.filter(function (c) { return !c.hidden; }).length;
     cntEl.textContent = vis + ' of ' + allCards.length + ' setlists';
-    noRes.style.display = (vis === 0 && query) ? '' : 'none';
+    noRes.style.display = (vis === 0 && (query || yearFilter || sizeFilter)) ? '' : 'none';
   }
 
   function applyFilters() {
     allCards.forEach(function (c) {
-      c.hidden = !!(query && !c.dataset.search.includes(query));
+      var hide = false;
+      if (query && !c.dataset.search.includes(query)) hide = true;
+      if (yearFilter && (c.dataset.date || '').slice(0, 4) !== yearFilter) hide = true;
+      if (sizeFilter) {
+        var n = parseInt(c.dataset.songs || '0', 10);
+        if (sizeFilter === 'short'  && n >= 10)          hide = true;
+        if (sizeFilter === 'medium' && (n < 10 || n > 20)) hide = true;
+        if (sizeFilter === 'long'   && n <= 20)          hide = true;
+      }
+      c.hidden = hide;
     });
     updateCount();
   }
 
   function sortCards(type) {
-    // Sort each grid independently
     [recentGrid, historicGrid].forEach(function (grid) {
       if (!grid) return;
       var cards = Array.from(grid.querySelectorAll('.setlist-card'));
@@ -162,7 +190,6 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
       }
       cards.forEach(function (c) { grid.appendChild(c); });
     });
-    // Rebuild allCards in new order
     allCards = Array.from(document.querySelectorAll('.setlist-card'));
     applyFilters();
   }
@@ -177,8 +204,7 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
 
     var movedCount = 0;
     Array.from(historicGrid.querySelectorAll('.setlist-card')).forEach(function (card) {
-      var year = (card.dataset.date || '').slice(0, 4);
-      if (year >= '2025') {
+      if ((card.dataset.date || '').slice(0, 4) >= '2025') {
         recentGrid.appendChild(card);
         movedCount++;
       }
@@ -192,17 +218,50 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
     }
 
     var historicCount = historicGrid.querySelectorAll('.setlist-card').length;
-    if (historicBadge) {
-      historicBadge.textContent = historicCount + ' shows · 2014–2020';
-    }
+    if (historicBadge) historicBadge.textContent = historicCount + ' shows · 2014–2024';
 
-    // Rebuild allCards after moves
     allCards = Array.from(document.querySelectorAll('.setlist-card'));
+  })();
+
+  // Build year filter buttons dynamically from available data
+  (function () {
+    var seen = {}, years = [];
+    allCards.forEach(function (c) {
+      var y = (c.dataset.date || '').slice(0, 4);
+      if (y && !seen[y]) { seen[y] = true; years.push(y); }
+    });
+    years.sort().reverse();
+    var group = document.getElementById('year-filter-group');
+    years.forEach(function (y) {
+      var btn = document.createElement('button');
+      btn.className = 'ctrl-btn';
+      btn.dataset.year = y;
+      btn.textContent = y;
+      group.appendChild(btn);
+    });
   })();
 
   document.getElementById('setlist-search').addEventListener('input', function () {
     query = this.value.toLowerCase().trim();
     applyFilters();
+  });
+
+  document.getElementById('year-filter-group').addEventListener('click', function (e) {
+    var btn = e.target.closest('[data-year]');
+    if (!btn) return;
+    yearFilter = btn.dataset.year;
+    this.querySelectorAll('.ctrl-btn').forEach(function (b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    applyFilters();
+  });
+
+  document.querySelectorAll('.ctrl-btn[data-size]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      sizeFilter = this.dataset.size;
+      document.querySelectorAll('.ctrl-btn[data-size]').forEach(function (b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      applyFilters();
+    });
   });
 
   document.querySelectorAll('.ctrl-btn[data-sort]').forEach(function (btn) {
