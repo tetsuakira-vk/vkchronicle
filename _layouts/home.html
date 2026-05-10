@@ -14,6 +14,7 @@ layout: default
 
     <section class="post-grid" id="latest-grid">
       {% for post in paginator.posts %}
+      {% if post.labels contains 'Setlists' %}{% continue %}{% endif %}
       <article class="post-card">
         {% if post.image %}
         <a href="{{ post.url }}" class="card-image-link">
@@ -61,7 +62,9 @@ layout: default
 
 <script>
 (function () {
-  var POPULAR = {{ site.data.popular_posts.posts | jsonify }};
+  var POPULAR = ({{ site.data.popular_posts.posts | jsonify }} || []).filter(function(p) {
+    return !(p.labels || []).includes('Setlists');
+  });
 
   function makeCard(p) {
     var labels = (p.labels || []).slice(0, 2).map(function (l) {

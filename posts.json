@@ -2,4 +2,4 @@
 layout: null
 permalink: /posts.json
 ---
-[{% for post in site.posts %}{"title":{{ post.title | jsonify }},"url":{{ post.url | jsonify }},"date":{{ post.date | date: "%B %-d, %Y" | jsonify }},"image":{{ post.image | default: "" | jsonify }},"labels":[{% for label in post.labels %}{{ label | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}]}{% unless forloop.last %},{% endunless %}{% endfor %}]
+[{% assign first_post = true %}{% for post in site.posts %}{% unless post.labels contains 'Setlists' %}{% unless first_post %},{% endunless %}{% assign first_post = false %}{"title":{{ post.title | jsonify }},"url":{{ post.url | jsonify }},"date":{{ post.date | date: "%B %-d, %Y" | jsonify }},"image":{{ post.image | default: "" | jsonify }},"labels":[{% for label in post.labels %}{{ label | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}]}{% endunless %}{% endfor %}]
