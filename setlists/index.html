@@ -2,7 +2,7 @@
 layout: default
 title: "Visual Kei Setlists — Live Show Song Lists from Japanese Concerts"
 permalink: /setlists/
-description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC, lynch., the GazettE, and more. Sourced from dailysetlist.net and translated for Western fans."
+description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC, lynch., the GazettE, and more. Historic archive sourced from dailysetlist.net."
 ---
 
 <style>
@@ -21,6 +21,14 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
   .ctrl-btn:hover { border-color: rgba(236,172,13,0.5); color: #ecac0d; }
   .ctrl-btn.active { background: #ecac0d; border-color: #ecac0d; color: #000; font-weight: 600; }
 
+  .section-header { margin: 40px 0 16px; display: flex; align-items: center; gap: 14px; }
+  .section-header h2 { font-family: var(--font-heading); font-size: 1.4rem; margin: 0; white-space: nowrap; }
+  .section-divider { flex: 1; height: 1px; background: rgba(255,255,255,0.08); }
+  .section-badge { font-size: 0.72rem; padding: 3px 10px; border-radius: 20px;
+    background: rgba(236,172,13,0.12); border: 1px solid rgba(236,172,13,0.3);
+    color: #ecac0d; white-space: nowrap; }
+  .section-badge.historic { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.12); color: #666; }
+
   .setlist-grid { display: grid; gap: 10px; grid-template-columns: 1fr; }
   @media (min-width: 640px) { .setlist-grid { grid-template-columns: 1fr 1fr; } }
   @media (min-width: 1000px) { .setlist-grid { grid-template-columns: 1fr 1fr 1fr; } }
@@ -31,25 +39,33 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
   .setlist-card:hover { border-color: rgba(236,172,13,0.3); }
   .setlist-card[hidden] { display: none; }
 
-  .sl-band { font-size: 0.78rem; font-weight: 700; color: var(--accent);
+  .sl-band { font-size: 0.75rem; font-weight: 700; color: var(--accent);
     text-transform: uppercase; letter-spacing: 0.06em; }
-  .sl-title { font-size: 0.95rem; font-weight: 600; color: #fff; line-height: 1.3; }
-  .sl-meta { font-size: 0.78rem; color: #777; display: flex; gap: 10px; flex-wrap: wrap; margin-top: 2px; }
-  .sl-songs { font-size: 0.75rem; color: rgba(236,172,13,0.7); margin-top: auto; padding-top: 8px; }
+  .sl-venue { font-size: 0.95rem; font-weight: 600; color: #fff; line-height: 1.3; }
+  .sl-tour { font-size: 0.78rem; color: #888; margin-top: 1px; }
+  .sl-meta { font-size: 0.78rem; color: #666; display: flex; gap: 10px; margin-top: auto; padding-top: 8px; border-top: 1px solid rgba(255,255,255,0.05); }
+  .sl-songs { margin-left: auto; color: rgba(236,172,13,0.6); }
+
+  .empty-section { padding: 24px; border: 1px dashed rgba(255,255,255,0.08);
+    border-radius: 12px; color: #555; font-size: 0.88rem; text-align: center; }
 
   #no-results { color: var(--text-muted); margin-top: 20px; }
 </style>
 
 <div class="container" style="padding:40px 0;">
+
   <div style="margin-bottom:24px;">
     <h1 style="font-family:var(--font-heading);font-size:2rem;margin:0 0 8px;">Visual Kei Setlists</h1>
-    <p style="color:var(--text-muted);margin:0 0 6px;">Live show setlists from Visual Kei concerts in Japan — sourced from dailysetlist.net and organised for Western fans.</p>
-    <p style="color:var(--text-muted);font-size:0.82rem;margin:0;">Archive covers 2014–2020. Search by band name or venue.</p>
+    <p style="color:var(--text-muted);margin:0;">Live show setlists from Visual Kei concerts in Japan. Search by band name or venue.</p>
   </div>
 
-  {% assign setlist_posts = site.posts | where_exp: "post", "post.labels contains 'Setlists'" %}
+  {% assign all_setlists = site.posts | where_exp: "post", "post.labels contains 'Setlists'" %}
+  {% assign current_year = site.time | date: "%Y" | plus: 0 %}
+  {% assign cutoff = current_year | minus: 1 | prepend: "" %}
+  {% assign recent_setlists  = all_setlists | where_exp: "post", "post.date | date: '%Y' >= '2025'" %}
+  {% assign historic_setlists = all_setlists | where_exp: "post", "post.date | date: '%Y' < '2025'" %}
 
-  {% if setlist_posts.size == 0 %}
+  {% if all_setlists.size == 0 %}
   <p style="color:var(--text-muted);">No setlists published yet — check back soon.</p>
   {% else %}
 
@@ -58,7 +74,7 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
     <span id="visible-count"></span>
   </div>
 
-  <div class="setlists-toolbar" style="margin-bottom:20px;">
+  <div class="setlists-toolbar" style="margin-bottom:8px;">
     <div class="ctrl-group">
       <span class="ctrl-label">Sort:</span>
       <button class="ctrl-btn active" data-sort="newest">Newest</button>
@@ -67,22 +83,62 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
     </div>
   </div>
 
-  <div class="setlist-grid" id="setlist-grid">
-    {% for post in setlist_posts %}
+  {% if recent_setlists.size > 0 %}
+  <div class="section-header">
+    <h2>Recent Setlists</h2>
+    <div class="section-divider"></div>
+    <span class="section-badge">{{ recent_setlists.size }} shows</span>
+  </div>
+  <div class="setlist-grid" id="recent-grid">
+    {% for post in recent_setlists %}
     <a class="setlist-card" href="{{ post.url }}"
        data-date="{{ post.date | date: '%Y-%m-%d' }}"
+       data-era="recent"
        data-search="{{ post.band | downcase }} {{ post.venue | downcase }} {{ post.tour | downcase }}">
       <div class="sl-band">{{ post.band }}</div>
-      <div class="sl-title">{{ post.venue | default: "Live Show" }}</div>
+      <div class="sl-venue">{{ post.venue | default: "Live Show" }}</div>
       {% if post.tour and post.tour != "" %}
-      <div class="sl-meta"><span>{{ post.tour | truncate: 50 }}</span></div>
+      <div class="sl-tour">{{ post.tour | truncate: 55 }}</div>
       {% endif %}
       <div class="sl-meta">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        {% if post.song_count %}<span class="sl-songs">{{ post.song_count }} songs</span>{% endif %}
       </div>
-      {% if post.song_count %}
-      <div class="sl-songs">{{ post.song_count }} songs</div>
+    </a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="section-header" style="margin-top:20px;">
+    <h2>Recent Setlists</h2>
+    <div class="section-divider"></div>
+    <span class="section-badge">coming soon</span>
+  </div>
+  <div class="empty-section">
+    Live setlists from 2025 onwards will appear here once our livefans.jp pipeline is running.
+  </div>
+  {% endif %}
+
+  <div class="section-header">
+    <h2>Historic Archive</h2>
+    <div class="section-divider"></div>
+    <span class="section-badge historic">{{ historic_setlists.size }} shows · 2014–2020</span>
+  </div>
+
+  <div class="setlist-grid" id="historic-grid">
+    {% for post in historic_setlists %}
+    <a class="setlist-card" href="{{ post.url }}"
+       data-date="{{ post.date | date: '%Y-%m-%d' }}"
+       data-era="historic"
+       data-search="{{ post.band | downcase }} {{ post.venue | downcase }} {{ post.tour | downcase }}">
+      <div class="sl-band">{{ post.band }}</div>
+      <div class="sl-venue">{{ post.venue | default: "Live Show" }}</div>
+      {% if post.tour and post.tour != "" %}
+      <div class="sl-tour">{{ post.tour | truncate: 55 }}</div>
       {% endif %}
+      <div class="sl-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        {% if post.song_count %}<span class="sl-songs">{{ post.song_count }} songs</span>{% endif %}
+      </div>
     </a>
     {% endfor %}
   </div>
@@ -94,40 +150,45 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
 
 <script>
 (function () {
-  var grid   = document.getElementById('setlist-grid');
-  if (!grid) return;
+  var allCards = Array.from(document.querySelectorAll('.setlist-card'));
+  var recentGrid   = document.getElementById('recent-grid');
+  var historicGrid = document.getElementById('historic-grid');
   var cntEl  = document.getElementById('visible-count');
   var noRes  = document.getElementById('no-results');
-  var cards  = Array.from(grid.querySelectorAll('.setlist-card'));
   var query  = '';
 
   function updateCount() {
-    var vis = cards.filter(function (c) { return !c.hidden; }).length;
-    cntEl.textContent = vis + ' of ' + cards.length + ' setlists';
-    noRes.style.display = vis === 0 ? '' : 'none';
+    var vis = allCards.filter(function (c) { return !c.hidden; }).length;
+    cntEl.textContent = vis + ' of ' + allCards.length + ' setlists';
+    noRes.style.display = (vis === 0 && query) ? '' : 'none';
   }
 
   function applyFilters() {
-    cards.forEach(function (c) {
+    allCards.forEach(function (c) {
       c.hidden = !!(query && !c.dataset.search.includes(query));
     });
     updateCount();
   }
 
   function sortCards(type) {
-    var list = cards.slice();
-    if (type === 'newest') {
-      list.sort(function (a, b) { return b.dataset.date.localeCompare(a.dataset.date); });
-    } else if (type === 'oldest') {
-      list.sort(function (a, b) { return a.dataset.date.localeCompare(b.dataset.date); });
-    } else if (type === 'shuffle') {
-      for (var i = list.length - 1; i > 0; i--) {
-        var j = Math.floor(Math.random() * (i + 1));
-        var t = list[i]; list[i] = list[j]; list[j] = t;
+    // Sort each grid independently
+    [recentGrid, historicGrid].forEach(function (grid) {
+      if (!grid) return;
+      var cards = Array.from(grid.querySelectorAll('.setlist-card'));
+      if (type === 'newest') {
+        cards.sort(function (a, b) { return b.dataset.date.localeCompare(a.dataset.date); });
+      } else if (type === 'oldest') {
+        cards.sort(function (a, b) { return a.dataset.date.localeCompare(b.dataset.date); });
+      } else if (type === 'shuffle') {
+        for (var i = cards.length - 1; i > 0; i--) {
+          var j = Math.floor(Math.random() * (i + 1));
+          var t = cards[i]; cards[i] = cards[j]; cards[j] = t;
+        }
       }
-    }
-    list.forEach(function (c) { grid.appendChild(c); });
-    cards = list;
+      cards.forEach(function (c) { grid.appendChild(c); });
+    });
+    // Rebuild allCards in new order
+    allCards = Array.from(document.querySelectorAll('.setlist-card'));
     applyFilters();
   }
 
