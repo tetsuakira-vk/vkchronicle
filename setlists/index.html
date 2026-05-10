@@ -60,10 +60,6 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
   </div>
 
   {% assign all_setlists = site.posts | where_exp: "post", "post.labels contains 'Setlists'" %}
-  {% assign current_year = site.time | date: "%Y" | plus: 0 %}
-  {% assign cutoff = current_year | minus: 1 | prepend: "" %}
-  {% assign recent_setlists  = all_setlists | where_exp: "post", "post.date | date: '%Y' >= '2025'" %}
-  {% assign historic_setlists = all_setlists | where_exp: "post", "post.date | date: '%Y' < '2025'" %}
 
   {% if all_setlists.size == 0 %}
   <p style="color:var(--text-muted);">No setlists published yet — check back soon.</p>
@@ -83,52 +79,31 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
     </div>
   </div>
 
-  {% if recent_setlists.size > 0 %}
-  <div class="section-header">
+  <div class="section-header" id="recent-header" style="margin-top:20px;display:none;">
     <h2>Recent Setlists</h2>
     <div class="section-divider"></div>
-    <span class="section-badge">{{ recent_setlists.size }} shows</span>
+    <span class="section-badge" id="recent-badge">0 shows</span>
   </div>
-  <div class="setlist-grid" id="recent-grid">
-    {% for post in recent_setlists %}
-    <a class="setlist-card" href="{{ post.url }}"
-       data-date="{{ post.date | date: '%Y-%m-%d' }}"
-       data-era="recent"
-       data-search="{{ post.band | downcase }} {{ post.venue | downcase }} {{ post.tour | downcase }}">
-      <div class="sl-band">{{ post.band }}</div>
-      <div class="sl-venue">{{ post.venue | default: "Live Show" }}</div>
-      {% if post.tour and post.tour != "" %}
-      <div class="sl-tour">{{ post.tour | truncate: 55 }}</div>
-      {% endif %}
-      <div class="sl-meta">
-        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-        {% if post.song_count %}<span class="sl-songs">{{ post.song_count }} songs</span>{% endif %}
-      </div>
-    </a>
-    {% endfor %}
-  </div>
-  {% else %}
-  <div class="section-header" style="margin-top:20px;">
+  <div class="setlist-grid" id="recent-grid"></div>
+
+  <div class="section-header" id="recent-empty-header" style="margin-top:20px;">
     <h2>Recent Setlists</h2>
     <div class="section-divider"></div>
     <span class="section-badge">coming soon</span>
   </div>
-  <div class="empty-section">
+  <div class="empty-section" id="recent-empty">
     Live setlists from 2025 onwards will appear here once our livefans.jp pipeline is running.
   </div>
-  {% endif %}
 
   <div class="section-header">
     <h2>Historic Archive</h2>
     <div class="section-divider"></div>
-    <span class="section-badge historic">{{ historic_setlists.size }} shows · 2014–2020</span>
+    <span class="section-badge historic" id="historic-badge">{{ all_setlists.size }} shows · 2014–2020</span>
   </div>
-
   <div class="setlist-grid" id="historic-grid">
-    {% for post in historic_setlists %}
+    {% for post in all_setlists %}
     <a class="setlist-card" href="{{ post.url }}"
        data-date="{{ post.date | date: '%Y-%m-%d' }}"
-       data-era="historic"
        data-search="{{ post.band | downcase }} {{ post.venue | downcase }} {{ post.tour | downcase }}">
       <div class="sl-band">{{ post.band }}</div>
       <div class="sl-venue">{{ post.venue | default: "Live Show" }}</div>
@@ -191,6 +166,39 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
     allCards = Array.from(document.querySelectorAll('.setlist-card'));
     applyFilters();
   }
+
+  // Move any 2025+ cards from historic to recent grid
+  (function () {
+    var recentHeader      = document.getElementById('recent-header');
+    var recentBadge       = document.getElementById('recent-badge');
+    var recentEmptyHeader = document.getElementById('recent-empty-header');
+    var recentEmpty       = document.getElementById('recent-empty');
+    var historicBadge     = document.getElementById('historic-badge');
+
+    var movedCount = 0;
+    Array.from(historicGrid.querySelectorAll('.setlist-card')).forEach(function (card) {
+      var year = (card.dataset.date || '').slice(0, 4);
+      if (year >= '2025') {
+        recentGrid.appendChild(card);
+        movedCount++;
+      }
+    });
+
+    if (movedCount > 0) {
+      recentHeader.style.display = '';
+      recentBadge.textContent = movedCount + (movedCount === 1 ? ' show' : ' shows');
+      recentEmptyHeader.style.display = 'none';
+      recentEmpty.style.display = 'none';
+    }
+
+    var historicCount = historicGrid.querySelectorAll('.setlist-card').length;
+    if (historicBadge) {
+      historicBadge.textContent = historicCount + ' shows · 2014–2020';
+    }
+
+    // Rebuild allCards after moves
+    allCards = Array.from(document.querySelectorAll('.setlist-card'));
+  })();
 
   document.getElementById('setlist-search').addEventListener('input', function () {
     query = this.value.toLowerCase().trim();
