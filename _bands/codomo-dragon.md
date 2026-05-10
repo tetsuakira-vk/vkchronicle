@@ -1,17 +1,14 @@
 ---
 layout: band
 name: "Codomo Dragon"
-title: "Codomo Dragon"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/05705135e6b34fe1cf1d9802af1b45e5.jpg"
 tags: ["alternative metal", "add tags", "view all tags"]
 lastfm_slug: "Codomo+Dragon"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Codomo%20Dragon&genre=JPOP&subgenre_id=VK"
-top_albums:
-  - "UNPRAY"
-  - "UNPRAY!!"
-  - "MACHINA"
-  - "Dabi"
-  - "Gousai"
+top_tracks:
+  - "SODOM"
+  - "Ibitsu"
+  - "Gusyoku"
 ---
 
 Codomo Dragon is a Japanese visual kei band that emerged from the vibrant Tokyo underground music scene, establishing themselves as notable purveyors of aggressive alternative metal within the visual kei subgenre. The group's striking visual aesthetic—characterized by bold makeup, theatrical costumes, and dark imagery—complements their sonically intense approach to rock music. Their formation represented a significant moment in the evolution of visual kei, as they brought a heavier, more metallic edge to a scene often associated with diverse stylistic experimentation. The band's commitment to both visual presentation and musical substance has garnered them recognition among fans seeking the harder end of the visual kei spectrum.

@@ -1,17 +1,14 @@
 ---
 layout: band
 name: "Jiluka"
-title: "Jiluka"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c6c2842621f4e3ce61cccbb60ba5161f.jpg"
 tags: ["visual kei", "metalcore"]
 lastfm_slug: "Jiluka"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Jiluka&genre=JPOP&subgenre_id=VK"
-top_albums:
-  - "DeViLs"
-  - "XNDII"
-  - "KVLT"
-  - "S4VAGE"
+top_tracks:
   - "VENΦM"
+  - "ゴーストルール"
+  - "OVERKILL"
 ---
 
 Jiluka is a Japanese visual kei band that emerged in the mid-2010s, establishing themselves as a prominent force in the modern visual kei metalcore scene. The band combines the theatrical aesthetics and striking visual presentation characteristic of visual kei with heavy metalcore instrumentation and aggressive vocal delivery, creating a distinctive sound that bridges traditional VK sensibilities with contemporary metal heaviness. Their approach has resonated strongly with audiences seeking a more intense and contemporary take on the visual kei genre, positioning them within a wave of bands that revitalized visual kei for a new generation of listeners.

@@ -1,17 +1,14 @@
 ---
 layout: band
 name: "DIAURA"
-title: "DIAURA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/bafbbd7d1c95bdf654146ec56956d357.jpg"
 tags: ["visual kei", "j-rock"]
 lastfm_slug: "DIAURA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=DIAURA&genre=JPOP&subgenre_id=VK"
-top_albums:
-  - "INCOMPLETE Ⅲ"
-  - "Innocent (Acoustic Ver.)"
-  - "Gumin no hi 2025"
-  - "SEEDS"
-  - "Shiro no rasen"
+top_tracks:
+  - "遠い春"
+  - "MALICE"
+  - "ロストチャイルド"
 ---
 
 DIAURA is a Japanese visual kei band that emerged from the vibrant Tokyo underground music scene, establishing themselves as a distinctive force within the visual kei and J-rock landscape. The group is characterized by their striking visual aesthetic—a hallmark of the visual kei genre—combined with a dynamic musical approach that blends heavy rock instrumentation with intricate melodies and atmospheric arrangements. Their musical identity draws from both the theatrical traditions of visual kei and contemporary rock sensibilities, allowing them to appeal to fans of both classic visual kei and modern J-rock audiences.

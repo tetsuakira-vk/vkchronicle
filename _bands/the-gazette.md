@@ -1,17 +1,14 @@
 ---
 layout: band
 name: "the GazettE"
-title: "the GazettE"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/1b047646a41f444893db874851c9db11.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "the+GazettE"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=the%20GazettE&genre=JPOP&subgenre_id=VK"
-top_albums:
-  - "HETERODOXY"
-  - "MASS"
-  - "BLINDING HOPE"
-  - "NINTH"
-  - "UNDYING"
+top_tracks:
+  - "SHIVER"
+  - "Dogma"
+  - "UGLY"
 ---
 
 the GazettE is a Japanese visual kei band that emerged in the mid-2000s, establishing themselves as one of the most influential acts in the modern visual kei movement. Formed in Tokyo, the band features Ruki on vocals, Uruha and Aoi on guitars, Reita on bass, and Kai on drums. With their striking visual aesthetic—characterized by dark, often gothic-inspired makeup and fashion—combined with their powerful musical output, the GazettE quickly garnered attention both domestically and internationally. Their commitment to the visual kei tradition of blending theatrical presentation with heavy rock music helped revitalize interest in the genre during the 2000s and beyond.

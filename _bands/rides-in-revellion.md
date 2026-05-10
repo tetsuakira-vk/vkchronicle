@@ -1,17 +1,14 @@
 ---
 layout: band
 name: "Rides in ReVellion"
-title: "Rides in ReVellion"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c3400e00c4665f68ee5158033e472b35.jpg"
 tags: ["visual kei", "power metal"]
 lastfm_slug: "Rides+in+ReVellion"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Rides%20in%20ReVellion&genre=JPOP&subgenre_id=VK"
-top_albums:
-  - "THE LAST ReVellion"
-  - "Shooting the MOON"
-  - "37℃"
-  - "PERFECT・BLUE"
-  - "Yoake Frontline"
+top_tracks:
+  - "紫煙"
+  - "Eternal"
+  - "Seirios"
 ---
 
 Rides in ReVellion emerged as a distinctive force within Japan's visual kei scene, blending the theatrical aesthetics and dark glamour characteristic of the genre with the grandiose instrumentation and epic songwriting of power metal. The band distinguished itself through this fusion, creating a sound that appealed to both devoted visual kei fans and those drawn to metal's symphonic and melodic subgenres. Their visual presentation maintained the ornate costumes and dramatic styling expected of visual kei acts, while their musical approach emphasized powerful vocals, soaring melodies, and intricate guitar work that reflected power metal's technical ambitions.

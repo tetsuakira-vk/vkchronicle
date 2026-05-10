@@ -1,21 +1,17 @@
 ---
 layout: band
 name: "X Japan"
-title: "X Japan"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8e363461bf214d6e81cd97411ac7ec36.jpg"
 tags: ["j-rock", "visual kei"]
 lastfm_slug: "X+Japan"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=X%20Japan&genre=JPOP&subgenre_id=VK"
-top_albums:
-  - "Angel"
-  - "YOSHIKI"
-  - "WE ARE X : DOCUMENTAL US"
-  - "WE ARE X : DOCUMENTARY"
-  - "X Japan - We Are X: Original Motion Picture Soundtrack LP (Limited Edition)"
 top_tracks:
-  - "Endless Rain"
-  - "Kurenai"
-  - "Say Anything"
+  - "Rusty Nail"
+  - "ENDLESS RAIN - Remaster"
+  - "紅 - KURENAI - シングル・ロングバージョン - Single Long Version"
+recent_news:
+  - url: "https://vkchronicle.com/2026/05/x-japan-feature-in-carsensor-cm-yoshiki-approves/"
+    title: "X Japan Feature in CarSensor CM, YOSHIKI Approves"
 ---
 
 X Japan stands as one of the most influential and pioneering bands in the visual kei movement, originating from Japan during the 1980s. Founded by Yoshiki, the band became instrumental in defining the visual kei aesthetic—combining theatrical visual presentation with heavy rock music. The group's dramatic performances, characterized by elaborate costumes, makeup, and stage productions, helped establish visual kei as a distinct subgenre of Japanese rock. Their technical musicianship, particularly Yoshiki's innovative drumming and piano compositions, elevated them beyond mere spectacle, earning them recognition both domestically and internationally as legitimate rock musicians.

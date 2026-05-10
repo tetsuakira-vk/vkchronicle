@@ -1,17 +1,14 @@
 ---
 layout: band
 name: "Sukekiyo"
-title: "Sukekiyo"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/0d65d771e1980dab3182f5f0d2189f6d.jpg"
 tags: ["visual kei", "experimental"]
 lastfm_slug: "Sukekiyo"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Sukekiyo&genre=JPOP&subgenre_id=VK"
-top_albums:
-  - "possess"
-  - "DOMINUS"
-  - "Ius Cerebri / Sinistro Cerebrum"
-  - "Ius Cerebri"
-  - "Sinistro Cerebrum"
+top_tracks:
+  - "En"
+  - "zephyr"
+  - "anima"
 ---
 
 Sukekiyo is a Japanese visual kei band that emerged from the experimental fringes of the genre, known for their avant-garde approach to both sound and visual presentation. The project represents a collaborative effort within the visual kei community, blending theatrical aesthetics with unconventional musical arrangements that challenge traditional genre boundaries. Their work is characterized by a deliberate embrace of experimental elements, creating a distinctive sonic landscape that incorporates dissonant instrumentation, layered textures, and haunting vocal performances that set them apart from more mainstream visual kei acts.
