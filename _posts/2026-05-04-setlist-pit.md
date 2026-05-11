@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "摩天楼オペラ Setlist — 豊洲PIT (May 4, 2026)"
+title: "摩天楼オペラ (Matenrou Opera) Setlist — 豊洲PIT (May 4, 2026)"
 date: 2026-05-04
-labels: [Setlists, "摩天楼オペラ"]
-band: "摩天楼オペラ"
+labels: [Setlists, "摩天楼オペラ (Matenrou Opera)"]
+band: "摩天楼オペラ (Matenrou Opera)"
 venue: "豊洲PIT"
 tour: "19th Anniversary Live"
 song_count: 21

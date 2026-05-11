@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "シド Setlist — Zepp Haneda (November 9, 2025)"
+title: "シド (SID) Setlist — Zepp Haneda (November 9, 2025)"
 date: 2025-11-09
-labels: [Setlists, "シド"]
-band: "シド"
+labels: [Setlists, "シド (SID)"]
+band: "シド (SID)"
 venue: "Zepp Haneda"
 tour: "SID TOUR 2025 ～Dark side～"
 song_count: 20

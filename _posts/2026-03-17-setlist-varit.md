@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "摩天楼オペラ Setlist — 神戸VARIT. (March 17, 2026)"
+title: "摩天楼オペラ (Matenrou Opera) Setlist — 神戸VARIT. (March 17, 2026)"
 date: 2026-03-17
-labels: [Setlists, "摩天楼オペラ"]
-band: "摩天楼オペラ"
+labels: [Setlists, "摩天楼オペラ (Matenrou Opera)"]
+band: "摩天楼オペラ (Matenrou Opera)"
 venue: "神戸VARIT."
 tour: "DOMINATE CIRCUS 2026"
 song_count: 18

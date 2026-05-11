@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "己龍 Setlist — Zepp Haneda (December 18, 2023)"
+title: "己龍 (Kiryu) Setlist — Zepp Haneda (December 18, 2023)"
 date: 2023-12-18
-labels: [Setlists, "己龍"]
-band: "己龍"
+labels: [Setlists, "己龍 (Kiryu)"]
+band: "己龍 (Kiryu)"
 venue: "Zepp Haneda"
 tour: "己龍生誕十六周年記念公演「拾陸周年」"
 song_count: 22

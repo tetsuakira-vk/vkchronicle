@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ナイトメア Setlist — GORILLA HALL OSAKA (May 9, 2026)"
+title: "ナイトメア (Nightmare) Setlist — GORILLA HALL OSAKA (May 9, 2026)"
 date: 2026-05-09
-labels: [Setlists, "ナイトメア"]
-band: "ナイトメア"
+labels: [Setlists, "ナイトメア (Nightmare)"]
+band: "ナイトメア (Nightmare)"
 venue: "GORILLA HALL OSAKA"
 tour: "NIGHTMARE TOUR 2026 \"Reach for\""
 song_count: 18

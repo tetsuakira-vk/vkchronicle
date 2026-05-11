@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ギルガメッシュ Setlist — 新宿ReNY (May 1, 2016)"
+title: "ギルガメッシュ (Girugamesh) Setlist — 新宿ReNY (May 1, 2016)"
 date: 2016-05-01
-labels: [Setlists, "ギルガメッシュ"]
-band: "ギルガメッシュ"
+labels: [Setlists, "ギルガメッシュ (Girugamesh)"]
+band: "ギルガメッシュ (Girugamesh)"
 venue: "新宿ReNY"
 tour: "INKT 2MAN TOUR"
 song_count: 14

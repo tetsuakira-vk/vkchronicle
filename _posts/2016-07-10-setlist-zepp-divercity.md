@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ギルガメッシュ Setlist — Zepp DiverCity (July 10, 2016)"
+title: "ギルガメッシュ (Girugamesh) Setlist — Zepp DiverCity (July 10, 2016)"
 date: 2016-07-10
-labels: [Setlists, "ギルガメッシュ"]
-band: "ギルガメッシュ"
+labels: [Setlists, "ギルガメッシュ (Girugamesh)"]
+band: "ギルガメッシュ (Girugamesh)"
 venue: "Zepp DiverCity"
 tour: "ONEMAN TOUR 2016 \"鵺-period-\""
 song_count: 3

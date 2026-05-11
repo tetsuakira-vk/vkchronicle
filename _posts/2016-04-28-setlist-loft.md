@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ギルガメッシュ Setlist — 新宿LOFT (April 28, 2016)"
+title: "ギルガメッシュ (Girugamesh) Setlist — 新宿LOFT (April 28, 2016)"
 date: 2016-04-28
-labels: [Setlists, "ギルガメッシュ"]
-band: "ギルガメッシュ"
+labels: [Setlists, "ギルガメッシュ (Girugamesh)"]
+band: "ギルガメッシュ (Girugamesh)"
 venue: "新宿LOFT"
 tour: "SHINJUKU LOFT 40TH ANNIVERSARY master"
 song_count: 10

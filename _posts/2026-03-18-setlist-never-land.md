@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "摩天楼オペラ Setlist — 奈良NEVER LAND (March 18, 2026)"
+title: "摩天楼オペラ (Matenrou Opera) Setlist — 奈良NEVER LAND (March 18, 2026)"
 date: 2026-03-18
-labels: [Setlists, "摩天楼オペラ"]
-band: "摩天楼オペラ"
+labels: [Setlists, "摩天楼オペラ (Matenrou Opera)"]
+band: "摩天楼オペラ (Matenrou Opera)"
 venue: "奈良NEVER LAND"
 tour: "DOMINATE CIRCUS 2026"
 song_count: 18
