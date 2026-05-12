@@ -25,5 +25,3 @@ The shift toward digital compilations reflects broader trends in how Visual Kei 
 This release is particularly timely as the VK scene continues to expand its reach beyond Japan. More bands are recognizing that digital platforms offer a genuine pathway to growing their fanbase across North America, Europe, and beyond—without requiring fans to navigate import costs or regional availability issues.
 
 If you've been meaning to explore Zip.er's discography or want to refresh your knowledge of their best material, now's the moment to hit play. Stream the album on your platform of choice and discover why they've earned their place in the contemporary Visual Kei landscape.
-
-For more Visual Kei news, releases, and artist updates, follow VK.gy across social media and consider supporting independent coverage through their Patreon.

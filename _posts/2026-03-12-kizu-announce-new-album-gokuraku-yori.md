@@ -14,6 +14,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2F
 <p>**Standard** – Standard edition for collectors and casual listeners</p>
 <p>With multiple formats on offer, KIZU is giving fans flexibility in how they experience the new material—whether you're hunting for rare collectibles or simply seeking the music itself.</p>
 <p>Mark your calendars for April 8, 2026, and keep an eye on official channels for pre-order details. Visual kei fans should absolutely add this one to their watchlist.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy" target="_blank" rel="noopener">vk.gy</a>
-</p>

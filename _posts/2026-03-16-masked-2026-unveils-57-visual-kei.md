@@ -12,6 +12,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F174304-flye
 <p>What makes MASKED 2026 particularly special is its circuit format. Unlike typical one-venue festivals, the three-location setup allows fans to experience multiple performance spaces and creates organic movement through Tokyo's live music landscape. It's a celebration of the scene's current vitality at a time when visual kei is genuinely thriving both domestically and internationally.</p>
 <p>Tickets are on sale now, with special links available for overseas fans—a crucial detail given the growing Western fanbase. If you've ever wondered what the full breadth of modern visual kei looks like in one place, this is it.</p>
 <p>**Secure your tickets and explore the full band roster at [masked-v.com](http://www.masked-v.com/posts/58583181?categoryIds=11267295). Don't miss one of 2026's most essential visual kei events.**</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy/blog/full-masked-2026-photoshoot-featuring-57-vkei-vocalists-released/" target="_blank" rel="noopener">Full 「MASKED 2026」 photoshoot featuring 57 visual kei vocalists released</a>
-</p>

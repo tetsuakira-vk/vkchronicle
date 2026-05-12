@@ -744,7 +744,7 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F173204-gege
 </div>
 
 <p style="color: #999999; font-size: 0.85rem; margin-top: 2em;">
-  Missed a release? Check <a href="https://vk.gy/releases/" rel="noopener" target="_blank">vk.gy</a> for the complete database, or browse our <a href="/">latest VK news</a>.
+  Missed a release?gy</a> for the complete database, or browse our <a href="/">latest VK news</a>.
 </p>
 
 <style>

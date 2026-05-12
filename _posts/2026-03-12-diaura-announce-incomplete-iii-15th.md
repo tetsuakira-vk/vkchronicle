@@ -15,6 +15,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2F
 <p>The compilation arrives on April 1, 2026, giving fans the perfect moment to reflect on the band's career trajectory and sonic legacy. Whether you're a longtime supporter or discovering DIAURA for the first time, this release is an unmissable opportunity to experience their artistic journey.</p>
 <p>**What's Next?**</p>
 <p>Mark your calendars for April 1st. Fans should keep an eye on DIAURA's official channels for pre-order announcements and additional edition details in the coming months. This is one anniversary celebration Visual Kei enthusiasts won't want to miss.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy" target="_blank" rel="noopener">vk.gy</a>
-</p>

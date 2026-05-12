@@ -15,6 +15,3 @@ image: "https://vk.gy/images/173491--.jpg"
 <p>- **Advance Ticket Price:** ¥4,500</p>
 <p>- **Ticket On-Sale:** From the evening of March 5th</p>
 <p>If you're intrigued by what MATSUTAKE WORKS and TERESA have to offer, advance tickets are already available. For those tracking the current Japanese Visual Kei landscape, this is a great chance to support both bands and experience what the underground scene has brewing. Keep an eye on their social media channels for venue details and additional information as the date approaches.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy/blog/matsutake-works-and-teresa-announce-joint-live-hen-na-ningen/" target="_blank" rel="noopener">MATSUTAKE WORKS and TERESA announce joint live, Hen na Ningen</a>
-</p>

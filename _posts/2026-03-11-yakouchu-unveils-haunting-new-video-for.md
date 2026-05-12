@@ -11,6 +11,3 @@ image: "https://vk.gy/images/173448--.jpg"
 <p>If you're looking to support the band more directly, physical copies are available through trusted retailers including Amazon, CDJapan, and RarezHut. The single's official release date aligns with the video premiere, giving fans multiple ways to engage with the new material.</p>
 <p>Yakouchu's continued output demonstrates the band's commitment to evolving their sound while maintaining the introspective, visually-driven approach that drew audiences to them in the first place. Whether you're a longtime fan or discovering them for the first time, "adora" is absolutely worth your attention.</p>
 <p>**Don't sleep on this one—head over to your preferred streaming platform now and give "adora" a listen. Then grab the physical release if you want to experience the full package. Follow Yakouchu on Twitter (@yakou_koushiki) to stay updated on future releases.**</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy/blog/yakouchu-drops-video-for-adora/" target="_blank" rel="noopener">Yakouchu drops video for adora</a>
-</p>

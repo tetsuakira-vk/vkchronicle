@@ -12,6 +12,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblo
 <p>For Western fans, the single is readily available through major Japanese retailers. CDJapan and Amazon both stock the release, making it easy to grab a physical copy or hunt down the tracks on your preferred streaming service. If you're serious about collecting, RarezHut is another reliable option.</p>
 <p>Royz continues to prove why they deserve a spot on your radar in the increasingly vibrant Visual Kei scene. "START LINE" has all the hallmarks of their signature style—theatrical flair, infectious hooks, and genuine artistry. Don't sleep on this one.</p>
 <p>**Head to YouTube now to watch the "START LINE" music video, and pre-order or purchase the single through CDJapan, Amazon, or RarezHut. Follow Royz's journey and stay tuned for what's next.**</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy/blog/royz-release-start-line-mus/" target="_blank" rel="noopener">Royz release START LINE music video</a>
-</p>

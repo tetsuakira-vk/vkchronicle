@@ -25,4 +25,4 @@ What makes this news particularly exciting is the concurrent oneman tour. *-Asce
 
 For Western fans, this is a pivotal moment to jump in. The combination of fresh releases and a dedicated tour means there's never been a better time to explore VALHALLA's discography or catch them live if you're traveling to Japan.
 
-Keep your eyes on VALHALLA's official channels for tour dates, venue information, and ticket availability. Check vk.gy for continued coverage of this campaign, and don't miss out on what could be a career-defining year for this talented ensemble.
+Keep your eyes on VALHALLA's official channels for tour dates, venue information, and ticket availability.

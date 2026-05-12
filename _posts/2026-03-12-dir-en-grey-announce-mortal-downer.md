@@ -17,6 +17,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2F
 <p>## What's Next</p>
 <p>With MORTAL DOWNER on the horizon, expect the band to share additional details in the coming weeks—likely including tracklist reveals, behind-the-scenes production notes, and possible music video announcements.</p>
 <p>If you've been following DIR EN GREY's catalog or are new to the band, **mark April 8, 2026 on your calendar** and keep your eyes on official channels for pre-order links and purchasing details. This is one release Visual Kei fans won't want to miss.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy" target="_blank" rel="noopener">vk.gy</a>
-</p>

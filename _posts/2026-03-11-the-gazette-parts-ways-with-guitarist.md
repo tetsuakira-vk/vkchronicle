@@ -12,6 +12,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2Fcards%2Fblo
 <p>The remaining four members emphasized that this decision came after careful deliberation and was necessary to preserve the GazettE's future. They've pledged to continue delivering music and moving forward with planned activities, though previously scheduled releases will be reviewed and rescheduled as needed.</p>
 <p>For longtime fans, this news is undoubtedly shocking. Aoi's departure leaves massive shoes to fill, both creatively and emotionally. However, the band's commitment to continuing suggests they're determined to write the next chapter rather than disband.</p>
 <p>Stay tuned to VKNews for updates on how the GazettE will restructure their upcoming releases and performances. This is a pivotal moment—keep watch for how the remaining members navigate this transition.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy/blog/the-gazette-drops-guitarist-aoi-from-the-band/" target="_blank" rel="noopener">the GazettE drops guitarist Aoi from the band</a>
-</p>

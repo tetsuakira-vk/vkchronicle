@@ -12,6 +12,3 @@ image: "https://vk.gy/images/173605--.jpg"
 <p>Beyond the single, NIGHTMARE has announced 2026 tour dates. While specific venue details were shared via their official Twitter (@nightmare_staff), fans should check their social channels for the complete rundown and ticket information.</p>
 <p>If you've never dived into NIGHTMARE's catalog, "Reach for" is as good an entry point as any—it captures the band at a creatively reinvigorated moment. Whether you're a longtime devotee or a curious newcomer, this single marks another significant chapter in one of Visual Kei's most enduring acts.</p>
 <p>**Grab "Reach for" on March 25 via Amazon, CDJapan, or RarezHut. Follow NIGHTMARE's tour announcements on their official Twitter for 2026 live dates.**</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy/blog/nightmare-reveals-new-look-and-33rd-single-reach-for/" target="_blank" rel="noopener">NIGHTMARE reveals new look and 33rd single, Reach for</a>
-</p>

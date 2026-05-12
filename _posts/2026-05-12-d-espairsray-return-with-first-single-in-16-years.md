@@ -24,4 +24,3 @@ What makes this particularly exciting is that D'ESPAIRSRAY's return comes at a t
 
 While details about the single's sound and release date remain limited, this announcement alone is enough to send shockwaves through the VK community. Whether you've been following D'ESPAIRSRAY since their early days or you're discovering them now, this is essential news. Keep your eyes on their official channels for more information about the release, and prepare yourself for what could be one of 2024's most significant Visual Kei moments.
 
-Are you excited about D'ESPAIRSRAY's return? Let us know in the comments, and make sure to follow vk.gy for all the latest updates on this comeback!

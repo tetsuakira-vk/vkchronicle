@@ -13,6 +13,3 @@ image: "https://vk.gy/images/173517--.jpg"
 <p>**What's Next**</p>
 <p>With tour dates stacked through the end of the year and international expansion into the mix, Rorschach.inc are clearly operating at full throttle. The Latin American leg alone represents a significant commitment, opening the band to audiences who've had limited access to Japanese Visual Kei's live spectacle.</p>
 <p>If you've been following Rorschach.inc or are curious about contemporary Visual Kei, now's the moment to secure tickets for their tour stops. Whether you're in Japan, Latin America, or hoping for future Western dates, keep your eyes on their official channels for ticketing information and additional tour announcements.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://vk.gy/blog/rorschach-inc-reveals-ka-f-ka-look-going-into-jammed-packed-tour-schedule/" target="_blank" rel="noopener">Rorschach.inc reveals Ka.f.ka look going into jam-packed tour schedule</a>
-</p>
