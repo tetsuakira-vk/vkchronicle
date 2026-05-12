@@ -4,7 +4,7 @@ title: "Dokubari Guitarist Minato Announces Departure"
 date: 2026-05-12T18:00:55.309Z
 labels: ["Visual Kei", "News", "Band Lineup Change", "Dokubari"]
 source: "https://forum.jrockone.com/t/gt-minato-to-depart-from-%E6%AF%92%E9%87%9D-dokubari/16407"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fvkchronicle.com%2Fassets%2Fimages%2Fplaceholder.jpg&w=800&output=jpg"
+image: "/assets/images/placeholder.jpg"
 related_posts:
   - title: "Dir En Grey's \"Mortal Downer\" Embraces Despair in 12th Album"
     url: "https://vkchronicle.com/2026/05/dir-en-grey-s-mortal-downer-embraces-despair-in-12th-album/"
