@@ -4,7 +4,7 @@ title: "un autre éden Announces Second Single \"conte de fées\""
 date: 2026-05-12T19:02:16.878Z
 labels: ["Visual Kei", "News", "Single Release", "Solo Project", "二人静"]
 source: "https://forum.jrockone.com/t/%E4%BA%8C%E4%BA%BA%E9%9D%99-futarishizuka-misanthrope-solo-project-%E2%80%9Cun-autre-%C3%A9den%E2%80%9C-new-single-%E2%80%9Cconte-de-f%C3%A9es%E2%80%9C-release/16366"
-image: "/assets/images/placeholder.jpg"
+image: "https://vk.gy/images/159575-un-autre-eden-group-photo.medium.jpg"
 related_posts:
   - title: "THE BEETHOVEN Unveil \"Angel\" Single & 13th Anniversary Tour"
     url: "https://vkchronicle.com/2026/05/the-beethoven-unveil-angel-single-13th-anniversary-tour/"

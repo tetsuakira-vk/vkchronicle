@@ -4,7 +4,7 @@ title: "GA TO CHOU Welcome Nao and Lanju as New Members"
 date: 2026-05-12T18:01:32.028Z
 labels: ["Visual Kei", "News", "Band Lineup", "GA TO CHOU"]
 source: "https://forum.jrockone.com/t/vo%E5%A5%88%E7%BE%BDnao-exhueye-ba%E8%97%8D%E7%8F%A0lanju-ex%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B4%E3%82%A1grieva-gulu-gulu-have-joined-%E8%9B%BE%E3%81%A8%E8%9D%B6ga-to-chou/16400"
-image: "/assets/images/placeholder.jpg"
+image: "https://vk.gy/images/141131-ga-to-chou-group-photo.jpg"
 related_posts:
   - title: "Jin-Machine Announce New Lineup with Official Member Inductions"
     url: "https://vkchronicle.com/2026/05/jin-machine-announce-new-lineup-with-official-member-inducti/"
