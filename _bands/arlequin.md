@@ -12,6 +12,7 @@ top_albums:
   - "Chi wo kayowasero, sono inochi subete ni。"
   - "Acoustic Anthology"
   - "Mawaru kyuutai itaikena ko sukui wa mienai"
+status: "active"
 ---
 
 Arlequin stands as a distinctive presence within Japan's visual kei landscape, distinguished by their fusion of the genre's theatrical aesthetics with blues-influenced musical elements. The band emerged from the vibrant Japanese underground music scene, carving out a unique niche by blending the dramatic visual presentation and emotional intensity characteristic of visual kei with bluesy guitar work and soulful vocal performances. This sonic hybrid set them apart from many of their contemporaries, allowing them to appeal to both traditional visual kei enthusiasts and listeners drawn to blues-rock sensibilities. Their willingness to experiment with genre conventions while maintaining the visual kei identity demonstrated the scene's capacity for creative evolution.

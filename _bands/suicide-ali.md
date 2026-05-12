@@ -12,6 +12,7 @@ top_albums:
   - "THE COLD BODY"
   - "Donor of lie"
   - "Perpetual check"
+status: "disbanded"
 ---
 
 Suicide Ali emerged as a distinctive presence within Japan's visual kei movement, bringing a theatrical and avant-garde aesthetic to the genre's landscape. The band carved out their identity through a fusion of visual kei's dramatic visual presentation with intricate j-rock instrumentation, creating a sound that emphasized both technical complexity and emotional intensity. Their approach to the genre reflected the creative experimentation that characterized visual kei during their period of activity, with performances that integrated striking visual elements alongside their musical compositions.

@@ -12,6 +12,7 @@ top_albums:
   - "Independence BLACK"
   - "SUICIDAL MARKET ~Doze of Hope~"
   - "THE END OF THE STALIN ~2015.04.26 SHINJUKU BLAZE~"
+status: "disbanded"
 ---
 
 BORN emerged as a notable act within Japan's visual kei scene, establishing themselves through a distinctive fusion of hard rock aesthetics and theatrical visual presentation. The band is characterized by their dramatic visual style—a hallmark of the visual kei genre—combined with powerful, guitar-driven rock compositions. Their music draws from the broader j-rock tradition while maintaining the genre's signature emphasis on elaborate costumes, makeup, and stagecraft. Songs like "DEMONS" and "RED DESIRE" showcased their ability to craft intense, memorable tracks that resonated with the visual kei fanbase, demonstrating a strong grasp of hooks and dynamic song structures that appealed to both dedicated VK enthusiasts and broader rock audiences.

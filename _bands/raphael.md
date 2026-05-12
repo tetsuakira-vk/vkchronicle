@@ -13,6 +13,7 @@ top_albums:
   - "Love story -2000020220161101-"
   - "Ending -1999072319991201-"
   - "Never -1997040719990429-"
+status: "disbanded"
 ---
 
 Raphael is a Visual Kei band known for their dramatic theatrical aesthetics and gothic-inspired visual presentation that exemplifies the darker side of the VK movement. The band's sound combines heavy instrumental arrangements with emotionally intense vocals, creating a dark and atmospheric musical experience that resonates with fans of theatrical rock. As an active force in the Japanese Visual Kei scene, Raphael has maintained a dedicated following through their commitment to the genre's core values of artistic expression and visual spectacle.

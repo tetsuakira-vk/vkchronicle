@@ -12,6 +12,7 @@ top_albums:
   - "Dis WORLD"
   - "BRÄEMÖR"
   - "Touryanse"
+status: "active"
 ---
 
 KRA is a Japanese visual kei band that emerged within the distinctive landscape of Japan's alternative rock and visual kei scenes. The group represents the theatrical and experimental side of visual kei, blending heavy instrumentation with dramatic visual aesthetics that are characteristic of the genre. Their musical approach combines elements of hard rock and j-rock with the avant-garde presentation that defines visual kei culture, creating a sound that appeals to both dedicated fans of the underground visual kei movement and broader j-rock audiences.

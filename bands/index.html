@@ -45,6 +45,12 @@ image: /assets/images/placeholder.jpg
     display: inline-block; margin-top: 4px; }
   .band-card[hidden] { display: none; }
   .bands-footer { font-size: 0.8rem; color: #666; margin-top: 24px; }
+  .band-status-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: 5px; vertical-align: middle; flex-shrink: 0; }
+  .band-status-dot--active     { background: #4ddc7a; box-shadow: 0 0 5px rgba(77,220,122,0.5); }
+  .band-status-dot--disbanded  { background: #d97070; }
+  .band-status-dot--paused     { background: #e8c040; }
+  .band-status-dot--semiactive { background: #70acf0; }
+  .band-status-label { font-size: 0.7rem; color: #888; vertical-align: middle; }
 
   .bd-bottom { margin-top: 60px; padding-top: 40px; border-top: 1px solid rgba(255,255,255,0.08);
     display: flex; gap: 48px; flex-wrap: wrap; }
@@ -83,13 +89,22 @@ image: /assets/images/placeholder.jpg
   <span id="visible-count"></span>
 </div>
 
-<div class="bands-toolbar" style="margin-bottom: 20px;">
+<div class="bands-toolbar" style="margin-bottom: 8px;">
   <div class="ctrl-group">
     <span class="ctrl-label">Sort:</span>
     <button class="ctrl-btn active" data-sort="az">A – Z</button>
     <button class="ctrl-btn" data-sort="za">Z – A</button>
     <button class="ctrl-btn" data-sort="newest">Newest Added</button>
     <button class="ctrl-btn" data-sort="shuffle">Shuffle</button>
+  </div>
+</div>
+<div class="bands-toolbar" style="margin-bottom: 20px;">
+  <div class="ctrl-group">
+    <span class="ctrl-label">Status:</span>
+    <button class="ctrl-btn active" data-status="all">All</button>
+    <button class="ctrl-btn" data-status="active">Active</button>
+    <button class="ctrl-btn" data-status="paused">Hiatus</button>
+    <button class="ctrl-btn" data-status="disbanded">Disbanded</button>
   </div>
 </div>
 
@@ -101,7 +116,8 @@ image: /assets/images/placeholder.jpg
 <a class="band-card" href="{{ band.url }}"
    data-name="{{ name_lower }}"
    data-tag="{{ tags_lower }}"
-   data-added="{{ band.added | default: '2000-01-01' }}">
+   data-added="{{ band.added | default: '2000-01-01' }}"
+   data-status="{{ band.status | default: '' }}">
   {% if band.photo contains 'http' %}
   <img src="https://images.weserv.nl/?url={{ band.photo | url_encode }}&w=200&output=jpg" alt="{{ band.name }}" loading="lazy" />
   {% elsif band.photo %}
@@ -113,6 +129,9 @@ image: /assets/images/placeholder.jpg
     <div class="band-name">{{ band.name }}</div>
     <div class="band-meta">
       {% for tag in band.tags limit:1 %}<span class="band-tag">{{ tag }}</span>{% endfor %}
+      {% if band.status %}
+      <span class="band-status-dot band-status-dot--{{ band.status | replace: '-', '' | replace: ' ', '' }}"></span><span class="band-status-label">{% if band.status == 'active' %}Active{% elsif band.status == 'disbanded' %}Disbanded{% elsif band.status == 'paused' %}Hiatus{% elsif band.status == 'semi-active' %}Semi-active{% endif %}</span>
+      {% endif %}
     </div>
     <span class="band-link">View profile →</span>
   </div>
@@ -174,6 +193,7 @@ image: /assets/images/placeholder.jpg
   var noRes  = document.getElementById('no-results');
   var cards  = Array.from(grid.querySelectorAll('.band-card'));
   var query  = '';
+  var activeStatus = 'all';
 
   function updateCount() {
     var vis = cards.filter(function (c) { return !c.hidden; }).length;
@@ -181,9 +201,12 @@ image: /assets/images/placeholder.jpg
     noRes.style.display = vis === 0 ? '' : 'none';
   }
 
-  function applySearch() {
+  function applyFilters() {
     cards.forEach(function (c) {
-      c.hidden = !!(query && !c.dataset.name.includes(query) && !c.dataset.tag.includes(query));
+      var matchSearch = !query || c.dataset.name.includes(query) || c.dataset.tag.includes(query);
+      var matchStatus = activeStatus === 'all' || c.dataset.status === activeStatus ||
+        (activeStatus === 'paused' && (c.dataset.status === 'paused' || c.dataset.status === 'semi-active'));
+      c.hidden = !(matchSearch && matchStatus);
     });
     updateCount();
   }
@@ -204,12 +227,12 @@ image: /assets/images/placeholder.jpg
     }
     list.forEach(function (c) { grid.appendChild(c); });
     cards = list;
-    applySearch();
+    applyFilters();
   }
 
   search.addEventListener('input', function () {
     query = this.value.toLowerCase().trim();
-    applySearch();
+    applyFilters();
   });
 
   document.querySelectorAll('.ctrl-btn[data-sort]').forEach(function (btn) {
@@ -217,6 +240,15 @@ image: /assets/images/placeholder.jpg
       document.querySelectorAll('.ctrl-btn[data-sort]').forEach(function (b) { b.classList.remove('active'); });
       this.classList.add('active');
       sortCards(this.dataset.sort);
+    });
+  });
+
+  document.querySelectorAll('.ctrl-btn[data-status]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('.ctrl-btn[data-status]').forEach(function (b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      activeStatus = this.dataset.status;
+      applyFilters();
     });
   });
 

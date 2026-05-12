@@ -12,6 +12,7 @@ top_albums:
   - "KVLT"
   - "S4VAGE"
   - "VENΦM"
+status: "active"
 ---
 
 Jiluka is a Japanese visual kei band that emerged in the mid-2010s, establishing themselves as a prominent force in the modern visual kei metalcore scene. The band combines the theatrical aesthetics and striking visual presentation characteristic of visual kei with heavy metalcore instrumentation and aggressive vocal delivery, creating a distinctive sound that bridges traditional VK sensibilities with contemporary metal heaviness. Their approach has resonated strongly with audiences seeking a more intense and contemporary take on the visual kei genre, positioning them within a wave of bands that revitalized visual kei for a new generation of listeners.

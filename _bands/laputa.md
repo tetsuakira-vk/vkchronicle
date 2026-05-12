@@ -13,6 +13,7 @@ top_albums:
   - "Material Pleasures"
   - "Sparks Monkey"
   - "New Temptation"
+status: "semi-active"
 ---
 
 Laputa is a Japanese visual kei band known for their theatrical presentation and elaborate stage costumes that blend gothic and avant-garde aesthetics. The group delivers a dark, symphonic sound characterized by heavy instrumentation and dramatic vocal arrangements that explore themes of fantasy and darkness. Operating primarily within the indie visual kei circuit, Laputa has cultivated a dedicated fanbase through their intense live performances and commitment to the visual kei tradition of combining music with striking visual presentation.

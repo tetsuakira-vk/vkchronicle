@@ -12,6 +12,7 @@ top_albums:
   - "BET"
   - "THESEUS"
   - "B.N.S"
+status: "active"
 ---
 
 Vistlip emerged as a distinctive voice within Japan's visual kei scene, bringing a theatrical and emotionally intense approach to the genre. The band's sound blends the dramatic aesthetics of visual kei with robust J-rock instrumentation, creating a style that emphasizes both visual presentation and musical substance. Their compositions are characterized by dynamic arrangements that shift between delicate, introspective passages and powerful crescendos, showcasing the band members' technical proficiency and commitment to artistic expression. Through their carefully crafted image and stage presence, Vistlip exemplifies the visual kei tradition of treating the entire performance—from costume design to choreography—as an integral part of their artistic statement.

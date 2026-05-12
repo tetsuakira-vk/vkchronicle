@@ -16,6 +16,7 @@ top_tracks:
   - "Kiseki"
   - "Yuuki"
   - "Tsubomi"
+status: "active"
 ---
 
 Plastic Tree emerged from Japan's visual kei underground as a distinctive force in the genre, blending the theatrical aesthetics and guitar-driven rock that defined visual kei with their own experimental approach to songwriting and arrangement. The band became known for their intricate musicianship and atmospheric soundscapes, crafting a sonic identity that set them apart from their contemporaries in the scene. Their visual presentation matched their musical ambition, incorporating the dramatic styling characteristic of visual kei while maintaining their own artistic direction.

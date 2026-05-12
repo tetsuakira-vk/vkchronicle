@@ -12,6 +12,7 @@ top_albums:
   - "antique"
   - "MONSTERS"
   - "LOVE IS DEAD"
+status: "semi-active"
 ---
 
 D'ESPAIRSRAY emerged from the Japanese visual kei underground as one of the scene's most distinctive and theatrical acts. The band, fronted by the enigmatic and visually striking vocalist Hizaki, became known for their dramatic presentation that seamlessly blended gothic aesthetics with intricate musical arrangements. With their combination of heavy guitars, orchestral elements, and Hizaki's dynamic vocal delivery, D'ESPAIRSRAY crafted a sound that was both aggressive and symphonic, setting them apart from their contemporaries in the visual kei landscape. Their visual presentation was equally important to their identity, featuring elaborate costumes, makeup, and stage productions that emphasized the theatrical nature of their performances.

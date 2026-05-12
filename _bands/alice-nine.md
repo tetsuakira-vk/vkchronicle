@@ -12,6 +12,7 @@ top_albums:
   - "Kokuu"
   - "EUREKA"
   - "AFTER DARK"
+status: "paused"
 ---
 
 Alice Nine is a Japanese visual kei rock band that emerged from Tokyo's vibrant underground music scene, establishing themselves as notable figures within the visual kei movement of the 2000s. The band is characterized by their dynamic fusion of heavy rock instrumentation with theatrical visual aesthetics, a hallmark of the visual kei genre. Their sound blends aggressive guitar riffs, driving rhythms, and melodic elements, showcasing a musical range that appeals to both hardcore rock enthusiasts and visual kei devotees. With striking stage presence defined by elaborate costumes, makeup, and visual concepts, Alice Nine brought an ambitious artistic vision to their performances and recordings, contributing to the diversity and vitality of Japan's underground rock landscape.

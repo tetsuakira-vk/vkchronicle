@@ -12,6 +12,7 @@ top_albums:
   - "solitude"
   - "dilemma"
   - "vector"
+status: "active"
 ---
 
 Umbrella emerged from Japan's underground visual kei scene as a hardcore-driven act that pushed the boundaries of the genre's sonic aggression. The band carved out a distinctive niche by blending the theatrical aesthetics and visual presentation characteristic of visual kei with the raw intensity and uncompromising heaviness of hardcore music. Their approach represented a fusion of two seemingly opposing Japanese musical subcultures, attracting listeners who sought something heavier and more visceral than traditional visual kei while maintaining the scene's emphasis on striking visual presentation and artistic identity.

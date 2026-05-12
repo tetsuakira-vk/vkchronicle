@@ -15,6 +15,7 @@ top_tracks:
   - "SCREAM"
   - "Rosario"
   - "LOTUS"
+status: "semi-active"
 ---
 
 Sadie (サディ) was a Japanese visual kei band formed in Okayama in 2005, known for a heavier, more aggressive approach than many of their contemporaries — their sound was rooted in koteosa-kei and loud-kei, with crushing guitar work and theatrically intense vocals from frontman Mao. The five-member lineup — Mao on vocals, guitarists Tsurugi and Mizuki, bassist Aki, and drummer Shin — developed a devoted following through relentless touring and a prolific release schedule, becoming a recognisable name on the PS Company roster alongside acts like the GazettE and Nightmare.

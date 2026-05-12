@@ -13,6 +13,7 @@ top_albums:
   - "the Day I Died Ⅱ"
   - "the Day I Died Ⅰ"
   - "W.O.D. Ⅱ / Fatal Error Race"
+status: "paused"
 ---
 
 D.I.D. is a Visual Kei band known for their striking theatrical aesthetics and dramatic stage presence, blending dark atmosphere with emotionally intense performances that captivate audiences throughout Japan's underground music scene. The band has cultivated a devoted fanbase through their distinctive sound that fuses heavy instrumentation with melodic elements, creating a signature style that resonates within the indie Visual Kei circuit. With their commitment to pushing artistic boundaries through both music and visual presentation, D.I.D. has established themselves as a noteworthy act in the contemporary Visual Kei landscape, contributing to the genre's continued evolution and vitality.

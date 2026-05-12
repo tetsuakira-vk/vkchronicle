@@ -13,6 +13,7 @@ top_albums:
   - "(TBA 4)"
   - "(TBA 3)"
   - "(TBA 2)"
+status: "active"
 ---
 
 SHAZNA is a Visual Kei band known for their gothic aesthetic and dramatic theatrical performances that exemplify the darker side of the VK movement. The band's sound combines heavy guitar work with symphonic elements and atmospheric keyboards, creating an immersive and intense sonic landscape that appeals to fans of elaborate stage productions. Active in both the indie and major label scenes, SHAZNA has maintained a dedicated following within the Visual Kei community through their commitment to elaborate costumes, makeup, and conceptual stage designs.

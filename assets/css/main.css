@@ -535,6 +535,23 @@ img { max-width: 100%; height: auto; display: block; }
   font-size: 0.78rem;
   color: #bbb;
 }
+.band-status {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-family: var(--font-body);
+}
+.band-status--active       { background: rgba(50,200,90,0.15);  border: 1px solid rgba(50,200,90,0.4);  color: #4ddc7a; }
+.band-status--disbanded    { background: rgba(180,60,60,0.15);  border: 1px solid rgba(180,60,60,0.4);  color: #d97070; }
+.band-status--hiatus,
+.band-status--paused       { background: rgba(220,170,30,0.15); border: 1px solid rgba(220,170,30,0.4); color: #e8c040; }
+.band-status--semiactive   { background: rgba(80,150,220,0.15); border: 1px solid rgba(80,150,220,0.4); color: #70acf0; }
 .band-listeners { color: #999; font-size: 0.85rem; margin-bottom: 1.5em; }
 .band-bio { font-size: 0.95rem; line-height: 1.8; color: var(--text); }
 .band-bio p { margin-bottom: 1.2em; }

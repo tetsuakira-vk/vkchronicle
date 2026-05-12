@@ -12,6 +12,7 @@ top_albums:
   - "BLINDING HOPE"
   - "NINTH"
   - "UNDYING"
+status: "active"
 ---
 
 the GazettE is a Japanese visual kei band that emerged in the mid-2000s, establishing themselves as one of the most influential acts in the modern visual kei movement. Formed in Tokyo, the band features Ruki on vocals, Uruha and Aoi on guitars, Reita on bass, and Kai on drums. With their striking visual aesthetic—characterized by dark, often gothic-inspired makeup and fashion—combined with their powerful musical output, the GazettE quickly garnered attention both domestically and internationally. Their commitment to the visual kei tradition of blending theatrical presentation with heavy rock music helped revitalize interest in the genre during the 2000s and beyond.

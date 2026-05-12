@@ -13,6 +13,7 @@ top_albums:
   - "VANDALISM [∑]"
   - "Vandalism"
   - "BLITZKRIEG -Another Departure-"
+status: "disbanded"
 ---
 
 DELUHI is a Japanese visual kei band known for their theatrical performances and distinctive dark, dramatic sound that blends heavy instrumentation with gothic aesthetics. The group has maintained a strong presence in the visual kei scene with their intense stage presence, elaborate costumes, and intricate musical arrangements that showcase both melodic and aggressive elements. DELUHI has built a dedicated fanbase through their commitment to the visual kei tradition while establishing themselves as notable contributors to the genre's evolution.

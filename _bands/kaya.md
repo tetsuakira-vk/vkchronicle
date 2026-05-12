@@ -12,6 +12,7 @@ top_albums:
   - "BOUQUET"
   - "renaître"
   - "VILLAINS"
+status: "active"
 ---
 
 Kaya is a Japanese visual kei artist who emerged from the underground electronic and gothic rock scene, establishing himself as a distinctive solo presence within the visual kei community. Known for his theatrical aesthetic and androgynous presentation, Kaya crafted a unique niche by blending the dramatic visual elements characteristic of visual kei with synthesizer-driven electronic music, setting him apart from many of his contemporaries who relied more heavily on guitar-based rock. His approach drew from industrial, electronic, and gothic influences, creating an atmospheric and often melancholic sound that resonated with fans seeking experimental alternatives within the visual kei genre.

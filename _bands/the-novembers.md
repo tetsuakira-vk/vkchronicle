@@ -9,6 +9,7 @@ cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=The%20N
 top_albums:
   - "hide TRIBUTE VII -Rock SPIRITS-"
   - "Fourth wall"
+status: "active"
 ---
 
 The Novembers emerged from Japan's underground music scene as a distinctive force in visual kei, blending the atmospheric textures of shoegaze with the visual aesthetics and theatrical presentation characteristic of the genre. The band distinguished themselves through a sophisticated sonic approach that prioritized ethereal guitar work, layered melodies, and introspective songwriting over the harder rock elements that defined much of visual kei. Their music creates a dreamy, immersive soundscape that draws influences from both Western shoegaze pioneers and Japanese alternative rock traditions, resulting in a uniquely refined sound that appeals to listeners seeking more avant-garde and experimental offerings within the visual kei sphere.

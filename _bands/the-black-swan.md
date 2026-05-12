@@ -12,6 +12,7 @@ top_albums:
   - "PERSONA"
   - "OUSIA"
   - "Len to Kotetsu"
+status: "disbanded"
 ---
 
 The Black Swan emerged as a notable act within Japan's visual kei scene, bringing a distinctive blend of metal aesthetics and theatrical presentation that captured the attention of fans seeking harder-edged sounds within the genre. The band exemplified visual kei's characteristic fusion of striking visual presentation with aggressive musical sensibilities, positioning themselves among the metal-influenced acts that pushed the boundaries of traditional visual kei styling. Their approach combined the ornate costuming and dramatic imagery iconic to visual kei with the raw energy and sonic intensity of metal, creating a unique identity that resonated with audiences drawn to both aesthetic extravagance and musical heaviness.

@@ -13,6 +13,7 @@ top_albums:
   - "The Last Scene"
   - "GAGA"
   - "HUMOR"
+status: "active"
 ---
 
 MERRY is a Japanese Visual Kei band known for their theatrical performances and dramatic visual presentation that blends gothic aesthetics with avant-garde styling. The band's sound combines heavy guitar work with symphonic and experimental elements, creating a dark and atmospheric sonic landscape that emphasizes emotional intensity and complexity. Emerging from the indie Visual Kei scene, MERRY has established themselves as notable performers within Japan's underground and mid-tier VK circuit, recognized for their commitment to the genre's artistic and visual traditions.

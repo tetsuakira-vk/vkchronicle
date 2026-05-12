@@ -12,6 +12,7 @@ top_albums:
   - "Camera obscura"
   - "shadow"
   - "Akujo no Hohoemi"
+status: "disbanded"
 ---
 
 Lycaon is a Japanese visual kei band that emerged as a notable act within the dynamic visual kei and J-rock scene. The group is characterized by their striking visual presentation—a hallmark of the visual kei genre—combined with energetic rock compositions that blend heavy instrumentation with melodic sensibilities. Their distinctive aesthetic and sound have garnered them a dedicated fanbase both within Japan and internationally among visual kei enthusiasts, establishing them as contributors to the ongoing evolution of the genre.

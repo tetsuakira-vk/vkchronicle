@@ -16,6 +16,7 @@ top_tracks:
   - "Endless Rain"
   - "Kurenai"
   - "Say Anything"
+status: "paused"
 ---
 
 X Japan stands as one of the most influential and pioneering bands in the visual kei movement, originating from Japan during the 1980s. Founded by Yoshiki, the band became instrumental in defining the visual kei aesthetic—combining theatrical visual presentation with heavy rock music. The group's dramatic performances, characterized by elaborate costumes, makeup, and stage productions, helped establish visual kei as a distinct subgenre of Japanese rock. Their technical musicianship, particularly Yoshiki's innovative drumming and piano compositions, elevated them beyond mere spectacle, earning them recognition both domestically and internationally as legitimate rock musicians.

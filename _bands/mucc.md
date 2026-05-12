@@ -16,6 +16,7 @@ top_tracks:
   - "Zangeshitai"
   - "Himuro"
   - "Psycho"
+status: "active"
 ---
 
 MUCC is a pioneering Japanese visual kei band that emerged from the mid-1990s underground scene, establishing themselves as one of the genre's most influential acts. The group's sound is characterized by heavy, aggressive guitar work combined with atmospheric elements and dramatic vocal performances, creating a distinctive blend that transcends typical visual kei conventions. Their music draws from dark rock and metal influences while maintaining the theatrical aesthetic integral to the visual kei movement. With their intense live performances and evolving sonic palette, MUCC has built a dedicated international fanbase and become a cornerstone band for those exploring the heavier side of Japanese rock.

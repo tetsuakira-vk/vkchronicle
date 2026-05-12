@@ -12,6 +12,7 @@ top_albums:
   - "Rewrite"
   - "COMMON ERA -CANAAN-"
   - "COMMON ERA"
+status: "disbanded"
 ---
 
 NAZARE emerged as a notable entry in Japan's visual kei hard rock landscape, bringing a heavier edge to the genre's theatrical aesthetic. The band carved out their identity by blending the visual spectacle and dramatic presentation characteristic of visual kei with the raw power and guitar-driven sound of hard rock and classic rock influences. This fusion set them apart from some of their peers who leaned more heavily toward metal or alternative rock, positioning NAZARE as a bridge between traditional hard rock sensibilities and the visual kei movement's emphasis on striking imagery and performance.

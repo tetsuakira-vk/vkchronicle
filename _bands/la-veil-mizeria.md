@@ -7,6 +7,7 @@ tags: ["visual kei"]
 lastfm_slug: "La'veil+MizeriA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=La'veil%20MizeriA&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"
+status: "paused"
 ---
 
 La'veil MizeriA is a visual kei band known for their theatrical and elaborate stage presence, combining dramatic costuming with dark, atmospheric soundscapes that define their artistic identity. The band has established themselves within the Japanese underground visual kei scene, crafting music that blends gothic and symphonic elements with intense vocal performances. Their commitment to the visual kei aesthetic extends beyond music into immersive live experiences that captivate audiences through carefully orchestrated visual storytelling and avant-garde presentation.

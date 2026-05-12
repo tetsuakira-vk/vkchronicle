@@ -12,6 +12,7 @@ top_albums:
   - "・・・NoroWARETA Rakuen NO Kage・・・"
   - "Juujika NI SasaGERU Yume"
   - "Furan YUENI・・・"
+status: "disbanded"
 ---
 
 La:Sadie's emerged as a notable fixture within Japan's visual kei scene, blending the theatrical aesthetics and rock foundations of the genre with their own distinctive sound. The band embodied the core visual kei ethos through elaborate stage presence and carefully crafted imagery, while their music drew from both the melodic sensibilities of j-rock and the darker, more experimental edges that define visual kei at its most compelling. Their approach positioned them within a vibrant community of artists pushing the boundaries of Japanese rock music during their active period.

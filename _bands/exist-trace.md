@@ -12,6 +12,7 @@ top_albums:
   - "The Only Garden"
   - "EXISTENCE"
   - "POWER OF ONE"
+status: "active"
 ---
 
 Exist†trace is a Japanese visual kei band that emerged from Tokyo's vibrant underground rock scene, establishing themselves as a distinctive force within the genre through their fusion of heavy instrumentation and theatrical aesthetics. The band combines the visual extravagance characteristic of visual kei with aggressive guitar work and dynamic vocal performances, creating a sound that bridges the gap between mainstream j-rock accessibility and underground metal intensity. Their music is marked by intricate arrangements, powerful riffs, and emotionally charged vocals that showcase both melodic sensibility and raw edge. The band's commitment to their craft and distinctive visual presentation has earned them a dedicated following both domestically and internationally within the visual kei community.

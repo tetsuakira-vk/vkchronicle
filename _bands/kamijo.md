@@ -12,6 +12,7 @@ top_albums:
   - "LAREINE Self-Cover CD 「LA REINE」"
   - "Winter Romantic Concert"
   - "Road to Kingdom"
+status: "active"
 ---
 
 KAMIJO is a Japanese visual kei artist who emerged as a distinctive solo performer within the visual kei scene, building upon experience from earlier band projects. Known for his theatrical presentation and elaborate costumes characteristic of the genre, KAMIJO established himself through a combination of gothic aesthetics and symphonic musical arrangements. His work exemplifies the visual kei tradition of blending striking visual presentations with dramatic vocal performances, creating an immersive artistic experience that extends beyond conventional rock music.

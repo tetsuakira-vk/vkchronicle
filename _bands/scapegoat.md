@@ -12,6 +12,7 @@ top_albums:
   - "Kokoro to Shintai no Himitsu-Ue-"
   - "Gekkou"
   - "En"
+status: "disbanded"
 ---
 
 Scapegoat emerged within Japan's visual kei underground as a distinctive force in the powerviolence and post-hardcore subgenres, carving out a niche that blended aggressive sonic brutality with the aesthetic sensibilities of the VK movement. The band distinguished themselves through their uncompromising approach to instrumentation and composition, refusing to soften their abrasive sound despite operating within a scene often associated with more theatrical or melodic stylings. Their formation represented a convergence of the underground punk-influenced violence of powerviolence with the visual presentation and emotional intensity characteristic of visual kei, creating a unique identity that appealed to listeners seeking rawer, more confrontational expressions within the genre.

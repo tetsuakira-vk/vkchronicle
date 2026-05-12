@@ -13,6 +13,7 @@ top_albums:
   - "Zesshou OH YEAH!!"
   - "FUJIYAMA"
   - "HATSUYUME"
+status: "active"
 ---
 
 DaizyStripper is a Japanese visual kei band known for their theatrical aesthetic combining gothic elements with striking makeup and costume design that exemplifies the genre's dramatic visual presentation. The band's sound blends heavy guitar work with dark, atmospheric arrangements, creating a cinematic quality that complements their elaborate stage performances. As an act within the visual kei underground scene, DaizyStripper has cultivated a dedicated fanbase through their commitment to the genre's core values of visual artistry and avant-garde musical experimentation.

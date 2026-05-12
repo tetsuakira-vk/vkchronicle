@@ -13,6 +13,7 @@ top_albums:
   - "documentary of GENEALOGIE DER MORAL"
   - "endroll 2006/endroll 2022"
   - "Genealogie der Moral"
+status: "active"
 ---
 
 Deadman is a Japanese Visual Kei band known for their dark, theatrical aesthetic combining gothic imagery with avant-garde fashion and dramatic stage presence. Their sound blends heavy guitar work with melodic vocals, creating an intense sonic landscape that captures themes of despair and psychological darkness. Operating primarily within the independent Visual Kei scene, Deadman has cultivated a devoted underground following through their commitment to uncompromising artistic vision and elaborate live performances.

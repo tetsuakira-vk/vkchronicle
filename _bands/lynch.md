@@ -12,6 +12,7 @@ top_albums:
   - "GOD ONLY KNOWS"
   - "RETAKE ALBUM [GREEDY DEAD SOULS / UNDERNEATH THE SKIN]"
   - "FIERCE-EP"
+status: "active"
 ---
 
 lynch. is a Japanese visual kei band hailing from Nagoya, a city that became synonymous with a distinctive subgenre of VK known as "Nagoya kei." The band emerged as a notable force within the visual kei scene, characterized by their aggressive yet theatrical approach to rock music. Their sound blends heavy instrumentation with the dramatic visual presentation that defines visual kei, creating a style that appeals to both hardcore rock enthusiasts and VK fashion devotees. With their distinctive aesthetic and powerful performances, lynch. established themselves as significant contributors to the Nagoya kei movement, helping to define the regional sound that set them apart from Tokyo-based visual kei acts.

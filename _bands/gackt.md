@@ -16,6 +16,7 @@ top_tracks:
   - "Mizerable"
   - "Vanilla"
   - "Duel ~町 Anata to Issho~"
+status: "active"
 ---
 
 Gackt is a legendary Japanese visual kei artist who emerged as one of the genre's most influential figures during the late 1990s. Known for his striking androgynous appearance, elaborate stage costumes, and theatrical performances, Gackt rose to prominence with a distinctive blend of rock, pop, and electronic elements that pushed visual kei beyond its gothic roots. His powerful vocal range and dramatic presence made him a standout performer in the Japanese rock scene, and he quickly became a pioneer who helped bring visual kei aesthetics and music to mainstream recognition both domestically and internationally.

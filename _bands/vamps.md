@@ -12,6 +12,7 @@ top_albums:
   - "INSIDE OF ME"
   - "SIN IN JUSTICE"
   - "BLOODSUCKERS"
+status: "paused"
 ---
 
 VAMPS is a Japanese rock band that emerged from the visual kei scene, known for their dynamic fusion of rock and gothic aesthetics. The project brought together musicians with established backgrounds in the Japanese rock community, combining their influences to create a distinctive sound that blended heavy instrumentation with atmospheric elements. The band's formation represented a collaboration between experienced artists who shared a vision for darker, more experimental rock music within the visual kei genre, establishing themselves as a notable act in Japan's alternative rock landscape.

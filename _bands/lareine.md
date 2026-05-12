@@ -13,6 +13,7 @@ top_albums:
   - "Ballad"
   - "LAST SONG"
   - "LEGEND OF FANTASY"
+status: "disbanded"
 ---
 
 LAREINE is a Japanese Visual Kei band known for their theatrical performances and gothic aesthetic, combining classical instrumentation with heavy rock elements to create a distinctive dramatic sound. The band emerged from the underground Tokyo VK scene and built a dedicated fanbase through their elaborate stage presence and ornate costumes that draw inspiration from European gothic and aristocratic imagery. LAREINE's music blends symphonic arrangements with darker lyrical themes, establishing them as a notable act within the indie visual kei movement during their active years.

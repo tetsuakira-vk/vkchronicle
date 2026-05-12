@@ -12,6 +12,7 @@ top_albums:
   - "Bandoru!~Band de Idol Shiyoze~"
   - "¡Bandoru!~Band de Idol Shiyoze~"
   - "Negaigoto wa Hitotsusa"
+status: "semi-active"
 ---
 
 An Cafe emerged from the Japanese visual kei scene as one of the defining bands of the oshare kei subgenre, a style characterized by fashionable aesthetics, energetic performances, and a blend of rock with pop sensibilities. Fronted by the charismatic vocalist Mkami, the band quickly gained a devoted following through their vibrant visual presentation, catchy melodies, and theatrical live shows that emphasized style and glamour alongside musical prowess. Their lineup featured the guitar work of Teruki, the bass of Yuuki, and the drumming of Tamaranch, creating a cohesive unit that embodied the carefree yet polished spirit of oshare kei during its peak years.

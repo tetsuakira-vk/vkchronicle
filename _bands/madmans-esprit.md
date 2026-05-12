@@ -13,6 +13,7 @@ top_albums:
   - "The World As Collective Reflections"
   - "5 old scars"
   - "Tsuiraku"
+status: "active"
 ---
 
 Madmans Esprit is a Visual Kei band known for their theatrical aesthetic combining elaborate costumes with darkly dramatic instrumental arrangements that showcase both technical prowess and emotional intensity. The group has built a dedicated following within the Japanese underground Visual Kei scene through their dynamic live performances and commitment to the genre's visual and sonic traditions. Their music blends heavy guitar work with atmospheric elements, establishing them as a notable presence in the indie Visual Kei landscape.

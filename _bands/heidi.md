@@ -12,6 +12,7 @@ top_albums:
   - "heidi.chronicle -2006~2021-"
   - "Koujoku-koujoku-"
   - "Chapter"
+status: "active"
 ---
 
 heidi. is a Japanese visual kei band that emerged within Japan's distinctive visual rock scene, characterized by their striking aesthetic presentation combined with dynamic rock compositions. The band represents the visual kei genre's continued evolution, blending elaborate visual imagery with engaging musical arrangements that draw from both traditional j-rock and contemporary visual kei influences. Their approach to the genre emphasizes the theatrical and artistic elements that define visual kei, with members presenting carefully curated visual concepts that complement their sonic identity. The band has developed a dedicated following within the visual kei community through their distinctive approach to both performance and composition.

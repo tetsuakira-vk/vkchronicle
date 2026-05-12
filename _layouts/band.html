@@ -10,7 +10,7 @@ layout: default
   </div>
   {% endif %}
 
-  <h1>{{ page.name }}</h1>
+  <h1>{{ page.name }}{% if page.status %}<span class="band-status band-status--{{ page.status | replace: '-', '' | replace: ' ', '' }}">{% if page.status == 'active' %}Active{% elsif page.status == 'disbanded' %}Disbanded{% elsif page.status == 'paused' %}Hiatus{% elsif page.status == 'semi-active' %}Semi-active{% else %}{{ page.status | capitalize }}{% endif %}</span>{% endif %}</h1>
 
   {% if page.tags %}
   <div class="band-tags">

@@ -13,6 +13,7 @@ top_albums:
   - "Rusalka + Back to Nature"
   - "Rusalka"
   - "All for Love"
+status: "active"
 ---
 
 HIZAKI is a visual kei band known for their elaborate theatrical aesthetics and gothic-inspired visual presentation that embodies the darker elements of the genre. The band's sound combines symphonic metal influences with dramatic vocal performances and intricate instrumental arrangements, creating an atmospheric and intense musical experience. As part of the Japanese visual kei underground scene, HIZAKI has cultivated a dedicated fanbase through their commitment to the genre's theatrical traditions and consistent studio output.

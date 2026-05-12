@@ -12,6 +12,7 @@ top_albums:
   - "DECADE"
   - "Allure"
   - "DEAD BLAZE"
+status: "paused"
 ---
 
 Deathgaze emerged as a notable act within Japan's visual kei scene, bringing an aggressive and provocative aesthetic to the genre. The band exemplified the darker, heavier side of visual kei that flourished in the 2000s, combining theatrical visual presentation with raw, intense instrumentation. Their music channeled the genre's characteristic blend of dramatic makeup, elaborate costumes, and androgynous styling while pushing toward more visceral sonic territories. The band's willingness to embrace controversial imagery and explicit themes set them apart within a scene known for pushing boundaries.
