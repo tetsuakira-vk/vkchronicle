@@ -59,7 +59,7 @@ description: "Visual Kei setlists from Japanese live shows — DIR EN GREY, MUCC
     <p style="color:var(--text-muted);margin:0;">Live show setlists from Visual Kei concerts in Japan. Search by band name or venue.</p>
   </div>
 
-  {% assign all_setlists = site.posts | where_exp: "post", "post.labels contains 'Setlists'" %}
+  {% assign all_setlists = site.setlists | sort: "date" | reverse %}
 
   {% if all_setlists.size == 0 %}
   <p style="color:var(--text-muted);">No setlists published yet — check back soon.</p>

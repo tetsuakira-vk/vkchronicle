@@ -40,6 +40,9 @@ collections:
   bands:
     output: true
     permalink: /bands/:name/
+  setlists:
+    output: true
+    permalink: /setlists/:name/
 
 # Default front matter
 defaults:
@@ -55,6 +58,11 @@ defaults:
     values:
       layout: band
       image: /assets/images/placeholder.jpg
+  - scope:
+      path: ""
+      type: setlists
+    values:
+      layout: post
 
 # Social / SEO
 twitter:
