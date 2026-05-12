@@ -1,4 +1,4 @@
-updated: "2026-05-12T20:00:39.993Z"
+updated: "2026-05-12T23:01:04.412Z"
 posts:
   - url: "/2026/05/oddre-release-nemuru-kimi-mv-announce-first-headline-tour/"
     title: "OddRe: Release \"Nemuru Kimi\" MV, Announce First Headline Tour"
@@ -108,6 +108,15 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
+  - url: "/2026/05/the-novembers-announce-new-ep/"
+    title: "The Novembers Announce New EP \"合奏する、エンジン\""
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2F6f8d5aaf539c4356b36e42b8c2068beb.jpg&w=800&output=jpg"
+    date_formatted: "May 12, 2026"
+    date_iso: "2026-05-12"
+    excerpt: "The Novembers are gearing up for a May 2026 release with their latest EP, 合奏する、エンジン (which translates to \"Ensemble…"
+    labels:
+      - "Visual Kei"
+      - "News"
   - url: "/2026/05/this-week-in-visual-kei-x-japan-takes-the-fast-lane-may-4-20/"
     title: "This Week in Visual Kei: X Japan Takes the Fast Lane — May 4, 2026"
     image: "https://vkchronicle.com/assets/images/placeholder.jpg"
@@ -171,12 +180,3 @@ posts:
     labels:
       - "Interviews"
       - "Translated Interview"
-  - url: "/2026/04/this-week-in-visual-kei-releases/"
-    title: "This Week in Visual Kei: Releases & Reunions — April 27, 2026"
-    image: "https://vkchronicle.com/assets/images/placeholder.jpg"
-    date_formatted: "Apr 27, 2026"
-    date_iso: "2026-04-27"
-    excerpt: "What a week to be a Visual Kei fan. We've got comeback stories, new material flooding in, and some of the scene's…"
-    labels:
-      - "Visual Kei"
-      - "Weekly Digest"
