@@ -15,6 +15,3 @@ image: "https://jrockrevolution.com/wp-content/uploads/2025/03/XY-Crazy-Love-XIV
 <p>- Instagram: [@xy___official](https://www.instagram.com/xy___official/)</p>
 <p>- YouTube: [@XY___official](https://www.youtube.com/@XY___official/)</p>
 <p>- Official Site: [x-y.tokyo](https://x-y.tokyo/)</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://jrockrevolution.com/yoshikis-crazy-love-reaches-new-heights/" target="_blank" rel="noopener">YOSHIKI’s Crazy Love Reaches New Heights</a>
-</p>

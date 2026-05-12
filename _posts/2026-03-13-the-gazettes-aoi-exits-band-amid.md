@@ -11,6 +11,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2
 <p>The circumstances surrounding Aoi's departure remain unclear at this stage, with no official statement yet addressing the reasons behind his exit or what it means for the band's future. Fans are understandably anxious—questions linger about whether the GazettE will continue as a unit, who might replace Aoi, and what this means for any upcoming tours or releases.</p>
 <p>For Western visual kei fans who've followed the GazettE's evolution from their raw early era through their artistic peaks, this news is difficult to process. The band has been a gateway to visual kei for countless international listeners, and their influence on contemporary rock music cannot be overstated.</p>
 <p>We'll be monitoring this situation closely as more information emerges. Stay tuned to VKNews for updates on the GazettE's status and next steps. In the meantime, revisit their discography and celebrate the incredible catalog Aoi helped create.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://jrocknews.com/2026/03/the-gazette-guitarist-aoi-departs-amid-unclear-circumstances.html" target="_blank" rel="noopener">the GazettE guitarist Aoi departs amid unclear circumstances</a>
-</p>

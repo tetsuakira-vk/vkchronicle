@@ -11,6 +11,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fjrocknews.com%2Fwp-content%2
 <p>What makes this debut particularly noteworthy is how polished it feels from day one. Too many new bands stumble out of the gate with rough production or unclear direction—FUR doesn't fall into that trap. The video's cinematography complements the band's aesthetic without overshadowing their performance, and the song itself is memorable enough to stick with you after a single listen.</p>
 <p>If you've been craving fresh energy in Visual Kei, FUR deserves your attention. Their debut may be brief, but it's enough to signal something genuinely exciting on the horizon. This is a band clearly invested in the theatrical tradition while bringing their own voice to the conversation.</p>
 <p>Head over to watch the "RU-TU-TU" music video and see what FUR is all about. Keep an eye on this debut—something tells us we'll be hearing much more from them in the months to come.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://jrocknews.com/2026/02/fur-dazzles-audiences-with-ru-tu-tu-music-video.html" target="_blank" rel="noopener">FUR dazzles audiences with “RU-TU-TU” music video</a>
-</p>

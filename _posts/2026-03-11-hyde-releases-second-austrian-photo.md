@@ -18,6 +18,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-conten
 <p>Tower Records, HMV, and Rakuten Books offer exclusive A5 clear files. Village Vanguard includes film-style stickers, while TSUTAYA and VAMPROSE have smartphone stickers (different designs per retailer).</p>
 <p>The two photo books—*Wien* and *Salzburg*—are designed as complementary pairs, doubling as a visual documentary of HYDE's Austrian journey. Combined with his upcoming *JEKYLL* album (CD May 13, streaming March 11), this is an ambitious multi-media project showcasing HYDE's evolution as both artist and ambassador.</p>
 <p>Pre-orders are live across multiple retailers—links available on HYDE's official site. If you've followed HYDE's solo ventures or L'Arc~en~Ciel's legacy, this is essential.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://barks.jp/news/1048896" target="_blank" rel="noopener">HYDE、オーストリアで撮り下ろした写真集第2弾『Jekyll and HYDE in Salzburg』を5月発売</a>
-</p>

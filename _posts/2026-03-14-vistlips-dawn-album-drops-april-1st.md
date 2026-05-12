@@ -17,6 +17,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fogre.natalie.mu%2Fmedia%2Fne
 <p>vistlip launch the *Drawing Dawn* nationwide tour April–June, hitting venues in Hokkaido, Kyoto, Osaka, Fukuoka, Nagoya, and Sendai. They'll cap 2026 with their traditional 19th Anniversary show on July 7th at Zepp DiverCity.</p>
 <p>E-Plus presale tickets open March 16th (12:00 JST) for the main tour and April 18th for the anniversary show.</p>
 <p>Check the official announcement for full dates and grab your copy of *DAWN* when it hits April 1st. This is essential listening for VK fans.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://natalie.mu/music/news/663976" target="_blank" rel="noopener">vistlipニューアルバム「DAWN」詳細発表、試聴動画やライブ映像も一挙公開</a>
-</p>

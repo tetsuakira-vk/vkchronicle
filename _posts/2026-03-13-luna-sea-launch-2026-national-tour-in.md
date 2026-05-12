@@ -14,6 +14,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2F
 <p>For Western fans unable to attend, the 12 March concert was streamed globally via ZAIKO, with archive access available 27 March–4 April.</p>
 <p>Additionally, LUNA SEA has released their 35th Anniversary Tour video "ERA TO ERA -THE FINAL EPISODE- LUNATIC TOKYO 2025," now available on Blu-ray and DVD.</p>
 <p>This tour represents far more than performances—it's a collective affirmation that LUNA SEA's legacy endures. Mark your calendars and check official channels for ticket details. The band's journey continues.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://tower.jp/article/news/2026/03/13/tg022" target="_blank" rel="noopener">LUNA SEA、結成記念日 5月29日より真矢（Dr）の愛する秦野から全国ツアー開催決定</a>
-</p>

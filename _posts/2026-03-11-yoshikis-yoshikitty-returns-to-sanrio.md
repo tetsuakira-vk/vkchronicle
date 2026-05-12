@@ -11,6 +11,3 @@ image: "https://jrockrevolution.com/wp-content/uploads/2025/04/Yoshikitty-Yoshik
 <p>YOSHIKI himself expressed gratitude for the selection: "I feel very honored yoshikitty was selected once again amongst all those amazing world-famous characters. Your continued love and support mean everything to me. Let's make this her biggest year yet."</p>
 <p>Results will be announced in stages: initial results on April 15, interim results on May 13, and final rankings revealed June 29 (JST).</p>
 <p>**Ready to support rock royalty in cute form?** Head to the official voting portal at https://ranking.sanrio.co.jp/en/characters/yoshikitty/ and cast your daily votes through May 25. Don't forget to share your support on social media using #Voteyoshikitty.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://jrockrevolution.com/yoshikitty-selected-for-2025-sanrio-character-ranking-for-the-11th-consecutive-year/" target="_blank" rel="noopener">YOSHIKITTY SELECTED FOR 2025 SANRIO CHARACTER RANKING, FOR THE 11TH CONSECUTIVE YEAR</a>
-</p>

@@ -11,6 +11,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-conten
 <p>The announcement that stole the evening came when Shnya's image appeared on the arena screens, followed by news of the **LUNA SEA TOUR 2026 UNENDING JOURNEY -FOREVER-** kicking off May 29 in Hadano—Shnya's hometown, where he served as an honorary ambassador. The 22-city, 33-show tour will run through October, traversing Japan from Hokkaido to Kyushu.</p>
 <p>This tour represents the remaining members' commitment to Shnya's final wish: *"Don't stop LUNA SEA."* It's a powerful statement of continuity and respect.</p>
 <p>The March 12 performance will be available for a 9-day archive window starting March 27 on ZAIKO (through April 5). For Western fans wanting to witness this historic show, tickets are [available here](https://lunasea.zaiko.io/e/lunaxmas2025).</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://barks.jp/news/1049126" target="_blank" rel="noopener">LUNA SEA、有明アリーナで＜LUNATIC X’MAS＞振替公演開催。結成記念日から全国ツアー実施決定</a>
-</p>

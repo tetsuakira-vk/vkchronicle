@@ -11,6 +11,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.jame-world.com%2Fmedia%2
 <p>What makes this different from your typical "best of" list is the transparency. JaME's team actually tells you *who* picked *what*, giving you insight into the publication's internal taste spectrum. It's like getting personalized recommendations from people who've spent years covering the Japanese music industry.</p>
 <p>The timing couldn't be better—we're early enough in 2026 that revisiting 2025's standout tracks makes sense before diving headlong into new releases. Given that legends like **the GazettE** just parted ways with longtime label AOI and **LUNA SEA** are gearing up livestreamed performances, the scene is moving fast.</p>
 <p>**Head to Spotify and hit that follow button on JaME's Staff Picks 2025 Playlist.** Whether you missed something crucial last year or want to deepen your understanding of where J-rock is heading, this one's mandatory listening.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://www.jame-world.com/en/article/170338-jame-s-staff-picks-2025-playlist.html" target="_blank" rel="noopener">JaME's Staff Picks 2025 Playlist</a>
-</p>

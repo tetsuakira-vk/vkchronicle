@@ -18,6 +18,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2F
 <p>- New album *JEKYLL* drops May 13th</p>
 <p>- Single *THE ABYSS* available now</p>
 <p>Tour dates span Japan through May, including stops in Hiroshima, Nagoya, Fukuoka, and Yokohama before the Vienna finale. If you're a fan of theatrical rock presentation and HYDE's solo work, these photo collections are essential—grab yours while supplies last.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://tower.jp/article/news/2026/03/12/tgb003" target="_blank" rel="noopener">HYDE、観光大使務めるオーストリアで撮り下ろした写真集第2弾「Jekyll and HYDE in Salzburg」発売決定。表紙ヴィジュアル公開</a>
-</p>

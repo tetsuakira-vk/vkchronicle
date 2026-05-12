@@ -13,6 +13,3 @@ image: "https://jrockrevolution.com/wp-content/uploads/2024/08/Yoshiki-profile-2
 <p>This wasn't YOSHIKI's fashion debut; he's been experimenting since launching Yoshikimono in 2009, which now sits alongside McQueen and Gaultier at the V&A Museum. But MAISON YOSHIKI PARIS marks his most ambitious international statement yet.</p>
 <p>**Check out the full cinematic film on YouTube now:** https://youtu.be/vUzjgSALFaw</p>
 <p>Then explore the collection at https://www.maisonyoshikiparis.com/ and follow YOSHIKI's journey across his official channels.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://jrockrevolution.com/maison-yoshiki-paris-unveils-cinematic-fashion-show-film-highlighting-yoshikis-paris-fashion-week-debut/" target="_blank" rel="noopener">MAISON YOSHIKI PARIS Unveils Cinematic Fashion Show Film Highlighting YOSHIKI’s Paris Fashion Week Debut</a>
-</p>

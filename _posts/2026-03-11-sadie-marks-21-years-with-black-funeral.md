@@ -17,6 +17,3 @@ image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-conten
 <p>**Doors:** 5:45 PM / Start: 6:30 PM  </p>
 <p>**Tickets:** Available via [Lawson Ticket](https://l-tike.com/concert/mevent/?mid=695005)</p>
 <p>If you've been following Sadie's journey or are curious about one of Visual Kei's most enduring acts, this is the perfect opportunity to witness them celebrate two decades-plus of artistry. Mark your calendars and grab your tickets—this one won't last long.</p>
-<p style="margin-top:1.5em;font-size:0.85em;color:#999;">
-  Source: <a href="https://barks.jp/news/1048898" target="_blank" rel="noopener">Sadie、結成21周年記念ライブ＜BLACK FUNERAL＞を3/18に開催</a>
-</p>
