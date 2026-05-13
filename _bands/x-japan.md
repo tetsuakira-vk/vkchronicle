@@ -3,7 +3,7 @@ layout: band
 name: "X Japan"
 title: "X Japan"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8e363461bf214d6e81cd97411ac7ec36.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","okeshou kei","glam rock","metal"]
 lastfm_slug: "X+Japan"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=X%20Japan&genre=JPOP&subgenre_id=VK"
 top_albums:

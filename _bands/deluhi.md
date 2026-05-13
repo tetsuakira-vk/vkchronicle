@@ -3,7 +3,7 @@ layout: band
 name: "DELUHI"
 title: "DELUHI"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/ce5a31f4d70540a095b63af75d82b523.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","loud kei","hardcore","metal"]
 lastfm_slug: "DELUHI"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=DELUHI&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

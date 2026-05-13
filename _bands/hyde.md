@@ -3,7 +3,7 @@ layout: band
 name: "HYDE"
 title: "HYDE"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/614c42f998f8ff65270dab08a9d1c5bb.jpg"
-tags: ["j-rock", "japanese"]
+tags: ["visual kei"]
 lastfm_slug: "HYDE"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=HYDE&genre=JPOP&subgenre_id=VK"
 top_albums:

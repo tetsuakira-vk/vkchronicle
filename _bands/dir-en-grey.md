@@ -3,7 +3,7 @@ layout: band
 name: "Dir en grey"
 title: "Dir en grey"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/7aabf3530d924bb7125c0a344c2dbff3.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","kote kei","loud kei","experimental","metal","nu-metal"]
 lastfm_slug: "Dir+en+grey"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Dir%20en%20grey&genre=JPOP&subgenre_id=VK"
 top_albums:

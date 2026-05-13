@@ -3,7 +3,7 @@ layout: band
 name: "lynch."
 title: "lynch."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/807a83279883d76f5e547a0951b64878.jpg"
-tags: ["j-rock", "nagoya kei"]
+tags: ["visual kei","loud kei","hardcore","metal"]
 lastfm_slug: "lynch."
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=lynch.&genre=JPOP&subgenre_id=VK"
 top_albums:

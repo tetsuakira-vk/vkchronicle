@@ -3,7 +3,7 @@ layout: band
 name: "Scapegoat"
 title: "Scapegoat"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/0926914627b5436ba7cd98a008a4dd59.jpg"
-tags: ["powerviolence", "post-hardcore"]
+tags: ["visual kei","loud kei","menhera kei"]
 lastfm_slug: "Scapegoat"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Scapegoat&genre=JPOP&subgenre_id=VK"
 top_albums:

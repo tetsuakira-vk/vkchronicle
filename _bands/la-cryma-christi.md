@@ -3,7 +3,7 @@ layout: band
 name: "La'cryma Christi"
 title: "La'cryma Christi"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/126b09f1ef1ae2ef55b66391fcf37961.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","soft visual kei","jazz"]
 lastfm_slug: "La'cryma+Christi"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=La'cryma%20Christi&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

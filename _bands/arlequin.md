@@ -3,7 +3,7 @@ layout: band
 name: "Arlequin"
 title: "Arlequin"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/affa2a084b7c2418a99835dc214e5de8.jpg"
-tags: ["japanese", "blues"]
+tags: ["visual kei","loud kei","hardcore","digital rock"]
 lastfm_slug: "Arlequin"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Arlequin&genre=JPOP&subgenre_id=VK"
 top_albums:

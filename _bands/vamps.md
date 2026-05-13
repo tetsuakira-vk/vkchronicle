@@ -3,7 +3,7 @@ layout: band
 name: "VAMPS"
 title: "VAMPS"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/975c139777a148d7a09d2a1e18b886d3.jpg"
-tags: ["j-rock", "japanese"]
+tags: ["visual kei"]
 lastfm_slug: "VAMPS"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=VAMPS&genre=JPOP&subgenre_id=VK"
 top_albums:

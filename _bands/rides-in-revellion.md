@@ -3,7 +3,7 @@ layout: band
 name: "Rides in ReVellion"
 title: "Rides in ReVellion"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c3400e00c4665f68ee5158033e472b35.jpg"
-tags: ["visual kei", "power metal"]
+tags: ["visual kei"]
 lastfm_slug: "Rides+in+ReVellion"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Rides%20in%20ReVellion&genre=JPOP&subgenre_id=VK"
 top_albums:

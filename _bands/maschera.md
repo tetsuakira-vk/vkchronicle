@@ -3,7 +3,7 @@ layout: band
 name: "MASCHERA"
 title: "MASCHERA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/30b8b688b3d8423bc2f2fb440e60f944.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","soft visual kei"]
 lastfm_slug: "MASCHERA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=MASCHERA&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

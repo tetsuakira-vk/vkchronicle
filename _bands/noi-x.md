@@ -3,7 +3,7 @@ layout: band
 name: "NOi'X"
 title: "NOi'X"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/342f69fa564e42069234fc11e93c594b.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","kote kei","gothic"]
 lastfm_slug: "NOi'X"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=NOi'X&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

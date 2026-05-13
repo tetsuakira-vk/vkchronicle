@@ -3,7 +3,7 @@ layout: band
 name: "DaizyStripper"
 title: "DaizyStripper"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/06382d1ecd8347d1bc7373c7e6905378.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","oshare kei"]
 lastfm_slug: "DaizyStripper"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=DaizyStripper&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

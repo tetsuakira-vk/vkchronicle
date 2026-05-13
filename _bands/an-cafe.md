@@ -3,7 +3,7 @@ layout: band
 name: "An Cafe"
 title: "An Cafe"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/cebf4e3c2b3c1aaef39853f601a3b79c.jpg"
-tags: ["j-rock", "oshare kei"]
+tags: ["visual kei","oshare kei","digital rock"]
 lastfm_slug: "An+Cafe"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=An%20Cafe&genre=JPOP&subgenre_id=VK"
 top_albums:

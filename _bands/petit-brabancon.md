@@ -3,7 +3,7 @@ layout: band
 name: "Petit Brabancon"
 title: "Petit Brabancon"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/b50802fb4a5645574b753f480201defb.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","loud kei","hardcore","metal"]
 lastfm_slug: "Petit+Brabancon"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Petit%20Brabancon&genre=JPOP&subgenre_id=VK"
 top_albums:

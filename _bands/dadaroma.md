@@ -3,7 +3,7 @@ layout: band
 name: "Dadaroma"
 title: "Dadaroma"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/0a08d8057325b2457d028a13e28b5261.jpg"
-tags: ["visual kei", "japanese"]
+tags: ["visual kei","loud kei","hardcore","metal"]
 lastfm_slug: "Dadaroma"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Dadaroma&genre=JPOP&subgenre_id=VK"
 top_albums:

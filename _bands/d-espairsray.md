@@ -3,7 +3,7 @@ layout: band
 name: "D'ESPAIRSRAY"
 title: "D'ESPAIRSRAY"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8fd720ba29744eb1bdd18268b7fea0da.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","loud kei","gothic","industrial","metal","nu-metal"]
 lastfm_slug: "D'ESPAIRSRAY"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=D'ESPAIRSRAY&genre=JPOP&subgenre_id=VK"
 top_albums:

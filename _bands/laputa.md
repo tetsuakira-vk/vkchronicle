@@ -3,7 +3,7 @@ layout: band
 name: "Laputa"
 title: "Laputa"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/6aecfb1c3dbe4445c4d344c6eafe0b85.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","kote kei","nagoya kei","digital rock","gothic"]
 lastfm_slug: "Laputa"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Laputa&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

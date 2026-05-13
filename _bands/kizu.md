@@ -3,7 +3,7 @@ layout: band
 name: "KIZU"
 title: "KIZU"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c4ad53b42a67db00937db52064cd21e3.jpg"
-tags: ["rock", "metal"]
+tags: ["visual kei","loud kei","menhera kei","misshitsu kei","shironuri kei","hardcore","experimental","metal"]
 lastfm_slug: "KIZU"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=KIZU&genre=JPOP&subgenre_id=VK"
 top_albums:

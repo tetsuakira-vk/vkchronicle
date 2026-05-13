@@ -3,7 +3,7 @@ layout: band
 name: "Kiryu"
 title: "Kiryu"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/30391b529a34ca8cbb9438cce6c6250e.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","wafuu kei","metal"]
 lastfm_slug: "Kiryu"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Kiryu&genre=JPOP&subgenre_id=VK"
 top_albums:

@@ -3,7 +3,7 @@ layout: band
 name: "Sukekiyo"
 title: "Sukekiyo"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/0d65d771e1980dab3182f5f0d2189f6d.jpg"
-tags: ["visual kei", "experimental"]
+tags: ["visual kei","digital rock","experimental"]
 lastfm_slug: "Sukekiyo"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Sukekiyo&genre=JPOP&subgenre_id=VK"
 top_albums:

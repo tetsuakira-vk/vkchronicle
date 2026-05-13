@@ -3,7 +3,7 @@ layout: band
 name: "DIAURA"
 title: "DIAURA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/bafbbd7d1c95bdf654146ec56956d357.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","kote kei","koteosa kei","gothic"]
 lastfm_slug: "DIAURA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=DIAURA&genre=JPOP&subgenre_id=VK"
 top_albums:

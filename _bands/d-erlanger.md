@@ -3,7 +3,7 @@ layout: band
 name: "D'erlanger"
 title: "D'erlanger"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/4ce9810c1ccb4e8c935661e0bf14aec9.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","kurofuku kei","okeshou kei","gothic","metal","punk"]
 lastfm_slug: "D'erlanger"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=D'erlanger&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

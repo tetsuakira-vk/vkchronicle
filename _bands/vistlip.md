@@ -3,7 +3,7 @@ layout: band
 name: "Vistlip"
 title: "Vistlip"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8fb46e3e9a124994895f5965620be3ab.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","loud kei","digital rock","jazz"]
 lastfm_slug: "Vistlip"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Vistlip&genre=JPOP&subgenre_id=VK"
 top_albums:

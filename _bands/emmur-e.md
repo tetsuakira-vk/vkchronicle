@@ -3,7 +3,7 @@ layout: band
 name: "emmurée"
 title: "emmurée"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/d61a03c3c4fafc4f699e53b7a7adee2c.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","misshitsu kei","nagoya kei","gothic"]
 lastfm_slug: "emmurée"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=emmur%C3%A9e&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

@@ -3,7 +3,7 @@ layout: band
 name: "LAREINE"
 title: "LAREINE"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/2e3596e2fb6438e9291ba4ec6ffe4f1d.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","kote kei","tanbi kei","gothic"]
 lastfm_slug: "LAREINE"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=LAREINE&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

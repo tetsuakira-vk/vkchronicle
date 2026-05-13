@@ -3,7 +3,7 @@ layout: band
 name: "Lycaon"
 title: "Lycaon"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/0cd4cd261c2c030cdc057b73cad3e879.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","koteosa kei","hardcore","metal"]
 lastfm_slug: "Lycaon"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Lycaon&genre=JPOP&subgenre_id=VK"
 top_albums:

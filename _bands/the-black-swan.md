@@ -3,7 +3,7 @@ layout: band
 name: "The Black Swan"
 title: "The Black Swan"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/dec20ebcf1a4e91d0629e98e79fdc668.jpg"
-tags: ["visual kei", "metal"]
+tags: ["visual kei","loud kei"]
 lastfm_slug: "The+Black+Swan"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=The%20Black%20Swan&genre=JPOP&subgenre_id=VK"
 top_albums:

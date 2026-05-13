@@ -3,7 +3,7 @@ layout: band
 name: "HIZAKI"
 title: "HIZAKI"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/74ffaccd6e4d4257bf753984936e8bbd.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","tanbi kei","metal"]
 lastfm_slug: "HIZAKI"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=HIZAKI&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

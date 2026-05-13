@@ -3,7 +3,7 @@ layout: band
 name: "KRA"
 title: "KRA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/5b6c648c1f684f66aa06cce88761a90f.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","oshare kei","soft visual kei"]
 lastfm_slug: "KRA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=KRA&genre=JPOP&subgenre_id=VK"
 top_albums:

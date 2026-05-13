@@ -3,7 +3,7 @@ layout: band
 name: "Gackt"
 title: "Gackt"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/be7e1eb8d68a45d9a4ef105f9b11098d.jpg"
-tags: ["j-rock", "japanese"]
+tags: ["visual kei","soft visual kei"]
 lastfm_slug: "Gackt"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Gackt&genre=JPOP&subgenre_id=VK"
 top_albums:

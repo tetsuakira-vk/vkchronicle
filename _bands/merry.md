@@ -3,7 +3,7 @@ layout: band
 name: "MERRY"
 title: "MERRY"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/7968d8637b695341168cda6e14d25cda.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","misshitsu kei","jazz","punk"]
 lastfm_slug: "MERRY"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=MERRY&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

@@ -3,7 +3,7 @@ layout: band
 name: "D=OUT"
 title: "D=OUT"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/bd736c0ff8aa41c48ffb779b4fd50cff.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","oshare kei","wafuu kei"]
 lastfm_slug: "D%3DOUT"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=D%3DOUT&genre=JPOP&subgenre_id=VK"
 top_albums:

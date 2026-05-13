@@ -3,7 +3,7 @@ layout: band
 name: "Moi dix Mois"
 title: "Moi dix Mois"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/4245f5d2fb5046fbb6882513f83a446b.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","kote kei","tanbi kei","gothic","metal"]
 lastfm_slug: "Moi+dix+Mois"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Moi%20dix%20Mois&genre=JPOP&subgenre_id=VK"
 top_albums:

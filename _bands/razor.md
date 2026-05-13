@@ -3,7 +3,7 @@ layout: band
 name: "Razor"
 title: "Razor"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/be5df8cb6070467ec69b83a7c889a152.jpg"
-tags: ["thrash metal", "speed metal"]
+tags: ["visual kei","loud kei","metal"]
 lastfm_slug: "Razor"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Razor&genre=JPOP&subgenre_id=VK"
 top_albums:

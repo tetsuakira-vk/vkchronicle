@@ -3,7 +3,7 @@ layout: band
 name: "LM.C"
 title: "LM.C"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fa2625a02a7e44159e434d5bd024c28d.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","oshare kei","digital rock","punk"]
 lastfm_slug: "LM.C"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=LM.C&genre=JPOP&subgenre_id=VK"
 top_albums:

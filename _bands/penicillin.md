@@ -3,7 +3,7 @@ layout: band
 name: "Penicillin"
 title: "Penicillin"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/cda7432c1e164f269e2205bd3af90b3c.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","soft visual kei","industrial","metal","punk"]
 lastfm_slug: "Penicillin"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Penicillin&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

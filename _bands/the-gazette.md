@@ -3,7 +3,7 @@ layout: band
 name: "the GazettE"
 title: "the GazettE"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/1b047646a41f444893db874851c9db11.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","koteosa kei","loud kei","hardcore","metal","nu-metal","punk"]
 lastfm_slug: "the+GazettE"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=the%20GazettE&genre=JPOP&subgenre_id=VK"
 top_albums:

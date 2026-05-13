@@ -3,7 +3,7 @@ layout: band
 name: "Malice Mizer"
 title: "Malice Mizer"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/6b8a573fefe84ba596994a7e4b8b344e.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","kote kei","tanbi kei","glam rock","gothic","metal"]
 lastfm_slug: "Malice+Mizer"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Malice%20Mizer&genre=JPOP&subgenre_id=VK"
 top_albums:

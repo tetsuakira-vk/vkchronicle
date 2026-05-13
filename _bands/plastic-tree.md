@@ -3,7 +3,7 @@ layout: band
 name: "Plastic Tree"
 title: "Plastic Tree"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/9638d4e122e7452ca05523d81d0ea142.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","misshitsu kei","soft visual kei"]
 lastfm_slug: "Plastic+Tree"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Plastic%20Tree&genre=JPOP&subgenre_id=VK"
 top_albums:

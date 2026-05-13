@@ -3,7 +3,7 @@ layout: band
 name: "Girugamesh"
 title: "Girugamesh"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/d83de273791d27613a173ca5ddbeaf9b.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","loud kei","hardcore","metal"]
 lastfm_slug: "Girugamesh"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Girugamesh&genre=JPOP&subgenre_id=VK"
 top_albums:

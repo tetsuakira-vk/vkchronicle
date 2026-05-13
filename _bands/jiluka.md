@@ -3,7 +3,7 @@ layout: band
 name: "Jiluka"
 title: "Jiluka"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c6c2842621f4e3ce61cccbb60ba5161f.jpg"
-tags: ["visual kei", "metalcore"]
+tags: ["visual kei","loud kei","hardcore","digital rock","metal"]
 lastfm_slug: "Jiluka"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Jiluka&genre=JPOP&subgenre_id=VK"
 top_albums:

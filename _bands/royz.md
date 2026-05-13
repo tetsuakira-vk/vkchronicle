@@ -3,7 +3,7 @@ layout: band
 name: "Royz"
 title: "Royz"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/d85cf1a08b3b401f87d4e6c3341d94b6.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","loud kei","hardcore","digital rock"]
 lastfm_slug: "Royz"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Royz&genre=JPOP&subgenre_id=VK"
 top_albums:

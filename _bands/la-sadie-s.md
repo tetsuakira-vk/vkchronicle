@@ -3,7 +3,7 @@ layout: band
 name: "La:Sadie's"
 title: "La:Sadie's"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/6b1439406f93470d90d3bb3a1a0b8f0a.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","kote kei","gothic"]
 lastfm_slug: "La%3ASadie's"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=La%3ASadie's&genre=JPOP&subgenre_id=VK"
 top_albums:

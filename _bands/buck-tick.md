@@ -3,7 +3,7 @@ layout: band
 name: "Buck-Tick"
 title: "Buck-Tick"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/a692d8b2a74f46050295ea83cf9114ea.jpg"
-tags: ["j-rock", "japanese"]
+tags: ["visual kei","kurofuku kei","okeshou kei","soft visual kei","beat rock","digital rock","experimental","gothic","industrial"]
 lastfm_slug: "Buck-Tick"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Buck-Tick&genre=JPOP&subgenre_id=VK"
 top_albums:

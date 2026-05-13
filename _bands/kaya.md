@@ -3,7 +3,7 @@ layout: band
 name: "Kaya"
 title: "Kaya"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/295b642e75394645aed9ac66e1064c03.jpg"
-tags: ["visual kei", "electronic"]
+tags: ["visual kei","tanbi kei","digital rock","gothic","industrial"]
 lastfm_slug: "Kaya"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Kaya&genre=JPOP&subgenre_id=VK"
 top_albums:

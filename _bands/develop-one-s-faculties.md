@@ -3,7 +3,7 @@ layout: band
 name: "Develop One's Faculties"
 title: "Develop One's Faculties"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/ca038b932733662ae43aa559673137e8.jpg"
-tags: ["visual kei", "japanese"]
+tags: ["visual kei"]
 lastfm_slug: "Develop+One's+Faculties"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Develop%20One's%20Faculties&genre=JPOP&subgenre_id=VK"
 status: "disbanded"

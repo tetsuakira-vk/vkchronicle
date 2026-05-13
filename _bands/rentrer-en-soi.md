@@ -3,7 +3,7 @@ layout: band
 name: "Rentrer en Soi"
 title: "Rentrer en Soi"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/35a6624a8deb7be0f0dc0949d5e3afce.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","kote kei","loud kei"]
 lastfm_slug: "Rentrer+en+Soi"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Rentrer%20en%20Soi&genre=JPOP&subgenre_id=VK"
 top_albums:

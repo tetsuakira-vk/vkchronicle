@@ -3,7 +3,7 @@ layout: band
 name: "hide"
 title: "hide"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/166049d9a94e4bcb8f61edcf003b1382.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","soft visual kei","industrial"]
 lastfm_slug: "Hide"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=hide&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

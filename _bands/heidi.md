@@ -3,7 +3,7 @@ layout: band
 name: "heidi."
 title: "heidi."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/bd70ff2f576b63c99640b90f99cc65ca.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","misshitsu kei"]
 lastfm_slug: "heidi."
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=heidi.&genre=JPOP&subgenre_id=VK"
 top_albums:

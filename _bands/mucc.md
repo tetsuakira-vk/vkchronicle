@@ -3,7 +3,7 @@ layout: band
 name: "MUCC"
 title: "MUCC"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/e8f15a35ee034cefeb950d979e0a9cbf.jpg"
-tags: ["j-rock", "japanese"]
+tags: ["visual kei","misshitsu kei","experimental","metal","nu-metal","punk"]
 lastfm_slug: "MUCC"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=MUCC&genre=JPOP&subgenre_id=VK"
 top_albums:

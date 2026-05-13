@@ -3,7 +3,7 @@ layout: band
 name: "LUNA SEA"
 title: "LUNA SEA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/3d19fde2399712df6ba3ff16f4d2e3e3.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","kote kei","kurofuku kei","soft visual kei","glam rock","gothic"]
 lastfm_slug: "LUNA+SEA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=LUNA%20SEA&genre=JPOP&subgenre_id=VK"
 top_albums:

@@ -3,7 +3,7 @@ layout: band
 name: "L'Arc-en-Ciel"
 title: "L'Arc-en-Ciel"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/c284adfc7e752879f368d9dd95f43a71.jpg"
-tags: ["j-rock", "japanese"]
+tags: ["visual kei","soft visual kei"]
 lastfm_slug: "L'Arc-en-Ciel"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=L'Arc-en-Ciel&genre=JPOP&subgenre_id=VK"
 top_albums:

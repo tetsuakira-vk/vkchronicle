@@ -3,7 +3,7 @@ layout: band
 name: "Alice Nine"
 title: "Alice Nine"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/779f51905e424459ac562213d05d83a7.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","koteosa kei"]
 lastfm_slug: "Alice+Nine"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Alice%20Nine&genre=JPOP&subgenre_id=VK"
 top_albums:

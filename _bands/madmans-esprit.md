@@ -3,7 +3,7 @@ layout: band
 name: "Madmans Esprit"
 title: "Madmans Esprit"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/651b1a30ccb9f04e77e64a17054164fb.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","kote kei","loud kei","menhera kei","hardcore","experimental","gothic","metal"]
 lastfm_slug: "Madmans+Esprit"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Madmans%20Esprit&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

@@ -3,7 +3,7 @@ layout: band
 name: "Umbrella"
 title: "Umbrella"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/7f2422fc9ffbd8a163d36020649c934f.jpg"
-tags: ["hardcore", "japanese"]
+tags: ["visual kei","misshitsu kei"]
 lastfm_slug: "Umbrella"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Umbrella&genre=JPOP&subgenre_id=VK"
 top_albums:

@@ -3,7 +3,7 @@ layout: band
 name: "GPKISM"
 title: "GPKISM"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/ed8060b39be34bf1823006355348107f.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","kote kei","tanbi kei","experimental","gothic","industrial"]
 lastfm_slug: "GPKISM"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=GPKISM&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

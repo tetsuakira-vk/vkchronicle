@@ -3,7 +3,7 @@ layout: band
 name: "Kagrra"
 title: "Kagrra"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/65b8126cce8145cab51bca7390f49561.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","wafuu kei"]
 lastfm_slug: "Kagrra"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Kagrra&genre=JPOP&subgenre_id=VK"
 top_albums:

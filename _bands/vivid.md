@@ -3,7 +3,7 @@ layout: band
 name: "ViViD"
 title: "ViViD"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/efbfef273a5e4b19a8ee019bb3f0fcb5.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","soft visual kei"]
 lastfm_slug: "ViViD"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=ViViD&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

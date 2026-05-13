@@ -3,7 +3,7 @@ layout: band
 name: "Matenrou Opera"
 title: "Matenrou Opera"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/f2612085ae4e4fd480fd625035db90f4.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","loud kei","tanbi kei","metal"]
 lastfm_slug: "Matenrou+Opera"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Matenrou%20Opera&genre=JPOP&subgenre_id=VK"
 top_albums:

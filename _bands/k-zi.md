@@ -3,7 +3,7 @@ layout: band
 name: "Közi"
 title: "Közi"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8a93169967d84ebc8aeeba4a76ccf40b.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","kote kei","misshitsu kei","experimental","gothic","industrial"]
 lastfm_slug: "Közi"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=K%C3%B6zi&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

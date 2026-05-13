@@ -3,7 +3,7 @@ layout: band
 name: "Nightmare"
 title: "Nightmare"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/cca302f32a2042548660d2bbda039d6d.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei","koteosa kei","jazz","metal"]
 lastfm_slug: "Nightmare"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Nightmare&genre=JPOP&subgenre_id=VK"
 top_albums:

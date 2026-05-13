@@ -3,7 +3,7 @@ layout: band
 name: "Deadman"
 title: "Deadman"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/d5a53091bb4a947faefc4d3442f35b34.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","nagoya kei","experimental","gothic"]
 lastfm_slug: "Deadman"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Deadman&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

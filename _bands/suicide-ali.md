@@ -3,7 +3,7 @@ layout: band
 name: "Suicide Ali"
 title: "Suicide Ali"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/94c4e35549c2412b9fd55dac3cc78221.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","kote kei","misshitsu kei","digital rock","gothic","industrial","metal"]
 lastfm_slug: "Suicide+Ali"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Suicide%20Ali&genre=JPOP&subgenre_id=VK"
 top_albums:

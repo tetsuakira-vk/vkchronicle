@@ -3,7 +3,7 @@ layout: band
 name: "BORN"
 title: "BORN"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8ef80193c81c4b5a93f2f102368dff87.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","loud kei"]
 lastfm_slug: "BORN"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=BORN&genre=JPOP&subgenre_id=VK"
 top_albums:

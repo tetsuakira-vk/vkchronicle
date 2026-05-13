@@ -3,7 +3,7 @@ layout: band
 name: "SUGIZO"
 title: "SUGIZO"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/e127eae207c2406c8c9d01bf31c5fcf3.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","digital rock"]
 lastfm_slug: "SUGIZO"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=SUGIZO&genre=JPOP&subgenre_id=VK"
 top_albums:

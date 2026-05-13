@@ -3,7 +3,7 @@ layout: band
 name: "SHAZNA"
 title: "SHAZNA"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/3aa7f54825a14246a8bc8a385ca4464e.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","soft visual kei"]
 lastfm_slug: "SHAZNA"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=SHAZNA&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

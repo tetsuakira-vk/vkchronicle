@@ -3,7 +3,7 @@ layout: band
 name: "Pentagon"
 title: "Pentagon"
 photo: "https://vk.gy/images/25228-pentagon-group-photo.jpg"
-tags: ["visual kei", "japanese"]
+tags: ["visual kei","oshare kei"]
 lastfm_slug: "Pentagon"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Pentagon&genre=JPOP&subgenre_id=VK"
 top_albums:

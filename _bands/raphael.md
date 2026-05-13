@@ -3,7 +3,7 @@ layout: band
 name: "Raphael"
 title: "Raphael"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/8ba15a03589e4296aea20e5a656a15a2.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","tanbi kei","metal"]
 lastfm_slug: "Raphael"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Raphael&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

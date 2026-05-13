@@ -3,7 +3,7 @@ layout: band
 name: "Codomo Dragon"
 title: "Codomo Dragon"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/05705135e6b34fe1cf1d9802af1b45e5.jpg"
-tags: ["alternative metal", "add tags", "view all tags"]
+tags: ["visual kei","menhera kei","hardcore","digital rock"]
 lastfm_slug: "Codomo+Dragon"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Codomo%20Dragon&genre=JPOP&subgenre_id=VK"
 top_albums:

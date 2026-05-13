@@ -3,7 +3,7 @@ layout: band
 name: "Deviloof"
 title: "Deviloof"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/21b9a149c5d8b334c9b39be5d6b7ebef.jpg"
-tags: ["deathcore", "visual kei"]
+tags: ["visual kei","loud kei","hardcore","metal"]
 lastfm_slug: "Deviloof"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Deviloof&genre=JPOP&subgenre_id=VK"
 top_albums:

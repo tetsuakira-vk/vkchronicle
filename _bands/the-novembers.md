@@ -3,7 +3,7 @@ layout: band
 name: "The Novembers"
 title: "The Novembers"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/6f8d5aaf539c4356b36e42b8c2068beb.jpg"
-tags: ["shoegaze", "japanese"]
+tags: ["visual kei"]
 lastfm_slug: "The+Novembers"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=The%20Novembers&genre=JPOP&subgenre_id=VK"
 top_albums:

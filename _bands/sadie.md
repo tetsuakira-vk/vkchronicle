@@ -3,7 +3,7 @@ layout: band
 name: "Sadie"
 title: "Sadie"
 photo: "https://vk.gy/images/173881-sadie-group-photo.medium.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","koteosa kei","loud kei","metal"]
 lastfm_slug: "Sadie"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Sadie&genre=JPOP&subgenre_id=VK"
 top_albums:

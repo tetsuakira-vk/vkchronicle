@@ -3,7 +3,7 @@ layout: band
 name: "D"
 title: "D"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/997a8147527b423e8fc9676e1b96b290.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","kote kei","tanbi kei","wafuu kei","experimental","gothic","metal"]
 lastfm_slug: "D"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=D&genre=JPOP&subgenre_id=VK"
 top_albums:

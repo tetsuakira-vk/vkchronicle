@@ -3,7 +3,7 @@ layout: band
 name: "Vidoll"
 title: "Vidoll"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/9ed02b567a404ba0b1146ba23d701a65.jpg"
-tags: ["visual kei", "j-rock"]
+tags: ["visual kei","kote kei","koteosa kei","experimental"]
 lastfm_slug: "Vidoll"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Vidoll&genre=JPOP&subgenre_id=VK"
 top_albums:

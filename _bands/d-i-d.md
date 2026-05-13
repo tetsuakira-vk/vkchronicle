@@ -3,7 +3,7 @@ layout: band
 name: "D.I.D."
 title: "D.I.D."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/877bdbe2ebc84c298e11c03258ded1bb.jpg"
-tags: ["visual kei"]
+tags: ["visual kei","loud kei","hardcore"]
 lastfm_slug: "D.I.D."
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=D.I.D.&genre=JPOP&subgenre_id=VK"
 added: "2026-05-08"

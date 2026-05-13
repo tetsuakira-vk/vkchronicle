@@ -3,7 +3,7 @@ layout: band
 name: "Sarigia"
 title: "Sarigia"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/f186e5454262ef80847d1a7d08fdf431.jpg"
-tags: ["visual kei", "japanese"]
+tags: ["visual kei","loud kei"]
 lastfm_slug: "Sarigia"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Sarigia&genre=JPOP&subgenre_id=VK"
 top_albums:

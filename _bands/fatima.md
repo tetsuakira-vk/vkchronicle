@@ -3,7 +3,7 @@ layout: band
 name: "Fatima"
 title: "Fatima"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/d8f3b9165aa24f01a4a46a390d3dde26.jpg"
-tags: ["visual kei", "soul"]
+tags: ["visual kei"]
 lastfm_slug: "Fatima"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Fatima&genre=JPOP&subgenre_id=VK"
 top_albums:

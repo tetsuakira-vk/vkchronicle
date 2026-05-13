@@ -3,7 +3,7 @@ layout: band
 name: "Versailles"
 title: "Versailles"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/68399e609df0416287e21ec8aaee60c5.jpg"
-tags: ["visual kei", "symphonic metal"]
+tags: ["visual kei","tanbi kei","gothic","metal"]
 lastfm_slug: "Versailles"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=Versailles&genre=JPOP&subgenre_id=VK"
 top_albums:
