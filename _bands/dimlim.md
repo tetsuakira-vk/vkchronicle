@@ -3,7 +3,7 @@ layout: band
 name: "DIMLIM"
 title: "DIMLIM"
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fda2014404dfd92cb729b6efa821ff9e.jpg"
-tags: ["j-rock", "visual kei"]
+tags: ["visual kei", "misshitsu kei", "experimental", "metal"]
 lastfm_slug: "DIMLIM"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=DIMLIM&genre=JPOP&subgenre_id=VK"
 ---

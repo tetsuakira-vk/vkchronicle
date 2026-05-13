@@ -3,7 +3,7 @@ layout: band
 name: "HANABIE."
 title: "HANABIE."
 photo: "https://lastfm.freetls.fastly.net/i/u/ar0/fb5d01b53361afdaabdba3aae2fe2a06.jpg"
-tags: ["metalcore", "kawaii metal"]
+tags: ["visual kei", "loud kei", "hardcore", "metal"]
 lastfm_slug: "HANABIE."
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=HANABIE.&genre=JPOP&subgenre_id=VK"
 ---
