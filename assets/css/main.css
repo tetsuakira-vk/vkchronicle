@@ -552,7 +552,15 @@ img { max-width: 100%; height: auto; display: block; }
 .band-status--hiatus,
 .band-status--paused       { background: rgba(220,170,30,0.15); border: 1px solid rgba(220,170,30,0.4); color: #e8c040; }
 .band-status--semiactive   { background: rgba(80,150,220,0.15); border: 1px solid rgba(80,150,220,0.4); color: #70acf0; }
+.band-meta-row { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 1.5em; }
+.band-meta-item { font-size: 0.82rem; color: #888; }
+.band-meta-item + .band-meta-item::before { content: "·"; margin-right: 12px; color: #444; }
 .band-listeners { color: #999; font-size: 0.85rem; margin-bottom: 1.5em; }
+.discog-heading { font-size: 1rem; color: #aaa; font-weight: 600; margin: 1.4em 0 0.5em; text-transform: uppercase; letter-spacing: 0.05em; }
+.discog-list { list-style: none; padding: 0; margin: 0 0 1em; }
+.discog-list li { display: flex; gap: 14px; padding: 5px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.9rem; color: #ccc; }
+.discog-list li:last-child { border-bottom: none; }
+.discog-year { color: #666; min-width: 36px; flex-shrink: 0; }
 .band-bio { font-size: 0.95rem; line-height: 1.8; color: var(--text); }
 .band-bio p { margin-bottom: 1.2em; }
 .band-bio h1, .band-bio h2, .band-bio h3 { display: none; } /* strip any heading the bio accidentally includes */

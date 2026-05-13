@@ -20,9 +20,11 @@ layout: default
   </div>
   {% endif %}
 
-  {% if page.listeners and page.listeners > 0 %}
-  <p class="band-listeners">{{ page.listeners | divided_by: 1000 }}k Last.fm listeners</p>
-  {% endif %}
+  <div class="band-meta-row">
+    {% if page.formed %}<span class="band-meta-item">Formed {{ page.formed }}</span>{% endif %}
+    {% if page.origin %}<span class="band-meta-item">{{ page.origin }}</span>{% endif %}
+    {% if page.listeners and page.listeners > 0 %}<span class="band-meta-item">{{ page.listeners | divided_by: 1000 }}k Last.fm listeners</span>{% endif %}
+  </div>
 
   <div class="band-bio">{{ content }}</div>
 
@@ -46,6 +48,28 @@ layout: default
     <li>{{ track }}</li>
     {% endfor %}
   </ol>
+  {% endif %}
+
+  {% if page.discography %}
+  <h2>Discography</h2>
+  {% assign albums = page.discography | where: "type", "album" %}
+  {% assign eps    = page.discography | where: "type", "ep" %}
+  {% if albums.size > 0 %}
+  <h3 class="discog-heading">Albums</h3>
+  <ul class="discog-list">
+    {% for r in albums %}
+    <li><span class="discog-year">{{ r.year }}</span> {{ r.title }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% if eps.size > 0 %}
+  <h3 class="discog-heading">EPs</h3>
+  <ul class="discog-list">
+    {% for r in eps %}
+    <li><span class="discog-year">{{ r.year }}</span> {{ r.title }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
   {% endif %}
 
   {% if page.top_albums %}
