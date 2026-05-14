@@ -13,8 +13,48 @@ top_albums:
   - "YOU"
   - "AN ETERNITY / FLOWER OF ROMANCE"
 status: "paused"
+wiki_photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WLA_metmuseum_Venus_and_Adonis_by_Peter_Paul_Rubens.jpg/330px-WLA_metmuseum_Venus_and_Adonis_by_Peter_Paul_Rubens.jpg"
+discography:
+  - title: "東京ストリッパー"
+    type: "ep"
+    year: 2002
+    mbid: "4b6067e0-f785-30a5-943c-02c8cf7cbf23"
+  - title: "sug life"
+    type: "album"
+    year: 2004
+    mbid: "52796fba-57bb-3d90-8b37-9583bd839fe5"
+  - title: "brq 2001-2004"
+    type: "album"
+    year: 2004
+    mbid: "d6d06b39-de20-354c-bfd4-a206f78e2877"
+  - title: "Complete Collection 2001-2004"
+    type: "album"
+    year: 2013
+    mbid: "2ba6b46f-7e26-4bc1-85f0-8fdc47d4b26f"
+  - title: "ノンフィクション"
+    type: "album"
+    year: 2013
+    mbid: "7179ef32-cc0f-499a-abae-1e98931ad64c"
+  - title: "CRY"
+    type: "ep"
+    year: 2015
+    mbid: "4b8da3f5-1e4b-43b3-abf3-5100013a3401"
+  - title: "PLANETARY SECRET"
+    type: "album"
+    year: 2015
+    mbid: "949653ec-37af-4ca0-9fcf-58a5c1fef553"
+  - title: "PUER ET PUELLA"
+    type: "album"
+    year: 2019
+    mbid: "779c50cd-4e5b-40ee-9426-fac2abe30b6e"
 ---
 
-Baroque emerged as a distinctive force within Japan's visual kei scene, establishing themselves as an act that blended the theatrical aesthetics of visual kei with experimental j-rock sensibilities. The band's approach to the genre set them apart by incorporating darker, more intricate production techniques and complex sonic arrangements. Their music showcased a commitment to pushing the boundaries of traditional visual kei, earning them recognition among fans who sought more avant-garde and atmospheric interpretations of the genre. Through their catalog, including standout tracks like "Noisescape" and "FLOWER OF ROMANCE," Baroque demonstrated a sophisticated understanding of both melody and texture.
+Baroque arrived in the early 2000s with a sonic mission that seemed almost architectural in its ambition—constructing elaborate, ornamental layers of melody and distortion that transformed visual kei's theatrical palette into something genuinely baroque in spirit, if not literal nomenclature. Their willingness to layer complexity upon spectacle set them apart from peers who leaned into either aesthetics or substance; Baroque demanded both, creating a blueprint that would influence oshare kei's evolution for years to come.
 
-The band's contributions to visual kei reflected the genre's diversity and evolution during their time in the scene. Songs like "Noisescape" exemplified their signature style—layered instrumentation and intricate production that invited deeper listening experiences beyond the genre's typical visual spectacle. While Baroque may not have achieved mainstream ubiquity, their influence resonated within the dedicated visual kei community, particularly among listeners who appreciated the intersection of experimental sound design and visual aesthetics. Their work remains a testament to the creative range possible within j-rock and visual kei, proving that the genre could accommodate both theatrical presentation and sonic innovation simultaneously.
+Formed in 2001, the band emerged from Tokyo with a lineup that would become central to their identity: the songwriting and guitar work proved consistently inventive across their core members, while their visual presentation matched their musical ambition at every turn. The early years documented on *sug life* (2004) and *brq 2001-2004* revealed a band still refining their approach, balancing pop sensibility with the darker textures that visual kei audiences craved. These records felt like sketches toward something larger.
+
+That larger vision crystallized with *PLANETARY SECRET* (2015), an album that demonstrated how thoroughly Baroque had internalized their own aesthetic language. Rather than chasing trends, they deepened their commitment to ornamental songcraft—multi-layered arrangements where every guitar line and synth flourish served narrative purpose. Songs became miniature cathedrals of sound, each element contributing to an overwhelming sense of intentional beauty. *PUER ET PUELLA* (2019) continued this trajectory with even greater confidence, suggesting a band at their creative peak.
+
+Within the broader visual kei landscape, Baroque occupied a crucial middle ground between the raw theatricality of earlier acts and the pop-influenced sophistication that would dominate the 2010s. They proved that oshare kei—the "cute" or melodic branch of visual kei—could accommodate genuine artistic complexity without sacrificing accessibility. Their influence ripples through contemporary acts who understand that visual presentation and musical substance aren't opposing forces but complementary ones.
+
+The band entered a pause in their activities, stepping back from the relentless touring and recording cycle that defined their peak years. Yet their catalog remains essential listening for anyone serious about understanding how visual kei evolved beyond shock value toward genuine compositional craft. In an era when visual kei's Western presence feels increasingly distant, Baroque's meticulous, ambitious approach to songwriting ensures their work endures—a reminder that the genre's most lasting contributions came not from provocation alone, but from artists who treated melody and complexity with architectural precision.

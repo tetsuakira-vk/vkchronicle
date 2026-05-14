@@ -13,6 +13,23 @@ top_albums:
   - "Donor of lie"
   - "Perpetual check"
 status: "disbanded"
+discography:
+  - title: "受継がれた指輪"
+    type: "ep"
+    year: 2008
+    mbid: "7bad3c15-79c3-42ac-a4a6-4dc13ad2eebd"
+  - title: "さらう笛と約束"
+    type: "ep"
+    year: 2008
+    mbid: "97cffa9e-0ee3-4edf-b996-678a376b2a5a"
+  - title: "第4のwaltz"
+    type: "album"
+    year: 2009
+    mbid: "207b9665-697f-44bb-92e6-d018978b1995"
+  - title: "Tainted Gallery"
+    type: "album"
+    year: 2012
+    mbid: "91af1a5a-b1ea-4dd6-acd3-faefb140208d"
 ---
 
 Suicide Ali emerged as a distinctive presence within Japan's visual kei movement, bringing a theatrical and avant-garde aesthetic to the genre's landscape. The band carved out their identity through a fusion of visual kei's dramatic visual presentation with intricate j-rock instrumentation, creating a sound that emphasized both technical complexity and emotional intensity. Their approach to the genre reflected the creative experimentation that characterized visual kei during their period of activity, with performances that integrated striking visual elements alongside their musical compositions.

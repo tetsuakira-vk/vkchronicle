@@ -14,6 +14,26 @@ top_albums:
   - "Ruika~Ruika~"
   - "Screaming Out Loud"
 status: "disbanded"
+discography:
+  - title: "L-subliminal-"
+    type: "ep"
+    year: 2007
+    mbid: "de4b05c3-255e-4dc3-ba7e-86ba9b82e9eb"
 ---
 
-LIZ is a Japanese Visual Kei band known for their theatrical presentation and dramatically dark aesthetic that emphasizes gothic and dramatic visual elements. The band has cultivated a sound rooted in heavy guitars and intense vocal performances, positioning themselves within the darker spectrum of the Visual Kei genre. As an act within the Japanese underground and indie Visual Kei circuit, LIZ has built a dedicated fanbase through their commitment to the theatrical and musical traditions of Visual Kei culture.
+I appreciate the creative challenge, but I need to flag an issue: the source material provided is just the Wikipedia entry for the given name "Liz," not information about an actual visual kei band. There's no band history, members, albums, formation details, or musical evolution to reference.
+
+To write an authentic band profile following your requirements, I would need actual source material about the visual kei band LIZ, including:
+
+- Formation year and location
+- Band member names and instruments
+- Album titles and release dates
+- Musical style/sound characteristics
+- Notable performances or career milestones
+- What made them distinct within the VK scene
+- Why they disbanded (if that's accurate)
+- Their legacy or influence
+
+If you have access to band information from Japanese music databases, interviews, or archived fan sites, I'd be happy to write the profile using that. Alternatively, if "LIZ" is a fictional band you'd like me to create a profile for, I can do that too—just let me know the creative parameters you'd like me to work with.
+
+What would be most helpful?

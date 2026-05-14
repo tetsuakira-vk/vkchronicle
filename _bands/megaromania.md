@@ -13,6 +13,31 @@ top_albums:
   - "BONUS CD"
   - "a Revolving Lantern..."
 status: "disbanded"
+discography:
+  - title: "Birth of an「Idea」(Type-Art)"
+    type: "album"
+    year: 2008
+    mbid: "6466843f-b23a-4e97-b554-328341ad6ca8"
+  - title: "Prophetic Faction-the Universe-"
+    type: "album"
+    year: 2009
+    mbid: "399f5ee2-668a-4a34-bd8f-2e505c95264e"
+  - title: "Oblivious"
+    type: "album"
+    year: 2010
+    mbid: "0cafa42e-21f0-40d2-a565-ac73a5415ae7"
+  - title: "Quintessence Voyage"
+    type: "album"
+    year: 2011
+    mbid: "cbb53ba9-5aa6-4c04-b5fd-33a6991070ee"
+  - title: "Artistical Glint"
+    type: "album"
+    year: 2012
+    mbid: "164f7e18-260f-40f3-935e-5781d7645d31"
+  - title: "Megaromania〜TYPE:A〜"
+    type: "album"
+    year: 2013
+    mbid: "4e71d543-cdc0-462a-b3f2-23dc4b30d9ad"
 ---
 
 Megaromania emerged as a notable presence within Japan's visual kei scene, establishing themselves as practitioners of the genre's theatrical and musically ambitious traditions. The band exemplified visual kei's core aesthetic—combining striking visual presentation with energetic rock compositions—while contributing to the broader j-rock landscape of their era. Their formation and evolution reflected the genre's emphasis on artistic experimentation and visual storytelling, positioning them among the diverse acts that populated the visual kei underground and mainstream crossover circuits.

@@ -13,8 +13,41 @@ top_albums:
   - "Ius Cerebri"
   - "Sinistro Cerebrum"
 status: "active"
+discography:
+  - title: "IMMORTALIS"
+    type: "album"
+    year: 2014
+    mbid: "cb4904fd-da2a-46c7-b06f-38786c9d6c27"
+  - title: "VITIUM"
+    type: "ep"
+    year: 2015
+    mbid: "07c4a976-31a4-4af7-bbac-52fd1fafb06a"
+  - title: "ADORATIO"
+    type: "album"
+    year: 2017
+    mbid: "e249515a-dd38-4d74-a075-572260ad4710"
+  - title: "INFINITUM"
+    type: "album"
+    year: 2019
+    mbid: "61c82b39-24b8-47fe-9daf-f4071ef02b84"
+  - title: "夢見ドロ / 触れさせる / Valentina"
+    type: "ep"
+    year: 2021
+    mbid: "d3d2212d-8412-4a34-916e-9bf322f3c1da"
+  - title: "EROSIO"
+    type: "album"
+    year: 2023
+    mbid: "7a28680c-1e8e-4c13-985f-f8c810ddd3a0"
+  - title: "Ius Cerebri / Sinistro Cerebrum"
+    type: "album"
+    year: 2024
+    mbid: "0206be12-9468-4d6b-8a6f-65e18765f074"
 ---
 
-Sukekiyo is a Japanese visual kei band that emerged from the experimental fringes of the genre, known for their avant-garde approach to both sound and visual presentation. The project represents a collaborative effort within the visual kei community, blending theatrical aesthetics with unconventional musical arrangements that challenge traditional genre boundaries. Their work is characterized by a deliberate embrace of experimental elements, creating a distinctive sonic landscape that incorporates dissonant instrumentation, layered textures, and haunting vocal performances that set them apart from more mainstream visual kei acts.
+Sukekiyo stands apart in the visual kei landscape as an uncompromising exercise in sonic extremity—a project where Dir En Grey vocalist Kyo channels his artistic vision through deliberately abrasive, digitally-warped soundscapes that reject the melodic accessibility some of his primary band's work occasionally embraces. Formed in 2013, Sukekiyo functions as a creative outlet where Kyo collaborates with an ever-rotating ensemble of musicians drawn from Japan's most respected underground and experimental rock circles, creating a unique supergroup dynamic despite Kyo remaining the sole member actively engaged with another major act.
 
-The band has carved out a notable niche within the visual kei scene by refusing to conform to established stylistic conventions, instead pushing the genre toward more abstract and challenging territory. Their songs, including tracks like "En" and "zephyr," showcase a commitment to intricate production and artistic vision that appeals to listeners seeking deeper, more conceptual approaches to visual kei. Sukekiyo's significance lies in their contribution to the experimental evolution of visual kei, proving that the genre could sustain and celebrate boundary-pushing artistry while maintaining the theatrical visual elements that define the movement.
+From its visceral debut *IMMORTALIS* in 2014, Sukekiyo established itself as visual kei's most unforgiving digital rock experiment. The album's industrial-tinged production and Kyo's caustic vocal delivery set an uncompromising tone that became the project's calling card. With *ADORATIO* (2017), the band deepened its exploration of experimental textures, layering distorted electronics beneath compositional frameworks that challenged conventional song structure. *INFINITUM* (2019) marked a peak in their artistic vision, balancing mechanical brutality with moments of genuine melodic tension, proving Sukekiyo could sustain listener engagement across ambitious extended formats without sacrificing their essential abrasiveness.
+
+The release of *EROSIO* in 2023 demonstrated the project's continued relevance and evolution, while the 2024 double release *Ius Cerebri / Sinistro Cerebrum* signals Kyo's determination to keep the project at the bleeding edge of Japanese rock experimentation. Sukekiyo's cultural significance extends beyond their immediate fanbase—they represent a counterpoint to visual kei's commercial trajectory, insisting that the movement's ethos of artistic transgression remains viable in an era where the genre has increasingly turned toward accessibility. By maintaining rigorous creative standards and refusing to compromise their uncompromising digital-rock aesthetic, they've earned respect among musicians and critics who view them as keepers of visual kei's experimental flame.
+
+Sukekiyo remains essential listening for fans seeking visual kei stripped of ornament and sentiment, where atmosphere emerges from chaos and Kyo's distinctive vocal approach becomes an instrument of deliberate discomfort rather than conventional expression. In a scene sometimes accused of aesthetic repetition, Sukekiyo's continued activity and evolution remind us that visual kei's most vital practitioners are those willing to alienate casual listeners in pursuit of genuine artistic vision.
