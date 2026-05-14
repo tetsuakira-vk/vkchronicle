@@ -13,6 +13,11 @@ top_albums:
   - "Taida -sloth-"
   - "Boushoku -gluttony-"
 status: "disbanded"
+discography:
+  - title: "限定音源集"
+    type: "ep"
+    year: 2018
+    mbid: "9706d15c-1640-49bf-971a-28ffbaefc974"
 ---
 
 Sarigia stands as a distinctive presence within Japan's visual kei landscape, a genre known for its fusion of heavy rock instrumentation with theatrical visual aesthetics and androgynous fashion. The band emerged from the vibrant underground music scene that has long characterized visual kei's DIY ethos, carving out their niche through a combination of dark, atmospheric soundscapes and visually striking stage presentations. Their music exemplifies the genre's characteristic blend of melancholic melodies with aggressive instrumental arrangements, drawing from the theatrical and gothic influences that define modern visual kei.
