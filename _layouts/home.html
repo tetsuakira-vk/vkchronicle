@@ -35,8 +35,8 @@ layout: default
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
           </div>
           <div class="card-reactions">
-            <div data-lyket-type="like" data-lyket-template="heart" data-lyket-id="{{ post.id | remove_first: '/' | replace: '/', '-' }}-heart"></div>
-            <div data-lyket-type="like" data-lyket-id="{{ post.id | remove_first: '/' | replace: '/', '-' }}-like"></div>
+            <div data-lyket-type="like" data-lyket-template="heart" data-lyket-size="small" data-lyket-id="{{ post.id | remove_first: '/' | replace: '/', '-' }}-heart"></div>
+            <div data-lyket-type="like" data-lyket-size="small" data-lyket-id="{{ post.id | remove_first: '/' | replace: '/', '-' }}-like"></div>
           </div>
         </div>
       </article>
@@ -86,8 +86,8 @@ layout: default
       + '<p class="card-excerpt">' + escHtml(p.excerpt) + '</p>'
       + '<div class="card-meta"><time datetime="' + escHtml(p.date_iso) + '">' + escHtml(p.date_formatted) + '</time></div>'
       + '<div class="card-reactions">'
-      + '<div data-lyket-type="like" data-lyket-template="heart" data-lyket-id="' + pid + '-heart"></div>'
-      + '<div data-lyket-type="like" data-lyket-id="' + pid + '-like"></div>'
+      + '<div data-lyket-type="like" data-lyket-template="heart" data-lyket-size="small" data-lyket-id="' + pid + '-heart"></div>'
+      + '<div data-lyket-type="like" data-lyket-size="small" data-lyket-id="' + pid + '-like"></div>'
       + '</div>'
       + '</div></article>';
   }

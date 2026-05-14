@@ -41,8 +41,8 @@ layout: default
       {% endif %}
 
       <div class="post-reactions">
-        <div data-lyket-type="like" data-lyket-template="heart" data-lyket-id="{{ page.id | remove_first: '/' | replace: '/', '-' }}-heart"></div>
-        <div data-lyket-type="like" data-lyket-id="{{ page.id | remove_first: '/' | replace: '/', '-' }}-like"></div>
+        <div data-lyket-type="like" data-lyket-template="heart" data-lyket-size="small" data-lyket-id="{{ page.id | remove_first: '/' | replace: '/', '-' }}-heart"></div>
+        <div data-lyket-type="like" data-lyket-size="small" data-lyket-id="{{ page.id | remove_first: '/' | replace: '/', '-' }}-like"></div>
       </div>
 
       <footer class="post-footer">
