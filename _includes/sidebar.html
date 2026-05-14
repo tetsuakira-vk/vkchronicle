@@ -53,7 +53,7 @@
   <h3 class="widget-title">Upcoming Releases</h3>
   <div id="upcoming-releases">
     {% if site.data.upcoming %}
-      {% for release in site.data.upcoming limit:8 %}
+      {% for release in site.data.upcoming limit:25 %}
       <a class="upcoming-item" href="{{ release.url }}" target="_blank" rel="noopener">
         {% if release.image %}
         <img class="upcoming-cover" src="{{ release.image }}" alt="{{ release.title }}" loading="lazy">
