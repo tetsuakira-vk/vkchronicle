@@ -29,7 +29,7 @@ layout: default
   <div class="band-bio">
     {% if page.wiki_photo %}
     <img src="https://images.weserv.nl/?url={{ page.wiki_photo | url_encode }}&w=300&output=jpg"
-         class="band-bio-float" alt="{{ page.name }}">
+         class="band-bio-float" alt="{{ page.name }}" onerror="this.remove()">
     {% endif %}
     {{ content }}
   </div>
