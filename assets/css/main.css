@@ -558,14 +558,17 @@ img { max-width: 100%; height: auto; display: block; }
 .band-listeners { color: #999; font-size: 0.85rem; margin-bottom: 1.5em; }
 .discog-heading { font-size: 1rem; color: #aaa; font-weight: 600; margin: 1.4em 0 0.5em; text-transform: uppercase; letter-spacing: 0.05em; }
 .discog-list { list-style: none; padding: 0; margin: 0 0 1em; }
-.discog-list li { display: flex; gap: 14px; padding: 5px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.9rem; color: #ccc; }
+.discog-list li { display: flex; align-items: center; gap: 10px; padding: 5px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.9rem; color: #ccc; }
 .discog-list li:last-child { border-bottom: none; }
+.discog-cover { width: 40px; height: 40px; object-fit: cover; border-radius: 4px; flex-shrink: 0; background: rgba(255,255,255,0.05); }
 .discog-year { color: #666; min-width: 36px; flex-shrink: 0; }
-.band-bio { font-size: 0.95rem; line-height: 1.8; color: var(--text); }
+.band-bio { font-size: 0.95rem; line-height: 1.8; color: var(--text); overflow: hidden; }
 .band-bio p { margin-bottom: 1.2em; }
-.band-bio h1, .band-bio h2, .band-bio h3 { display: none; } /* strip any heading the bio accidentally includes */
-.band-tracks { margin: 0; padding-left: 1.4em; color: #ccc; font-size: 0.9rem; }
-.band-tracks li { margin-bottom: 4px; }
+.band-bio h1, .band-bio h2, .band-bio h3 { display: none; }
+.band-bio-float { float: right; width: 200px; margin: 0 0 1.2em 1.5em; border-radius: 8px; box-shadow: 0 2px 14px rgba(0,0,0,.5); }
+@media (max-width: 560px) {
+  .band-bio-float { float: none; display: block; width: 100%; max-width: 260px; margin: 0 auto 1.5em; }
+}
 .band-news { margin: 0; padding-left: 1.4em; font-size: 0.9rem; list-style: none; padding-left: 0; }
 .band-news li { padding: 6px 0; border-bottom: 1px solid var(--border); }
 .band-news li:last-child { border-bottom: none; }

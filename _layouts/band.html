@@ -26,7 +26,13 @@ layout: default
     {% if page.listeners and page.listeners > 0 %}<span class="band-meta-item">{{ page.listeners | divided_by: 1000 }}k Last.fm listeners</span>{% endif %}
   </div>
 
-  <div class="band-bio">{{ content }}</div>
+  <div class="band-bio">
+    {% if page.wiki_photo %}
+    <img src="https://images.weserv.nl/?url={{ page.wiki_photo | url_encode }}&w=300&output=jpg"
+         class="band-bio-float" alt="{{ page.name }}">
+    {% endif %}
+    {{ content }}
+  </div>
 
   {% if page.youtube_id %}
   <div class="band-video">
@@ -41,15 +47,6 @@ layout: default
   </div>
   {% endif %}
 
-  {% if page.top_tracks %}
-  <h2>Popular Tracks</h2>
-  <ol class="band-tracks">
-    {% for track in page.top_tracks %}
-    <li>{{ track }}</li>
-    {% endfor %}
-  </ol>
-  {% endif %}
-
   {% if page.discography %}
   <h2>Discography</h2>
   {% assign albums = page.discography | where: "type", "album" %}
@@ -58,7 +55,10 @@ layout: default
   <h3 class="discog-heading">Albums</h3>
   <ul class="discog-list">
     {% for r in albums %}
-    <li><span class="discog-year">{{ r.year }}</span> {{ r.title }}</li>
+    <li>
+      {% if r.mbid %}<img src="https://coverartarchive.org/release-group/{{ r.mbid }}/front-250" class="discog-cover" alt="{{ r.title }}" onerror="this.remove()">{% endif %}
+      <span class="discog-year">{{ r.year }}</span> {{ r.title }}
+    </li>
     {% endfor %}
   </ul>
   {% endif %}
@@ -66,19 +66,13 @@ layout: default
   <h3 class="discog-heading">EPs</h3>
   <ul class="discog-list">
     {% for r in eps %}
-    <li><span class="discog-year">{{ r.year }}</span> {{ r.title }}</li>
+    <li>
+      {% if r.mbid %}<img src="https://coverartarchive.org/release-group/{{ r.mbid }}/front-250" class="discog-cover" alt="{{ r.title }}" onerror="this.remove()">{% endif %}
+      <span class="discog-year">{{ r.year }}</span> {{ r.title }}
+    </li>
     {% endfor %}
   </ul>
   {% endif %}
-  {% endif %}
-
-  {% if page.top_albums %}
-  <h2>Top Albums</h2>
-  <ol class="band-tracks">
-    {% for album in page.top_albums %}
-    <li>{{ album }}</li>
-    {% endfor %}
-  </ol>
   {% endif %}
 
   {% if page.recent_news %}
