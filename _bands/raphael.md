@@ -14,7 +14,6 @@ top_albums:
   - "Ending -1999072319991201-"
   - "Never -1997040719990429-"
 status: "disbanded"
-wiki_photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/330px-Raffaello_Sanzio.jpg"
 discography:
   - title: "LILAC"
     type: "album"

@@ -14,7 +14,6 @@ top_albums:
   - "KISS"
   - "Eien to Hanataba wo"
 status: "active"
-wiki_photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Penicillin_core.svg/330px-Penicillin_core.svg.png"
 discography:
   - title: "Penicillin Shock"
     type: "ep"

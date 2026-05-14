@@ -14,7 +14,6 @@ top_albums:
   - "Sparks Monkey"
   - "New Temptation"
 status: "semi-active"
-wiki_photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Laputa_map.gif/330px-Laputa_map.gif"
 discography:
   - title: "眩〜めまい〜暈"
     type: "album"
