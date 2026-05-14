@@ -40,6 +40,11 @@ layout: default
       </div>
       {% endif %}
 
+      <div class="post-reactions">
+        <div data-lyket-type="like" data-lyket-template="heart" data-lyket-id="{{ page.id | remove_first: '/' | replace: '/', '-' }}-heart"></div>
+        <div data-lyket-type="like" data-lyket-id="{{ page.id | remove_first: '/' | replace: '/', '-' }}-like"></div>
+      </div>
+
       <footer class="post-footer">
         <div class="post-labels-footer">
           {% for label in page.labels %}
