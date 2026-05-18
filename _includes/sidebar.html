@@ -6,7 +6,6 @@
 <!-- Song of the Day -->
 <div class="sidebar-widget sotd-widget" id="sotd-widget">
   <h3 class="widget-title">Song of the Day</h3>
-  <div class="sotd-meta" id="sotd-meta"></div>
   <iframe id="sotd-player"
     style="border-radius:8px;width:100%;height:152px;margin-top:10px;"
     frameborder="0"
@@ -30,11 +29,7 @@
   var t = realTracks[day % realTracks.length];
   var trackId = extractId(t.id);
   var player = document.getElementById('sotd-player');
-  var meta = document.getElementById('sotd-meta');
   player.src = 'https://open.spotify.com/embed/track/' + trackId + '?utm_source=generator&theme=0';
-  var artistHtml = t.artist ? '<span class="sotd-artist">' + t.artist + '</span>' : '';
-  var titleHtml  = t.title  ? '<span class="sotd-title">'  + t.title  + '</span>' : '';
-  meta.innerHTML = artistHtml + titleHtml;
   document.getElementById('sotd-widget').style.display = '';
 })();
 </script>
