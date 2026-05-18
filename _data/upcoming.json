@@ -1,73 +1,17 @@
 [
   {
-    "artist": "un autre éden",
-    "title": "conte de fées",
-    "date": "5 May",
-    "image": "https://vk.gy/images/176852-conte-de-fees-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/un-autre-eden/71515/conte-de-fees/"
-  },
-  {
-    "artist": "Ano Ko no Heya no Calendula wa",
-    "title": "Mislead",
-    "date": "6 May",
-    "image": "https://vk.gy/images/175399-mislead-photo.thumbnail.png",
-    "url": "https://vk.gy/releases/ano-ko-no-heya-no-calendula-wa/71246/mislead/"
-  },
-  {
-    "artist": "Akai Yurei",
-    "title": "Lifestage Teenage.",
-    "date": "9 May",
-    "image": "https://vk.gy/images/175268-akai-yurei-release-for-lifestage-teenage.thumbnail.jpg",
-    "url": "https://vk.gy/releases/akai-yurei/71214/lifestage-teenage/"
-  },
-  {
-    "artist": "Amai Bouryoku",
-    "title": "Sakura",
-    "date": "9 May",
-    "image": "https://vk.gy/images/176048-sakura-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/amai-bouryoku/71406/sakura/"
-  },
-  {
-    "artist": "BLAZE",
-    "title": "ABYSS",
-    "date": "9 May",
-    "image": "https://vk.gy/images/176118-abyss-photo.thumbnail.png",
-    "url": "https://vk.gy/releases/blaze-2025/71411/abyss/"
-  },
-  {
-    "artist": "HYDE",
-    "title": "「JEKYLL」",
-    "date": "13 May",
-    "image": "https://vk.gy/images/173948-hyde-release-for-jekyll-tsuujouban.thumbnail.jpg",
-    "url": "https://vk.gy/releases/hyde/71061/jekyll-tsuujouban/"
-  },
-  {
-    "artist": "ACME",
-    "title": "STARSTRUCK",
-    "date": "13 May",
-    "image": "https://vk.gy/images/176561-starstruck-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/acme/71278/starstruck/"
-  },
-  {
-    "artist": "D'ESPAIRSRAY",
-    "title": "RAPTURE",
-    "date": "13 May",
-    "image": "https://vk.gy/images/175965-rapture-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/despairsray/71374/rapture/"
-  },
-  {
-    "artist": "THE BEETHOVEN",
-    "title": "Angel",
-    "date": "14 May",
-    "image": "https://vk.gy/images/176764-angel-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/the-beethoven/71489/angel/"
-  },
-  {
     "artist": "Zeke Deux",
     "title": "Music Video Collection IV",
     "date": "19 May",
     "image": null,
     "url": "https://vk.gy/releases/zeke-deux/71447/music-video-collection-iv/"
+  },
+  {
+    "artist": "Zeke Deux",
+    "title": "Restoration",
+    "date": "19 May",
+    "image": null,
+    "url": "https://vk.gy/releases/zeke-deux/71595/restoration/"
   },
   {
     "artist": "THE UNDIVIDE",
@@ -113,10 +57,10 @@
   },
   {
     "artist": "KUROMITSU",
-    "title": "Junai furukoosu",
+    "title": "Junai FULL COURSE",
     "date": "23 May",
     "image": null,
-    "url": "https://vk.gy/releases/kuromitsu/71328/junai-furukoosu/"
+    "url": "https://vk.gy/releases/kuromitsu/71328/junai-full-course/"
   },
   {
     "artist": "ILLUMINA",
@@ -127,9 +71,79 @@
   },
   {
     "artist": "HUMAN ERROR",
-    "title": "Venom Kitty",
+    "title": "Venom Kitty (suspended)",
     "date": "24 May",
     "image": "https://vk.gy/images/175881-venom-kitty-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/human-error/71357/venom-kitty/"
+    "url": "https://vk.gy/releases/human-error/71357/venom-kitty-suspended/"
+  },
+  {
+    "artist": "SHIN",
+    "title": "THE FLAG",
+    "date": "27 May",
+    "image": "https://vk.gy/images/175066-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/shin/71190/the-flag-shokai-seisan-genteiban/"
+  },
+  {
+    "artist": "Affective Synergy",
+    "title": "Moonlight Shadows",
+    "date": "27 May",
+    "image": null,
+    "url": "https://vk.gy/releases/affective-synergy/71443/moonlight-shadows/"
+  },
+  {
+    "artist": "LUNA SEA",
+    "title": "FOREVER",
+    "date": "29 May",
+    "image": "https://vk.gy/images/177188-forever-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/luna-sea/71404/forever/"
+  },
+  {
+    "artist": "Akai Yurei",
+    "title": "Hyoukan ohimesama kurabu Vol.0",
+    "date": "31 May",
+    "image": "https://vk.gy/images/177282-hyoukan-ohimesama-kurabu-vol-0-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/akai-yurei/71586/hyoukan-ohimesama-kurabu-vol-0/"
+  },
+  {
+    "artist": "Chanty",
+    "title": "Shinshin Kokyuu",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/chanty/70838/shinshin-kokyuu/"
+  },
+  {
+    "artist": "EUPHOBIA",
+    "title": "HEXAKOSIOIHEXEKONTAHEXAPHOBIA",
+    "date": "Invalid Date",
+    "image": "https://vk.gy/images/177187-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/euphobia/71569/hexakosioihexekontahexaphobia/"
+  },
+  {
+    "artist": "seek",
+    "title": "Aihamu",
+    "date": "3 June",
+    "image": null,
+    "url": "https://vk.gy/releases/seek-psycho-le-cemu/71558/aihamu/"
+  },
+  {
+    "artist": "Amai Bouryoku",
+    "title": "Ryuushutsuban ④ 「Kyuunenme no Shoutai」",
+    "date": "3 June",
+    "image": "https://vk.gy/images/177250-ryuushutsuban-kyuunenme-no-shoutai-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/amai-bouryoku/71585/ryuushutsuban-kyuunenme-no-shoutai/"
+  },
+  {
+    "artist": "NEiN",
+    "title": "Überschall",
+    "date": "5 June",
+    "image": null,
+    "url": "https://vk.gy/releases/nein/70218/berschall/"
+  },
+  {
+    "artist": "the FUZZ",
+    "title": "Seimei no uta",
+    "date": "5 June",
+    "image": null,
+    "url": "https://vk.gy/releases/the-fuzz/70625/seimei-no-uta/"
   }
 ]
