@@ -1,52 +1,17 @@
 [
   {
-    "artist": "SHIN",
-    "title": "THE FLAG",
-    "date": "27 May",
-    "image": "https://vk.gy/images/175066-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/shin/71190/the-flag-shokai-seisan-genteiban/"
+    "artist": "Oideyo! Yūreiz",
+    "title": "STRAWBERRY ON THE SHORTCAKE",
+    "date": "1 June",
+    "image": "https://vk.gy/images/178211-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/oideyo-yureiz/71723/strawberry-on-the-shortcake/"
   },
   {
-    "artist": "Affective Synergy",
-    "title": "Moonlight Shadows",
-    "date": "27 May",
-    "image": null,
-    "url": "https://vk.gy/releases/affective-synergy/71443/moonlight-shadows/"
-  },
-  {
-    "artist": "DAMILA",
-    "title": "Kimi no Uta",
-    "date": "27 May",
-    "image": "https://vk.gy/images/177615-cover.thumbnail.jpg",
-    "url": "https://vk.gy/releases/damila/71638/kimi-no-uta/"
-  },
-  {
-    "artist": "LUNA SEA",
-    "title": "FOREVER",
-    "date": "29 May",
-    "image": "https://vk.gy/images/177188-forever-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/luna-sea/71404/forever/"
-  },
-  {
-    "artist": "Akai Yurei",
-    "title": "Hyoukan ohimesama kurabu Vol.0",
-    "date": "31 May",
-    "image": "https://vk.gy/images/177282-hyoukan-ohimesama-kurabu-vol-0-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/akai-yurei/71586/hyoukan-ohimesama-kurabu-vol-0/"
-  },
-  {
-    "artist": "Chanty",
-    "title": "Shinshin Kokyuu",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/chanty/70838/shinshin-kokyuu/"
-  },
-  {
-    "artist": "EUPHOBIA",
-    "title": "HEXAKOSIOIHEXEKONTAHEXAPHOBIA",
-    "date": "Invalid Date",
-    "image": "https://vk.gy/images/177187-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/euphobia/71569/hexakosioihexekontahexaphobia/"
+    "artist": "E.T",
+    "title": "Tribe",
+    "date": "1 June",
+    "image": "https://vk.gy/images/178216-tribe-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/e-t/71727/tribe/"
   },
   {
     "artist": "seek",
@@ -80,7 +45,7 @@
     "artist": "glamscure",
     "title": "9:05AM",
     "date": "5 June",
-    "image": null,
+    "image": "https://vk.gy/images/177992--.thumbnail.jpg",
     "url": "https://vk.gy/releases/glamscure/71647/9-05am/"
   },
   {
@@ -89,6 +54,20 @@
     "date": "5 June",
     "image": null,
     "url": "https://vk.gy/releases/amaterase/71661/ama-kakeru-tamayura-monogatari/"
+  },
+  {
+    "artist": "Kuroneko",
+    "title": "THE VØID",
+    "date": "5 June",
+    "image": "https://vk.gy/images/177929-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/kuroneko-2023/71665/the-v-id/"
+  },
+  {
+    "artist": "SUPERKNOVA",
+    "title": "Niko Do~pamine☆",
+    "date": "5 June",
+    "image": "https://vk.gy/images/177936-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/superknova/71666/niko-do-pamine/"
   },
   {
     "artist": "Henkaku WORKS",
@@ -140,10 +119,31 @@
     "url": "https://vk.gy/releases/delucide/71580/bloodthirst-of-the-fallen/"
   },
   {
+    "artist": "KURO",
+    "title": "PICARESQUE",
+    "date": "13 June",
+    "image": "https://vk.gy/images/177938-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/kuro-rides-in-revellion/71667/picaresque/"
+  },
+  {
     "artist": "the superlative degree",
     "title": "common sense",
     "date": "15 June",
     "image": "https://vk.gy/images/177776-photo.thumbnail.jpg",
     "url": "https://vk.gy/releases/the-superlative-degree/71654/common-sense/"
+  },
+  {
+    "artist": "MATENROU OPERA",
+    "title": "Cinematographe",
+    "date": "17 June",
+    "image": "https://vk.gy/images/176937-cinematographe-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/matenrou-opera/71526/cinematographe/"
+  },
+  {
+    "artist": "KARISOME",
+    "title": "Sentakuki no naka no seishun",
+    "date": "17 June",
+    "image": "https://vk.gy/images/177514-sentakuki-no-naka-no-seishun-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/karisome/71618/sentakuki-no-naka-no-seishun/"
   }
 ]
