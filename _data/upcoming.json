@@ -1,79 +1,9 @@
 [
   {
-    "artist": "Oideyo! Yūreiz",
-    "title": "STRAWBERRY ON THE SHORTCAKE",
-    "date": "1 June",
-    "image": "https://vk.gy/images/178211-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/oideyo-yureiz/71723/strawberry-on-the-shortcake/"
-  },
-  {
-    "artist": "E.T",
-    "title": "Tribe",
-    "date": "1 June",
-    "image": "https://vk.gy/images/178216-tribe-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/e-t/71727/tribe/"
-  },
-  {
-    "artist": "seek",
-    "title": "Aihamu",
-    "date": "3 June",
-    "image": null,
-    "url": "https://vk.gy/releases/seek-psycho-le-cemu/71558/aihamu/"
-  },
-  {
-    "artist": "Amai Bouryoku",
-    "title": "Ryuushutsuban ④ 「Kyuunenme no Shoutai」",
-    "date": "3 June",
-    "image": "https://vk.gy/images/177250-ryuushutsuban-kyuunenme-no-shoutai-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/amai-bouryoku/71585/ryuushutsuban-kyuunenme-no-shoutai/"
-  },
-  {
-    "artist": "NEiN",
-    "title": "Überschall",
-    "date": "5 June",
-    "image": null,
-    "url": "https://vk.gy/releases/nein/70218/berschall/"
-  },
-  {
-    "artist": "the FUZZ",
-    "title": "Seimei no uta",
-    "date": "5 June",
-    "image": null,
-    "url": "https://vk.gy/releases/the-fuzz/70625/seimei-no-uta/"
-  },
-  {
-    "artist": "glamscure",
-    "title": "9:05AM",
-    "date": "5 June",
-    "image": "https://vk.gy/images/177992--.thumbnail.jpg",
-    "url": "https://vk.gy/releases/glamscure/71647/9-05am/"
-  },
-  {
-    "artist": "Amaterase",
-    "title": "Ama Kakeru Tamayura Monogatari",
-    "date": "5 June",
-    "image": null,
-    "url": "https://vk.gy/releases/amaterase/71661/ama-kakeru-tamayura-monogatari/"
-  },
-  {
-    "artist": "Kuroneko",
-    "title": "THE VØID",
-    "date": "5 June",
-    "image": "https://vk.gy/images/177929-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/kuroneko-2023/71665/the-v-id/"
-  },
-  {
-    "artist": "SUPERKNOVA",
-    "title": "Niko Do~pamine☆",
-    "date": "5 June",
-    "image": "https://vk.gy/images/177936-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/superknova/71666/niko-do-pamine/"
-  },
-  {
     "artist": "Henkaku WORKS",
     "title": "ANTI JOY no Kyogen to NON SAD no Shinjitsu",
     "date": "9 June",
-    "image": null,
+    "image": "https://vk.gy/images/178242-anti-joy-no-kyogen-to-non-sad-no-shinjitsu-photo.thumbnail.jpg",
     "url": "https://vk.gy/releases/henkaku-works/71621/anti-joy-no-kyogen-to-non-sad-no-shinjitsu/"
   },
   {
@@ -126,6 +56,13 @@
     "url": "https://vk.gy/releases/kuro-rides-in-revellion/71667/picaresque/"
   },
   {
+    "artist": "glamscure",
+    "title": "9:05AM",
+    "date": "14 June",
+    "image": null,
+    "url": "https://vk.gy/releases/glamscure/71741/9-05am-cd/"
+  },
+  {
     "artist": "the superlative degree",
     "title": "common sense",
     "date": "15 June",
@@ -145,5 +82,47 @@
     "date": "17 June",
     "image": "https://vk.gy/images/177514-sentakuki-no-naka-no-seishun-photo.thumbnail.jpg",
     "url": "https://vk.gy/releases/karisome/71618/sentakuki-no-naka-no-seishun/"
+  },
+  {
+    "artist": "BUCK∞TICK",
+    "title": "darker than darkness -style93-",
+    "date": "23 June",
+    "image": "https://vk.gy/images/171215-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/buck-tick/70615/darker-than-darkness-style93-kanzen-seisan-gentei-analog-ban/"
+  },
+  {
+    "artist": "Fatüm",
+    "title": "Canary",
+    "date": "24 June",
+    "image": null,
+    "url": "https://vk.gy/releases/fatum/71490/canary-lumina-ver/"
+  },
+  {
+    "artist": "Sakashimana Haguruma wo Kamen ga Warau.",
+    "title": "Wooing",
+    "date": "26 June",
+    "image": "https://vk.gy/images/178191-wooing-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/sakashimana-haguruma-wo-kamen-ga-warau-more/71720/wooing/"
+  },
+  {
+    "artist": "ELISE",
+    "title": "ELISE",
+    "date": "27 June",
+    "image": null,
+    "url": "https://vk.gy/releases/elise-psycho/71090/elise/"
+  },
+  {
+    "artist": "SPLENDID GOD GIRAFFE",
+    "title": "Dance Dance Dice / Glow in the Sky",
+    "date": "27 June",
+    "image": null,
+    "url": "https://vk.gy/releases/splendid-god-giraffe/71261/dance-dance-dice-glow-in-the-sky/"
+  },
+  {
+    "artist": "Royz",
+    "title": "PHOENIXXXX-PHOENIX-",
+    "date": "27 June",
+    "image": null,
+    "url": "https://vk.gy/releases/royz/71456/phoenixxxx-phoenix-shokai-genteiban-type-a/"
   }
 ]
