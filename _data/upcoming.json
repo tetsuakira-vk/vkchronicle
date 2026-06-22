@@ -1,33 +1,5 @@
 [
   {
-    "artist": "the superlative degree",
-    "title": "common sense",
-    "date": "15 June",
-    "image": "https://vk.gy/images/177776-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/the-superlative-degree/71654/common-sense/"
-  },
-  {
-    "artist": "MATENROU OPERA",
-    "title": "Cinematographe",
-    "date": "17 June",
-    "image": "https://vk.gy/images/176937-cinematographe-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/matenrou-opera/71526/cinematographe/"
-  },
-  {
-    "artist": "KARISOME",
-    "title": "Sentakuki no naka no seishun",
-    "date": "17 June",
-    "image": "https://vk.gy/images/177514-sentakuki-no-naka-no-seishun-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/karisome/71618/sentakuki-no-naka-no-seishun/"
-  },
-  {
-    "artist": "Lumières",
-    "title": "Intervention Armée",
-    "date": "20 June",
-    "image": null,
-    "url": "https://vk.gy/releases/lumieres/71767/intervention-armee/"
-  },
-  {
     "artist": "BUCK∞TICK",
     "title": "darker than darkness -style93-",
     "date": "23 June",
@@ -38,8 +10,50 @@
     "artist": "Fatüm",
     "title": "Canary",
     "date": "24 June",
-    "image": null,
+    "image": "https://vk.gy/images/178546-canary-lumina-ver-cover.thumbnail.jpg",
     "url": "https://vk.gy/releases/fatum/71490/canary-lumina-ver/"
+  },
+  {
+    "artist": "DRAMAticEND",
+    "title": "Synchro",
+    "date": "24 June",
+    "image": "https://vk.gy/images/178532-synchro-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/dramaticend/71788/synchro/"
+  },
+  {
+    "artist": "GA TO CHOU",
+    "title": "Naraku no Hane",
+    "date": "24 June",
+    "image": "https://vk.gy/images/178552-naraku-no-hane-type-ga-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/ga-to-chou/71792/naraku-no-hane-type-ga/"
+  },
+  {
+    "artist": "heidi.",
+    "title": "heidi. BEST ALBUM 2006-2026-MUSEUM-",
+    "date": "24 June",
+    "image": "https://vk.gy/images/178555-heidi-best-album-2006-2026-museum-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/heidi/71794/heidi-best-album-2006-2026-museum/"
+  },
+  {
+    "artist": "BabyKingdom",
+    "title": "ROYAL×FLASH",
+    "date": "24 June",
+    "image": "https://vk.gy/images/178557-royal-flash-type-a-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/babykingdom/71796/royal-flash-type-a/"
+  },
+  {
+    "artist": "RAZOR",
+    "title": "Kyokou no Mokushiroku",
+    "date": "24 June",
+    "image": null,
+    "url": "https://vk.gy/releases/razor/71802/kyokou-no-mokushiroku-type-a/"
+  },
+  {
+    "artist": "Tomei Shojo",
+    "title": "Himitsu",
+    "date": "24 June",
+    "image": null,
+    "url": "https://vk.gy/releases/toumei-shoujo/71815/himitsu/"
   },
   {
     "artist": "Sakashimana Haguruma wo Kamen ga Warau.",
@@ -52,7 +66,7 @@
     "artist": "ELISE",
     "title": "ELISE",
     "date": "27 June",
-    "image": null,
+    "image": "https://vk.gy/images/178543-elise-photo.thumbnail.jpg",
     "url": "https://vk.gy/releases/elise-psycho/71090/elise/"
   },
   {
@@ -70,6 +84,13 @@
     "url": "https://vk.gy/releases/royz/71456/phoenixxxx-phoenix-shokai-genteiban-type-a/"
   },
   {
+    "artist": "Rorschach.inc",
+    "title": "Cinderella",
+    "date": "30 June",
+    "image": "https://vk.gy/images/178526-cinderella-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/rorschach-inc/71787/cinderella/"
+  },
+  {
     "artist": "SHAZNA",
     "title": "(TBA 1)",
     "date": "Invalid Date",
@@ -84,6 +105,13 @@
     "url": "https://vk.gy/releases/tohkei-roman/71706/tba/"
   },
   {
+    "artist": "MOSAIC",
+    "title": "Seishinteki na Kutsuu to Ibitsu na Aijou no Yukue",
+    "date": "Invalid Date",
+    "image": "https://vk.gy/images/178603-seishinteki-na-kutsuu-to-ibitsu-na-aijou-no-yukue-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/mosaic-2023/71816/seishinteki-na-kutsuu-to-ibitsu-na-aijou-no-yukue/"
+  },
+  {
     "artist": "lynch.",
     "title": "CLIMAX",
     "date": "1 July",
@@ -94,7 +122,7 @@
     "artist": "MISUI",
     "title": "Genjitsu Honki",
     "date": "3 July",
-    "image": null,
+    "image": "https://vk.gy/images/178588-genjitsu-honki-photo.thumbnail.jpg",
     "url": "https://vk.gy/releases/misui/71719/genjitsu-honki/"
   },
   {
@@ -110,5 +138,33 @@
     "date": "5 July",
     "image": null,
     "url": "https://vk.gy/releases/verde/70762/reimei/"
+  },
+  {
+    "artist": "Melltaku",
+    "title": "Nee Starlight",
+    "date": "7 July",
+    "image": null,
+    "url": "https://vk.gy/releases/melltaku/71640/nee-starlight/"
+  },
+  {
+    "artist": "BugLug",
+    "title": "Original Not Found",
+    "date": "8 July",
+    "image": "https://vk.gy/images/178550-original-not-found-tsuujouban-photo.thumbnail.png",
+    "url": "https://vk.gy/releases/buglug/70990/original-not-found/"
+  },
+  {
+    "artist": "UNiTE.",
+    "title": "HOPES #3",
+    "date": "8 July",
+    "image": "https://vk.gy/images/175170-hopes-3-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/unite/71198/hopes-3/"
+  },
+  {
+    "artist": "Tsukishigure ni Hanataba wo",
+    "title": "Chinmoku Yori・・・Ai wo Komete",
+    "date": "12 July",
+    "image": null,
+    "url": "https://vk.gy/releases/tsukishigure-ni-hanataba-wo/71785/chinmoku-yori-ai-wo-komete/"
   }
 ]
