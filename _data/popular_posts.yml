@@ -1,4 +1,4 @@
-updated: "2026-07-04T09:01:12.800Z"
+updated: "2026-07-04T11:01:43.705Z"
 posts:
   - url: "/2026/05/oddre-release-nemuru-kimi-mv-announce-first-headline-tour/"
     title: "OddRe: Release \"Nemuru Kimi\" MV, Announce First Headline Tour"
@@ -9,6 +9,15 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
+  - url: "/2026/07/new-visual-kei-videos-june-2026/"
+    title: "New Visual Kei Videos — June 2026"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FD6CjSiPeFPI%2Fmaxresdefault.jpg&w=1200&output=jpg"
+    date_formatted: "Jul 1, 2026"
+    date_iso: "2026-07-01"
+    excerpt: "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"New Visual Kei Videos — June 2026\",\"description\":\"78…"
+    labels:
+      - "Visual Kei"
+      - "Music Video"
   - url: "/2026/05/hyde-on-jekyll-and-its-multiple-personalities-its-quite-craz/"
     title: "HYDE on 'JEKYLL' and Its Multiple Personalities: \"It's Quite Crazy\" — Exploring the Essence of an Artist"
     image: "https://new-img.barks.jp/wp-content/uploads/2026/05/12085049/000-50.jpg"
@@ -27,15 +36,6 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
-  - url: "/2026/07/new-visual-kei-videos-june-2026/"
-    title: "New Visual Kei Videos — June 2026"
-    image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FD6CjSiPeFPI%2Fmaxresdefault.jpg&w=1200&output=jpg"
-    date_formatted: "Jul 1, 2026"
-    date_iso: "2026-07-01"
-    excerpt: "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"New Visual Kei Videos — June 2026\",\"description\":\"78…"
-    labels:
-      - "Visual Kei"
-      - "Music Video"
   - url: "/2026/05/kuroyume-reimagines-90s-classics-with-corkscrew-2026-drug-tr/"
     title: "Kuroyume Reimagines '90s Classics with CORKSCREW 2026 & Drug TReatment 2026"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F845671%2Fcontent_%25E9%25BB%2592%25E5%25A4%25A2%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2590%25E3%2583%25A0_%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%25E3%2583%2588%25E7%2594%25BB%25E5%2583%258F_2605.jpg&w=800&output=jpg"
