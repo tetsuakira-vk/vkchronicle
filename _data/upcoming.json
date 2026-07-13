@@ -1,68 +1,5 @@
 [
   {
-    "artist": "SHAZNA",
-    "title": "LOVE BANQUET",
-    "date": "7 July",
-    "image": "https://vk.gy/images/178764-love-banquet-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/shazna/71421/love-banquet/"
-  },
-  {
-    "artist": "Melltaku",
-    "title": "Nee Starlight",
-    "date": "7 July",
-    "image": null,
-    "url": "https://vk.gy/releases/melltaku/71640/nee-starlight/"
-  },
-  {
-    "artist": "PENICILLIN",
-    "title": "ROMANCE",
-    "date": "7 July",
-    "image": "https://vk.gy/images/178672-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/penicillin/71839/romance-30th-major-debut-anniversary-fukkoku-ban/"
-  },
-  {
-    "artist": "Nakiri",
-    "title": "─ZANKA─",
-    "date": "7 July",
-    "image": null,
-    "url": "https://vk.gy/releases/nakiri/71884/zanka/"
-  },
-  {
-    "artist": "BugLug",
-    "title": "Original Not Found",
-    "date": "8 July",
-    "image": "https://vk.gy/images/178550-original-not-found-tsuujouban-photo.thumbnail.png",
-    "url": "https://vk.gy/releases/buglug/70990/original-not-found/"
-  },
-  {
-    "artist": "UNiTE.",
-    "title": "HOPES #3",
-    "date": "8 July",
-    "image": "https://vk.gy/images/175170-hopes-3-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/unite/71198/hopes-3/"
-  },
-  {
-    "artist": "Geikotsu Seibutsu Gunshuu",
-    "title": "Chakutei -Śakti-",
-    "date": "8 July",
-    "image": "https://vk.gy/images/178978-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/geikotsu-seibutsu-gunshuu/71923/chakutei-akti/"
-  },
-  {
-    "artist": "Tsukishigure ni Hanataba wo",
-    "title": "Chinmoku Yori・・・Ai wo Komete",
-    "date": "12 July",
-    "image": null,
-    "url": "https://vk.gy/releases/tsukishigure-ni-hanataba-wo/71785/chinmoku-yori-ai-wo-komete/"
-  },
-  {
-    "artist": "VANTABLA",
-    "title": "Reject you",
-    "date": "12 July",
-    "image": null,
-    "url": "https://vk.gy/releases/vantabla/71876/reject-you/"
-  },
-  {
     "artist": "Luvielle",
     "title": "white",
     "date": "13 July",
@@ -112,6 +49,13 @@
     "url": "https://vk.gy/releases/xanvala/71889/xanvala-6th-anniversary-tour-roll-the-dice-at-ebisu-the-garden-hall-2026-02-01/"
   },
   {
+    "artist": "MERALOA",
+    "title": "EMPEROR",
+    "date": "16 July",
+    "image": "https://vk.gy/images/179080-meraloa-release-for-emperor.thumbnail.jpg",
+    "url": "https://vk.gy/releases/meraloa/71949/emperor/"
+  },
+  {
     "artist": "-OZ-",
     "title": "BEST 2006-2010",
     "date": "18 July",
@@ -126,11 +70,25 @@
     "url": "https://vk.gy/releases/asagi/71929/naked-heart-ignition/"
   },
   {
+    "artist": "gibkiy gibkiy gibkiy",
+    "title": "vomir",
+    "date": "19 July",
+    "image": "https://vk.gy/images/179137-vormir-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/gibkiy-gibkiy-gibkiy/71951/vomir/"
+  },
+  {
     "artist": "Dolly",
     "title": "Un・Deux・Trois",
     "date": "22 July",
     "image": null,
     "url": "https://vk.gy/releases/dolly/71755/un-deux-trois/"
+  },
+  {
+    "artist": "Amai Bouryoku",
+    "title": "Shanbiri",
+    "date": "22 July",
+    "image": "https://vk.gy/images/179088-shanbiri-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/amai-bouryoku/71950/shanbiri/"
   },
   {
     "artist": "THE_PiTY.",
@@ -145,5 +103,40 @@
     "date": "25 July",
     "image": null,
     "url": "https://vk.gy/releases/misanthrope/70924/tarot/"
+  },
+  {
+    "artist": "IKUO",
+    "title": "SLAPPIN' DAZE",
+    "date": "29 July",
+    "image": "https://vk.gy/images/177762-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/ikuo/71648/slappin-daze/"
+  },
+  {
+    "artist": "yamitera",
+    "title": "IN MY DARK",
+    "date": "29 July",
+    "image": null,
+    "url": "https://vk.gy/releases/yamitera/71844/in-my-dark/"
+  },
+  {
+    "artist": "SHAZNA",
+    "title": "(TBA 2)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/shazna/71422/tba-2/"
+  },
+  {
+    "artist": "OLD CIRCUS",
+    "title": "Life is",
+    "date": "Invalid Date",
+    "image": "https://vk.gy/images/176361-life-is-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/old-circus/71444/life-is/"
+  },
+  {
+    "artist": "Tohkei Roman",
+    "title": "(TBA)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/tohkei-roman/71707/tba/"
   }
 ]
