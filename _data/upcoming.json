@@ -1,86 +1,9 @@
 [
   {
-    "artist": "Luvielle",
-    "title": "white",
-    "date": "13 July",
-    "image": null,
-    "url": "https://vk.gy/releases/luvielle/71857/white-type-a/"
-  },
-  {
-    "artist": "RE:lNa",
-    "title": "『Todokanakatta Subete no Yoru ni 』",
-    "date": "15 July",
-    "image": "https://vk.gy/images/178547-todokanakatta-subete-no-yoru-ni-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/re-lna/71544/todokanakatta-subete-no-yoru-ni/"
-  },
-  {
-    "artist": "GALNERYUS",
-    "title": "A CRY FROM THE SKY ABOVE -tsuujouban-",
-    "date": "15 July",
-    "image": "https://vk.gy/images/178717--.thumbnail.jpg",
-    "url": "https://vk.gy/releases/galneryus/71738/a-cry-from-the-sky-above-tsuujouban/"
-  },
-  {
-    "artist": "GALNERYUS",
-    "title": "A CRY FROM THE SKY ABOVE (Shokai Seisan Genteiban CD + Blu-ray)",
-    "date": "15 July",
-    "image": "https://vk.gy/images/178717--.thumbnail.jpg",
-    "url": "https://vk.gy/releases/galneryus/71739/a-cry-from-the-sky-above-shokai-seisan-genteiban-cd-blu-ray/"
-  },
-  {
-    "artist": "Kuroyume",
-    "title": "CORKSCREW 2026",
-    "date": "15 July",
-    "image": "https://vk.gy/images/178563-corkscrew-2026-tsuujouban-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/kuroyume/71798/corkscrew-2026-tsuujouban/"
-  },
-  {
-    "artist": "Kuroyume",
-    "title": "Drug TReatment 2026",
-    "date": "15 July",
-    "image": "https://vk.gy/images/178565-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/kuroyume/71800/drug-treatment-2026/"
-  },
-  {
-    "artist": "XANVALA",
-    "title": "XANVALA 6th ANNIVERSARY TOUR \"ROLL THE DICE\" at Ebisu THE GARDEN HALL 2026.02.01",
-    "date": "15 July",
-    "image": "https://vk.gy/images/178915-xanvala-6th-anniversary-tour-roll-the-dice-at-ebisu-the-garden-hall-2026-02-01-photo.thumbnail.png",
-    "url": "https://vk.gy/releases/xanvala/71889/xanvala-6th-anniversary-tour-roll-the-dice-at-ebisu-the-garden-hall-2026-02-01/"
-  },
-  {
-    "artist": "MERALOA",
-    "title": "EMPEROR",
-    "date": "16 July",
-    "image": "https://vk.gy/images/179080-meraloa-release-for-emperor.thumbnail.jpg",
-    "url": "https://vk.gy/releases/meraloa/71949/emperor/"
-  },
-  {
-    "artist": "-OZ-",
-    "title": "BEST 2006-2010",
-    "date": "18 July",
-    "image": "https://vk.gy/images/178453-best-2006-2010-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/oz/71777/best-2006-2010-subscribe-hasshin-ban/"
-  },
-  {
-    "artist": "ASAGI",
-    "title": "NAKED HEART IGNITION",
-    "date": "18 July",
-    "image": "https://vk.gy/images/178992-asagi-release-for-naked-heart-ignition.thumbnail.jpg",
-    "url": "https://vk.gy/releases/asagi/71929/naked-heart-ignition/"
-  },
-  {
-    "artist": "gibkiy gibkiy gibkiy",
-    "title": "vomir",
-    "date": "19 July",
-    "image": "https://vk.gy/images/179137-vormir-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/gibkiy-gibkiy-gibkiy/71951/vomir/"
-  },
-  {
     "artist": "Dolly",
     "title": "Un・Deux・Trois",
     "date": "22 July",
-    "image": null,
+    "image": "https://vk.gy/images/179305-un-deux-trois-genteiban-photo.thumbnail.jpg",
     "url": "https://vk.gy/releases/dolly/71755/un-deux-trois/"
   },
   {
@@ -105,6 +28,13 @@
     "url": "https://vk.gy/releases/misanthrope/70924/tarot/"
   },
   {
+    "artist": "Deigan",
+    "title": "(TBA)",
+    "date": "28 July",
+    "image": null,
+    "url": "https://vk.gy/releases/deigan/71974/tba/"
+  },
+  {
     "artist": "IKUO",
     "title": "SLAPPIN' DAZE",
     "date": "29 July",
@@ -117,6 +47,13 @@
     "date": "29 July",
     "image": null,
     "url": "https://vk.gy/releases/yamitera/71844/in-my-dark/"
+  },
+  {
+    "artist": "MERRY",
+    "title": "Urbanstyle Circus",
+    "date": "29 July",
+    "image": "https://vk.gy/images/179339-urbanstyle-circus-shokai-seisan-genteiban-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/merry/71989/urbanstyle-circus-shokai-seisan-genteiban/"
   },
   {
     "artist": "SHAZNA",
@@ -138,5 +75,26 @@
     "date": "Invalid Date",
     "image": null,
     "url": "https://vk.gy/releases/tohkei-roman/71707/tba/"
+  },
+  {
+    "artist": "KIZU",
+    "title": "Gokuraku yori Gokujou no Ame",
+    "date": "5 Aug",
+    "image": null,
+    "url": "https://vk.gy/releases/kizu/68449/gokuraku-yori-gokujou-no-ame-kanzen-seisan-gentei-ban-a/"
+  },
+  {
+    "artist": "Sendai Kamotsu",
+    "title": "TBA",
+    "date": "5 Aug",
+    "image": null,
+    "url": "https://vk.gy/releases/sendai-kamotsu/71662/tba-type-a/"
+  },
+  {
+    "artist": "GOTCHAROCKA",
+    "title": "Sui / Geki",
+    "date": "5 Aug",
+    "image": "https://vk.gy/images/179336-sui-geki-type-a-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/gotcharocka/71860/sui-geki/"
   }
 ]
