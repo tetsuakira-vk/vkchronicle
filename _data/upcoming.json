@@ -1,100 +1,65 @@
 [
   {
-    "artist": "Dolly",
-    "title": "Un・Deux・Trois",
-    "date": "22 July",
-    "image": "https://vk.gy/images/179305-un-deux-trois-genteiban-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/dolly/71755/un-deux-trois/"
+    "artist": "Ensoku",
+    "title": "q",
+    "date": "12 Aug",
+    "image": "https://vk.gy/images/179053-q-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/ensoku/71790/q/"
   },
   {
-    "artist": "Amai Bouryoku",
-    "title": "Shanbiri",
-    "date": "22 July",
-    "image": "https://vk.gy/images/179088-shanbiri-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/amai-bouryoku/71950/shanbiri/"
+    "artist": "Puppet†Dim",
+    "title": "lqqo",
+    "date": "14 Aug",
+    "image": "https://vk.gy/images/179882-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/puppet-dim/72107/lqqo/"
   },
   {
-    "artist": "THE_PiTY.",
-    "title": "Retsujou Sakuran Noise",
-    "date": "24 July",
-    "image": "https://vk.gy/images/178740-retsujou-sakuran-noise-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/the-pity/71859/retsujou-sakuran-noise/"
-  },
-  {
-    "artist": "Misanthrope",
-    "title": "Tarot",
-    "date": "25 July",
+    "artist": "Desert Rose",
+    "title": "MALICIA",
+    "date": "16 Aug",
     "image": null,
-    "url": "https://vk.gy/releases/misanthrope/70924/tarot/"
+    "url": "https://vk.gy/releases/desert-rose/72075/malicia/"
   },
   {
-    "artist": "Deigan",
+    "artist": "NETH PRIERE CAIN",
+    "title": "Soukoku no Rakuin",
+    "date": "19 Aug",
+    "image": null,
+    "url": "https://vk.gy/releases/neth-priere-cain/71691/soukoku-no-rakuin/"
+  },
+  {
+    "artist": "FUR",
+    "title": "GLOSS",
+    "date": "19 Aug",
+    "image": "https://vk.gy/images/179052-gloss-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/fur/71750/gloss/"
+  },
+  {
+    "artist": "DRAMAticEND",
+    "title": "Kodoku no Mure",
+    "date": "19 Aug",
+    "image": "https://vk.gy/images/179473-kodoku-no-mure-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/dramaticend/72011/kodoku-no-mure/"
+  },
+  {
+    "artist": "Z CLEAR",
+    "title": "Z CLEAR 5大都市 ONEMAN TOUR 『四大至剛』 TOUR FINAL at SHIBUYA WWW 2026.04.28",
+    "date": "19 Aug",
+    "image": "https://vk.gy/images/179815-z-clear-release-for-z-clear-5-oneman-tour-tour-final-at-shibuya-www-2026-04-28.thumbnail.jpg",
+    "url": "https://vk.gy/releases/z-clear/72081/z-clear-5-oneman-tour-tour-final-at-shibuya-www-2026-04-28/"
+  },
+  {
+    "artist": "Deshabillz",
     "title": "(TBA)",
-    "date": "28 July",
+    "date": "22 Aug",
     "image": null,
-    "url": "https://vk.gy/releases/deigan/71974/tba/"
+    "url": "https://vk.gy/releases/deshabillz/71778/tba/"
   },
   {
-    "artist": "IKUO",
-    "title": "SLAPPIN' DAZE",
-    "date": "29 July",
-    "image": "https://vk.gy/images/177762-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/ikuo/71648/slappin-daze/"
-  },
-  {
-    "artist": "yamitera",
-    "title": "IN MY DARK",
-    "date": "29 July",
-    "image": null,
-    "url": "https://vk.gy/releases/yamitera/71844/in-my-dark/"
-  },
-  {
-    "artist": "MERRY",
-    "title": "Urbanstyle Circus",
-    "date": "29 July",
-    "image": "https://vk.gy/images/179339-urbanstyle-circus-shokai-seisan-genteiban-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/merry/71989/urbanstyle-circus-shokai-seisan-genteiban/"
-  },
-  {
-    "artist": "SHAZNA",
-    "title": "(TBA 2)",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/shazna/71422/tba-2/"
-  },
-  {
-    "artist": "OLD CIRCUS",
-    "title": "Life is",
-    "date": "Invalid Date",
-    "image": "https://vk.gy/images/176361-life-is-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/old-circus/71444/life-is/"
-  },
-  {
-    "artist": "Tohkei Roman",
-    "title": "(TBA)",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/tohkei-roman/71707/tba/"
-  },
-  {
-    "artist": "KIZU",
-    "title": "Gokuraku yori Gokujou no Ame",
-    "date": "5 Aug",
-    "image": null,
-    "url": "https://vk.gy/releases/kizu/68449/gokuraku-yori-gokujou-no-ame-kanzen-seisan-gentei-ban-a/"
-  },
-  {
-    "artist": "Sendai Kamotsu",
-    "title": "TBA",
-    "date": "5 Aug",
-    "image": null,
-    "url": "https://vk.gy/releases/sendai-kamotsu/71662/tba-type-a/"
-  },
-  {
-    "artist": "GOTCHAROCKA",
-    "title": "Sui / Geki",
-    "date": "5 Aug",
-    "image": "https://vk.gy/images/179336-sui-geki-type-a-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/gotcharocka/71860/sui-geki/"
+    "artist": "Jupiter",
+    "title": "The Pantheon ~Age of Heroes",
+    "date": "26 Aug",
+    "image": "https://vk.gy/images/179335-the-pantheon-age-of-heroes-tsuujouban-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/jupiter/71810/the-pantheon-age-of-heroes-tsuujouban/"
   }
 ]
