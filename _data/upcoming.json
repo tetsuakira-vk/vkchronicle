@@ -1,26 +1,5 @@
 [
   {
-    "artist": "Ensoku",
-    "title": "q",
-    "date": "12 Aug",
-    "image": "https://vk.gy/images/179053-q-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/ensoku/71790/q/"
-  },
-  {
-    "artist": "Puppet†Dim",
-    "title": "lqqo",
-    "date": "14 Aug",
-    "image": "https://vk.gy/images/179882-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/puppet-dim/72107/lqqo/"
-  },
-  {
-    "artist": "Desert Rose",
-    "title": "MALICIA",
-    "date": "16 Aug",
-    "image": null,
-    "url": "https://vk.gy/releases/desert-rose/72075/malicia/"
-  },
-  {
     "artist": "NETH PRIERE CAIN",
     "title": "Soukoku no Rakuin",
     "date": "19 Aug",
@@ -56,10 +35,66 @@
     "url": "https://vk.gy/releases/deshabillz/71778/tba/"
   },
   {
+    "artist": "Deshabillz",
+    "title": "Saigo no Moumaku Kioku wa Mujihi-na Kao no Wakaranai Otona",
+    "date": "22 Aug",
+    "image": "https://vk.gy/images/179995-deshabillz-release.thumbnail.jpg",
+    "url": "https://vk.gy/releases/deshabillz/72151/saigo-no-moumaku-kioku-wa-mujihi-na-kao-no-wakaranai-otona-ni-gata-b-stigma/"
+  },
+  {
     "artist": "Jupiter",
     "title": "The Pantheon ~Age of Heroes",
     "date": "26 Aug",
     "image": "https://vk.gy/images/179335-the-pantheon-age-of-heroes-tsuujouban-photo.thumbnail.jpg",
     "url": "https://vk.gy/releases/jupiter/71810/the-pantheon-age-of-heroes-tsuujouban/"
+  },
+  {
+    "artist": "SHAZNA",
+    "title": "(TBA 3)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/shazna/71423/tba-3/"
+  },
+  {
+    "artist": "Tohkei Roman",
+    "title": "(TBA)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/tohkei-roman/71708/tba/"
+  },
+  {
+    "artist": "GLAY",
+    "title": "Yogoretaeiyuu",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/glay/72058/yogoretaeiyuu/"
+  },
+  {
+    "artist": "Zero[Hz]",
+    "title": "DOMINION",
+    "date": "2 Sept",
+    "image": null,
+    "url": "https://vk.gy/releases/zero-hz/71997/dominion-shokai-genteiban-type-a/"
+  },
+  {
+    "artist": "Z CLEAR",
+    "title": "Shidai Shigou",
+    "date": "2 Sept",
+    "image": "https://vk.gy/images/179472-shidai-shigou-2nd-press-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/z-clear/72010/shidai-shigou-2nd-press/"
+  },
+  {
+    "artist": "GUMMY",
+    "title": "GIVE ME CHOCOLATE",
+    "date": "3 Sept",
+    "image": "https://vk.gy/images/180038-give-me-chocolate-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/gummy/71557/give-me-chocolate/"
+  },
+  {
+    "artist": "Misanthrope",
+    "title": "Nervous",
+    "date": "5 Sept",
+    "image": null,
+    "url": "https://vk.gy/releases/misanthrope/70925/nervous/"
   }
 ]
