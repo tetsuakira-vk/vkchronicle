@@ -1,33 +1,5 @@
 [
   {
-    "artist": "NETH PRIERE CAIN",
-    "title": "Soukoku no Rakuin",
-    "date": "19 Aug",
-    "image": null,
-    "url": "https://vk.gy/releases/neth-priere-cain/71691/soukoku-no-rakuin/"
-  },
-  {
-    "artist": "FUR",
-    "title": "GLOSS",
-    "date": "19 Aug",
-    "image": "https://vk.gy/images/179052-gloss-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/fur/71750/gloss/"
-  },
-  {
-    "artist": "DRAMAticEND",
-    "title": "Kodoku no Mure",
-    "date": "19 Aug",
-    "image": "https://vk.gy/images/179473-kodoku-no-mure-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/dramaticend/72011/kodoku-no-mure/"
-  },
-  {
-    "artist": "Z CLEAR",
-    "title": "Z CLEAR 5大都市 ONEMAN TOUR 『四大至剛』 TOUR FINAL at SHIBUYA WWW 2026.04.28",
-    "date": "19 Aug",
-    "image": "https://vk.gy/images/179815-z-clear-release-for-z-clear-5-oneman-tour-tour-final-at-shibuya-www-2026-04-28.thumbnail.jpg",
-    "url": "https://vk.gy/releases/z-clear/72081/z-clear-5-oneman-tour-tour-final-at-shibuya-www-2026-04-28/"
-  },
-  {
     "artist": "Deshabillz",
     "title": "(TBA)",
     "date": "22 Aug",
@@ -49,6 +21,13 @@
     "url": "https://vk.gy/releases/jupiter/71810/the-pantheon-age-of-heroes-tsuujouban/"
   },
   {
+    "artist": "LIZA",
+    "title": "Kuchiru",
+    "date": "26 Aug",
+    "image": null,
+    "url": "https://vk.gy/releases/liza/72184/kuchiru/"
+  },
+  {
     "artist": "SHAZNA",
     "title": "(TBA 3)",
     "date": "Invalid Date",
@@ -61,13 +40,6 @@
     "date": "Invalid Date",
     "image": null,
     "url": "https://vk.gy/releases/tohkei-roman/71708/tba/"
-  },
-  {
-    "artist": "GLAY",
-    "title": "Yogoretaeiyuu",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/glay/72058/yogoretaeiyuu/"
   },
   {
     "artist": "Zero[Hz]",
@@ -96,5 +68,19 @@
     "date": "5 Sept",
     "image": null,
     "url": "https://vk.gy/releases/misanthrope/70925/nervous/"
+  },
+  {
+    "artist": "PIERROT",
+    "title": "「PARADOX」 -Into Pandora's Box-",
+    "date": "10 Sept",
+    "image": null,
+    "url": "https://vk.gy/releases/pierrot/71403/paradox-into-pandoras-box/"
+  },
+  {
+    "artist": "DEZERT",
+    "title": "Alternate4",
+    "date": "12 Sept",
+    "image": "https://vk.gy/images/179865-alternate4-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/dezert/72105/alternate4/"
   }
 ]
