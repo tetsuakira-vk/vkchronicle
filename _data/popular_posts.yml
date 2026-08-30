@@ -1,4 +1,4 @@
-updated: "2026-08-29T14:45:16.761Z"
+updated: "2026-08-30T01:10:51.423Z"
 posts:
   - url: "/2026/07/new-visual-kei-videos-june-2026/"
     title: "New Visual Kei Videos — June 2026"
@@ -36,15 +36,6 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
-  - url: "/2026/04/dir-en-grey-mortal-downer-review/"
-    title: "DIR EN GREY – MORTAL DOWNER Review: A Masterwork of Controlled Chaos"
-    image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F01%2F21%2FSFCD-291.jpg%3Fv%3D1&w=600&output=jpg"
-    date_formatted: "Apr 10, 2026"
-    date_iso: "2026-04-10"
-    excerpt: "DIR EN GREY has never been a band to rest on laurels, and MORTAL DOWNER proves they're still willing to push boundaries…"
-    labels:
-      - "Visual Kei"
-      - "Reviews"
   - url: "/2026/03/kizu-announce-new-album-gokuraku-yori/"
     title: "KIZU Announce New Album Gokuraku yori Gokujou no Ame"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Fc4ad53b42a67db00937db52064cd21e3.jpg&w=800&output=jpg"
@@ -54,6 +45,15 @@ posts:
     labels:
       - "News"
       - "Album Release"
+  - url: "/2026/04/dir-en-grey-mortal-downer-review/"
+    title: "DIR EN GREY – MORTAL DOWNER Review: A Masterwork of Controlled Chaos"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F01%2F21%2FSFCD-291.jpg%3Fv%3D1&w=600&output=jpg"
+    date_formatted: "Apr 10, 2026"
+    date_iso: "2026-04-10"
+    excerpt: "DIR EN GREY has never been a band to rest on laurels, and MORTAL DOWNER proves they're still willing to push boundaries…"
+    labels:
+      - "Visual Kei"
+      - "Reviews"
   - url: "/2026/07/fukuro-announces-indefinite-hiatus-amid-allegations/"
     title: "Fukuro Announces Indefinite Hiatus Amid Allegations"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fcrimsonlotus.eu%2Fwp-content%2Fuploads%2F2026%2F07%2Ffukuro-2026.05.jpg&w=800&output=jpg"
@@ -153,6 +153,15 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
+  - url: "/2026/06/fest-inazuma-2026-reveals-phase-2-lineup/"
+    title: "FEST. INAZUMA 2026 Reveals Phase 2 Lineup"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F852350%2Fcontent_logo_01.jpg&w=800&output=jpg"
+    date_formatted: "Jun 5, 2026"
+    date_iso: "2026-06-05"
+    excerpt: "Lake Biwa's biggest autumn music festival is back with an expanded artist roster—and the second wave of announcements…"
+    labels:
+      - "Visual Kei"
+      - "News"
   - url: "/2026/08/on-raw-emotion-studio-life-and-unfiltered-sound/"
     title: "鬼堕くん。 on Raw Emotion, Studio Life, and Unfiltered Sound"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F867980%2Fcontent_S__28975108.jpg&w=800&output=jpg"
@@ -171,12 +180,3 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
-  - url: "/2022/07/kitazawa-gou-zillion-dialogue-where-the-top-of-the-nadeshiko/"
-    title: "Kitazawa Gou × ZILLION Dialogue: Where the Top of the Nadeshiko League and Nine Members of the Next Generation Group Resonate"
-    image: "https://www.thefirsttimes.jp/admin/wp-content/uploads/5000/06/20220703-ss-215005-1200x630.jpg"
-    date_formatted: "Jul 5, 2022"
-    date_iso: "2022-07-05"
-    excerpt: "This interview was originally published in Japanese on thefirsttimes.jp. Translated by VK Chronicle. --- ZILLION ×…"
-    labels:
-      - "Interviews"
-      - "Translated Interview"
