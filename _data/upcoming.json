@@ -1,59 +1,10 @@
 [
   {
-    "artist": "NETH PRIERE CAIN Kenji",
-    "title": "「The Earth」",
-    "date": "31 Aug",
-    "image": null,
-    "url": "https://vk.gy/releases/neth-priere-cain-kenji/72194/the-earth/"
-  },
-  {
-    "artist": "Shingeki no Awake",
-    "title": "KAWAII METAL",
-    "date": "31 Aug",
-    "image": "https://vk.gy/images/180356-kawaii-metal-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/awake/72257/kawaii-metal/"
-  },
-  {
-    "artist": "SHAZNA",
-    "title": "(TBA 3)",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/shazna/71423/tba-3/"
-  },
-  {
-    "artist": "Tohkei Roman",
-    "title": "(TBA)",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/tohkei-roman/71708/tba/"
-  },
-  {
-    "artist": "Zero[Hz]",
-    "title": "DOMINION",
-    "date": "2 Sept",
-    "image": null,
-    "url": "https://vk.gy/releases/zero-hz/71997/dominion-shokai-genteiban-type-a/"
-  },
-  {
-    "artist": "Z CLEAR",
-    "title": "Shidai Shigou",
-    "date": "2 Sept",
-    "image": "https://vk.gy/images/179472-shidai-shigou-2nd-press-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/z-clear/72010/shidai-shigou-2nd-press/"
-  },
-  {
-    "artist": "GUMMY",
-    "title": "GIVE ME CHOCOLATE",
-    "date": "3 Sept",
-    "image": "https://vk.gy/images/180038-give-me-chocolate-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/gummy/71557/give-me-chocolate/"
-  },
-  {
-    "artist": "Misanthrope",
-    "title": "Nervous",
-    "date": "5 Sept",
-    "image": null,
-    "url": "https://vk.gy/releases/misanthrope/70925/nervous/"
+    "artist": "Tatsuro",
+    "title": "Kidoaiochi",
+    "date": "9 Sept",
+    "image": "https://vk.gy/images/180729-kidoaiochi-type-a.thumbnail.jpg",
+    "url": "https://vk.gy/releases/tatsuro/72360/kidoaiochi-type-a/"
   },
   {
     "artist": "PIERROT",
@@ -98,17 +49,52 @@
     "url": "https://vk.gy/releases/gravity/72193/ashura-kimi-no-tame-no-ude/"
   },
   {
-    "artist": "NIGHTMARE",
-    "title": "(TBA)",
-    "date": "16 Sept",
+    "artist": "JACK CAPER 2",
+    "title": "Mezaboke-Mezamero Bokenasu-",
+    "date": "15 Sept",
     "image": null,
-    "url": "https://vk.gy/releases/nightmare/71862/tba-genteiban/"
+    "url": "https://vk.gy/releases/jack-caper-2/72345/mezaboke-mezamero-bokenasu/"
+  },
+  {
+    "artist": "NIGHTMARE",
+    "title": "Kyokuyakou",
+    "date": "16 Sept",
+    "image": "https://vk.gy/images/180719-kyokuyakou-genteiban.thumbnail.jpg",
+    "url": "https://vk.gy/releases/nightmare/71862/kyokuyakou-genteiban/"
   },
   {
     "artist": "METRONOME",
     "title": "Mugen×Henten=1.44",
     "date": "16 Sept",
-    "image": "https://vk.gy/images/179334-mugen-henten-1-44-photo.thumbnail.jpg",
+    "image": "https://vk.gy/images/180725-mugen-henten-1-44.thumbnail.jpg",
     "url": "https://vk.gy/releases/metronome/71987/mugen-henten-1-44/"
+  },
+  {
+    "artist": "Chanty",
+    "title": "Shinshin Kokyuu",
+    "date": "18 Sept",
+    "image": "https://vk.gy/images/180726-shinshin-kokyuu-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/chanty/70838/shinshin-kokyuu/"
+  },
+  {
+    "artist": "GLAY",
+    "title": "Yogoreta Eiyuu",
+    "date": "23 Sept",
+    "image": "https://vk.gy/images/180710-yogoreta-eiyuu-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/glay/72058/yogoreta-eiyuu-cd-blu-ray/"
+  },
+  {
+    "artist": "Angelo",
+    "title": "ECLIPSE",
+    "date": "23 Sept",
+    "image": "https://vk.gy/images/180732-eclipse-best-of.thumbnail.jpg",
+    "url": "https://vk.gy/releases/angelo/72363/eclipse/"
+  },
+  {
+    "artist": "Sadie",
+    "title": "Aku no Hana",
+    "date": "23 Sept",
+    "image": "https://vk.gy/images/180735-aku-no-hana-tsuujouban.thumbnail.jpg",
+    "url": "https://vk.gy/releases/sadie/72364/aku-no-hana-tsuujouban/"
   }
 ]
