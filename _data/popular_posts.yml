@@ -1,4 +1,4 @@
-updated: "2026-09-09T10:15:24.922Z"
+updated: "2026-09-09T21:19:18.167Z"
 posts:
   - url: "/2026/07/new-visual-kei-videos-june-2026/"
     title: "New Visual Kei Videos — June 2026"
@@ -54,6 +54,15 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
+  - url: "/2026/06/new-visual-kei-videos-may-2026/"
+    title: "New Visual Kei Videos — May 2026"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FSFOfUdcPJ-Y%2Fmaxresdefault.jpg&w=1200&output=jpg"
+    date_formatted: "Jun 1, 2026"
+    date_iso: "2026-06-01"
+    excerpt: "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"New Visual Kei Videos — May 2026\",\"description\":\"85…"
+    labels:
+      - "Visual Kei"
+      - "Music Video"
   - url: "/2026/04/dir-en-grey-mortal-downer-review/"
     title: "DIR EN GREY – MORTAL DOWNER Review: A Masterwork of Controlled Chaos"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fst.cdjapan.co.jp%2Fpictures%2Fl%2F01%2F21%2FSFCD-291.jpg%3Fv%3D1&w=600&output=jpg"
@@ -171,12 +180,3 @@ posts:
     labels:
       - "Interviews"
       - "Translated Interview"
-  - url: "/2026/06/lex-release-elden-ring-arena-show-announced/"
-    title: "LEX Release \"ELDEN RING\"; Arena Show Announced"
-    image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F06%2F10114156%2Ftop-25.jpg&w=800&output=jpg"
-    date_formatted: "Jun 10, 2026"
-    date_iso: "2026-06-10"
-    excerpt: "LEX just dropped a darkly humorous new single that channels the desolate atmospherics of a sprawling fantasy game…"
-    labels:
-      - "Visual Kei"
-      - "News"
