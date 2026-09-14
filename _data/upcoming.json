@@ -1,40 +1,5 @@
 [
   {
-    "artist": "Tatsuro",
-    "title": "Kidoaiochi",
-    "date": "9 Sept",
-    "image": "https://vk.gy/images/180729-kidoaiochi-type-a.thumbnail.jpg",
-    "url": "https://vk.gy/releases/tatsuro/72360/kidoaiochi-type-a/"
-  },
-  {
-    "artist": "PIERROT",
-    "title": "「PARADOX」 -Into Pandora's Box-",
-    "date": "10 Sept",
-    "image": null,
-    "url": "https://vk.gy/releases/pierrot/71403/paradox-into-pandoras-box/"
-  },
-  {
-    "artist": "DEZERT",
-    "title": "Alternate4",
-    "date": "12 Sept",
-    "image": "https://vk.gy/images/179865-alternate4-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/dezert/72105/alternate4/"
-  },
-  {
-    "artist": "Fatüm",
-    "title": "Eiya no Gensou Hana",
-    "date": "13 Sept",
-    "image": "https://vk.gy/images/180413-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/fatum/72275/eiya-no-gensou-hana/"
-  },
-  {
-    "artist": "Fatüm",
-    "title": "Eiya no Gensou Hana -Omen-",
-    "date": "13 Sept",
-    "image": null,
-    "url": "https://vk.gy/releases/fatum/72276/eiya-no-gensou-hana-omen/"
-  },
-  {
     "artist": "WITH SEXY",
     "title": "Love and ...",
     "date": "15 Sept",
@@ -50,9 +15,9 @@
   },
   {
     "artist": "JACK CAPER 2",
-    "title": "Mezaboke-Mezamero Bokenasu-",
+    "title": "mezaBOKE~mezamero BOKENASU",
     "date": "15 Sept",
-    "image": null,
+    "image": "https://vk.gy/images/181043-mezaboke-mezamero-bokenasu-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/jack-caper-2/72345/mezaboke-mezamero-bokenasu/"
   },
   {
@@ -96,5 +61,68 @@
     "date": "23 Sept",
     "image": "https://vk.gy/images/180735-aku-no-hana-tsuujouban.thumbnail.jpg",
     "url": "https://vk.gy/releases/sadie/72364/aku-no-hana-tsuujouban/"
+  },
+  {
+    "artist": "TØ-MA",
+    "title": "BLAZE OUT",
+    "date": "25 Sept",
+    "image": "https://vk.gy/images/181019-blaze-out-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/toma/72393/blaze-out/"
+  },
+  {
+    "artist": "KISAKI",
+    "title": "Lost in Elysium",
+    "date": "30 Sept",
+    "image": "https://vk.gy/images/179471-lost-in-elysium-photo.thumbnail.jpg",
+    "url": "https://vk.gy/releases/kisaki/71757/lost-in-elysium/"
+  },
+  {
+    "artist": "KISAKI",
+    "title": "Insanity",
+    "date": "30 Sept",
+    "image": null,
+    "url": "https://vk.gy/releases/kisaki/72067/insanity/"
+  },
+  {
+    "artist": "emonchhichi",
+    "title": "False Ending",
+    "date": "30 Sept",
+    "image": "https://vk.gy/images/180308-false-ending-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/emonchhichi/72252/false-ending/"
+  },
+  {
+    "artist": "MAMA.",
+    "title": "-10994m",
+    "date": "30 Sept",
+    "image": "https://vk.gy/images/180727-10994m-type-a.thumbnail.jpg",
+    "url": "https://vk.gy/releases/mama/72358/10994m-type-a/"
+  },
+  {
+    "artist": "SHAZNA",
+    "title": "(TBA 4)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/shazna/71424/tba-4/"
+  },
+  {
+    "artist": "Tohkei Roman",
+    "title": "(TBA)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/tohkei-roman/71709/tba/"
+  },
+  {
+    "artist": "DAT",
+    "title": "The End of Ideal",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/dat/72355/the-end-of-ideal/"
+  },
+  {
+    "artist": "DLESS",
+    "title": "NUMB",
+    "date": "1 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/dless/72032/numb/"
   }
 ]
