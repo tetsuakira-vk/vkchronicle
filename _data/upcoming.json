@@ -1,47 +1,5 @@
 [
   {
-    "artist": "WITH SEXY",
-    "title": "Love and ...",
-    "date": "15 Sept",
-    "image": "https://vk.gy/images/179896-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/with-sexy/72108/love-and/"
-  },
-  {
-    "artist": "GRAVITY",
-    "title": "Ashura -Kimi NO Tame NO Ude-",
-    "date": "15 Sept",
-    "image": "https://vk.gy/images/180111-ashura-kimi-no-tame-no-ude-cover.thumbnail.jpg",
-    "url": "https://vk.gy/releases/gravity/72193/ashura-kimi-no-tame-no-ude/"
-  },
-  {
-    "artist": "JACK CAPER 2",
-    "title": "mezaBOKE~mezamero BOKENASU",
-    "date": "15 Sept",
-    "image": "https://vk.gy/images/181043-mezaboke-mezamero-bokenasu-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/jack-caper-2/72345/mezaboke-mezamero-bokenasu/"
-  },
-  {
-    "artist": "NIGHTMARE",
-    "title": "Kyokuyakou",
-    "date": "16 Sept",
-    "image": "https://vk.gy/images/180719-kyokuyakou-genteiban.thumbnail.jpg",
-    "url": "https://vk.gy/releases/nightmare/71862/kyokuyakou-genteiban/"
-  },
-  {
-    "artist": "METRONOME",
-    "title": "Mugen×Henten=1.44",
-    "date": "16 Sept",
-    "image": "https://vk.gy/images/180725-mugen-henten-1-44.thumbnail.jpg",
-    "url": "https://vk.gy/releases/metronome/71987/mugen-henten-1-44/"
-  },
-  {
-    "artist": "Chanty",
-    "title": "Shinshin Kokyuu",
-    "date": "18 Sept",
-    "image": "https://vk.gy/images/180726-shinshin-kokyuu-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/chanty/70838/shinshin-kokyuu/"
-  },
-  {
     "artist": "GLAY",
     "title": "Yogoreta Eiyuu",
     "date": "23 Sept",
@@ -98,6 +56,13 @@
     "url": "https://vk.gy/releases/mama/72358/10994m-type-a/"
   },
   {
+    "artist": "nil",
+    "title": "Wildflower DVD",
+    "date": "30 Sept",
+    "image": null,
+    "url": "https://vk.gy/releases/nil-1998/72369/wildflower-dvd/"
+  },
+  {
     "artist": "SHAZNA",
     "title": "(TBA 4)",
     "date": "Invalid Date",
@@ -119,10 +84,45 @@
     "url": "https://vk.gy/releases/dat/72355/the-end-of-ideal/"
   },
   {
+    "artist": "WITH SEXY",
+    "title": "Love and ...",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/with-sexy/72378/love-and-2nd-press/"
+  },
+  {
     "artist": "DLESS",
     "title": "NUMB",
     "date": "1 Oct",
     "image": null,
     "url": "https://vk.gy/releases/dless/72032/numb/"
+  },
+  {
+    "artist": "【VEGA。】",
+    "title": "Kao",
+    "date": "6 Oct",
+    "image": "https://vk.gy/images/181175-kao-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/vega-2026/72439/kao/"
+  },
+  {
+    "artist": "kein",
+    "title": "Iustitia sine misericordia",
+    "date": "7 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/kein/71968/iustitia-sine-misericordia-shokai-genteiban/"
+  },
+  {
+    "artist": "Quiss the 12012",
+    "title": "defy[dəˈfī]",
+    "date": "7 Oct",
+    "image": "https://vk.gy/images/181144-defy-d-f-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/quiss-the-12012/72434/defy-d-f/"
+  },
+  {
+    "artist": "Tokyo Hanayome",
+    "title": "Aikoku MELANCHOLIC",
+    "date": "7 Oct",
+    "image": "https://vk.gy/images/181174-aikoku-melancholic-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/tokyo-hanayome/72438/aikoku-melancholic/"
   }
 ]
