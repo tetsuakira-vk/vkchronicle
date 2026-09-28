@@ -1,33 +1,5 @@
 [
   {
-    "artist": "GLAY",
-    "title": "Yogoreta Eiyuu",
-    "date": "23 Sept",
-    "image": "https://vk.gy/images/180710-yogoreta-eiyuu-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/glay/72058/yogoreta-eiyuu-cd-blu-ray/"
-  },
-  {
-    "artist": "Angelo",
-    "title": "ECLIPSE",
-    "date": "23 Sept",
-    "image": "https://vk.gy/images/180732-eclipse-best-of.thumbnail.jpg",
-    "url": "https://vk.gy/releases/angelo/72363/eclipse/"
-  },
-  {
-    "artist": "Sadie",
-    "title": "Aku no Hana",
-    "date": "23 Sept",
-    "image": "https://vk.gy/images/180735-aku-no-hana-tsuujouban.thumbnail.jpg",
-    "url": "https://vk.gy/releases/sadie/72364/aku-no-hana-tsuujouban/"
-  },
-  {
-    "artist": "TØ-MA",
-    "title": "BLAZE OUT",
-    "date": "25 Sept",
-    "image": "https://vk.gy/images/181019-blaze-out-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/toma/72393/blaze-out/"
-  },
-  {
     "artist": "KISAKI",
     "title": "Lost in Elysium",
     "date": "30 Sept",
@@ -38,8 +10,8 @@
     "artist": "KISAKI",
     "title": "Insanity",
     "date": "30 Sept",
-    "image": null,
-    "url": "https://vk.gy/releases/kisaki/72067/insanity/"
+    "image": "https://vk.gy/images/181374-insanity-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/kisaki/72068/insanity/"
   },
   {
     "artist": "emonchhichi",
@@ -108,8 +80,8 @@
     "artist": "kein",
     "title": "Iustitia sine misericordia",
     "date": "7 Oct",
-    "image": null,
-    "url": "https://vk.gy/releases/kein/71968/iustitia-sine-misericordia-shokai-genteiban/"
+    "image": "https://vk.gy/images/180448-iustitia-sine-misericordia-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/kein/71969/iustitia-sine-misericordia/"
   },
   {
     "artist": "Quiss the 12012",
@@ -124,5 +96,19 @@
     "date": "7 Oct",
     "image": "https://vk.gy/images/181174-aikoku-melancholic-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/tokyo-hanayome/72438/aikoku-melancholic/"
+  },
+  {
+    "artist": "Cantavanda",
+    "title": "DIZZY",
+    "date": "9 Oct",
+    "image": "https://vk.gy/images/181434-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/cantavanda/72508/dizzy-digital/"
+  },
+  {
+    "artist": "Lament.",
+    "title": "Where Ashes Bloom Again",
+    "date": "16 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/lament/71334/where-ashes-bloom-again/"
   }
 ]
