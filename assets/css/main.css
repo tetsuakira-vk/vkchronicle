@@ -360,11 +360,6 @@ img { max-width: 100%; height: auto; display: block; }
 
 .post-footer { margin-top: 32px; padding-top: 20px; border-top: 1px solid var(--border); }
 
-/* ── Lyket reactions ──────────────────────────────────────────────────────── */
-.post-reactions { display: flex; gap: 4px; align-items: center; margin: 28px 0 8px; }
-.card-reactions { display: flex; gap: 4px; align-items: center; margin-top: 10px; }
-.reaction-wrap { display: inline-block; transform: scale(0.6); transform-origin: left center; }
-
 /* ── Sidebar ──────────────────────────────────────────────────────────────── */
 .sidebar { min-width: 0; }
 
