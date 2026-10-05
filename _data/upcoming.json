@@ -1,73 +1,10 @@
 [
   {
-    "artist": "KISAKI",
-    "title": "Lost in Elysium",
-    "date": "30 Sept",
-    "image": "https://vk.gy/images/179471-lost-in-elysium-photo.thumbnail.jpg",
-    "url": "https://vk.gy/releases/kisaki/71757/lost-in-elysium/"
-  },
-  {
-    "artist": "KISAKI",
-    "title": "Insanity",
-    "date": "30 Sept",
-    "image": "https://vk.gy/images/181374-insanity-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/kisaki/72068/insanity/"
-  },
-  {
-    "artist": "emonchhichi",
-    "title": "False Ending",
-    "date": "30 Sept",
-    "image": "https://vk.gy/images/180308-false-ending-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/emonchhichi/72252/false-ending/"
-  },
-  {
-    "artist": "MAMA.",
-    "title": "-10994m",
-    "date": "30 Sept",
-    "image": "https://vk.gy/images/180727-10994m-type-a.thumbnail.jpg",
-    "url": "https://vk.gy/releases/mama/72358/10994m-type-a/"
-  },
-  {
-    "artist": "nil",
-    "title": "Wildflower DVD",
-    "date": "30 Sept",
-    "image": null,
-    "url": "https://vk.gy/releases/nil-1998/72369/wildflower-dvd/"
-  },
-  {
-    "artist": "SHAZNA",
-    "title": "(TBA 4)",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/shazna/71424/tba-4/"
-  },
-  {
-    "artist": "Tohkei Roman",
-    "title": "(TBA)",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/tohkei-roman/71709/tba/"
-  },
-  {
-    "artist": "DAT",
-    "title": "The End of Ideal",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/dat/72355/the-end-of-ideal/"
-  },
-  {
-    "artist": "WITH SEXY",
-    "title": "Love and ...",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/with-sexy/72378/love-and-2nd-press/"
-  },
-  {
-    "artist": "DLESS",
-    "title": "NUMB",
-    "date": "1 Oct",
-    "image": null,
-    "url": "https://vk.gy/releases/dless/72032/numb/"
+    "artist": "tzkwym",
+    "title": "MIDNIGHT CARNIVAL",
+    "date": "5 Oct",
+    "image": "https://vk.gy/images/181720-midnight-carnival-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/tzkwym/72587/midnight-carnival/"
   },
   {
     "artist": "【VEGA。】",
@@ -98,6 +35,27 @@
     "url": "https://vk.gy/releases/tokyo-hanayome/72438/aikoku-melancholic/"
   },
   {
+    "artist": "『Ningen』",
+    "title": "Rettou Ao Uta",
+    "date": "7 Oct",
+    "image": "https://vk.gy/images/181560-rettou-ao-uta-picture.thumbnail.png",
+    "url": "https://vk.gy/releases/ningen-2026/72548/rettou-ao-uta/"
+  },
+  {
+    "artist": "DIAURA",
+    "title": "Re:SURRECTION",
+    "date": "7 Oct",
+    "image": "https://vk.gy/images/181645-re-surrection-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/diaura/72575/re-surrection-tsuujouban/"
+  },
+  {
+    "artist": "Deathpair",
+    "title": "(TBA)",
+    "date": "8 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/deathpair/72579/tba/"
+  },
+  {
     "artist": "Cantavanda",
     "title": "DIZZY",
     "date": "9 Oct",
@@ -110,5 +68,33 @@
     "date": "16 Oct",
     "image": null,
     "url": "https://vk.gy/releases/lament/71334/where-ashes-bloom-again/"
+  },
+  {
+    "artist": "Tsukishigure ni Hanataba wo",
+    "title": "TBA",
+    "date": "20 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/tsukishigure-ni-hanataba-wo/72446/tba/"
+  },
+  {
+    "artist": "Dope Honey",
+    "title": "List of Sweet Dope",
+    "date": "20 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/dope-honey/72519/list-of-sweet-dope/"
+  },
+  {
+    "artist": "glamscure",
+    "title": "pilgrimage",
+    "date": "21 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/glamscure/72099/pilgrimage/"
+  },
+  {
+    "artist": "XANVALA",
+    "title": "UNDEAD is BACK",
+    "date": "26 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/xanvala/72294/undead-is-back/"
   }
 ]
