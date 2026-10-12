@@ -1,68 +1,5 @@
 [
   {
-    "artist": "tzkwym",
-    "title": "MIDNIGHT CARNIVAL",
-    "date": "5 Oct",
-    "image": "https://vk.gy/images/181720-midnight-carnival-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/tzkwym/72587/midnight-carnival/"
-  },
-  {
-    "artist": "【VEGA。】",
-    "title": "Kao",
-    "date": "6 Oct",
-    "image": "https://vk.gy/images/181175-kao-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/vega-2026/72439/kao/"
-  },
-  {
-    "artist": "kein",
-    "title": "Iustitia sine misericordia",
-    "date": "7 Oct",
-    "image": "https://vk.gy/images/180448-iustitia-sine-misericordia-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/kein/71969/iustitia-sine-misericordia/"
-  },
-  {
-    "artist": "Quiss the 12012",
-    "title": "defy[dəˈfī]",
-    "date": "7 Oct",
-    "image": "https://vk.gy/images/181144-defy-d-f-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/quiss-the-12012/72434/defy-d-f/"
-  },
-  {
-    "artist": "Tokyo Hanayome",
-    "title": "Aikoku MELANCHOLIC",
-    "date": "7 Oct",
-    "image": "https://vk.gy/images/181174-aikoku-melancholic-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/tokyo-hanayome/72438/aikoku-melancholic/"
-  },
-  {
-    "artist": "『Ningen』",
-    "title": "Rettou Ao Uta",
-    "date": "7 Oct",
-    "image": "https://vk.gy/images/181560-rettou-ao-uta-picture.thumbnail.png",
-    "url": "https://vk.gy/releases/ningen-2026/72548/rettou-ao-uta/"
-  },
-  {
-    "artist": "DIAURA",
-    "title": "Re:SURRECTION",
-    "date": "7 Oct",
-    "image": "https://vk.gy/images/181645-re-surrection-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/diaura/72575/re-surrection-tsuujouban/"
-  },
-  {
-    "artist": "Deathpair",
-    "title": "(TBA)",
-    "date": "8 Oct",
-    "image": null,
-    "url": "https://vk.gy/releases/deathpair/72579/tba/"
-  },
-  {
-    "artist": "Cantavanda",
-    "title": "DIZZY",
-    "date": "9 Oct",
-    "image": "https://vk.gy/images/181434-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/cantavanda/72508/dizzy-digital/"
-  },
-  {
     "artist": "Lament.",
     "title": "Where Ashes Bloom Again",
     "date": "16 Oct",
@@ -80,7 +17,7 @@
     "artist": "Dope Honey",
     "title": "List of Sweet Dope",
     "date": "20 Oct",
-    "image": null,
+    "image": "https://vk.gy/images/181867-list-of-sweet-dope-picture.thumbnail.png",
     "url": "https://vk.gy/releases/dope-honey/72519/list-of-sweet-dope/"
   },
   {
@@ -91,10 +28,59 @@
     "url": "https://vk.gy/releases/glamscure/72099/pilgrimage/"
   },
   {
+    "artist": "ACME",
+    "title": "SUPER HERO",
+    "date": "21 Oct",
+    "image": "https://vk.gy/images/181877-super-hero-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/acme/72708/super-hero/"
+  },
+  {
     "artist": "XANVALA",
     "title": "UNDEAD is BACK",
     "date": "26 Oct",
     "image": null,
     "url": "https://vk.gy/releases/xanvala/72294/undead-is-back/"
+  },
+  {
+    "artist": "Meikyuu Kairou",
+    "title": "rikka",
+    "date": "28 Oct",
+    "image": "https://vk.gy/images/180499-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/meikyuu-kairou/72303/rikka-cd/"
+  },
+  {
+    "artist": "DEZERT",
+    "title": "DEZERT",
+    "date": "28 Oct",
+    "image": "https://vk.gy/images/180738-dezert-tsuujouban.thumbnail.jpg",
+    "url": "https://vk.gy/releases/dezert/72366/dezert-tsuujouban/"
+  },
+  {
+    "artist": "SHAZNA",
+    "title": "(TBA 5)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/shazna/71425/tba-5/"
+  },
+  {
+    "artist": "Jubaku Hyourei",
+    "title": "(TBA)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/jubaku-hyourei/72152/tba/"
+  },
+  {
+    "artist": "DAT",
+    "title": "Until death",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/dat/72356/until-death/"
+  },
+  {
+    "artist": "Terra.",
+    "title": "Return of the Dark Lørd ~2nd strife~",
+    "date": "1 Nov",
+    "image": "https://vk.gy/images/181573-return-of-the-dark-l-rd-2nd-strife-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/terra-bm/72553/return-of-the-dark-l-rd-2nd-strife/"
   }
 ]
