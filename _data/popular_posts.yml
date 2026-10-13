@@ -1,4 +1,4 @@
-updated: "2026-10-12T19:28:38.628Z"
+updated: "2026-10-13T03:26:52.228Z"
 posts:
   - url: "/2026/07/new-visual-kei-videos-june-2026/"
     title: "New Visual Kei Videos — June 2026"
@@ -63,6 +63,15 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
+  - url: "/2026/09/t-ma-blaze-out-review-defiant-return-to-raw-visual-kei/"
+    title: "TØ-MA – BLAZE OUT Review: Defiant Return to Raw Visual Kei"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F181019-blaze-out-picture.thumbnail.jpg&w=1200&output=jpg"
+    date_formatted: "Sep 27, 2026"
+    date_iso: "2026-09-27"
+    excerpt: "TØ-MA's return with BLAZE OUT feels less like a comeback and more like a declaration of intent. For a band that has…"
+    labels:
+      - "Visual Kei"
+      - "Reviews"
   - url: "/2026/08/godfrost-hosts-dark-gothic-event-with-italian-duo-little-boy/"
     title: "Godfrost Hosts Dark & Gothic Event with Italian Duo LITTLE BOYS"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F870860%2Fcontent_phDarkness-Phobia-Event-Flyer1.jpg&w=800&output=jpg"
@@ -99,15 +108,6 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
-  - url: "/2026/09/t-ma-blaze-out-review-defiant-return-to-raw-visual-kei/"
-    title: "TØ-MA – BLAZE OUT Review: Defiant Return to Raw Visual Kei"
-    image: "https://images.weserv.nl/?url=https%3A%2F%2Fvk.gy%2Fimages%2F181019-blaze-out-picture.thumbnail.jpg&w=1200&output=jpg"
-    date_formatted: "Sep 27, 2026"
-    date_iso: "2026-09-27"
-    excerpt: "TØ-MA's return with BLAZE OUT feels less like a comeback and more like a declaration of intent. For a band that has…"
-    labels:
-      - "Visual Kei"
-      - "Reviews"
   - url: "/2026/04/this-week-in-visual-kei-new-bands/"
     title: "This Week in Visual Kei: New Bands & Reunion Hype — April 6, 2026"
     image: "/assets/images/placeholder.jpg"
@@ -144,6 +144,15 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
+  - url: "/2026/06/solo-project-168-announces-2026-tour-fall-solo-shows/"
+    title: "向日葵 Solo Project 168 Announces 2026 Tour & Fall Solo Shows"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F853598%2Fcontent_AOI.jpg&w=800&output=jpg"
+    date_formatted: "Jun 20, 2026"
+    date_iso: "2026-06-20"
+    excerpt: "Ex-彩冷える vocalist 向日葵 is stepping into the spotlight with a major solo push this year, unveiling both a band-format tour…"
+    labels:
+      - "Visual Kei"
+      - "News"
   - url: "/2026/07/rekishi-announce-acoustic-tour-2026-with-new-visuals/"
     title: "Rekishi Announce Acoustic Tour 2026 with New Visuals"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F07%2F16175543%2F000-64.jpg&w=800&output=jpg"
@@ -171,12 +180,3 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
-  - url: "/2026/09/new-visual-kei-videos-august-2026/"
-    title: "New Visual Kei Videos — August 2026"
-    image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FODEIktU9lNE%2Fmaxresdefault.jpg&w=1200&output=jpg"
-    date_formatted: "Sep 1, 2026"
-    date_iso: "2026-09-01"
-    excerpt: "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"New Visual Kei Videos — August…"
-    labels:
-      - "Visual Kei"
-      - "Music Video"
