@@ -1,10 +1,17 @@
 [
   {
-    "artist": "Lament.",
-    "title": "Where Ashes Bloom Again",
-    "date": "16 Oct",
+    "artist": "Zeke Deux",
+    "title": "Carmilla",
+    "date": "19 Oct",
     "image": null,
-    "url": "https://vk.gy/releases/lament/71334/where-ashes-bloom-again/"
+    "url": "https://vk.gy/releases/zeke-deux/72718/carmilla/"
+  },
+  {
+    "artist": "Oideyo! Yureiz",
+    "title": "FukuMimi & water",
+    "date": "19 Oct",
+    "image": "https://vk.gy/images/182000-fukumimi-water-picture.thumbnail.png",
+    "url": "https://vk.gy/releases/oideyo-yureiz/72745/fukumimi-water/"
   },
   {
     "artist": "Tsukishigure ni Hanataba wo",
@@ -24,7 +31,7 @@
     "artist": "glamscure",
     "title": "pilgrimage",
     "date": "21 Oct",
-    "image": null,
+    "image": "https://vk.gy/images/181983-pilgrimage-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/glamscure/72099/pilgrimage/"
   },
   {
@@ -33,6 +40,20 @@
     "date": "21 Oct",
     "image": "https://vk.gy/images/181877-super-hero-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/acme/72708/super-hero/"
+  },
+  {
+    "artist": "Kane to Juusei",
+    "title": "Kaibou / SAMPLE",
+    "date": "21 Oct",
+    "image": null,
+    "url": "https://vk.gy/releases/kane-to-juusei/72738/kaibou-sample/"
+  },
+  {
+    "artist": "Kaijin Nijuu Mensou",
+    "title": "MALDOROR・ELEGY",
+    "date": "25 Oct",
+    "image": "https://vk.gy/images/181990-maldoror-elegy-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/kaijin-nijuu-mensou/72747/maldoror-elegy/"
   },
   {
     "artist": "XANVALA",
@@ -82,5 +103,19 @@
     "date": "1 Nov",
     "image": "https://vk.gy/images/181573-return-of-the-dark-l-rd-2nd-strife-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/terra-bm/72553/return-of-the-dark-l-rd-2nd-strife/"
+  },
+  {
+    "artist": "sugar",
+    "title": "Amagami",
+    "date": "4 Nov",
+    "image": "https://vk.gy/images/181848-amagami-tsuujouban.thumbnail.jpg",
+    "url": "https://vk.gy/releases/sugar-2024/72153/amagami/"
+  },
+  {
+    "artist": "XANVALA",
+    "title": "CRITICAL",
+    "date": "7 Nov",
+    "image": "https://vk.gy/images/181979-critical-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/xanvala/72743/critical/"
   }
 ]
