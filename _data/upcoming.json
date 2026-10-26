@@ -1,61 +1,5 @@
 [
   {
-    "artist": "Zeke Deux",
-    "title": "Carmilla",
-    "date": "19 Oct",
-    "image": null,
-    "url": "https://vk.gy/releases/zeke-deux/72718/carmilla/"
-  },
-  {
-    "artist": "Oideyo! Yureiz",
-    "title": "FukuMimi & water",
-    "date": "19 Oct",
-    "image": "https://vk.gy/images/182000-fukumimi-water-picture.thumbnail.png",
-    "url": "https://vk.gy/releases/oideyo-yureiz/72745/fukumimi-water/"
-  },
-  {
-    "artist": "Tsukishigure ni Hanataba wo",
-    "title": "TBA",
-    "date": "20 Oct",
-    "image": null,
-    "url": "https://vk.gy/releases/tsukishigure-ni-hanataba-wo/72446/tba/"
-  },
-  {
-    "artist": "Dope Honey",
-    "title": "List of Sweet Dope",
-    "date": "20 Oct",
-    "image": "https://vk.gy/images/181867-list-of-sweet-dope-picture.thumbnail.png",
-    "url": "https://vk.gy/releases/dope-honey/72519/list-of-sweet-dope/"
-  },
-  {
-    "artist": "glamscure",
-    "title": "pilgrimage",
-    "date": "21 Oct",
-    "image": "https://vk.gy/images/181983-pilgrimage-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/glamscure/72099/pilgrimage/"
-  },
-  {
-    "artist": "ACME",
-    "title": "SUPER HERO",
-    "date": "21 Oct",
-    "image": "https://vk.gy/images/181877-super-hero-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/acme/72708/super-hero/"
-  },
-  {
-    "artist": "Kane to Juusei",
-    "title": "Kaibou / SAMPLE",
-    "date": "21 Oct",
-    "image": null,
-    "url": "https://vk.gy/releases/kane-to-juusei/72738/kaibou-sample/"
-  },
-  {
-    "artist": "Kaijin Nijuu Mensou",
-    "title": "MALDOROR・ELEGY",
-    "date": "25 Oct",
-    "image": "https://vk.gy/images/181990-maldoror-elegy-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/kaijin-nijuu-mensou/72747/maldoror-elegy/"
-  },
-  {
     "artist": "XANVALA",
     "title": "UNDEAD is BACK",
     "date": "26 Oct",
@@ -105,6 +49,13 @@
     "url": "https://vk.gy/releases/terra-bm/72553/return-of-the-dark-l-rd-2nd-strife/"
   },
   {
+    "artist": "SUGAR FORKFUL",
+    "title": "Hanaichimonme (2026)",
+    "date": "1 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/sugar-forkful/72790/hanaichimonme-2026/"
+  },
+  {
     "artist": "sugar",
     "title": "Amagami",
     "date": "4 Nov",
@@ -112,10 +63,31 @@
     "url": "https://vk.gy/releases/sugar-2024/72153/amagami/"
   },
   {
+    "artist": "Azavana",
+    "title": "ALIVE",
+    "date": "4 Nov",
+    "image": "https://vk.gy/images/182025-alive-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/azavana/72755/alive/"
+  },
+  {
     "artist": "XANVALA",
     "title": "CRITICAL",
     "date": "7 Nov",
     "image": "https://vk.gy/images/181979-critical-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/xanvala/72743/critical/"
+  },
+  {
+    "artist": "Ryutaro Arimura",
+    "title": "「デも / demo #3」",
+    "date": "11 Nov",
+    "image": "https://vk.gy/images/182019-demo-3-shokaiban.thumbnail.jpg",
+    "url": "https://vk.gy/releases/arimura-ryutaro/70991/demo-3/"
+  },
+  {
+    "artist": "D†Cry",
+    "title": "Second†Cry",
+    "date": "13 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/d-cry/72691/second-cry-shokai-genteiban/"
   }
 ]
