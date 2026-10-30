@@ -2,7 +2,7 @@
 layout: band
 name: "DuelJewel"
 title: "DuelJewel"
-photo: "https://upload.wikimedia.org/wikipedia/commons/7/7f/DuelJewel_-_JRR_2007.jpg"
+photo: "https://vk.gy/artists/dueljewel/main.jpg"
 tags: ["visual kei"]
 lastfm_slug: "DuelJewel"
 cdjapan_url: "https://www.cdjapan.co.jp/searches?term.artist_name_search=DuelJewel&genre=JPOP&subgenre_id=VK"
