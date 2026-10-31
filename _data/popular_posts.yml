@@ -1,4 +1,4 @@
-updated: "2026-10-31T02:12:03.701Z"
+updated: "2026-10-31T07:38:40.177Z"
 posts:
   - url: "/2026/07/x-japan-jealousy-1991-classic-album-review/"
     title: "X Japan – Jealousy (1991): Classic Album Review"
@@ -15,6 +15,15 @@ posts:
     date_formatted: "Jul 14, 2026"
     date_iso: "2026-07-14"
     excerpt: "Kawana Hikaru, a 2nd generation member of idol group Kasumisouto Stella (かすみ草とステラ), is stepping into the spotlight with…"
+    labels:
+      - "Visual Kei"
+      - "News"
+  - url: "/2026/05/fest-inazuma-2026-lineup-revealed-abingdon-boys-school-t-m-r/"
+    title: "FEST. INAZUMA 2026 Lineup Revealed: abingdon boys school, T.M.Revolution & More"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F845500%2Fcontent_logo_01.jpg&w=800&output=jpg"
+    date_formatted: "May 8, 2026"
+    date_iso: "2026-05-08"
+    excerpt: "Shiga Prefecture's largest outdoor music festival is back with a fresh identity. FEST. INAZUMA 2026—formerly known as…"
     labels:
       - "Visual Kei"
       - "News"
@@ -36,15 +45,6 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
-  - url: "/2026/05/fest-inazuma-2026-lineup-revealed-abingdon-boys-school-t-m-r/"
-    title: "FEST. INAZUMA 2026 Lineup Revealed: abingdon boys school, T.M.Revolution & More"
-    image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F845500%2Fcontent_logo_01.jpg&w=800&output=jpg"
-    date_formatted: "May 8, 2026"
-    date_iso: "2026-05-08"
-    excerpt: "Shiga Prefecture's largest outdoor music festival is back with a fresh identity. FEST. INAZUMA 2026—formerly known as…"
-    labels:
-      - "Visual Kei"
-      - "News"
   - url: "/2026/09/glay-return-with-18th-album-tabisuru-riyuu-wo-machininagara/"
     title: "GLAY Return with 18th Album \"Tabisuru Riyuu wo Machininagara\""
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F877613%2Fcontent_gm.jpg&w=800&output=jpg"
@@ -63,21 +63,21 @@ posts:
     labels:
       - "Interviews"
       - "Translated Interview"
-  - url: "/2026/08/wurts-release-debut-mini-album-spark-with-exclusive-zine/"
-    title: "WurtS Release Debut Mini Album 'SPARK' With Exclusive Zine"
-    image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F07%2F14173526%2Ftop-70.jpg&w=800&output=jpg"
-    date_formatted: "Aug 14, 2026"
-    date_iso: "2026-08-14"
-    excerpt: "After taking a six-month hiatus earlier this year to reset creatively, WurtS is stepping boldly into chapter two with…"
-    labels:
-      - "Visual Kei"
-      - "News"
   - url: "/2026/07/rekishi-announce-acoustic-tour-2026-with-new-visuals/"
     title: "Rekishi Announce Acoustic Tour 2026 with New Visuals"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F07%2F16175543%2F000-64.jpg&w=800&output=jpg"
     date_formatted: "Jul 16, 2026"
     date_iso: "2026-07-16"
     excerpt: "Rekishi is trading the electric intensity for an acoustic experience this fall with their first dedicated unplugged…"
+    labels:
+      - "Visual Kei"
+      - "News"
+  - url: "/2026/08/wurts-release-debut-mini-album-spark-with-exclusive-zine/"
+    title: "WurtS Release Debut Mini Album 'SPARK' With Exclusive Zine"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fnew-img.barks.jp%2Fwp-content%2Fuploads%2F2026%2F07%2F14173526%2Ftop-70.jpg&w=800&output=jpg"
+    date_formatted: "Aug 14, 2026"
+    date_iso: "2026-08-14"
+    excerpt: "After taking a six-month hiatus earlier this year to reset creatively, WurtS is stepping boldly into chapter two with…"
     labels:
       - "Visual Kei"
       - "News"
