@@ -1,61 +1,5 @@
 [
   {
-    "artist": "XANVALA",
-    "title": "UNDEAD is BACK",
-    "date": "26 Oct",
-    "image": null,
-    "url": "https://vk.gy/releases/xanvala/72294/undead-is-back/"
-  },
-  {
-    "artist": "Meikyuu Kairou",
-    "title": "rikka",
-    "date": "28 Oct",
-    "image": "https://vk.gy/images/180499-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/meikyuu-kairou/72303/rikka-cd/"
-  },
-  {
-    "artist": "DEZERT",
-    "title": "DEZERT",
-    "date": "28 Oct",
-    "image": "https://vk.gy/images/180738-dezert-tsuujouban.thumbnail.jpg",
-    "url": "https://vk.gy/releases/dezert/72366/dezert-tsuujouban/"
-  },
-  {
-    "artist": "SHAZNA",
-    "title": "(TBA 5)",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/shazna/71425/tba-5/"
-  },
-  {
-    "artist": "Jubaku Hyourei",
-    "title": "(TBA)",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/jubaku-hyourei/72152/tba/"
-  },
-  {
-    "artist": "DAT",
-    "title": "Until death",
-    "date": "Invalid Date",
-    "image": null,
-    "url": "https://vk.gy/releases/dat/72356/until-death/"
-  },
-  {
-    "artist": "Terra.",
-    "title": "Return of the Dark Lørd ~2nd strife~",
-    "date": "1 Nov",
-    "image": "https://vk.gy/images/181573-return-of-the-dark-l-rd-2nd-strife-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/terra-bm/72553/return-of-the-dark-l-rd-2nd-strife/"
-  },
-  {
-    "artist": "SUGAR FORKFUL",
-    "title": "Hanaichimonme (2026)",
-    "date": "1 Nov",
-    "image": null,
-    "url": "https://vk.gy/releases/sugar-forkful/72790/hanaichimonme-2026/"
-  },
-  {
     "artist": "sugar",
     "title": "Amagami",
     "date": "4 Nov",
@@ -84,10 +28,45 @@
     "url": "https://vk.gy/releases/arimura-ryutaro/70991/demo-3/"
   },
   {
+    "artist": "cali≠gari",
+    "title": "Uguisudani de Aimashou",
+    "date": "11 Nov",
+    "image": "https://vk.gy/images/182077-uguisudani-de-aimashou-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/cali-gari/72772/uguisudani-de-aimashou/"
+  },
+  {
+    "artist": "cali≠gari",
+    "title": "Kannou-ban To B Shinkuukan To",
+    "date": "11 Nov",
+    "image": "https://vk.gy/images/182078-kannou-ban-to-b-shinkuukan-to-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/cali-gari/72773/kannou-ban-to-b-shinkuukan-to/"
+  },
+  {
     "artist": "D†Cry",
     "title": "Second†Cry",
     "date": "13 Nov",
     "image": null,
     "url": "https://vk.gy/releases/d-cry/72691/second-cry-shokai-genteiban/"
+  },
+  {
+    "artist": "MUCC",
+    "title": "LOVE LETTER",
+    "date": "17 Nov",
+    "image": "https://vk.gy/images/181963-love-letter-shokai-genteiban.thumbnail.jpg",
+    "url": "https://vk.gy/releases/mucc/72018/love-letter-shokai-genteiban/"
+  },
+  {
+    "artist": "NOi'X",
+    "title": "Kimiiro Metamorphose",
+    "date": "18 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/noi-x/72532/kimiiro-metamorphose/"
+  },
+  {
+    "artist": "Tsukishigure ni Hanataba wo",
+    "title": "TBA",
+    "date": "20 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/tsukishigure-ni-hanataba-wo/72447/tba/"
   }
 ]
