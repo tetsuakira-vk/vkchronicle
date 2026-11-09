@@ -1,24 +1,10 @@
 [
   {
-    "artist": "sugar",
-    "title": "Amagami",
-    "date": "4 Nov",
-    "image": "https://vk.gy/images/181848-amagami-tsuujouban.thumbnail.jpg",
-    "url": "https://vk.gy/releases/sugar-2024/72153/amagami/"
-  },
-  {
-    "artist": "Azavana",
-    "title": "ALIVE",
-    "date": "4 Nov",
-    "image": "https://vk.gy/images/182025-alive-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/azavana/72755/alive/"
-  },
-  {
-    "artist": "XANVALA",
-    "title": "CRITICAL",
-    "date": "7 Nov",
-    "image": "https://vk.gy/images/181979-critical-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/xanvala/72743/critical/"
+    "artist": "Z CLEAR",
+    "title": "I love you",
+    "date": "9 Nov",
+    "image": "https://vk.gy/images/182392-i-love-you-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/z-clear/72843/i-love-you/"
   },
   {
     "artist": "Ryutaro Arimura",
@@ -31,7 +17,7 @@
     "artist": "cali≠gari",
     "title": "Uguisudani de Aimashou",
     "date": "11 Nov",
-    "image": "https://vk.gy/images/182077-uguisudani-de-aimashou-picture.thumbnail.jpg",
+    "image": "https://vk.gy/images/182377-uguisudani-de-aimashou-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/cali-gari/72772/uguisudani-de-aimashou/"
   },
   {
@@ -40,6 +26,20 @@
     "date": "11 Nov",
     "image": "https://vk.gy/images/182078-kannou-ban-to-b-shinkuukan-to-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/cali-gari/72773/kannou-ban-to-b-shinkuukan-to/"
+  },
+  {
+    "artist": "FEST VAINQUEUR",
+    "title": "TBA",
+    "date": "11 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/fest-vainqueur/72824/tba/"
+  },
+  {
+    "artist": "Zeke Deux",
+    "title": "Lucifer",
+    "date": "11 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/zeke-deux/72841/lucifer/"
   },
   {
     "artist": "D†Cry",
@@ -68,5 +68,19 @@
     "date": "20 Nov",
     "image": null,
     "url": "https://vk.gy/releases/tsukishigure-ni-hanataba-wo/72447/tba/"
+  },
+  {
+    "artist": "BUCK∞TICK",
+    "title": "Sonzai riyuu Kai",
+    "date": "25 Nov",
+    "image": "https://vk.gy/images/181991-sonzai-riyuu-kai-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/buck-tick/72748/sonzai-riyuu-kai-kanzen-seisan-genteiban-a/"
+  },
+  {
+    "artist": "Sharaku Kobayashi",
+    "title": "GOOD・SONGS",
+    "date": "25 Nov",
+    "image": "https://vk.gy/images/181999-good-songs-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/sharaku-kobayashi/72752/good-songs/"
   }
 ]
