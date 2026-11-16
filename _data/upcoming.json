@@ -1,52 +1,10 @@
 [
   {
-    "artist": "Z CLEAR",
-    "title": "I love you",
-    "date": "9 Nov",
-    "image": "https://vk.gy/images/182392-i-love-you-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/z-clear/72843/i-love-you/"
-  },
-  {
-    "artist": "Ryutaro Arimura",
-    "title": "「デも / demo #3」",
-    "date": "11 Nov",
-    "image": "https://vk.gy/images/182019-demo-3-shokaiban.thumbnail.jpg",
-    "url": "https://vk.gy/releases/arimura-ryutaro/70991/demo-3/"
-  },
-  {
-    "artist": "cali≠gari",
-    "title": "Uguisudani de Aimashou",
-    "date": "11 Nov",
-    "image": "https://vk.gy/images/182377-uguisudani-de-aimashou-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/cali-gari/72772/uguisudani-de-aimashou/"
-  },
-  {
-    "artist": "cali≠gari",
-    "title": "Kannou-ban To B Shinkuukan To",
-    "date": "11 Nov",
-    "image": "https://vk.gy/images/182078-kannou-ban-to-b-shinkuukan-to-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/cali-gari/72773/kannou-ban-to-b-shinkuukan-to/"
-  },
-  {
-    "artist": "FEST VAINQUEUR",
-    "title": "TBA",
-    "date": "11 Nov",
-    "image": null,
-    "url": "https://vk.gy/releases/fest-vainqueur/72824/tba/"
-  },
-  {
-    "artist": "Zeke Deux",
-    "title": "Lucifer",
-    "date": "11 Nov",
-    "image": null,
-    "url": "https://vk.gy/releases/zeke-deux/72841/lucifer/"
-  },
-  {
-    "artist": "D†Cry",
-    "title": "Second†Cry",
-    "date": "13 Nov",
-    "image": null,
-    "url": "https://vk.gy/releases/d-cry/72691/second-cry-shokai-genteiban/"
+    "artist": "KAKUMAY",
+    "title": "bitter sweet",
+    "date": "16 Nov",
+    "image": "https://vk.gy/images/182745-bitter-sweet-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/kakumay/72905/bitter-sweet/"
   },
   {
     "artist": "MUCC",
@@ -63,11 +21,46 @@
     "url": "https://vk.gy/releases/noi-x/72532/kimiiro-metamorphose/"
   },
   {
+    "artist": "Rousoku",
+    "title": "Hidane",
+    "date": "18 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/rawsock/72874/hidane/"
+  },
+  {
+    "artist": "Dancho x Kei Hirosue",
+    "title": "shiori",
+    "date": "18 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/dancho-x-kei-hirosue/72902/shiori/"
+  },
+  {
+    "artist": "DIVERS † CROIX",
+    "title": "18",
+    "date": "18 Nov",
+    "image": "https://vk.gy/images/182748-18-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/divers-croix/72908/18/"
+  },
+  {
     "artist": "Tsukishigure ni Hanataba wo",
     "title": "TBA",
     "date": "20 Nov",
     "image": null,
     "url": "https://vk.gy/releases/tsukishigure-ni-hanataba-wo/72447/tba/"
+  },
+  {
+    "artist": "Royz",
+    "title": "BEYOND THE DREAM",
+    "date": "20 Nov",
+    "image": "https://vk.gy/images/182744-beyond-the-dream-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/royz/72904/beyond-the-dream/"
+  },
+  {
+    "artist": "ASAGAO",
+    "title": "Shinigeshou",
+    "date": "21 Nov",
+    "image": "https://vk.gy/images/182746-shinigeshou-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/asagao/72906/shinigeshou/"
   },
   {
     "artist": "BUCK∞TICK",
@@ -82,5 +75,40 @@
     "date": "25 Nov",
     "image": "https://vk.gy/images/181999-good-songs-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/sharaku-kobayashi/72752/good-songs/"
+  },
+  {
+    "artist": "DAMNED",
+    "title": "Kokoro atari",
+    "date": "30 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/damned/72892/kokoro-atari/"
+  },
+  {
+    "artist": "SHAZNA",
+    "title": "(TBA 6)",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/shazna/71426/tba-6/"
+  },
+  {
+    "artist": "DAT",
+    "title": "Yumeutsutsu、Itsuka no Shi",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/dat/72357/yumeutsutsu-itsuka-no-shi/"
+  },
+  {
+    "artist": "D†Cry",
+    "title": "Second†Cry",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/d-cry/72692/second-cry-tsuujouban/"
+  },
+  {
+    "artist": "Tʌ́-rot",
+    "title": "CELTIC FILE Ⅱ",
+    "date": "5 Dec",
+    "image": "https://vk.gy/images/182759-celtic-file-ii-picture.thumbnail.png",
+    "url": "https://vk.gy/releases/ta-rot/72839/celtic-file-ii/"
   }
 ]
