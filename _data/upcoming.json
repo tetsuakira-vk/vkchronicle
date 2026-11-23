@@ -1,66 +1,10 @@
 [
   {
-    "artist": "KAKUMAY",
-    "title": "bitter sweet",
-    "date": "16 Nov",
-    "image": "https://vk.gy/images/182745-bitter-sweet-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/kakumay/72905/bitter-sweet/"
-  },
-  {
-    "artist": "MUCC",
-    "title": "LOVE LETTER",
-    "date": "17 Nov",
-    "image": "https://vk.gy/images/181963-love-letter-shokai-genteiban.thumbnail.jpg",
-    "url": "https://vk.gy/releases/mucc/72018/love-letter-shokai-genteiban/"
-  },
-  {
-    "artist": "NOi'X",
-    "title": "Kimiiro Metamorphose",
-    "date": "18 Nov",
+    "artist": "SUPERKNOVA",
+    "title": "Gedou Chikushou Shuudan Komaku Hakai Ongenshuu",
+    "date": "24 Nov",
     "image": null,
-    "url": "https://vk.gy/releases/noi-x/72532/kimiiro-metamorphose/"
-  },
-  {
-    "artist": "Rousoku",
-    "title": "Hidane",
-    "date": "18 Nov",
-    "image": null,
-    "url": "https://vk.gy/releases/rawsock/72874/hidane/"
-  },
-  {
-    "artist": "Dancho x Kei Hirosue",
-    "title": "shiori",
-    "date": "18 Nov",
-    "image": null,
-    "url": "https://vk.gy/releases/dancho-x-kei-hirosue/72902/shiori/"
-  },
-  {
-    "artist": "DIVERS † CROIX",
-    "title": "18",
-    "date": "18 Nov",
-    "image": "https://vk.gy/images/182748-18-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/divers-croix/72908/18/"
-  },
-  {
-    "artist": "Tsukishigure ni Hanataba wo",
-    "title": "TBA",
-    "date": "20 Nov",
-    "image": null,
-    "url": "https://vk.gy/releases/tsukishigure-ni-hanataba-wo/72447/tba/"
-  },
-  {
-    "artist": "Royz",
-    "title": "BEYOND THE DREAM",
-    "date": "20 Nov",
-    "image": "https://vk.gy/images/182744-beyond-the-dream-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/royz/72904/beyond-the-dream/"
-  },
-  {
-    "artist": "ASAGAO",
-    "title": "Shinigeshou",
-    "date": "21 Nov",
-    "image": "https://vk.gy/images/182746-shinigeshou-picture.thumbnail.jpg",
-    "url": "https://vk.gy/releases/asagao/72906/shinigeshou/"
+    "url": "https://vk.gy/releases/superknova/72932/gedou-chikushou-shuudan-komaku-hakai-ongenshuu/"
   },
   {
     "artist": "BUCK∞TICK",
@@ -77,10 +21,17 @@
     "url": "https://vk.gy/releases/sharaku-kobayashi/72752/good-songs/"
   },
   {
+    "artist": "DAMILA",
+    "title": "TOTAL ECLIPSE",
+    "date": "25 Nov",
+    "image": null,
+    "url": "https://vk.gy/releases/damila/72926/total-eclipse/"
+  },
+  {
     "artist": "DAMNED",
     "title": "Kokoro atari",
     "date": "30 Nov",
-    "image": null,
+    "image": "https://vk.gy/images/182592-picture.thumbnail.jpg",
     "url": "https://vk.gy/releases/damned/72892/kokoro-atari/"
   },
   {
@@ -98,6 +49,13 @@
     "url": "https://vk.gy/releases/dat/72357/yumeutsutsu-itsuka-no-shi/"
   },
   {
+    "artist": "VARYL",
+    "title": "Gou-KARMA-",
+    "date": "Invalid Date",
+    "image": null,
+    "url": "https://vk.gy/releases/varyl/72431/gou-karma/"
+  },
+  {
     "artist": "D†Cry",
     "title": "Second†Cry",
     "date": "Invalid Date",
@@ -105,10 +63,59 @@
     "url": "https://vk.gy/releases/d-cry/72692/second-cry-tsuujouban/"
   },
   {
+    "artist": "NANA",
+    "title": "Emotional spear",
+    "date": "1 Dec",
+    "image": "https://vk.gy/images/182857-emotional-spear-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/nana/72931/emotional-spear/"
+  },
+  {
+    "artist": "GOLDEN BOMBER",
+    "title": "Byoumei wo Tsukete Kure/Zandaka ZERO",
+    "date": "2 Dec",
+    "image": "https://vk.gy/images/182871-byoumei-wo-tsukete-kure-zandaka-zero-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/golden-bomber/72934/byoumei-wo-tsukete-kure-zandaka-zero/"
+  },
+  {
     "artist": "Tʌ́-rot",
     "title": "CELTIC FILE Ⅱ",
     "date": "5 Dec",
     "image": "https://vk.gy/images/182759-celtic-file-ii-picture.thumbnail.png",
     "url": "https://vk.gy/releases/ta-rot/72839/celtic-file-ii/"
+  },
+  {
+    "artist": "ASAGI",
+    "title": "Madara ~Sono Ni~",
+    "date": "9 Dec",
+    "image": null,
+    "url": "https://vk.gy/releases/asagi/72734/madara-sono-ni-genteiban/"
+  },
+  {
+    "artist": "ASAGI",
+    "title": "TESTAMENT",
+    "date": "9 Dec",
+    "image": null,
+    "url": "https://vk.gy/releases/asagi/72800/testament-genteiban/"
+  },
+  {
+    "artist": "ASAGI",
+    "title": "OPERA OMNIA",
+    "date": "9 Dec",
+    "image": null,
+    "url": "https://vk.gy/releases/asagi/72804/opera-omnia-goukaban/"
+  },
+  {
+    "artist": "NEiN",
+    "title": "SAVAGE",
+    "date": "12 Dec",
+    "image": null,
+    "url": "https://vk.gy/releases/nein/72461/savage/"
+  },
+  {
+    "artist": "Amai Bouryoku",
+    "title": "Shinu made Damashite Ageru",
+    "date": "12 Dec",
+    "image": "https://vk.gy/images/181841-shinu-made-damashite-ageru-picture.thumbnail.jpg",
+    "url": "https://vk.gy/releases/amai-bouryoku/72699/shinu-made-damashite-ageru/"
   }
 ]
