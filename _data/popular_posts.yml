@@ -1,4 +1,4 @@
-updated: "2026-11-24T16:37:05.763Z"
+updated: "2026-11-25T01:10:07.328Z"
 posts:
   - url: "/2026/07/x-japan-jealousy-1991-classic-album-review/"
     title: "X Japan – Jealousy (1991): Classic Album Review"
@@ -135,15 +135,6 @@ posts:
     labels:
       - "Visual Kei"
       - "News"
-  - url: "/2026/07/new-visual-kei-videos-june-2026/"
-    title: "New Visual Kei Videos — June 2026"
-    image: "https://images.weserv.nl/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FD6CjSiPeFPI%2Fmaxresdefault.jpg&w=1200&output=jpg"
-    date_formatted: "Jul 1, 2026"
-    date_iso: "2026-07-01"
-    excerpt: "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"New Visual Kei Videos — June 2026\",\"description\":\"78…"
-    labels:
-      - "Visual Kei"
-      - "Music Video"
   - url: "/2026/08/fest-inazuma-2026-reveals-final-lineup-vk-acts-confirmed/"
     title: "FEST. INAZUMA 2026 Reveals Final Lineup; VK Acts Confirmed"
     image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F870858%2Fcontent_logo_01.jpg&w=800&output=jpg"
@@ -180,3 +171,12 @@ posts:
     labels:
       - "Interviews"
       - "Translated Interview"
+  - url: "/2026/10/anosora-debut-freomotto-s-bold-new-idol-supergroup/"
+    title: "ANOSORA Debut: FreoMotto's Bold New Idol Supergroup"
+    image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.club-zy.com%2Fs3%2Fskiyaki%2Fuploads%2Fckeditor%2Fpictures%2F886061%2Fcontent_an.jpg&w=800&output=jpg"
+    date_formatted: "Oct 22, 2026"
+    date_iso: "2026-10-22"
+    excerpt: "FreoMotto has just unveiled ANOSORA, a fresh eight-member idol group that pulls together talent from across the…"
+    labels:
+      - "Visual Kei"
+      - "News"
